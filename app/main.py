@@ -1,13 +1,13 @@
-from typing import Union
 from fastapi import FastAPI
+from app.routers import dataset_router
 
-app=FastAPI()
-@app.get("/")
+app=FastAPI(title="CKAN Integration API")
+
+app.include_router(dataset_router.router, prefix="/api/v1",tags=["datasets"])
+
+@app.get("/health-check")
 def read_root():
     return {
-        "Hello":"World"
+       "Status":"OK",
+       "Message":"All Systems Narmal"
     }
-
-@app.get("/items/{id}")
-def read_item(id:int, q:Union[str,None]=None):
-    return {"id":id, "q":q}
