@@ -2,6 +2,7 @@ from app.external_services.ckan_client import CKANClient
 from app.schemas.dataset import DatasetCreate, DatasetUpdate
 from app.utils.name_formatter import format_package_name
 
+
 class DatasetCRUD:
     def __init__(self) -> None:
         self.ckan_client=CKANClient()

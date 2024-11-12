@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+
 from app.routers import dataset_router
 
 app=FastAPI(title="CKAN Integration API")

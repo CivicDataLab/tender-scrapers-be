@@ -1,5 +1,7 @@
 import ckanapi
+
 from app.config import settings
+
 
 class CKANClient:
     def __init__(self) -> None:
