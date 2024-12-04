@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34521_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Dec-2023 11:00 AM",
+    "tenderValueAmount": "1,22,26,300",
+    "tender": [
+        {
+            "id": "2023_PWD_34521_3",
+            "title": "Cachar/MMPNA/R_R/01 Repair and Rehabilitation of bridge located at Kabuganj (NH-54) Palanghat Amraghat Motinagar Amjur (SMD road) Road (Kabuganj (NH-54)-Amjur Tiniali) at Ch.13.453 km under Mukhya Mantrir Path Nabikaran Achani (MMPNA) for the year 20",
+            "description": "Cachar/MMPNA/R_R/01 Repair and Rehabilitation of bridge located at Kabuganj (NH-54) Palanghat Amraghat Motinagar Amjur (SMD road) Road (Kabuganj (NH-54)-Amjur Tiniali) at Ch.13.453 km under Mukhya Mantrir Path Nabikaran Achani (MMPNA) for the year 20",
+            "datePublished": "07-Dec-2023 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,22,26,300",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Dec-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

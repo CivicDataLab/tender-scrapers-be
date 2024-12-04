@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_34882_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Jan-2024 02:00 PM",
+    "tenderValueAmount": "3,47,13,062",
+    "tender": [
+        {
+            "id": "2023_BTC_34882_1",
+            "title": "Construction of ICBP Road from Aujhar Bazar to Dunabari via No.2 Serfanguri and Nijwrapara (Serfanguri) in Chirang District for the year 2023-24 under CMs Goodwill Project. TN-26-92 R-1",
+            "description": "Construction of ICBP Road from Aujhar Bazar to Dunabari via No.2 Serfanguri and Nijwrapara (Serfanguri) in Chirang District for the year 2023-24 under CMs Goodwill Project. TN-26-92 R-1",
+            "datePublished": "21-Dec-2023 01:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,47,13,062",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

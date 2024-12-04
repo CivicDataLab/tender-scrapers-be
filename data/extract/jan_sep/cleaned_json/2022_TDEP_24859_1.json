@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_TDEP_24859_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "05-May-2022 04:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2022_TDEP_24859_1",
+            "title": "Selection of General Consultant for Assam IWTD Society",
+            "description": "Selection of General Consultant for Assam IWTD Society",
+            "datePublished": "25-Mar-2022 05:00 PM",
+            "contractType": "Lump-sum",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-May-2022 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34349_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Dec-2023 03:30 PM",
+    "tenderValueAmount": "2,88,24,000",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34349_1",
+            "title": "TGR-76 Construction of Model Secondary Schools in the Tea Garden Areas, Assam at Tingkhong T.E, Dist Dibrugarh",
+            "description": "TGR-76 Construction of Model Secondary Schools in the Tea Garden Areas, Assam at Tingkhong T.E, Dist Dibrugarh",
+            "datePublished": "02-Dec-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,88,24,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Dec-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

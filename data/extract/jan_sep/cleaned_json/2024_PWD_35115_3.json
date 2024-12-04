@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35115_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:30 PM",
+    "tenderValueAmount": "2,11,74,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35115_3",
+            "title": "MMPPNA_23_24_06 1. Construction of Barindra Bazar Bridge to Chaudhury Bazar Bridge along River Kachua, 2.Construction of Road from Mughleshkhani L.P. School to Banamali Bhogichogi Road via Bidairtila Masjid, 3.Construction of Chuatikar PWD Road to",
+            "description": "MMPPNA_23_24_06 1. Construction of Barindra Bazar Bridge to Chaudhury Bazar Bridge along River Kachua, 2.Construction of Road from Mughleshkhani L.P. School to Banamali Bhogichogi Road via Bidairtila Masjid, 3.Construction of Chuatikar PWD Road to",
+            "datePublished": "01-Jan-2024 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,11,74,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

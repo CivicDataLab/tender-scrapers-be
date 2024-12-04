@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_115",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "1,08,18,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_115",
+            "title": "MMPPNA_23_24_288 (i) Development of Daspara Road From PWD Road to Badal Das House to Sibu Das House at Tupkhana G.P., (ii) Construction of Milan Road, (Old Lakhipur Road to E and D Bundh) under Mukhya Mantrir Pakipath Nirman Achani",
+            "description": "MMPPNA_23_24_288 (i) Development of Daspara Road From PWD Road to Badal Das House to Sibu Das House at Tupkhana G.P., (ii) Construction of Milan Road, (Old Lakhipur Road to E and D Bundh) under Mukhya Mantrir Pakipath Nirman Achani",
+            "datePublished": "18-Jan-2024 05:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,08,18,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

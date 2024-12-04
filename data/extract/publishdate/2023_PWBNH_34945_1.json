@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34945_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 04:30 PM",
+    "tenderValueAmount": "23,28,308",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34945_1",
+            "title": "Modification renovation works in the High Court, New Block (wooden partition work, executive table, file cabinet, false ceiling, replacement of door, painting works etc. at two rooms of Protocol Section)",
+            "description": "Modification renovation works in the High Court, New Block (wooden partition work, executive table, file cabinet, false ceiling, replacement of door, painting works etc. at two rooms of Protocol Section)",
+            "datePublished": "22-Dec-2023 05:45 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "23,28,308",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 04:30 PM"
+                }
+            ]
+        }
+    ]
+}

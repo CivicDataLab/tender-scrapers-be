@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_36630_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Mar-2024 03:00 PM",
+    "tenderValueAmount": "69,99,688",
+    "tender": [
+        {
+            "id": "2024_DoWR_36630_1",
+            "title": "M and R to R/B of river Chengnoi near village Balitara for the year 2021-22.( Protection of Nalbari Dhamdhama PWD road for a length of 250.00 m).",
+            "description": "M and R to R/B of river Chengnoi near village Balitara for the year 2021-22.( Protection of Nalbari Dhamdhama PWD road for a length of 250.00 m).",
+            "datePublished": "24-Feb-2024 06:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "69,99,688",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_108",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "1,56,79,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_108",
+            "title": "MMPPNA_23_24_304 (i) Construction of Road from K.K. Road to Bonras M.E. School, (ii) Construction of road from PMGSY Pkg No AS-03-238 to Sonai Kabuganj road under Mukhya Mantrir Pakipath Nirman Achani for the year 2023-24",
+            "description": "MMPPNA_23_24_304 (i) Construction of Road from K.K. Road to Bonras M.E. School, (ii) Construction of road from PMGSY Pkg No AS-03-238 to Sonai Kabuganj road under Mukhya Mantrir Pakipath Nirman Achani for the year 2023-24",
+            "datePublished": "18-Jan-2024 04:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,56,79,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

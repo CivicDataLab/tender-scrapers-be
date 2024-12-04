@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_GMDA_35680_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Feb-2024 03:00 PM",
+    "tenderValueAmount": "1,62,32,807",
+    "tender": [
+        {
+            "id": "2024_GMDA_35680_1",
+            "title": "De silting and Cleaning of Silsako Beel in compliance with the Hon ble NGT order for the year 2023 24",
+            "description": "De silting and Cleaning of Silsako Beel in compliance with the Hon ble NGT order for the year 2023 24",
+            "datePublished": "24-Jan-2024 03:45 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,62,32,807",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

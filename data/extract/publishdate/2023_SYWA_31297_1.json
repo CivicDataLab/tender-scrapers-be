@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_SYWA_31297_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "11-Jul-2023 01:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_SYWA_31297_1",
+            "title": "HOLDING OF PILIK CHOUDHURY MEMORIAL INTER-DISTRICT SCHOOL FOOTBALL TOURNAMENT (U-14 YRS, BOYS) DURING 2023-24",
+            "description": "HOLDING OF PILIK CHOUDHURY MEMORIAL INTER-DISTRICT SCHOOL FOOTBALL TOURNAMENT (U-14 YRS, BOYS) DURING 2023-24",
+            "datePublished": "21-Jun-2023 01:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Jul-2023 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

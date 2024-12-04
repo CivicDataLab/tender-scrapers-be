@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWRDW_34829_6",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "18-Jan-2024 02:30 PM",
+    "tenderValueAmount": "2,26,04,000",
+    "tender": [
+        {
+            "id": "2023_PWRDW_34829_6",
+            "title": "Construction of Bridges in Biswanath district 1. Br. No. 1/1 on Bhimjuli to Shyambasti Road",
+            "description": "Construction of Bridges in Biswanath district 1. Br. No. 1/1 on Bhimjuli to Shyambasti Road",
+            "datePublished": "20-Dec-2023 06:45 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,26,04,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "18-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32885_61",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 02:00 PM",
+    "tenderValueAmount": "1,53,97,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32885_61",
+            "title": "MMNPPNA_23_24_214 (i) Construction of Road from NH 29 to Amlaiguri Village including Widening of Existing ICBP, Length 0.208 Km (Ch 0.00 m to Ch 208.00 m), (ii) Construction of Road from NH 29 to Pamgaon LP School, Length 0.26 Km (Ch 0.00 m to 2",
+            "description": "MMNPPNA_23_24_214 (i) Construction of Road from NH 29 to Amlaiguri Village including Widening of Existing ICBP, Length 0.208 Km (Ch 0.00 m to Ch 208.00 m), (ii) Construction of Road from NH 29 to Pamgaon LP School, Length 0.26 Km (Ch 0.00 m to 2",
+            "datePublished": "12-Oct-2023 12:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,53,97,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

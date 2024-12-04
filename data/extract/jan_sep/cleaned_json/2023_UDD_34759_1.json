@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_UDD_34759_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Jan-2024 02:00 PM",
+    "tenderValueAmount": "31,66,93,055",
+    "tender": [
+        {
+            "id": "2023_UDD_34759_1",
+            "title": "Construction of Kokrajhar Town Water Supply Project under AMRUT 2 including O and M for 5 years on EPC Mode",
+            "description": "Construction of Kokrajhar Town Water Supply Project under AMRUT 2 including O and M for 5 years on EPC Mode",
+            "datePublished": "16-Dec-2023 03:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "31,66,93,055",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

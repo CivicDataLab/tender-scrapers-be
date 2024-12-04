@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ID_36569_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Mar-2024 03:00 PM",
+    "tenderValueAmount": "34,65,620",
+    "tender": [
+        {
+            "id": "2024_ID_36569_1",
+            "title": "Solar Powered MDTW Scheme at Pamua (Point No. 1) under SOPD-TSP for the year 2023-24 under Dhemaji-Jonai Division(i), Dhemaji (Package No. 1).",
+            "description": "Solar Powered MDTW Scheme at Pamua (Point No. 1) under SOPD-TSP for the year 2023-24 under Dhemaji-Jonai Division(i), Dhemaji (Package No. 1).",
+            "datePublished": "26-Feb-2024 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "34,65,620",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

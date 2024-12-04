@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_34706_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Jan-2024 01:30 PM",
+    "tenderValueAmount": "49,61,548",
+    "tender": [
+        {
+            "id": "2023_BoTC_34706_1",
+            "title": "Construction of Approach Road and Earth filling inside District Jail at kokrajhar, Assam.529-5",
+            "description": "Construction of Approach Road and Earth filling inside District Jail at kokrajhar, Assam.529-5",
+            "datePublished": "15-Dec-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "49,61,548",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Jan-2024 01:30 PM"
+                }
+            ]
+        }
+    ]
+}

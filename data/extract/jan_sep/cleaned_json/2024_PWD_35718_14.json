@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35718_14",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Feb-2024 02:00 PM",
+    "tenderValueAmount": "2,04,81,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35718_14",
+            "title": "MMPPNA_23_24_103 1. Construction of road from Baruah Grant Tinali to Jugal Gogoi House, 2. Construction of road from No.3 Udaipur Missing Gaon Road under Mukhya Mantrir Pakipath Nirman Achani for the year 2023-24",
+            "description": "MMPPNA_23_24_103 1. Construction of road from Baruah Grant Tinali to Jugal Gogoi House, 2. Construction of road from No.3 Udaipur Missing Gaon Road under Mukhya Mantrir Pakipath Nirman Achani for the year 2023-24",
+            "datePublished": "26-Jan-2024 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,04,81,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

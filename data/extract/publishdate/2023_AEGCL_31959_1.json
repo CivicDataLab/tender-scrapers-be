@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_AEGCL_31959_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "31-Aug-2023 12:00 PM",
+    "tenderValueAmount": "22,00,220",
+    "tender": [
+        {
+            "id": "2023_AEGCL_31959_1",
+            "title": "Construction of roof covering cum storage space at substation control room at 400kV Kukurmara GSS",
+            "description": "Construction of roof covering cum storage space at substation control room at 400kV Kukurmara GSS",
+            "datePublished": "07-Aug-2023 11:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "22,00,220",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "31-Aug-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

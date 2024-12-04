@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_SEEDE_35227_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "03-Feb-2024 02:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_SEEDE_35227_1",
+            "title": "GS02a CNC Workshop Equipment",
+            "description": "GS02a CNC Workshop Equipment",
+            "datePublished": "06-Jan-2024 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Feb-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

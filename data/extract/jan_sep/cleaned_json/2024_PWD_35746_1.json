@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35746_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Feb-2024 02:30 PM",
+    "tenderValueAmount": "1,79,66,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35746_1",
+            "title": "9th Bye Lane of RGB road-MMPPNA-2023-24",
+            "description": "9th Bye Lane of RGB road-MMPPNA-2023-24",
+            "datePublished": "27-Jan-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,79,66,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Feb-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

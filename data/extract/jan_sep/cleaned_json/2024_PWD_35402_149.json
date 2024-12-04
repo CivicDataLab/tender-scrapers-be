@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_149",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "2,36,06,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_149",
+            "title": "MMPPNA_23_24_254, (1)Construction of Bhogamukh Saikia Chuk Road from CH0.00 KM to 0.60 KM, (2)Construction of Bhogamukh Barua Chuk Road from CH0.00 KM to 0.60 KM, (3)Construction of LCR to Bora Gaon Road from CH0.00 KM to 1.10 KM.....",
+            "description": "MMPPNA_23_24_254, (1)Construction of Bhogamukh Saikia Chuk Road from CH0.00 KM to 0.60 KM, (2)Construction of Bhogamukh Barua Chuk Road from CH0.00 KM to 0.60 KM, (3)Construction of LCR to Bora Gaon Road from CH0.00 KM to 1.10 KM.....",
+            "datePublished": "19-Jan-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,36,06,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

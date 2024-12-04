@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PCCF_32957_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "20-Nov-2023 02:30 PM",
+    "tenderValueAmount": "47,76,800",
+    "tender": [
+        {
+            "id": "2023_PCCF_32957_1",
+            "title": "Installation of Chain link Goat poof fencing with RCC post",
+            "description": "Installation of Chain link Goat poof fencing with RCC post",
+            "datePublished": "19-Oct-2023 03:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "47,76,800",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Nov-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

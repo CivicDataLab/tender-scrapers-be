@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ICD_32704_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "10-Oct-2023 11:00 AM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_ICD_32704_1",
+            "title": "REFORMER CATALYST LOADING AND UNLOADING JOB IN 500 TPD METHANOL PLANT OF APL",
+            "description": "REFORMER CATALYST LOADING AND UNLOADING JOB IN 500 TPD METHANOL PLANT OF APL",
+            "datePublished": "29-Sep-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Oct-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

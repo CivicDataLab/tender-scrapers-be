@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37729_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Jul-2024 11:30 AM",
+    "tenderValueAmount": "25,67,792",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37729_1",
+            "title": "Interior works at 9th Floor, Commissionerate of Taxes (Kar Bhawan) for establishment of AS-CFMS Office, Guwahati-6_under 2052_ AS-CFMS Fund for the FY 2024-25",
+            "description": "Interior works at 9th Floor, Commissionerate of Taxes (Kar Bhawan) for establishment of AS-CFMS Office, Guwahati-6_under 2052_ AS-CFMS Fund for the FY 2024-25",
+            "datePublished": "25-Jun-2024 12:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "25,67,792",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Jul-2024 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

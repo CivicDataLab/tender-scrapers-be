@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35570_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:00 PM",
+    "tenderValueAmount": "1,39,21,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35570_1",
+            "title": "MMNPPNA_23_24_277 (i) Strengthening of Lohari Patty Road (ii) Construction of drain of Makum Thana Road (iii) Strengthening of NH 37 BYPASS TO 12 NO LINE Road and (iv) Construcation of drain of Brain Gogai Path under Mukhya Mantrir Nagariya Pakipath",
+            "description": "MMNPPNA_23_24_277 (i) Strengthening of Lohari Patty Road (ii) Construction of drain of Makum Thana Road (iii) Strengthening of NH 37 BYPASS TO 12 NO LINE Road and (iv) Construcation of drain of Brain Gogai Path under Mukhya Mantrir Nagariya Pakipath",
+            "datePublished": "19-Jan-2024 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,39,21,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

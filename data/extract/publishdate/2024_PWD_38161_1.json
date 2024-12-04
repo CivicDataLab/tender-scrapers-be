@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_38161_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jul-2024 02:30 PM",
+    "tenderValueAmount": "3,11,74,000",
+    "tender": [
+        {
+            "id": "2024_PWD_38161_1",
+            "title": "MMPPNA_23_24_234 (1)Construction of Kohar Chuk Road from Ch. 0.00 m to 570.00 m, (2)Construction of Nora Molia Gaon Road from Ch. 0.00 m to 1000.00 m, (3)Construction of Lahdoigarh Nabaphakua Gaon Road from Ch. 0.00 m to Ch. 680.00 m, (4)Construction",
+            "description": "MMPPNA_23_24_234 (1)Construction of Kohar Chuk Road from Ch. 0.00 m to 570.00 m, (2)Construction of Nora Molia Gaon Road from Ch. 0.00 m to 1000.00 m, (3)Construction of Lahdoigarh Nabaphakua Gaon Road from Ch. 0.00 m to Ch. 680.00 m, (4)Construction",
+            "datePublished": "23-Jul-2024 05:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,11,74,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jul-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

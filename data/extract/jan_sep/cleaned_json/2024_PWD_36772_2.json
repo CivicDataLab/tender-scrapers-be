@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36772_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Mar-2024 02:00 PM",
+    "tenderValueAmount": "2,36,39,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36772_2",
+            "title": "SOPD_ODS_23_24_31 Construction of road in (i) Borbaruah Tea Estate, (ii) Jameera Tea Estate, (iii) Bokel Tea Estate (Chawikhuwa Borline), (iv) Bokel Tea Estate (Chowikhoa choto line) (v) Maijan Tea Estate (Pucca Line) under SOPD-ODS (Tea Garden",
+            "description": "SOPD_ODS_23_24_31 Construction of road in (i) Borbaruah Tea Estate, (ii) Jameera Tea Estate, (iii) Bokel Tea Estate (Chawikhuwa Borline), (iv) Bokel Tea Estate (Chowikhoa choto line) (v) Maijan Tea Estate (Pucca Line) under SOPD-ODS (Tea Garden",
+            "datePublished": "29-Feb-2024 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,36,39,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

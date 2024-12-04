@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36156_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "20-Feb-2024 11:00 AM",
+    "tenderValueAmount": "79,60,830",
+    "tender": [
+        {
+            "id": "2024_PWD_36156_1",
+            "title": "Karimgani/MMPNA/BUG/05 Repairing/Rehabilitation of 1) 8/1 BUG Bridge at Ch. 7100.0 of Anipur-Dullabcherra-Zamuang Road at Dullabcherra, 2) 2/1 BUG Bridge at Ch. 1200.0 of Anipur-Monacherra Road at Anipur under Mukhya Mantrir Path Nabikaran Aachani fo",
+            "description": "Karimgani/MMPNA/BUG/05 Repairing/Rehabilitation of 1) 8/1 BUG Bridge at Ch. 7100.0 of Anipur-Dullabcherra-Zamuang Road at Dullabcherra, 2) 2/1 BUG Bridge at Ch. 1200.0 of Anipur-Monacherra Road at Anipur under Mukhya Mantrir Path Nabikaran Aachani fo",
+            "datePublished": "10-Feb-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "79,60,830",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Feb-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

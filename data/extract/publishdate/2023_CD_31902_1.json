@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_CD_31902_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "02-Sep-2023 12:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_CD_31902_1",
+            "title": "Pre-Fabricated MS Insulated Milk Booths",
+            "description": "Pre-Fabricated MS Insulated Milk Booths",
+            "datePublished": "02-Aug-2023 06:05 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Sep-2023 12:30 PM"
+                }
+            ]
+        }
+    ]
+}

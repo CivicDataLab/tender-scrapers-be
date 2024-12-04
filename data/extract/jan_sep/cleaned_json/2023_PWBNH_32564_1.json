@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_32564_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Oct-2023 02:00 PM",
+    "tenderValueAmount": "14,12,77,231",
+    "tender": [
+        {
+            "id": "2023_PWBNH_32564_1",
+            "title": "IRQ of the existing flexible pavement From (Madhupur to Alisinga)on stretches of the NH-15 (Old NH-52) by providing overlay with a 30mm thick bituminous concrete and road furniture under SOPD",
+            "description": "IRQ of the existing flexible pavement From (Madhupur to Alisinga)on stretches of the NH-15 (Old NH-52) by providing overlay with a 30mm thick bituminous concrete and road furniture under SOPD",
+            "datePublished": "16-Sep-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "14,12,77,231",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

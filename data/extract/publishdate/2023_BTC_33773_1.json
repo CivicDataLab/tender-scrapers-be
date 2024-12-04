@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33773_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Nov-2023 12:00 PM",
+    "tenderValueAmount": "3,86,93,538",
+    "tender": [
+        {
+            "id": "2023_BTC_33773_1",
+            "title": "Construction of road from Tamulbari Binowajee LP school to Gorongpara to No. 1 Rowmari Bornodi via Narayan Rajbongshi House under CMs Goodwill Mission Project for the year 2023-24 of District Udalguri. (TN_26_156)",
+            "description": "Construction of road from Tamulbari Binowajee LP school to Gorongpara to No. 1 Rowmari Bornodi via Narayan Rajbongshi House under CMs Goodwill Mission Project for the year 2023-24 of District Udalguri. (TN_26_156)",
+            "datePublished": "09-Nov-2023 11:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,86,93,538",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

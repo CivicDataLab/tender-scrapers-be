@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34810_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Dec-2023 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_PWD_34810_1",
+            "title": "KAM/KRC/MMPNA/2023-24/03 Renewal of Old NT Road (From ch 1548.00 M to 1934.00 M) under Mukhya Mantri Path Nabikaran Aachani for the year 2023-24.",
+            "description": "KAM/KRC/MMPNA/2023-24/03 Renewal of Old NT Road (From ch 1548.00 M to 1934.00 M) under Mukhya Mantri Path Nabikaran Aachani for the year 2023-24.",
+            "datePublished": "21-Dec-2023 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

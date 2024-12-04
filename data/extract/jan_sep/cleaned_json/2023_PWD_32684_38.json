@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_38",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,00,00,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_38",
+            "title": "MMNPPNA_23_24_126 (i) Construction of NH-31 to Sobhog Bus Stand ( Ch-0.00 m to 890.00 m)as Gaurab Path (ii) Construction of Road from Rampur Shiv Mandir to Bayanpara Tini Ali ( Ch 0.00m to 650.00m) (iii) Construction of road from Sorbhog Station feed",
+            "description": "MMNPPNA_23_24_126 (i) Construction of NH-31 to Sobhog Bus Stand ( Ch-0.00 m to 890.00 m)as Gaurab Path (ii) Construction of Road from Rampur Shiv Mandir to Bayanpara Tini Ali ( Ch 0.00m to 650.00m) (iii) Construction of road from Sorbhog Station feed",
+            "datePublished": "02-Oct-2023 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,00,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

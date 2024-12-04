@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_29165_18",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Mar-2023 02:00 PM",
+    "tenderValueAmount": "1,72,34,800",
+    "tender": [
+        {
+            "id": "2023_BoTC_29165_18",
+            "title": "Construction of Lined canal of Bainara FIS under PMKSY_HKKP for the year 2021-22",
+            "description": "Construction of Lined canal of Bainara FIS under PMKSY_HKKP for the year 2021-22",
+            "datePublished": "07-Feb-2023 02:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,72,34,800",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Mar-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

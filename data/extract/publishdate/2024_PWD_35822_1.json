@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35822_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Feb-2024 02:00 PM",
+    "tenderValueAmount": "3,85,92,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35822_1",
+            "title": "SOPD_G_23_24_40 (i)Construction of Kareng Chapori to Charighoria Tekeliphuta Road from Ch.0.00 M to Ch.2420.00 M, (ii) Construction of Meleng Road from Dangoria Ali to Mathauri from Ch.0.00 KM to Ch.0.50 KM (L 0.50 KM, (iii) Construction of Dhekiak",
+            "description": "SOPD_G_23_24_40 (i)Construction of Kareng Chapori to Charighoria Tekeliphuta Road from Ch.0.00 M to Ch.2420.00 M, (ii) Construction of Meleng Road from Dangoria Ali to Mathauri from Ch.0.00 KM to Ch.0.50 KM (L 0.50 KM, (iii) Construction of Dhekiak",
+            "datePublished": "31-Jan-2024 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,85,92,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

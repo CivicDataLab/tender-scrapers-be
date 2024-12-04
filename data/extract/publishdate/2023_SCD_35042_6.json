@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_SCD_35042_6",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "20-Jan-2024 11:00 AM",
+    "tenderValueAmount": "89,46,490",
+    "tender": [
+        {
+            "id": "2023_SCD_35042_6",
+            "title": "ANTI EROSION MEASURES OF KHOLAKATI KACHARIGAON VILLAGE AT DIPOTA RIVER UNDER RIDF-XXIX FOR THE YEAR 2023-24",
+            "description": "ANTI EROSION MEASURES OF KHOLAKATI KACHARIGAON VILLAGE AT DIPOTA RIVER UNDER RIDF-XXIX FOR THE YEAR 2023-24",
+            "datePublished": "29-Dec-2023 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "89,46,490",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Jan-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

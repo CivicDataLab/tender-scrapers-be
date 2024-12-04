@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35115_8",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:30 PM",
+    "tenderValueAmount": "1,17,69,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35115_8",
+            "title": "MMPPNA_23_24_85 1. Construction of Amguri Bam Ali (Ch. 0.00m to Ch. 1000.00m),Total Length 1.00Km, 2.Construction of Sepon Brishnu Mandir Path (Ch. 600.00m to Ch. 930.00m) Total Length 0.330 km, 3.Construction of Jungle Block Ambadhara Road",
+            "description": "MMPPNA_23_24_85 1. Construction of Amguri Bam Ali (Ch. 0.00m to Ch. 1000.00m),Total Length 1.00Km, 2.Construction of Sepon Brishnu Mandir Path (Ch. 600.00m to Ch. 930.00m) Total Length 0.330 km, 3.Construction of Jungle Block Ambadhara Road",
+            "datePublished": "01-Jan-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,17,69,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35381_9",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Jan-2024 02:00 PM",
+    "tenderValueAmount": "1,92,86,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35381_9",
+            "title": "SOPD_G_23_24_41 (i) Construction of Pirakotia tamuli Gaon Road from CH 0.00 KM to 0.98 KM, (ii) Construction of Barowatichuk Bhagamukh (Tamuli Gaon) Road, (iii) Construction of kamarkhatowal Napamuchuk Road from CH 0.00 KM to 0.30 KM under SOPD",
+            "description": "SOPD_G_23_24_41 (i) Construction of Pirakotia tamuli Gaon Road from CH 0.00 KM to 0.98 KM, (ii) Construction of Barowatichuk Bhagamukh (Tamuli Gaon) Road, (iii) Construction of kamarkhatowal Napamuchuk Road from CH 0.00 KM to 0.30 KM under SOPD",
+            "datePublished": "11-Jan-2024 05:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,92,86,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

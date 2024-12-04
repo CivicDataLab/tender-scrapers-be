@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_28586_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Jan-2023 04:00 PM",
+    "tenderValueAmount": "75,93,000",
+    "tender": [
+        {
+            "id": "2023_PWBNH_28586_1",
+            "title": "PMC services for Construction of New Governors Residence at Kharghuli, Guwahati, Assam",
+            "description": "PMC services for Construction of New Governors Residence at Kharghuli, Guwahati, Assam",
+            "datePublished": "02-Jan-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "75,93,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Jan-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

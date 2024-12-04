@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_36768_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Mar-2024 03:30 PM",
+    "tenderValueAmount": "26,01,692",
+    "tender": [
+        {
+            "id": "2024_BoTC_36768_1",
+            "title": "Construction of Community Hall at Jokmari Niz_Defeli Doul Mandir Campus under AOP BTC fund for the year 2022_23.TN_612_R",
+            "description": "Construction of Community Hall at Jokmari Niz_Defeli Doul Mandir Campus under AOP BTC fund for the year 2022_23.TN_612_R",
+            "datePublished": "29-Feb-2024 04:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "26,01,692",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Mar-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35115_48",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:30 PM",
+    "tenderValueAmount": "1,51,43,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35115_48",
+            "title": "MMPPNA_23_24_46 1. Construction of Road from Bordoloni Tiniali to Gitanagar connecting Road Ch. 0.00 m to Ch. 860.00 m, 2. Construction of Road from Bhekulajan Tiniali to Borhula Kachari Pavers block connecting Road under Mukhya Mantrir Pakipath Ni",
+            "description": "MMPPNA_23_24_46 1. Construction of Road from Bordoloni Tiniali to Gitanagar connecting Road Ch. 0.00 m to Ch. 860.00 m, 2. Construction of Road from Bhekulajan Tiniali to Borhula Kachari Pavers block connecting Road under Mukhya Mantrir Pakipath Ni",
+            "datePublished": "02-Jan-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,51,43,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

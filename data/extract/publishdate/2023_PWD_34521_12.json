@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34521_12",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Dec-2023 11:00 AM",
+    "tenderValueAmount": "17,87,900",
+    "tender": [
+        {
+            "id": "2023_PWD_34521_12",
+            "title": "JORHAT/MMPNA/R_R/01 Repair and Rehabilitation of bridge on 1) Dhodar Ali Ali Road (Kamarbandha(Kakodunga) - Amaguri) at Ch-88.395km, 2) Dhodar Ali Road (Kamarbandha(Kakodunga) - Amaguri) at Ch-72.455 km, 3) Dhodar Ali Road (Kamarbandha(Kakodunga) - A",
+            "description": "JORHAT/MMPNA/R_R/01 Repair and Rehabilitation of bridge on 1) Dhodar Ali Ali Road (Kamarbandha(Kakodunga) - Amaguri) at Ch-88.395km, 2) Dhodar Ali Road (Kamarbandha(Kakodunga) - Amaguri) at Ch-72.455 km, 3) Dhodar Ali Road (Kamarbandha(Kakodunga) - A",
+            "datePublished": "07-Dec-2023 01:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "17,87,900",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Dec-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

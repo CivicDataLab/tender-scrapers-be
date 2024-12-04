@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_115",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,01,74,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_115",
+            "title": "MMNPPNA_23_24_24 (i) Construction of RCC covered drain at SWARSATI MANDIR LANE (ii) Construction of RCC covered drain at JYOTI PATH (iii) Construction of RCC covered drain at CHARAPATTY BYELANE (iv) Construction of RCC covered drain at Jeuti Path",
+            "description": "MMNPPNA_23_24_24 (i) Construction of RCC covered drain at SWARSATI MANDIR LANE (ii) Construction of RCC covered drain at JYOTI PATH (iii) Construction of RCC covered drain at CHARAPATTY BYELANE (iv) Construction of RCC covered drain at Jeuti Path",
+            "datePublished": "07-Oct-2023 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,01,74,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

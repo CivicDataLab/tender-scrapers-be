@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_DHA_26296_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "06-Aug-2022 11:00 AM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2022_DHA_26296_1",
+            "title": "For the engagement of an Agency for Promotion, Marketing, Advertising and Logistic management of Assam Lemon in 4 Metro Cities of India",
+            "description": "For the engagement of an Agency for Promotion, Marketing, Advertising and Logistic management of Assam Lemon in 4 Metro Cities of India",
+            "datePublished": "14-Jul-2022 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Aug-2022 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

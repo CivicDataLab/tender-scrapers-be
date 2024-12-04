@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_AAU_33863_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Nov-2023 03:30 PM",
+    "tenderValueAmount": "53,27,398",
+    "tender": [
+        {
+            "id": "2023_AAU_33863_1",
+            "title": "CONSTRUCTION OF VERTICAL EXTENSION OF EEI BUILDING (2ND FLOOR) for Assam Agricultural University at College of Veterinary Science Campus, Khanapara",
+            "description": "CONSTRUCTION OF VERTICAL EXTENSION OF EEI BUILDING (2ND FLOOR) for Assam Agricultural University at College of Veterinary Science Campus, Khanapara",
+            "datePublished": "10-Nov-2023 05:15 PM",
+            "contractType": "Percentage",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "53,27,398",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Nov-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

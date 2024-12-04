@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34948_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Dec-2023 11:00 AM",
+    "tenderValueAmount": "3,75,69,000",
+    "tender": [
+        {
+            "id": "2023_PWD_34948_1",
+            "title": "Package No. Karimgani/MMPNA/BUG/4 Repair/Rehabilitation of - (i) BUG Br.No-4/3 on Lowairpoa-Kanmun road, (ii) BUG Br.No-5/1 on Lowairpoa-Kanmun road,(iii) BUG Br.No-13/1 on Lowairpoa-Kanmun road, (iv) BUG Br.No-17/1 at Ch.16200.00m on Lowairpoa-Kanmu",
+            "description": "Package No. Karimgani/MMPNA/BUG/4 Repair/Rehabilitation of - (i) BUG Br.No-4/3 on Lowairpoa-Kanmun road, (ii) BUG Br.No-5/1 on Lowairpoa-Kanmun road,(iii) BUG Br.No-13/1 on Lowairpoa-Kanmun road, (iv) BUG Br.No-17/1 at Ch.16200.00m on Lowairpoa-Kanmu",
+            "datePublished": "23-Dec-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,75,69,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Dec-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

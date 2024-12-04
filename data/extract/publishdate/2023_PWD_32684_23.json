@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_23",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,00,30,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_23",
+            "title": "MMNPPNA_23_24_78 (i) Construction of Jyotinagar road from CH 0.00 Km to CH 0.30 Km, (ii) Construction of Amiya Kumar Das road from CH 0.00 Km to CH 0.40 Km, (iii) Construction of road from Sadhukuti to Chath Puja Ghat for CH 0.00 Km to CH",
+            "description": "MMNPPNA_23_24_78 (i) Construction of Jyotinagar road from CH 0.00 Km to CH 0.30 Km, (ii) Construction of Amiya Kumar Das road from CH 0.00 Km to CH 0.40 Km, (iii) Construction of road from Sadhukuti to Chath Puja Ghat for CH 0.00 Km to CH",
+            "datePublished": "30-Sep-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,00,30,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

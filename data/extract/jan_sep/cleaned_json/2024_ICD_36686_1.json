@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ICD_36686_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Apr-2024 09:00 AM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_ICD_36686_1",
+            "title": "Modification of Engine Exhaust Stack",
+            "description": "Modification of Engine Exhaust Stack",
+            "datePublished": "28-Feb-2024 09:00 AM",
+            "contractType": "EOI",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Apr-2024 09:00 AM"
+                }
+            ]
+        }
+    ]
+}

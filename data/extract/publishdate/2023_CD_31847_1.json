@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_CD_31847_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "31-Aug-2023 12:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_CD_31847_1",
+            "title": "Refrigerated Van for Ice Cream and Insulated Distribution Van",
+            "description": "Refrigerated Van for Ice Cream and Insulated Distribution Van",
+            "datePublished": "29-Jul-2023 04:00 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "31-Aug-2023 12:30 PM"
+                }
+            ]
+        }
+    ]
+}

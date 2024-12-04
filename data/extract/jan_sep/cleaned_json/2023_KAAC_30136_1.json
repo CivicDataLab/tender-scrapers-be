@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_KAAC_30136_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-May-2023 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_KAAC_30136_1",
+            "title": "Construction of Permanent Building of Chinthong, Kasturba Gandhi Balika Vidyala(KGBV) (Type-II)",
+            "description": "Construction of Permanent Building of Chinthong, Kasturba Gandhi Balika Vidyala(KGBV) (Type-II)",
+            "datePublished": "27-Mar-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-May-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

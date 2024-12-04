@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_WPTBC_35055_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Jan-2024 04:00 PM",
+    "tenderValueAmount": "24,98,900",
+    "tender": [
+        {
+            "id": "2023_WPTBC_35055_1",
+            "title": "Construction of Auditorium at Kotiari HS School under Rajabari GP Vill Kotiabari, PO Rajabari Thowra LAC, Dist Sibsagar",
+            "description": "Construction of Auditorium at Kotiari HS School under Rajabari GP Vill Kotiabari, PO Rajabari Thowra LAC, Dist Sibsagar",
+            "datePublished": "29-Dec-2023 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,98,900",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Jan-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

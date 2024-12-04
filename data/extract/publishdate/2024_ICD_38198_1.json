@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ICD_38198_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "17-Aug-2024 11:00 AM",
+    "tenderValueAmount": "87,11,505",
+    "tender": [
+        {
+            "id": "2024_ICD_38198_1",
+            "title": "Complete Set of coupling for NG and Syn Gas Compressor",
+            "description": "Complete Set of coupling for NG and Syn Gas Compressor",
+            "datePublished": "27-Jul-2024 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Single",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "87,11,505",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Aug-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

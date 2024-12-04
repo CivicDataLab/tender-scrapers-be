@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36835_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Apr-2024 02:00 PM",
+    "tenderValueAmount": "19,83,67,879",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36835_1",
+            "title": "Construction of New Conference Hall cum Convention Center at Chinamora, Jorhat",
+            "description": "Construction of New Conference Hall cum Convention Center at Chinamora, Jorhat",
+            "datePublished": "02-Mar-2024 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "19,83,67,879",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Apr-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

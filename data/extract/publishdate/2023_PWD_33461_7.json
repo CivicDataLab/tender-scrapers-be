@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33461_7",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Nov-2023 02:00 PM",
+    "tenderValueAmount": "3,99,91,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33461_7",
+            "title": "MMNPPNA_23_24_92 Improvement of LPGNB road from Ch 9023.00m to 10223.00m as Gaurab Path under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA) for the year 2023-24, North Guwahati MB",
+            "description": "MMNPPNA_23_24_92 Improvement of LPGNB road from Ch 9023.00m to 10223.00m as Gaurab Path under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA) for the year 2023-24, North Guwahati MB",
+            "datePublished": "02-Nov-2023 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,99,91,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

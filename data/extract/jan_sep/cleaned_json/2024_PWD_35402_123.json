@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_123",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "3,14,70,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_123",
+            "title": "MMPPNA_23_24_315 (i) Construction of Road from Dayapur Coloney PWD Road to Jibon Rikiason House (ii) Construction of Road from Jhafirbond Main Road to Larsingpar Rajbangshi Basti (Ph-I), (iii) Construction of Road from Tikal PWD Road to Babon",
+            "description": "MMPPNA_23_24_315 (i) Construction of Road from Dayapur Coloney PWD Road to Jibon Rikiason House (ii) Construction of Road from Jhafirbond Main Road to Larsingpar Rajbangshi Basti (Ph-I), (iii) Construction of Road from Tikal PWD Road to Babon",
+            "datePublished": "18-Jan-2024 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,14,70,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

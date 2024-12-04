@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_107",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "4,26,79,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_107",
+            "title": "MMPPNA_23_24_303 (i) Construction of Road from Hatikhal Joragul at Boroitol to K.K. Road Ph-I, (ii) Construction of Road from SMD Road to Nutan Ramnagar Pt-IV via 867 No Borobhauri L.P. School under Mukhya Mantrir Pakipath Nirman Achani for the year",
+            "description": "MMPPNA_23_24_303 (i) Construction of Road from Hatikhal Joragul at Boroitol to K.K. Road Ph-I, (ii) Construction of Road from SMD Road to Nutan Ramnagar Pt-IV via 867 No Borobhauri L.P. School under Mukhya Mantrir Pakipath Nirman Achani for the year",
+            "datePublished": "18-Jan-2024 04:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,26,79,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

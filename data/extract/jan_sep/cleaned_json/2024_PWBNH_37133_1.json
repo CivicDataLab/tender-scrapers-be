@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37133_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Apr-2024 11:00 AM",
+    "tenderValueAmount": "69,14,890",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37133_1",
+            "title": "Upgradation of New Academic Building of Dibrugarh Polytechnic,",
+            "description": "Upgradation of New Academic Building of Dibrugarh Polytechnic,",
+            "datePublished": "12-Mar-2024 12:45 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "69,14,890",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Apr-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35638_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Feb-2024 11:30 AM",
+    "tenderValueAmount": "70,55,161",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35638_1",
+            "title": "Re-construction of boundary wall in National Law University and Judicial Academy, Amingaon, Guwahati",
+            "description": "Re-construction of boundary wall in National Law University and Judicial Academy, Amingaon, Guwahati",
+            "datePublished": "22-Jan-2024 09:00 AM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "70,55,161",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Feb-2024 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

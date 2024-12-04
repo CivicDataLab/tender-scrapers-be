@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35303_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 01:00 PM",
+    "tenderValueAmount": "70,69,697",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35303_1",
+            "title": "Repairing and Renovation of Sakomatha Model School at Biswanath District, Biswanath Chariali",
+            "description": "Repairing and Renovation of Sakomatha Model School at Biswanath District, Biswanath Chariali",
+            "datePublished": "08-Jan-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "70,69,697",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

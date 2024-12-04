@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_34783_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "09-Jan-2024 02:00 PM",
+    "tenderValueAmount": "3,49,82,422",
+    "tender": [
+        {
+            "id": "2023_BTC_34783_1",
+            "title": "Construction of Annex Institute Building at Chirang Polytechnic in Chirang District, BTC, Assam under SOPD-G during the year 2023-24. TN No.48_01.",
+            "description": "Construction of Annex Institute Building at Chirang Polytechnic in Chirang District, BTC, Assam under SOPD-G during the year 2023-24. TN No.48_01.",
+            "datePublished": "19-Dec-2023 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,49,82,422",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

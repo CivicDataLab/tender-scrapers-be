@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_SCD_32675_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 11:00 AM",
+    "tenderValueAmount": "94,52,737",
+    "tender": [
+        {
+            "id": "2023_SCD_32675_1",
+            "title": "KALDIA EROSION PROTECTION PROJECT AT ARKARA UNDER RIDF - XXVIII",
+            "description": "KALDIA EROSION PROTECTION PROJECT AT ARKARA UNDER RIDF - XXVIII",
+            "datePublished": "27-Sep-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "94,52,737",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

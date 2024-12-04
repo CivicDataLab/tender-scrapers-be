@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37934_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Aug-2024 11:00 AM",
+    "tenderValueAmount": "1,88,31,572",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37934_1",
+            "title": "Setting up of Honble Chief Ministers Secretariat in Dibrugarh District Assam",
+            "description": "Setting up of Honble Chief Ministers Secretariat in Dibrugarh District Assam",
+            "datePublished": "10-Jul-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,88,31,572",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Aug-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

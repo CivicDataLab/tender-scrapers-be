@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_36119_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "23-Feb-2024 04:00 PM",
+    "tenderValueAmount": "2,76,52,607",
+    "tender": [
+        {
+            "id": "2024_BTC_36119_1",
+            "title": "Construction of RCC Br. No. 1/1 on Fungbili ME School to NH 152 via Hyna Bazar in Baksa District under Grants to BTC for Infrastructure Development fund for the financial year 2023-24 (TN_71_3)",
+            "description": "Construction of RCC Br. No. 1/1 on Fungbili ME School to NH 152 via Hyna Bazar in Baksa District under Grants to BTC for Infrastructure Development fund for the financial year 2023-24 (TN_71_3)",
+            "datePublished": "09-Feb-2024 01:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,76,52,607",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "23-Feb-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

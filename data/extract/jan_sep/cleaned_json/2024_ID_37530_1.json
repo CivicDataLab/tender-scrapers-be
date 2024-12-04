@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ID_37530_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "18-Jun-2024 02:30 PM",
+    "tenderValueAmount": "43,20,400",
+    "tender": [
+        {
+            "id": "2024_ID_37530_1",
+            "title": "Revival of Dakarghat Left LIS under SOPD_G for the year 2023_24 Package 2",
+            "description": "Revival of Dakarghat Left LIS under SOPD_G for the year 2023_24 Package 2",
+            "datePublished": "07-Jun-2024 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "43,20,400",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "18-Jun-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

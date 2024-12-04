@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ID_34222_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "18-Dec-2023 03:00 PM",
+    "tenderValueAmount": "44,09,329",
+    "tender": [
+        {
+            "id": "2023_ID_34222_1",
+            "title": "Renovation and Repairing of Menjeknalla FIS under SOPD-G in Dhemaji district for the year 2023-24 under Dhemaji- jonai Division(Irrigation), Dhemaji(Package No. 1).",
+            "description": "Renovation and Repairing of Menjeknalla FIS under SOPD-G in Dhemaji district for the year 2023-24 under Dhemaji- jonai Division(Irrigation), Dhemaji(Package No. 1).",
+            "datePublished": "28-Nov-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "44,09,329",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "18-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

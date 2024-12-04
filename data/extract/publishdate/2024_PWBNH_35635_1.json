@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35635_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 11:30 AM",
+    "tenderValueAmount": "44,96,304",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35635_1",
+            "title": "(1) New Constr. of temporary store on the roof of PET-CT Building and repairing of roof leakage and water proofing of ceiling at cyclotron, State Cancer Institute (2) New Const. of temporary surgical store for storage of surgical Cons. items, SCI",
+            "description": "(1) New Constr. of temporary store on the roof of PET-CT Building and repairing of roof leakage and water proofing of ceiling at cyclotron, State Cancer Institute (2) New Const. of temporary surgical store for storage of surgical Cons. items, SCI",
+            "datePublished": "22-Jan-2024 12:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "44,96,304",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

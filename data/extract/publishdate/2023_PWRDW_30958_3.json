@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWRDW_30958_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "23-Jun-2023 02:30 PM",
+    "tenderValueAmount": "5,04,68,000",
+    "tender": [
+        {
+            "id": "2023_PWRDW_30958_3",
+            "title": "Construction of Bridge in Jorhat district i. Br.No.3/1 on T06 to Lemchapori road",
+            "description": "Construction of Bridge in Jorhat district i. Br.No.3/1 on T06 to Lemchapori road",
+            "datePublished": "24-May-2023 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "5,04,68,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "23-Jun-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

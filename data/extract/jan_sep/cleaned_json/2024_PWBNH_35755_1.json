@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35755_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Feb-2024 04:30 PM",
+    "tenderValueAmount": "27,18,451",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35755_1",
+            "title": "Demolishing of 5 nos. of Assam Type House within the campus of proposed Cancer Hospital Nagaon,Mokhuli",
+            "description": "Demolishing of 5 nos. of Assam Type House within the campus of proposed Cancer Hospital Nagaon,Mokhuli",
+            "datePublished": "29-Jan-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "27,18,451",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Feb-2024 04:30 PM"
+                }
+            ]
+        }
+    ]
+}

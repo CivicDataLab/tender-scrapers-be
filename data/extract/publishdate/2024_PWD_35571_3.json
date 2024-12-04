@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35571_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Feb-2024 02:30 PM",
+    "tenderValueAmount": "1,47,79,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35571_3",
+            "title": "MMPPNA/WG/6 (1) Road from Godwin School to Suryadoynagar Shivmandir Road, South Garolia and (2) Pragati Nagar (Ramdhenu Path) at Beharbari",
+            "description": "MMPPNA/WG/6 (1) Road from Godwin School to Suryadoynagar Shivmandir Road, South Garolia and (2) Pragati Nagar (Ramdhenu Path) at Beharbari",
+            "datePublished": "20-Jan-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,47,79,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Feb-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

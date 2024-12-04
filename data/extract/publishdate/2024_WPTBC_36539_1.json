@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_WPTBC_36539_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Feb-2024 03:30 PM",
+    "tenderValueAmount": "24,99,851",
+    "tender": [
+        {
+            "id": "2024_WPTBC_36539_1",
+            "title": "Construction of classroom building of Laimekuri collage, Laimekuri GP under Jonai LAC, Dist- Dhemaji.",
+            "description": "Construction of classroom building of Laimekuri collage, Laimekuri GP under Jonai LAC, Dist- Dhemaji.",
+            "datePublished": "22-Feb-2024 06:50 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,99,851",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Feb-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

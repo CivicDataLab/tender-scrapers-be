@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PCCF_35775_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Feb-2024 02:00 PM",
+    "tenderValueAmount": "23,13,812",
+    "tender": [
+        {
+            "id": "2024_PCCF_35775_1",
+            "title": "ERRECTION OF FENCING AND CONSTRUCTION OF CAMP HUT",
+            "description": "ERRECTION OF FENCING AND CONSTRUCTION OF CAMP HUT",
+            "datePublished": "30-Jan-2024 10:00 AM",
+            "contractType": "Percentage",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "23,13,812",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWRDW_33112_14",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Nov-2023 02:30 PM",
+    "tenderValueAmount": "7,28,56,000",
+    "tender": [
+        {
+            "id": "2023_PWRDW_33112_14",
+            "title": "Construction of Bridges in majuli district i.Br. No. 1/1 on 1 No. Phutuki to 2 No. Phutuki Road ii.Br. No. 3/1 on Guwal Gaon Chilakola Road",
+            "description": "Construction of Bridges in majuli district i.Br. No. 1/1 on 1 No. Phutuki to 2 No. Phutuki Road ii.Br. No. 3/1 on Guwal Gaon Chilakola Road",
+            "datePublished": "18-Oct-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "7,28,56,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Nov-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

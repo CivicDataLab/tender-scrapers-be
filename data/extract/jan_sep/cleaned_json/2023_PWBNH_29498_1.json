@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_29498_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Mar-2023 03:30 PM",
+    "tenderValueAmount": "66,69,900",
+    "tender": [
+        {
+            "id": "2023_PWBNH_29498_1",
+            "title": "Consultancy Services for Transformation of School in Kamrup of Assam under PM-DevINE scheme for i. A.K. HS Institution, North Guwahati ii. AmbikagiriBalikaVidyalaya HS, Maligaon iii. Bidyamandir H.S. School, Pandu iv. Dadara H.S. School, Dadara",
+            "description": "Consultancy Services for Transformation of School in Kamrup of Assam under PM-DevINE scheme for i. A.K. HS Institution, North Guwahati ii. AmbikagiriBalikaVidyalaya HS, Maligaon iii. Bidyamandir H.S. School, Pandu iv. Dadara H.S. School, Dadara",
+            "datePublished": "22-Feb-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "66,69,900",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Mar-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

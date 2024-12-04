@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_33029_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Nov-2023 03:30 PM",
+    "tenderValueAmount": "40,63,500",
+    "tender": [
+        {
+            "id": "2023_BoTC_33029_2",
+            "title": "Construction of Recreation Home for Senior Citizens at Kukurmari,",
+            "description": "Construction of Recreation Home for Senior Citizens at Kukurmari,",
+            "datePublished": "26-Oct-2023 10:20 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "40,63,500",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Nov-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

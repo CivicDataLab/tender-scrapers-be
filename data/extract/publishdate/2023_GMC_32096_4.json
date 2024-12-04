@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_GMC_32096_4",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Sep-2023 02:00 PM",
+    "tenderValueAmount": "1,99,90,000",
+    "tender": [
+        {
+            "id": "2023_GMC_32096_4",
+            "title": "Construction of road start from residence of Mr. Kamleswar Deka to Mr Anu Medhi house at Ramsa Hill, Kharghuli Div-II",
+            "description": "Construction of road start from residence of Mr. Kamleswar Deka to Mr Anu Medhi house at Ramsa Hill, Kharghuli Div-II",
+            "datePublished": "16-Aug-2023 09:00 AM",
+            "contractType": "Lump-sum",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,99,90,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Sep-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

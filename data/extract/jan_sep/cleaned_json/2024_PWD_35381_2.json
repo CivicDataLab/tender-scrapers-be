@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35381_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Jan-2024 02:00 PM",
+    "tenderValueAmount": "4,79,13,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35381_2",
+            "title": "SOPD_G_23_24_37 (i)Construction of Robi Gaon Goria Pother Road from CH 0.00 KM to 2.30 KM, (ii) Construction of Balama Sapani Habi to Deodhai Gaon connecting Road under SOPD(G) for the year 2023-24 under Teok and Mariani Territorial Road Division",
+            "description": "SOPD_G_23_24_37 (i)Construction of Robi Gaon Goria Pother Road from CH 0.00 KM to 2.30 KM, (ii) Construction of Balama Sapani Habi to Deodhai Gaon connecting Road under SOPD(G) for the year 2023-24 under Teok and Mariani Territorial Road Division",
+            "datePublished": "10-Jan-2024 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,79,13,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

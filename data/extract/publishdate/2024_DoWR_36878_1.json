@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_36878_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Mar-2024 03:00 PM",
+    "tenderValueAmount": "1,08,61,751",
+    "tender": [
+        {
+            "id": "2024_DoWR_36878_1",
+            "title": "Anti Erosion measures to protect Dakuapara and its D/S reach on L/B of river Kulsi.",
+            "description": "Anti Erosion measures to protect Dakuapara and its D/S reach on L/B of river Kulsi.",
+            "datePublished": "04-Mar-2024 01:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,08,61,751",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

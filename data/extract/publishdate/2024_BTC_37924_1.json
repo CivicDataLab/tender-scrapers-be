@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_37924_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Aug-2024 02:00 PM",
+    "tenderValueAmount": "76,17,987",
+    "tender": [
+        {
+            "id": "2024_BTC_37924_1",
+            "title": "Repairing Renovation and Interior Decoration of Rooms including supplying furniture at Circuit House BTC Part, Kokrajhar, BTC, Assam. Package No. TN_02_01.",
+            "description": "Repairing Renovation and Interior Decoration of Rooms including supplying furniture at Circuit House BTC Part, Kokrajhar, BTC, Assam. Package No. TN_02_01.",
+            "datePublished": "10-Jul-2024 10:10 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "76,17,987",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Aug-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

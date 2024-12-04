@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35115_53",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:30 PM",
+    "tenderValueAmount": "4,57,58,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35115_53",
+            "title": "MMPPNA_23_24_02 Construction of Road starting from 2nd km of Bowarthal PWD road towards Jankibazar ONGC Road (Ch. 2000.00m to Ch. 3550.00m), 2.Construction of Road starting from Algapur Pt-II Nawripar to Naraincherra Khal, 3.Construction of Road Star",
+            "description": "MMPPNA_23_24_02 Construction of Road starting from 2nd km of Bowarthal PWD road towards Jankibazar ONGC Road (Ch. 2000.00m to Ch. 3550.00m), 2.Construction of Road starting from Algapur Pt-II Nawripar to Naraincherra Khal, 3.Construction of Road Star",
+            "datePublished": "03-Jan-2024 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,57,58,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

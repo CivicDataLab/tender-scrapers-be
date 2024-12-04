@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_29046_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "21-Feb-2023 02:00 PM",
+    "tenderValueAmount": "1,43,53,951",
+    "tender": [
+        {
+            "id": "2023_BoTC_29046_1",
+            "title": "Babubil ELIS (Part-I) under PMKSY (HKKP) for the year 2021-22",
+            "description": "Babubil ELIS (Part-I) under PMKSY (HKKP) for the year 2021-22",
+            "datePublished": "28-Jan-2023 05:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,43,53,951",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Feb-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

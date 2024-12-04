@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_54",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "1,02,51,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_54",
+            "title": "MMNPPNA_23_24_15 Construction/ Improvement of (i) Road From Kachukoibarta Road at Bali Gaon Namghar to Manikachuk Tinial CH 0.00 m to 2550.00 m) (ii) Road From Katharbari Tiniali To Morisuti Tiniali (Ch 0.00 m to 900.00 m) under Mukhya Mantrir Na",
+            "description": "MMNPPNA_23_24_15 Construction/ Improvement of (i) Road From Kachukoibarta Road at Bali Gaon Namghar to Manikachuk Tinial CH 0.00 m to 2550.00 m) (ii) Road From Katharbari Tiniali To Morisuti Tiniali (Ch 0.00 m to 900.00 m) under Mukhya Mantrir Na",
+            "datePublished": "02-Oct-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,02,51,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

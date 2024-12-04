@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_59",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "2,41,45,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_59",
+            "title": "MMPPNA_23_24_235 (1)Construction of Road starting from Silchar Kalain Road to Railwayline via Rajadigirpar L.P. School (Ch. 0.00m to Ch. 1000.00m), (2)Construction of Road starting from Bihara Railway station to S.K. Road....",
+            "description": "MMPPNA_23_24_235 (1)Construction of Road starting from Silchar Kalain Road to Railwayline via Rajadigirpar L.P. School (Ch. 0.00m to Ch. 1000.00m), (2)Construction of Road starting from Bihara Railway station to S.K. Road....",
+            "datePublished": "17-Jan-2024 12:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,41,45,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

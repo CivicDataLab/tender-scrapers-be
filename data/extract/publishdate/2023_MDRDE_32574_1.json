@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_MDRDE_32574_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Oct-2023 02:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_MDRDE_32574_1",
+            "title": "Construction of 100 Bedded New District Hospital in Narayanpur, Lakhimpur, Assam , under World Bank Financed Assam State Secondary Healthcare Initiative for Service Delivery Transformation (ASSIST) Project.",
+            "description": "Construction of 100 Bedded New District Hospital in Narayanpur, Lakhimpur, Assam , under World Bank Financed Assam State Secondary Healthcare Initiative for Service Delivery Transformation (ASSIST) Project.",
+            "datePublished": "19-Sep-2023 01:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35371_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "31-Jan-2024 11:00 AM",
+    "tenderValueAmount": "81,86,49,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35371_2",
+            "title": "RIDF-XXIX/Sivsagar/01 WIDENING AND STRENGTHENING OF ROAD FROM KHAMUN DEROIGHAT TO DHAIBARI VIA DEMOW UNDER RIDF-XXIX OF NABARD FOR THE YEAR 2023-24 UNDER PWRD, SIVASAGAR and DEMOW TERRITORIAL ROAD DIVISION, UNDER DEMOW LAC (LENGTH-35.00 KM)",
+            "description": "RIDF-XXIX/Sivsagar/01 WIDENING AND STRENGTHENING OF ROAD FROM KHAMUN DEROIGHAT TO DHAIBARI VIA DEMOW UNDER RIDF-XXIX OF NABARD FOR THE YEAR 2023-24 UNDER PWRD, SIVASAGAR and DEMOW TERRITORIAL ROAD DIVISION, UNDER DEMOW LAC (LENGTH-35.00 KM)",
+            "datePublished": "10-Jan-2024 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "81,86,49,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "31-Jan-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

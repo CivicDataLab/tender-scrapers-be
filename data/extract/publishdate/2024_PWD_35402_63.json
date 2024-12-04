@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_63",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "1,96,16,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_63",
+            "title": "MMPPNA_23_24_259 (1)Construction of Bor Ali to Buragohain (Mechagarh Major Chuck to Mechagarh tankside) Ch. 0.00 m to Ch. 1063 m (L 1.063 Km), (2)Construction of Deogharia Dowarah Ali (Dowarah Gaon to Moinating Chariali) Ch. 0.00 km to Ch. 0.620 km",
+            "description": "MMPPNA_23_24_259 (1)Construction of Bor Ali to Buragohain (Mechagarh Major Chuck to Mechagarh tankside) Ch. 0.00 m to Ch. 1063 m (L 1.063 Km), (2)Construction of Deogharia Dowarah Ali (Dowarah Gaon to Moinating Chariali) Ch. 0.00 km to Ch. 0.620 km",
+            "datePublished": "17-Jan-2024 12:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,96,16,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

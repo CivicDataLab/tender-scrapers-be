@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_36073_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "15-Feb-2024 03:00 PM",
+    "tenderValueAmount": "9,75,66,859",
+    "tender": [
+        {
+            "id": "2024_DoWR_36073_1",
+            "title": "Extension of Kumatiya right bank embankment from Balichapori to Hatigarh area.",
+            "description": "Extension of Kumatiya right bank embankment from Balichapori to Hatigarh area.",
+            "datePublished": "08-Feb-2024 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "9,75,66,859",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_35008_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Jan-2024 03:00 PM",
+    "tenderValueAmount": "36,98,000",
+    "tender": [
+        {
+            "id": "2023_BTC_35008_1",
+            "title": "Modification of file record room by providing file rack, fire alram system, fire extinguisher and ventilation at ground floor, B-Block, BTC Secretariat, Kokrajhar. (TN_50_3)",
+            "description": "Modification of file record room by providing file rack, fire alram system, fire extinguisher and ventilation at ground floor, B-Block, BTC Secretariat, Kokrajhar. (TN_50_3)",
+            "datePublished": "28-Dec-2023 01:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "36,98,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

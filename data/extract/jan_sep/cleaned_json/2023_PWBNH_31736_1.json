@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_31736_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Aug-2023 11:30 AM",
+    "tenderValueAmount": "1,84,36,296",
+    "tender": [
+        {
+            "id": "2023_PWBNH_31736_1",
+            "title": "Remodeling of Nabagraha Cremation Ground, Guwahati, Phase-II under Untied Fund Scheme 2023-24",
+            "description": "Remodeling of Nabagraha Cremation Ground, Guwahati, Phase-II under Untied Fund Scheme 2023-24",
+            "datePublished": "21-Jul-2023 12:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,84,36,296",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Aug-2023 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

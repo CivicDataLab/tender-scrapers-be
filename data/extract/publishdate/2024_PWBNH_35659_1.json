@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35659_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Jan-2024 04:30 PM",
+    "tenderValueAmount": "30,74,997",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35659_1",
+            "title": "Demolishing of Drug House Godown, Brick Boundary wall and 3 nos. Of RCC house within the Campus of proposed Cancer Hospital Nagaon, Mokhuli",
+            "description": "Demolishing of Drug House Godown, Brick Boundary wall and 3 nos. Of RCC house within the Campus of proposed Cancer Hospital Nagaon, Mokhuli",
+            "datePublished": "24-Jan-2024 12:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "30,74,997",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jan-2024 04:30 PM"
+                }
+            ]
+        }
+    ]
+}

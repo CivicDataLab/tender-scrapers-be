@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_GMC_32305_20",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "14-Sep-2023 02:30 PM",
+    "tenderValueAmount": "30,00,000",
+    "tender": [
+        {
+            "id": "2023_GMC_32305_20",
+            "title": "Improvement of Naranarayan Path (Bikash Nagar) Shivanagar Path",
+            "description": "Improvement of Naranarayan Path (Bikash Nagar) Shivanagar Path",
+            "datePublished": "30-Aug-2023 02:00 PM",
+            "contractType": "Lump-sum",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "30,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "14-Sep-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

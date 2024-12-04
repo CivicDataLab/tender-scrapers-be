@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_34888_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Jan-2024 02:00 PM",
+    "tenderValueAmount": "2,83,08,900",
+    "tender": [
+        {
+            "id": "2023_BTC_34888_1",
+            "title": "Construction of road from Pub Amguri to Batabari via Khunkrajhora in Chirang District, BTC, Assam for the year 2023-24 under CMs Goodwill Project. TN-26-123 R-1",
+            "description": "Construction of road from Pub Amguri to Batabari via Khunkrajhora in Chirang District, BTC, Assam for the year 2023-24 under CMs Goodwill Project. TN-26-123 R-1",
+            "datePublished": "21-Dec-2023 01:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,83,08,900",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_TDEP_25894_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "12-Jul-2022 04:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2022_TDEP_25894_1",
+            "title": "Appointment of Agency for Baseline and User Satisfaction Survey under AIWT Project",
+            "description": "Appointment of Agency for Baseline and User Satisfaction Survey under AIWT Project",
+            "datePublished": "09-Jun-2022 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jul-2022 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

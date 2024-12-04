@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_37677_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Jun-2024 11:00 AM",
+    "tenderValueAmount": "27,42,148",
+    "tender": [
+        {
+            "id": "2024_PWD_37677_1",
+            "title": "LMRC/Tender/2024-25",
+            "description": "LMRC/Tender/2024-25",
+            "datePublished": "20-Jun-2024 04:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "27,42,148",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jun-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

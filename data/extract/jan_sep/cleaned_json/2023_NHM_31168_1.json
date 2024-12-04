@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_NHM_31168_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Jul-2023 03:30 PM",
+    "tenderValueAmount": "52,03,000",
+    "tender": [
+        {
+            "id": "2023_NHM_31168_1",
+            "title": "Construction of Building less Sub Health Centre at various places of Assam, for FY 2022-23 under NHM, Assam at Bhitorkhola SC in Kamrup(R) District.",
+            "description": "Construction of Building less Sub Health Centre at various places of Assam, for FY 2022-23 under NHM, Assam at Bhitorkhola SC in Kamrup(R) District.",
+            "datePublished": "12-Jun-2023 03:00 PM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "52,03,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Jul-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

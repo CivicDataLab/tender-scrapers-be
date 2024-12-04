@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32885_60",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 02:00 PM",
+    "tenderValueAmount": "1,46,03,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32885_60",
+            "title": "MMNPPNA_23_24_213 (i) Construction of Road from Dhupguri Brahmapara to Jarachuk Village, Length 0.7 Km (Ch 0.00 m to 700,00 m), (ii) Construction of Road from Langhin Bazar to Thaijouguri Chariali Road near Langhin Pamgaon HighSchool, Length 0.123",
+            "description": "MMNPPNA_23_24_213 (i) Construction of Road from Dhupguri Brahmapara to Jarachuk Village, Length 0.7 Km (Ch 0.00 m to 700,00 m), (ii) Construction of Road from Langhin Bazar to Thaijouguri Chariali Road near Langhin Pamgaon HighSchool, Length 0.123",
+            "datePublished": "12-Oct-2023 12:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,46,03,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_38195_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "20-Aug-2024 02:30 PM",
+    "tenderValueAmount": "1,59,08,900",
+    "tender": [
+        {
+            "id": "2024_PWD_38195_1",
+            "title": "Construction of approach road to EMRS, Ardaopur in Dima Hasao",
+            "description": "Construction of approach road to EMRS, Ardaopur in Dima Hasao",
+            "datePublished": "29-Jul-2024 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,59,08,900",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Aug-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

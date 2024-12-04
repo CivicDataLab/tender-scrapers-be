@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PCCF_36894_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Mar-2024 02:00 PM",
+    "tenderValueAmount": "59,15,921",
+    "tender": [
+        {
+            "id": "2024_PCCF_36894_1",
+            "title": "Roadside PlantationDensification stretches from KM 1021 to KM 1017 of NH 31c New 27",
+            "description": "Roadside PlantationDensification stretches from KM 1021 to KM 1017 of NH 31c New 27",
+            "datePublished": "04-Mar-2024 04:00 PM",
+            "contractType": "Percentage",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "59,15,921",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

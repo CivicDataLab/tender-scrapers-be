@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_29165_4",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Mar-2023 02:00 PM",
+    "tenderValueAmount": "1,58,03,752",
+    "tender": [
+        {
+            "id": "2023_BoTC_29165_4",
+            "title": "North Maligaon FIS (Canal System) under PMKSY_HKKP for the year 2021-22",
+            "description": "North Maligaon FIS (Canal System) under PMKSY_HKKP for the year 2021-22",
+            "datePublished": "07-Feb-2023 10:10 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,58,03,752",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Mar-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

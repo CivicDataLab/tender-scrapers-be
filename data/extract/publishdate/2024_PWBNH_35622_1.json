@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35622_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Feb-2024 02:00 PM",
+    "tenderValueAmount": "2,85,80,946",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35622_1",
+            "title": "Construction of New Entry Gate, Approach Road, Drain, Divider, Divider, Security Shade with Changing Room and Toilet at North Side of Minister Colony, Dispur, Guwahati-06",
+            "description": "Construction of New Entry Gate, Approach Road, Drain, Divider, Divider, Security Shade with Changing Room and Toilet at North Side of Minister Colony, Dispur, Guwahati-06",
+            "datePublished": "20-Jan-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,85,80,946",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

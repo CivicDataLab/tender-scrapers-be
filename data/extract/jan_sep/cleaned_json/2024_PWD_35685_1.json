@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35685_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Feb-2024 11:00 AM",
+    "tenderValueAmount": "30,82,900",
+    "tender": [
+        {
+            "id": "2024_PWD_35685_1",
+            "title": "Construction of road from Ananda nagar to Ganesh nagar link road with stone masonary guard wall under MMPPNA for 2023-24.",
+            "description": "Construction of road from Ananda nagar to Ganesh nagar link road with stone masonary guard wall under MMPPNA for 2023-24.",
+            "datePublished": "25-Jan-2024 09:00 AM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "30,82,900",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Feb-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

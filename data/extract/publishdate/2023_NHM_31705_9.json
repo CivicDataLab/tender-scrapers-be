@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_NHM_31705_9",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Aug-2023 03:30 PM",
+    "tenderValueAmount": "34,86,998",
+    "tender": [
+        {
+            "id": "2023_NHM_31705_9",
+            "title": "Repairing Renovation of 229 Nos of Sub Centre to upgrade them as Health n Wellness Centre at various places of Assam under NHM Assam Group 35 5 nos schemes in Goalpara district",
+            "description": "Repairing Renovation of 229 Nos of Sub Centre to upgrade them as Health n Wellness Centre at various places of Assam under NHM Assam Group 35 5 nos schemes in Goalpara district",
+            "datePublished": "18-Jul-2023 05:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "34,86,998",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Aug-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

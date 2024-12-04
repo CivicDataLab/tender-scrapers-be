@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33170_55",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Nov-2023 02:00 PM",
+    "tenderValueAmount": "10,96,70,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33170_55",
+            "title": "MMUPPNA_RIDF_XXIX_23_24_42 Improvement and Upgradation of (i) NH-17 at Balajan to Daobhangi Bazar via Sahebganj (Ch. 0.00km to 6.70km), (ii) NH-17 at Targhat to Kanaimore (Ch. 0.00m to Ch. 1300.00m) including approach length of Asharikandi Terracota",
+            "description": "MMUPPNA_RIDF_XXIX_23_24_42 Improvement and Upgradation of (i) NH-17 at Balajan to Daobhangi Bazar via Sahebganj (Ch. 0.00km to 6.70km), (ii) NH-17 at Targhat to Kanaimore (Ch. 0.00m to Ch. 1300.00m) including approach length of Asharikandi Terracota",
+            "datePublished": "25-Oct-2023 12:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "10,96,70,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

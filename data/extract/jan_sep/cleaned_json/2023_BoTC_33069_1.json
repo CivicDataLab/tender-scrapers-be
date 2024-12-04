@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_33069_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Nov-2023 02:30 PM",
+    "tenderValueAmount": "95,23,805",
+    "tender": [
+        {
+            "id": "2023_BoTC_33069_1",
+            "title": "Const of Market Shed Karigaon Daily Market under 6th ASFC for the year 2020-21 during 2023-24",
+            "description": "Const of Market Shed Karigaon Daily Market under 6th ASFC for the year 2020-21 during 2023-24",
+            "datePublished": "14-Oct-2023 03:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "95,23,805",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Nov-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

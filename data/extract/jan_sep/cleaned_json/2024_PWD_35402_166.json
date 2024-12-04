@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_166",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "1,38,59,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_166",
+            "title": "MMPPNA_23_24_279 (1)Construction of road from NH-15 to 7881 grant to Parbawtipur No.2 from Ch. 0.00m to 1031.00m (L 1.031km) , (2)Construction of road from No. 1 Jokaipeluwa to Dongibil High School via Dongibil Christian gaon from Ch. 0.00m to",
+            "description": "MMPPNA_23_24_279 (1)Construction of road from NH-15 to 7881 grant to Parbawtipur No.2 from Ch. 0.00m to 1031.00m (L 1.031km) , (2)Construction of road from No. 1 Jokaipeluwa to Dongibil High School via Dongibil Christian gaon from Ch. 0.00m to",
+            "datePublished": "23-Jan-2024 11:40 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,38,59,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_AEGCL_37002_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "28-Mar-2024 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_AEGCL_37002_1",
+            "title": "Empanelment of travel agencies/vendors for providing hired vehicles on monthly/ daily basis to Corporate Office of AEGCL",
+            "description": "Empanelment of travel agencies/vendors for providing hired vehicles on monthly/ daily basis to Corporate Office of AEGCL",
+            "datePublished": "07-Mar-2024 02:15 PM",
+            "contractType": "Empanelment",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

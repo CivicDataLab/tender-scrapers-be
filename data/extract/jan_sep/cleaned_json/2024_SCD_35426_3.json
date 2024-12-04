@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_SCD_35426_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 12:00 PM",
+    "tenderValueAmount": "99,50,000",
+    "tender": [
+        {
+            "id": "2024_SCD_35426_3",
+            "title": "KAOWRA SHAKA SOIL CONSERVATION PROJECT AT DANGARKHUTI VILLAGE",
+            "description": "KAOWRA SHAKA SOIL CONSERVATION PROJECT AT DANGARKHUTI VILLAGE",
+            "datePublished": "12-Jan-2024 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "99,50,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

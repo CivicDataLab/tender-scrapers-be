@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37361_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "09-Apr-2024 11:30 AM",
+    "tenderValueAmount": "59,71,670",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37361_1",
+            "title": "Construction of waiting room, toilets etc. (for differently abled) creation of barrier free environment for persons with disabilities at Directorate of Social Justice Empowerment, Assam (Civil Sanitary water supply works with electrification works)",
+            "description": "Construction of waiting room, toilets etc. (for differently abled) creation of barrier free environment for persons with disabilities at Directorate of Social Justice Empowerment, Assam (Civil Sanitary water supply works with electrification works)",
+            "datePublished": "16-Mar-2024 04:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "59,71,670",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Apr-2024 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

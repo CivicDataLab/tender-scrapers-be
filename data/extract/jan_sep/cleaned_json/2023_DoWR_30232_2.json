@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_30232_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Jan-2024 03:00 PM",
+    "tenderValueAmount": "1,48,59,565",
+    "tender": [
+        {
+            "id": "2023_DoWR_30232_2",
+            "title": "Restoration works at no.2 Bholatar village on its L/B of river Suklai. RETENDER",
+            "description": "Restoration works at no.2 Bholatar village on its L/B of river Suklai. RETENDER",
+            "datePublished": "01-Jan-2024 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,48,59,565",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

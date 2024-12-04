@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36090_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Feb-2024 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_PWD_36090_1",
+            "title": "KAM/KRC/SOPD(G)/2023-24/24 Construction of bye lane No.2 of Trinayan Path(ward No.23) Lokhra (From Ch. 0.00 m to Ch. 260.00m) under SOPD(G) for the year 2023-24",
+            "description": "KAM/KRC/SOPD(G)/2023-24/24 Construction of bye lane No.2 of Trinayan Path(ward No.23) Lokhra (From Ch. 0.00 m to Ch. 260.00m) under SOPD(G) for the year 2023-24",
+            "datePublished": "12-Feb-2024 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

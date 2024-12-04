@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35991_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "23-Feb-2024 04:00 PM",
+    "tenderValueAmount": "3,17,82,100",
+    "tender": [
+        {
+            "id": "2024_PWD_35991_1",
+            "title": "FLYOVER/QC/CYCLE FACTORY/GUWAHATI Construction of Flyover at Cycle Factory Junction and its extension up to Lal Ganesh Market on Guwahati-Garbhanga road in Guwahati",
+            "description": "FLYOVER/QC/CYCLE FACTORY/GUWAHATI Construction of Flyover at Cycle Factory Junction and its extension up to Lal Ganesh Market on Guwahati-Garbhanga road in Guwahati",
+            "datePublished": "06-Feb-2024 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,17,82,100",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "23-Feb-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

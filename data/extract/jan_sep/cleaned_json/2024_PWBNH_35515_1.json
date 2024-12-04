@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35515_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Feb-2024 12:00 PM",
+    "tenderValueAmount": "1,01,67,259",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35515_1",
+            "title": "Construction of Boundary wall at Gr-I Judicial Quarter campus at Bhalukdubi in Goalpara District, Assam",
+            "description": "Construction of Boundary wall at Gr-I Judicial Quarter campus at Bhalukdubi in Goalpara District, Assam",
+            "datePublished": "17-Jan-2024 02:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,01,67,259",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Feb-2024 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

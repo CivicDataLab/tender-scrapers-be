@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_36016_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "15-Feb-2024 03:00 PM",
+    "tenderValueAmount": "1,86,27,095",
+    "tender": [
+        {
+            "id": "2024_DoWR_36016_1",
+            "title": "Protection of the D/S areas of Bashbari Bazar by pro-siltation measures against the oblique thrust of river Aie.",
+            "description": "Protection of the D/S areas of Bashbari Bazar by pro-siltation measures against the oblique thrust of river Aie.",
+            "datePublished": "07-Feb-2024 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,86,27,095",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

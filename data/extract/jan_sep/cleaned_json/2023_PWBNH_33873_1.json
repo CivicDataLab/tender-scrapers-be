@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_33873_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Dec-2023 02:00 PM",
+    "tenderValueAmount": "4,70,63,693",
+    "tender": [
+        {
+            "id": "2023_PWBNH_33873_1",
+            "title": "Redevelopment of Secretariat Complex at Dispur, Guwahati-06 (Package-2-Construction of an Open Air Theater and Road along with Parking Facility and Horticulture work)",
+            "description": "Redevelopment of Secretariat Complex at Dispur, Guwahati-06 (Package-2-Construction of an Open Air Theater and Road along with Parking Facility and Horticulture work)",
+            "datePublished": "10-Nov-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,70,63,693",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

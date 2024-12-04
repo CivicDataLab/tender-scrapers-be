@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34521_8",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Dec-2023 11:00 AM",
+    "tenderValueAmount": "16,09,800",
+    "tender": [
+        {
+            "id": "2023_PWD_34521_8",
+            "title": "Barpeta/MMPNA/ R_R/01 Repair and Rehabilitation of bridge on Patacharkuchi Anchali Road (Rehabari - Anchali) at Ch.1.023 km under Mantrir Path Nabikaran Achani (MMPNA) for the year 2023-24",
+            "description": "Barpeta/MMPNA/ R_R/01 Repair and Rehabilitation of bridge on Patacharkuchi Anchali Road (Rehabari - Anchali) at Ch.1.023 km under Mantrir Path Nabikaran Achani (MMPNA) for the year 2023-24",
+            "datePublished": "07-Dec-2023 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "16,09,800",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Dec-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

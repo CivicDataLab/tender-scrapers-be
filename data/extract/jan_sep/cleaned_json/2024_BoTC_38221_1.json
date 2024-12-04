@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_38221_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Aug-2024 03:30 PM",
+    "tenderValueAmount": "29,95,000",
+    "tender": [
+        {
+            "id": "2024_BoTC_38221_1",
+            "title": "Repairing and Renovation of Camp at Jharbari Range under Haltugaon Forest Division Kokrajhar under MMDRRF for the year 2024-25.",
+            "description": "Repairing and Renovation of Camp at Jharbari Range under Haltugaon Forest Division Kokrajhar under MMDRRF for the year 2024-25.",
+            "datePublished": "27-Jul-2024 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "29,95,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Aug-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

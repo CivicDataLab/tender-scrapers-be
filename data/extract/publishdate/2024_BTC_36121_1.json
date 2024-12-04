@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_36121_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "23-Feb-2024 04:00 PM",
+    "tenderValueAmount": "2,87,16,000",
+    "tender": [
+        {
+            "id": "2024_BTC_36121_1",
+            "title": "Construction of Rabindra Bhawan (G 2) provision at venue 01. Dolgaon, Gossaigaon, 02. Gaurnagar, Kokrajhar, 03. Bhetagaon, Ghospara, Bijni (Rs. 95.72 L X 3) under Grants to BTC for Infrastructure Development fund for the financial year 2023-24",
+            "description": "Construction of Rabindra Bhawan (G 2) provision at venue 01. Dolgaon, Gossaigaon, 02. Gaurnagar, Kokrajhar, 03. Bhetagaon, Ghospara, Bijni (Rs. 95.72 L X 3) under Grants to BTC for Infrastructure Development fund for the financial year 2023-24",
+            "datePublished": "09-Feb-2024 02:05 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,87,16,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "23-Feb-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_38590_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Sep-2024 11:00 AM",
+    "tenderValueAmount": "99,09,000",
+    "tender": [
+        {
+            "id": "2024_BTC_38590_1",
+            "title": "Repairing and Renovation of the CSB Office Building, including Electrification, Furniture and Accessories at Kokrajhar. TN No.08_02",
+            "description": "Repairing and Renovation of the CSB Office Building, including Electrification, Furniture and Accessories at Kokrajhar. TN No.08_02",
+            "datePublished": "22-Aug-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "99,09,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Sep-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

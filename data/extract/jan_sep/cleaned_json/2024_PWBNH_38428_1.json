@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_38428_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "31-Aug-2024 04:30 PM",
+    "tenderValueAmount": "1,98,38,167",
+    "tender": [
+        {
+            "id": "2024_PWBNH_38428_1",
+            "title": "New construction of complete firefighting system at Minister Colony premises, Dispur,Guwahati-06(considering required RCC Reservoir of capacity 50,000 litres, pumps, required ring, pipe line, distribution points, fire extinguishers and elect. works)",
+            "description": "New construction of complete firefighting system at Minister Colony premises, Dispur,Guwahati-06(considering required RCC Reservoir of capacity 50,000 litres, pumps, required ring, pipe line, distribution points, fire extinguishers and elect. works)",
+            "datePublished": "10-Aug-2024 12:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,98,38,167",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "31-Aug-2024 04:30 PM"
+                }
+            ]
+        }
+    ]
+}

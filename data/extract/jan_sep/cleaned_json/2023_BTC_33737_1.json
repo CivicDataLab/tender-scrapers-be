@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33737_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Dec-2023 02:00 PM",
+    "tenderValueAmount": "4,65,64,889",
+    "tender": [
+        {
+            "id": "2023_BTC_33737_1",
+            "title": "Construction of road from No 12 Christan Missionary School to Bohitpara Naramari Chowk under CMs Goodwill Mission for the year 2023-24. TN_26_74",
+            "description": "Construction of road from No 12 Christan Missionary School to Bohitpara Naramari Chowk under CMs Goodwill Mission for the year 2023-24. TN_26_74",
+            "datePublished": "09-Nov-2023 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,65,64,889",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

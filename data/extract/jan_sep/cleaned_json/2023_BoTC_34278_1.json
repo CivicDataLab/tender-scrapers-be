@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_34278_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "18-Dec-2023 03:30 PM",
+    "tenderValueAmount": "44,56,000",
+    "tender": [
+        {
+            "id": "2023_BoTC_34278_1",
+            "title": "Creation of 1.5 Ha Nursery (as per latest CAMPA norms) at Batabari Range of Divisional Forest Officer, Baksa",
+            "description": "Creation of 1.5 Ha Nursery (as per latest CAMPA norms) at Batabari Range of Divisional Forest Officer, Baksa",
+            "datePublished": "29-Nov-2023 03:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "44,56,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "18-Dec-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

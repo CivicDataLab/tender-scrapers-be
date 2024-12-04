@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33797_239",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Dec-2023 03:00 PM",
+    "tenderValueAmount": "74,00,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33797_239",
+            "title": "MMPNA/2023-24/136_Periodic Renewal of Bamuni Hospital to Nizorigaon road, JCT Road (Seconee T.E. to Tetulguri) and Bamuni Hospital to Nizorigaon (Part-II) road under Mukhya Mandir Path Nabikaran Aachani for the year 2023-2024 under Kaliabor LAC",
+            "description": "MMPNA/2023-24/136_Periodic Renewal of Bamuni Hospital to Nizorigaon road, JCT Road (Seconee T.E. to Tetulguri) and Bamuni Hospital to Nizorigaon (Part-II) road under Mukhya Mandir Path Nabikaran Aachani for the year 2023-2024 under Kaliabor LAC",
+            "datePublished": "13-Nov-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "74,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

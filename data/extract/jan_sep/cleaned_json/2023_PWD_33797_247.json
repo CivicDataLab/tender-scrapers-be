@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33797_247",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Dec-2023 03:00 PM",
+    "tenderValueAmount": "1,40,30,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33797_247",
+            "title": "MMPNA/2023-24/23_Periodic Renewal of road from NH-15 at Borgang via Niz Borgang Railway Station to Rongagora TE Gate, Rowmari to Buroiguri, NH-15 to Kachomari and NH-15 at Borgang to Borgang TE (0.30km) under MMPNA for 2023-24 under Behali LAC",
+            "description": "MMPNA/2023-24/23_Periodic Renewal of road from NH-15 at Borgang via Niz Borgang Railway Station to Rongagora TE Gate, Rowmari to Buroiguri, NH-15 to Kachomari and NH-15 at Borgang to Borgang TE (0.30km) under MMPNA for 2023-24 under Behali LAC",
+            "datePublished": "14-Nov-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,40,30,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ICD_30686_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "31-May-2023 04:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_ICD_30686_1",
+            "title": "Selection of Programme Implementation Unit for Strategic Investment Plan (SIP) Under Raising and Accelerating MSME Performance (RAMP) in the State of Assam",
+            "description": "Selection of Programme Implementation Unit for Strategic Investment Plan (SIP) Under Raising and Accelerating MSME Performance (RAMP) in the State of Assam",
+            "datePublished": "03-May-2023 05:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "31-May-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

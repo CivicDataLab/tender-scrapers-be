@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34872_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Jan-2024 03:00 PM",
+    "tenderValueAmount": "4,24,10,885",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34872_1",
+            "title": "Construction of Permanent Office Premises for the Office of the Assistant Labour Commissioner, Dibrugarh",
+            "description": "Construction of Permanent Office Premises for the Office of the Assistant Labour Commissioner, Dibrugarh",
+            "datePublished": "20-Dec-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,24,10,885",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

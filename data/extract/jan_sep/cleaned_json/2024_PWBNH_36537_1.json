@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36537_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Mar-2024 04:30 PM",
+    "tenderValueAmount": "10,84,12,380",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36537_1",
+            "title": "Construction of New Circuit House at Chapakhowa, Sadiya in Tinsukia District, Assam, under Engineering, Procurement and Construction (EPC) Mode-I Basis",
+            "description": "Construction of New Circuit House at Chapakhowa, Sadiya in Tinsukia District, Assam, under Engineering, Procurement and Construction (EPC) Mode-I Basis",
+            "datePublished": "23-Feb-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "10,84,12,380",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Mar-2024 04:30 PM"
+                }
+            ]
+        }
+    ]
+}

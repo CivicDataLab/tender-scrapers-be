@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33911_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Dec-2023 02:00 PM",
+    "tenderValueAmount": "3,16,83,917",
+    "tender": [
+        {
+            "id": "2023_BTC_33911_1",
+            "title": "Construction of ICBP road from No.3 Batabari PWD road to Gandagagab and Salbari village (Length-3.01 Km) in Chirang District, Assam under CMs Goodwill Project in BTC area for the year 2023-24.TN-26-114",
+            "description": "Construction of ICBP road from No.3 Batabari PWD road to Gandagagab and Salbari village (Length-3.01 Km) in Chirang District, Assam under CMs Goodwill Project in BTC area for the year 2023-24.TN-26-114",
+            "datePublished": "13-Nov-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,16,83,917",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

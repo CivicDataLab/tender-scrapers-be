@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2021_ASPIR_19986_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2020-2021",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "06-Feb-2021 03:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2021_ASPIR_19986_1",
+            "title": "Hiring of Communication Agency",
+            "description": "Hiring of Communication Agency",
+            "datePublished": "06-Jan-2021 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Feb-2021 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

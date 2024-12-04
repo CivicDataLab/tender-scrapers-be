@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_HFWD_36567_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "19-Mar-2024 02:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_HFWD_36567_1",
+            "title": "Supply Of Orthopaedics Implants Package Wise required For different procedures under Orthopaedics Department at F.A.A. Medical College and Hospital Barpeta",
+            "description": "Supply Of Orthopaedics Implants Package Wise required For different procedures under Orthopaedics Department at F.A.A. Medical College and Hospital Barpeta",
+            "datePublished": "27-Feb-2024 10:00 AM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Mar-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

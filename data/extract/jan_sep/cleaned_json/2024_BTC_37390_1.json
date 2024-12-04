@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_37390_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Mar-2024 02:00 PM",
+    "tenderValueAmount": "25,00,000",
+    "tender": [
+        {
+            "id": "2024_BTC_37390_1",
+            "title": "Construction of Main Gate of Aideor Biyab Bathou Thansali at Mura Deor under the Head Grants to BTC for Infrastructure Dev. fund for the year 2023-24. (TN_90_3)",
+            "description": "Construction of Main Gate of Aideor Biyab Bathou Thansali at Mura Deor under the Head Grants to BTC for Infrastructure Dev. fund for the year 2023-24. (TN_90_3)",
+            "datePublished": "18-Mar-2024 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "25,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_32325_6",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "22-Sep-2023 02:00 PM",
+    "tenderValueAmount": "1,06,84,900",
+    "tender": [
+        {
+            "id": "2023_PWBNH_32325_6",
+            "title": "Construction of Campus drain,Internal path,Earth filling at Pandit Deendayal Upadhyaya Adarsha Mahavidyalaya,,Tulungia in Abhayapuri, Bongaigaon",
+            "description": "Construction of Campus drain,Internal path,Earth filling at Pandit Deendayal Upadhyaya Adarsha Mahavidyalaya,,Tulungia in Abhayapuri, Bongaigaon",
+            "datePublished": "31-Aug-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,06,84,900",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "22-Sep-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

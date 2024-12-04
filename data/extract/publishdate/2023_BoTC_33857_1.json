@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_33857_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Dec-2023 03:00 PM",
+    "tenderValueAmount": "53,70,000",
+    "tender": [
+        {
+            "id": "2023_BoTC_33857_1",
+            "title": "Construction of 3Nos of ACR at Amguri Higher Secondary School Education Department at Chirang, BTR.",
+            "description": "Construction of 3Nos of ACR at Amguri Higher Secondary School Education Department at Chirang, BTR.",
+            "datePublished": "10-Nov-2023 04:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "53,70,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

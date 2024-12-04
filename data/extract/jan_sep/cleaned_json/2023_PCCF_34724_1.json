@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PCCF_34724_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Jan-2024 11:00 AM",
+    "tenderValueAmount": "20,00,000",
+    "tender": [
+        {
+            "id": "2023_PCCF_34724_1",
+            "title": "Construction of Anti-poaching Camp at Barbakra under Kulsi Range under Development of other wild life area",
+            "description": "Construction of Anti-poaching Camp at Barbakra under Kulsi Range under Development of other wild life area",
+            "datePublished": "16-Dec-2023 11:00 AM",
+            "contractType": "Percentage",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "20,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Jan-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

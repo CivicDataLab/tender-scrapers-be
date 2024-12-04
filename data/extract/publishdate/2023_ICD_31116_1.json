@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ICD_31116_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "21-Jun-2023 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_ICD_31116_1",
+            "title": "CLEANING / SWEEPING OF ROADS AND COLLECTION AND REMOVAL/ DISPOSAL OF GARBAGE CONTRACT GR A (FACTORY AREA), GR B (TOWNSHIP AREA) AND GR C (NEW PLANT AREA)",
+            "description": "CLEANING / SWEEPING OF ROADS AND COLLECTION AND REMOVAL/ DISPOSAL OF GARBAGE CONTRACT GR A (FACTORY AREA), GR B (TOWNSHIP AREA) AND GR C (NEW PLANT AREA)",
+            "datePublished": "07-Jun-2023 03:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Jun-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

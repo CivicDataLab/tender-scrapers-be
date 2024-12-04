@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35115_125",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:30 PM",
+    "tenderValueAmount": "2,93,50,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35115_125",
+            "title": "MMPPNA_23_24_157, Construction of Daodigaon field to No. 3 Amjuli Nepalbasti Road from Ch. 0.00Km to Ch. 3.62Km (Length 3.62Km) under Mukhya Mantrir Pakipath Nirman Achani for the year 2023-24",
+            "description": "MMPPNA_23_24_157, Construction of Daodigaon field to No. 3 Amjuli Nepalbasti Road from Ch. 0.00Km to Ch. 3.62Km (Length 3.62Km) under Mukhya Mantrir Pakipath Nirman Achani for the year 2023-24",
+            "datePublished": "03-Jan-2024 05:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,93,50,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

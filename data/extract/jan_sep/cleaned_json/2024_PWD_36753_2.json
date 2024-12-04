@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36753_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Mar-2024 02:00 PM",
+    "tenderValueAmount": "51,29,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36753_2",
+            "title": "MMPPNA_23_24_75 Construction of Road from Norakonwar Bongaon Road to Jamunaguri Field connecting from Ch. 0.00 m to 630.00 m under Mukhya Mantrir Pakipath Nirman Achani for the year 2023-24",
+            "description": "MMPPNA_23_24_75 Construction of Road from Norakonwar Bongaon Road to Jamunaguri Field connecting from Ch. 0.00 m to 630.00 m under Mukhya Mantrir Pakipath Nirman Achani for the year 2023-24",
+            "datePublished": "29-Feb-2024 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "51,29,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

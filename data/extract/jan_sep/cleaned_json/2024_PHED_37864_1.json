@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PHED_37864_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jul-2024 03:00 PM",
+    "tenderValueAmount": "48,90,000",
+    "tender": [
+        {
+            "id": "2024_PHED_37864_1",
+            "title": "CONSTRUCTION OF GOMOTHA MOHURA SATRA WATER SUPPLY SCHEME UNDER SOPD UNDER BOKAKHAT (PHE) DIVISION, BOKAKHAT",
+            "description": "CONSTRUCTION OF GOMOTHA MOHURA SATRA WATER SUPPLY SCHEME UNDER SOPD UNDER BOKAKHAT (PHE) DIVISION, BOKAKHAT",
+            "datePublished": "04-Jul-2024 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "48,90,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jul-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

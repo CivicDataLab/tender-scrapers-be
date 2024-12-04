@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PNRD_31088_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "19-Jun-2023 02:00 PM",
+    "tenderValueAmount": "24,94,036",
+    "tender": [
+        {
+            "id": "2023_PNRD_31088_1",
+            "title": "SUPPLY AND INSTALLATION OF MACHINERIES AND EUIPMENTS IN A NEW BUILDING FOR ANIMAL FEED PLANT AT MATMARA",
+            "description": "SUPPLY AND INSTALLATION OF MACHINERIES AND EUIPMENTS IN A NEW BUILDING FOR ANIMAL FEED PLANT AT MATMARA",
+            "datePublished": "05-Jun-2023 10:00 AM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "24,94,036",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Jun-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

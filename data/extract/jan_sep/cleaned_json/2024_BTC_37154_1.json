@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_37154_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Apr-2024 02:00 PM",
+    "tenderValueAmount": "1,46,26,495",
+    "tender": [
+        {
+            "id": "2024_BTC_37154_1",
+            "title": "Repairing of RCC Bridge 1. No. 3-1, 2. No. 6-1, and 3. No. 6-2 on Gomabil to Angthihara road, 4. No. 2-3 on Hakmabil to Phulkumari road, 5. No. 5-1 on Kashiabari to Balagaon road and 6. No. 7-2 on Kashiabari to Balagaon road. TN No.92_01",
+            "description": "Repairing of RCC Bridge 1. No. 3-1, 2. No. 6-1, and 3. No. 6-2 on Gomabil to Angthihara road, 4. No. 2-3 on Hakmabil to Phulkumari road, 5. No. 5-1 on Kashiabari to Balagaon road and 6. No. 7-2 on Kashiabari to Balagaon road. TN No.92_01",
+            "datePublished": "14-Mar-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,46,26,495",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Apr-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

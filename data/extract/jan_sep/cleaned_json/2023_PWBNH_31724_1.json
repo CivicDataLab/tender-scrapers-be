@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_31724_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "21-Aug-2023 02:00 PM",
+    "tenderValueAmount": "43,61,962",
+    "tender": [
+        {
+            "id": "2023_PWBNH_31724_1",
+            "title": "Installation of Audio and Video Conference System in the office Conference Hall of Honble Minister, Housing and Urban Development etc. at Ground Floor, Block-D Janata Bhawan",
+            "description": "Installation of Audio and Video Conference System in the office Conference Hall of Honble Minister, Housing and Urban Development etc. at Ground Floor, Block-D Janata Bhawan",
+            "datePublished": "19-Jul-2023 02:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "43,61,962",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Aug-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

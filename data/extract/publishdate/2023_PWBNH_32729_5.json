@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_32729_5",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "25-Oct-2023 03:00 PM",
+    "tenderValueAmount": "2,81,46,286",
+    "tender": [
+        {
+            "id": "2023_PWBNH_32729_5",
+            "title": "Jagannath Community and Skill Centre at i) Dimakuchi T.E. And ii) Bhergaon T.E. under Panery LAC (Pkg. No.37)",
+            "description": "Jagannath Community and Skill Centre at i) Dimakuchi T.E. And ii) Bhergaon T.E. under Panery LAC (Pkg. No.37)",
+            "datePublished": "30-Sep-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,81,46,286",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "25-Oct-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

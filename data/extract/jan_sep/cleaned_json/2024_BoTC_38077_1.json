@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_38077_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "09-Aug-2024 02:30 PM",
+    "tenderValueAmount": "23,78,823",
+    "tender": [
+        {
+            "id": "2024_BoTC_38077_1",
+            "title": "Const of ICBP road from Lt Benjamin Kisku house to Lt Juwel Kisku house, Grahampur link road under pt 2 Thakurpur VCDC under 15th FC (Untied Grant) for the year 2023-24.",
+            "description": "Const of ICBP road from Lt Benjamin Kisku house to Lt Juwel Kisku house, Grahampur link road under pt 2 Thakurpur VCDC under 15th FC (Untied Grant) for the year 2023-24.",
+            "datePublished": "18-Jul-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "23,78,823",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Aug-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

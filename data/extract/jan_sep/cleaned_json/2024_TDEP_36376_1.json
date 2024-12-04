@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_TDEP_36376_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "08-Mar-2024 04:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_TDEP_36376_1",
+            "title": "Procurement of SOLAS compliant Life Buoys and Life Jackets for Jibondinga Boats",
+            "description": "Procurement of SOLAS compliant Life Buoys and Life Jackets for Jibondinga Boats",
+            "datePublished": "19-Feb-2024 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Mar-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

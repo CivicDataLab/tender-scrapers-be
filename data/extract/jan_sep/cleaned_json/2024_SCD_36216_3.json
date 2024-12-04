@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_SCD_36216_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "23-Feb-2024 11:00 AM",
+    "tenderValueAmount": "86,41,200",
+    "tender": [
+        {
+            "id": "2024_SCD_36216_3",
+            "title": "Borthal Borali Water Harvesting cum Water Distribution Project under RIDFXXVIII",
+            "description": "Borthal Borali Water Harvesting cum Water Distribution Project under RIDFXXVIII",
+            "datePublished": "13-Feb-2024 01:10 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "86,41,200",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "23-Feb-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_33189_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "09-Nov-2023 03:00 PM",
+    "tenderValueAmount": "3,18,10,877",
+    "tender": [
+        {
+            "id": "2023_DoWR_33189_1",
+            "title": "Protection of Desang bund right bank from Desangpani to Patsaku at 6th Km (Oriaghat area) from the erosion of river Desang.",
+            "description": "Protection of Desang bund right bank from Desangpani to Patsaku at 6th Km (Oriaghat area) from the erosion of river Desang.",
+            "datePublished": "19-Oct-2023 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,18,10,877",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_AAU_34549_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Feb-2024 03:00 PM",
+    "tenderValueAmount": "34,20,000",
+    "tender": [
+        {
+            "id": "2023_AAU_34549_2",
+            "title": "SUPPLY, INSTALLATION, TESTING AND COMMISSIONING OF SOLAR OPERATED IRRIGATION PUMP SET AT 6 NOS OF KVKs UNDER AAU, JORHAT",
+            "description": "SUPPLY, INSTALLATION, TESTING AND COMMISSIONING OF SOLAR OPERATED IRRIGATION PUMP SET AT 6 NOS OF KVKs UNDER AAU, JORHAT",
+            "datePublished": "12-Jan-2024 03:30 PM",
+            "contractType": "Percentage",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "34,20,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DHTS_31767_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Aug-2023 12:30 PM",
+    "tenderValueAmount": "1,40,00,000",
+    "tender": [
+        {
+            "id": "2023_DHTS_31767_1",
+            "title": "Re-construction of ADHT office building (RCC G1) at Goalpara in the District Goalpara for the year 2022-23",
+            "description": "Re-construction of ADHT office building (RCC G1) at Goalpara in the District Goalpara for the year 2022-23",
+            "datePublished": "25-Jul-2023 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,40,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Aug-2023 12:30 PM"
+                }
+            ]
+        }
+    ]
+}

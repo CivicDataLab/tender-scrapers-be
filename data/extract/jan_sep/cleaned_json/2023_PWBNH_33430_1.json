@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_33430_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "21-Nov-2023 03:30 PM",
+    "tenderValueAmount": "88,90,835",
+    "tender": [
+        {
+            "id": "2023_PWBNH_33430_1",
+            "title": "Construction of RCC G1 District Commandant office RCC G2 storied provision Home Guards Dibrugarh Ph-I for the year 23-24",
+            "description": "Construction of RCC G1 District Commandant office RCC G2 storied provision Home Guards Dibrugarh Ph-I for the year 23-24",
+            "datePublished": "02-Nov-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "88,90,835",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Nov-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

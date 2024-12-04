@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_PWBNH_26626_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Sep-2022 02:00 PM",
+    "tenderValueAmount": "96,35,880",
+    "tender": [
+        {
+            "id": "2022_PWBNH_26626_1",
+            "title": "PMC services for Balance work of 800 Capacity Auditorium Complex for Srimanta Sankardev Kalakhetra Society at Panjabari, Guwahati (Excluding Foundation Part) in the campus of Srimanta Sankardev Kalakhetra at Panjabari, Guwahati-37",
+            "description": "PMC services for Balance work of 800 Capacity Auditorium Complex for Srimanta Sankardev Kalakhetra Society at Panjabari, Guwahati (Excluding Foundation Part) in the campus of Srimanta Sankardev Kalakhetra at Panjabari, Guwahati-37",
+            "datePublished": "13-Aug-2022 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "96,35,880",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Sep-2022 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

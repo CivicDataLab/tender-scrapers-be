@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_WPTBC_36805_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Mar-2024 04:00 PM",
+    "tenderValueAmount": "1,95,40,000",
+    "tender": [
+        {
+            "id": "2024_WPTBC_36805_1",
+            "title": "Construction of Dr B R Ambedkar Bhawan at Chapar Dist Dhurbi",
+            "description": "Construction of Dr B R Ambedkar Bhawan at Chapar Dist Dhurbi",
+            "datePublished": "02-Mar-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,95,40,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Mar-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

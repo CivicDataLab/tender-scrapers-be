@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33605_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Nov-2023 12:00 PM",
+    "tenderValueAmount": "2,79,09,373",
+    "tender": [
+        {
+            "id": "2023_BTC_33605_1",
+            "title": "Construction of Matiapara No.1 to Matiapara No.2 Road from Ch. 0.00 Km to Ch. 3.50Km Length 3.50Km under CMs Goodwill Project for the year 2023-24 of District-Kokrajhar 28 Gossaigaon LAC. TN_26_8",
+            "description": "Construction of Matiapara No.1 to Matiapara No.2 Road from Ch. 0.00 Km to Ch. 3.50Km Length 3.50Km under CMs Goodwill Project for the year 2023-24 of District-Kokrajhar 28 Gossaigaon LAC. TN_26_8",
+            "datePublished": "09-Nov-2023 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,79,09,373",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_WREAP_32084_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "06-Oct-2023 04:15 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_WREAP_32084_1",
+            "title": "Supply of Geo-bags Type-A, Geo-textile and Sewing Thread for Goalpara subproject Lot 1",
+            "description": "Supply of Geo-bags Type-A, Geo-textile and Sewing Thread for Goalpara subproject Lot 1",
+            "datePublished": "14-Aug-2023 05:00 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Oct-2023 04:15 PM"
+                }
+            ]
+        }
+    ]
+}

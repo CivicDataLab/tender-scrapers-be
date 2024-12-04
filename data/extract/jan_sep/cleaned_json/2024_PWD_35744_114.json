@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35744_114",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 02:00 PM",
+    "tenderValueAmount": "1,12,89,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35744_114",
+            "title": "SOPD_ODS_23_24_73 Construction of Road under (i) Binnakandi Tea Garden Main Road Binnakandi Hospital to Binnakandi Super Market (L 0.850KM) (ii) Lakhipur Tea Garden Main Road Lakhipur T.E to Uportilla (L 0.550KM) under SOPD-ODS (Tea Garden Road",
+            "description": "SOPD_ODS_23_24_73 Construction of Road under (i) Binnakandi Tea Garden Main Road Binnakandi Hospital to Binnakandi Super Market (L 0.850KM) (ii) Lakhipur Tea Garden Main Road Lakhipur T.E to Uportilla (L 0.550KM) under SOPD-ODS (Tea Garden Road",
+            "datePublished": "06-Feb-2024 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,12,89,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

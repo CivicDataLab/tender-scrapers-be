@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34864_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Dec-2023 11:00 AM",
+    "tenderValueAmount": "1,80,81,255",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34864_1",
+            "title": "Construction of Additional Classroom 9 nos and Teachers Common rooms 4 nos and Vice Chancellor Office at Chitadar Chuk Campus of the Majuli University of Culture, Majuli, Assam",
+            "description": "Construction of Additional Classroom 9 nos and Teachers Common rooms 4 nos and Vice Chancellor Office at Chitadar Chuk Campus of the Majuli University of Culture, Majuli, Assam",
+            "datePublished": "20-Dec-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,80,81,255",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Dec-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

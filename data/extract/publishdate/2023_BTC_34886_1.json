@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_34886_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Jan-2024 02:00 PM",
+    "tenderValueAmount": "2,73,02,865",
+    "tender": [
+        {
+            "id": "2023_BTC_34886_1",
+            "title": "Const. of ICBP road from West Daisumguri PWD road to Laliguri village road (L-2.93 KM) in Chirang Dist, Assam under CMs Goodwill Project in BTC area for the year 23-24.TN-26-121 R-1",
+            "description": "Const. of ICBP road from West Daisumguri PWD road to Laliguri village road (L-2.93 KM) in Chirang Dist, Assam under CMs Goodwill Project in BTC area for the year 23-24.TN-26-121 R-1",
+            "datePublished": "21-Dec-2023 01:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,73,02,865",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

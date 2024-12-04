@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_37433_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Mar-2024 02:00 PM",
+    "tenderValueAmount": "44,39,000",
+    "tender": [
+        {
+            "id": "2024_BTC_37433_1",
+            "title": "Construction of Statue of Bodofa Upendra Nath Brahma at Gossaigaon Children Park, Gossaigaon Chariali W.No.3. with renovation and beautification of Park. TN_90_8",
+            "description": "Construction of Statue of Bodofa Upendra Nath Brahma at Gossaigaon Children Park, Gossaigaon Chariali W.No.3. with renovation and beautification of Park. TN_90_8",
+            "datePublished": "21-Mar-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "44,39,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

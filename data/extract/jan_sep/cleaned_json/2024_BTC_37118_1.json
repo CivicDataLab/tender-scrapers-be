@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_37118_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Apr-2024 02:00 PM",
+    "tenderValueAmount": "3,01,84,163",
+    "tender": [
+        {
+            "id": "2024_BTC_37118_1",
+            "title": "Construction of Elementary School Building at an estimated cost for Rs.25,15,500.00 per school at different places in Kokrajhar District under the Head Grants to BTC for Infrastructure Development Fund for the year 2023-24, Phase-III. TN_91_03.",
+            "description": "Construction of Elementary School Building at an estimated cost for Rs.25,15,500.00 per school at different places in Kokrajhar District under the Head Grants to BTC for Infrastructure Development Fund for the year 2023-24, Phase-III. TN_91_03.",
+            "datePublished": "12-Mar-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,01,84,163",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Apr-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

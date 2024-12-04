@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_WPTBC_36524_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Mar-2024 03:30 PM",
+    "tenderValueAmount": "24,91,500",
+    "tender": [
+        {
+            "id": "2024_WPTBC_36524_1",
+            "title": "Construction of classroom building at Afala Mishing High School under Thowra LAC, Dist- Sivsagar.",
+            "description": "Construction of classroom building at Afala Mishing High School under Thowra LAC, Dist- Sivsagar.",
+            "datePublished": "22-Feb-2024 06:00 PM",
+            "contractType": "Fixed-rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,91,500",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Mar-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

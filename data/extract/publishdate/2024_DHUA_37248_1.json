@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DHUA_37248_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Mar-2024 03:00 PM",
+    "tenderValueAmount": "1,61,35,200",
+    "tender": [
+        {
+            "id": "2024_DHUA_37248_1",
+            "title": "Construction of New Amusement Park Doomdooma under UIDF FY 23-24",
+            "description": "Construction of New Amusement Park Doomdooma under UIDF FY 23-24",
+            "datePublished": "14-Mar-2024 01:50 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,61,35,200",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37582_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Jul-2024 02:00 PM",
+    "tenderValueAmount": "38,23,587",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37582_1",
+            "title": "Strengthening, Renovation, Extension of Minister Quarter No. M-4 at Minister Colony, Dispur, Guwahati-6 (Phase-I)",
+            "description": "Strengthening, Renovation, Extension of Minister Quarter No. M-4 at Minister Colony, Dispur, Guwahati-6 (Phase-I)",
+            "datePublished": "13-Jun-2024 02:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "38,23,587",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Jul-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

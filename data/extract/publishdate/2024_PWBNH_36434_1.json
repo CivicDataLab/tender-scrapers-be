@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36434_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Mar-2024 03:00 PM",
+    "tenderValueAmount": "23,30,959",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36434_1",
+            "title": "Repair Renovation works of Boundary wall of ITI Nalbari Phase II",
+            "description": "Repair Renovation works of Boundary wall of ITI Nalbari Phase II",
+            "datePublished": "19-Feb-2024 05:30 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "23,30,959",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

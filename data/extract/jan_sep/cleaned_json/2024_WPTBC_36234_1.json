@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_WPTBC_36234_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "21-Feb-2024 09:00 AM",
+    "tenderValueAmount": "51,00,000",
+    "tender": [
+        {
+            "id": "2024_WPTBC_36234_1",
+            "title": "Vertical Extension One Floor of Gogamukh hs School Hostel at Gogamukh Dist Dhemaji Dhemaji",
+            "description": "Vertical Extension One Floor of Gogamukh hs School Hostel at Gogamukh Dist Dhemaji Dhemaji",
+            "datePublished": "13-Feb-2024 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "51,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Feb-2024 09:00 AM"
+                }
+            ]
+        }
+    ]
+}

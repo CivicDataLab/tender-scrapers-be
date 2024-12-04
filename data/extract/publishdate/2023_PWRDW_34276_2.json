@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWRDW_34276_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Dec-2023 02:30 PM",
+    "tenderValueAmount": "8,07,35,000",
+    "tender": [
+        {
+            "id": "2023_PWRDW_34276_2",
+            "title": "Construction of Bridges in Morigaon district i. Br. No. 3/2 on Laharighat to Dakhin Bagalipara ii. Br. No. 1/1 on Borbori Norshingbori Road",
+            "description": "Construction of Bridges in Morigaon district i. Br. No. 3/2 on Laharighat to Dakhin Bagalipara ii. Br. No. 1/1 on Borbori Norshingbori Road",
+            "datePublished": "29-Nov-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "8,07,35,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Dec-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

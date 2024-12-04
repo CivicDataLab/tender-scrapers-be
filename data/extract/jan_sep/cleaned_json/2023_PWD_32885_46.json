@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32885_46",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,00,00,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32885_46",
+            "title": "MMNPPNA_23_24_232 (i) Improvement of Gaurab Path Nagaon Sarthebari road (Ch-11.05 Km to Ch-11.55 km), (ii) Construction of RCC Covered Drain at Sarthebari Medical Road in ward no-3, (iii) Construction of RCC Covered Drain at Sarthebari Sabharkhola",
+            "description": "MMNPPNA_23_24_232 (i) Improvement of Gaurab Path Nagaon Sarthebari road (Ch-11.05 Km to Ch-11.55 km), (ii) Construction of RCC Covered Drain at Sarthebari Medical Road in ward no-3, (iii) Construction of RCC Covered Drain at Sarthebari Sabharkhola",
+            "datePublished": "11-Oct-2023 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,00,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

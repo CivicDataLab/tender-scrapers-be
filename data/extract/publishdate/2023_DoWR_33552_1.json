@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_33552_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Nov-2023 03:00 PM",
+    "tenderValueAmount": "1,12,81,521",
+    "tender": [
+        {
+            "id": "2023_DoWR_33552_1",
+            "title": "Construction of sluice gate on the Kumatiya-Sampora L/B embankment from Gurathali Chapori to Dhakuwakhana PWD road at Ch 2750m.",
+            "description": "Construction of sluice gate on the Kumatiya-Sampora L/B embankment from Gurathali Chapori to Dhakuwakhana PWD road at Ch 2750m.",
+            "datePublished": "04-Nov-2023 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,12,81,521",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

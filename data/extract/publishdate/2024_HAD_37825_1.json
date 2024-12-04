@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_HAD_37825_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "15-Jul-2024 03:00 PM",
+    "tenderValueAmount": "59,99,096",
+    "tender": [
+        {
+            "id": "2024_HAD_37825_1",
+            "title": "Construction of Sales outlets at Manja Industrial Complex under AHSIDC Ltd., Manja",
+            "description": "Construction of Sales outlets at Manja Industrial Complex under AHSIDC Ltd., Manja",
+            "datePublished": "01-Jul-2024 06:00 PM",
+            "contractType": "Percentage",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "59,99,096",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Jul-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

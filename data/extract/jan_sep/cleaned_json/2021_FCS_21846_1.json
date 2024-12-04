@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2021_FCS_21846_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2021-2022",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "09-Jul-2021 02:30 PM",
+    "tenderValueAmount": "1,00,00,000",
+    "tender": [
+        {
+            "id": "2021_FCS_21846_1",
+            "title": "Transportation of Rice under NFSA Dhemaji district",
+            "description": "Transportation of Rice under NFSA Dhemaji district",
+            "datePublished": "11-Jun-2021 06:00 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,00,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Jul-2021 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

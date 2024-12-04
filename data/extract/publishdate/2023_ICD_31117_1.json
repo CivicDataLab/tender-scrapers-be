@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ICD_31117_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "16-Jun-2023 03:00 PM",
+    "tenderValueAmount": "47,250",
+    "tender": [
+        {
+            "id": "2023_ICD_31117_1",
+            "title": "CPVC PIPING JOB FOR CATION ANION AND MIXED BED EXCHANGERS FOR DM SECTION IN F-II PLANT",
+            "description": "CPVC PIPING JOB FOR CATION ANION AND MIXED BED EXCHANGERS FOR DM SECTION IN F-II PLANT",
+            "datePublished": "08-Jun-2023 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "47,250",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Jun-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

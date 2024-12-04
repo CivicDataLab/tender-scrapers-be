@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_42",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,39,18,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_42",
+            "title": "MMNPPNA_23_24_132 (i) Improvement of Bhairabi Temple Road (Remaining Part) (Ch-0.00 m to Ch 1250.00 M), (ii) Improvement of Ganesh Mill Chariali Barika Chuburi via Polofield (Ch-0.00 m to Ch 1500.00 M), (iii) Improvement of Chandiram Bora Path conne",
+            "description": "MMNPPNA_23_24_132 (i) Improvement of Bhairabi Temple Road (Remaining Part) (Ch-0.00 m to Ch 1250.00 M), (ii) Improvement of Ganesh Mill Chariali Barika Chuburi via Polofield (Ch-0.00 m to Ch 1500.00 M), (iii) Improvement of Chandiram Bora Path conne",
+            "datePublished": "02-Oct-2023 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,39,18,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

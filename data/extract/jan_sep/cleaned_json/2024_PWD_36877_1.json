@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36877_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Mar-2024 02:30 PM",
+    "tenderValueAmount": "3,28,49,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36877_1",
+            "title": "Pub Sarania Road to be used by diversed traffic as an alternate means of communication",
+            "description": "Pub Sarania Road to be used by diversed traffic as an alternate means of communication",
+            "datePublished": "04-Mar-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,28,49,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Mar-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

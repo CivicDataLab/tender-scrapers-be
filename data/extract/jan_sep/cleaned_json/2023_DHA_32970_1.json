@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DHA_32970_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "21-Nov-2023 03:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_DHA_32970_1",
+            "title": "SUPPLY OF TUBEROSE BULB PLANTING MATERIALS FOR THE STATE FLORICULTURE MISSION",
+            "description": "SUPPLY OF TUBEROSE BULB PLANTING MATERIALS FOR THE STATE FLORICULTURE MISSION",
+            "datePublished": "12-Oct-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Nov-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

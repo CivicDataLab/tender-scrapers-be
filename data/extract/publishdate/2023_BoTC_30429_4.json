@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_30429_4",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-May-2023 03:00 PM",
+    "tenderValueAmount": "1,24,19,226",
+    "tender": [
+        {
+            "id": "2023_BoTC_30429_4",
+            "title": "Karigaon Balajan FIS under PMKSY-HKKP for the year 2021-22",
+            "description": "Karigaon Balajan FIS under PMKSY-HKKP for the year 2021-22",
+            "datePublished": "10-Apr-2023 05:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,24,19,226",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-May-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

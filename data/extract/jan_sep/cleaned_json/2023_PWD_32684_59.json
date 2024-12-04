@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_59",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "3,30,71,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_59",
+            "title": "MMNPPNA_23_24_44 (i) Construction of road Dhubri Bashbari Road Bye Lane (By the side of Gas Agency) in ward no 1, (ii) Construction of Cottage Road By lane (By the side of water supply) in ward no 2 , (iii) Construction of Vibekananda Road",
+            "description": "MMNPPNA_23_24_44 (i) Construction of road Dhubri Bashbari Road Bye Lane (By the side of Gas Agency) in ward no 1, (ii) Construction of Cottage Road By lane (By the side of water supply) in ward no 2 , (iii) Construction of Vibekananda Road",
+            "datePublished": "02-Oct-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,30,71,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

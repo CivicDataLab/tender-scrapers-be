@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_19",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,24,92,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_19",
+            "title": "MMNPPNA_23_24_55 (i) Strengthening of BTC road ward No. 5 (Ch-0.00 m to Ch-400.00 m) (ii) Construction of Azad road from Moiramora (Ch-0.00 m to Ch-840.00 m) (iii) Upgradation of Old NT road at Hanuman Mandir Chariali (iv) Construction of Howly Ambar",
+            "description": "MMNPPNA_23_24_55 (i) Strengthening of BTC road ward No. 5 (Ch-0.00 m to Ch-400.00 m) (ii) Construction of Azad road from Moiramora (Ch-0.00 m to Ch-840.00 m) (iii) Upgradation of Old NT road at Hanuman Mandir Chariali (iv) Construction of Howly Ambar",
+            "datePublished": "29-Sep-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,24,92,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

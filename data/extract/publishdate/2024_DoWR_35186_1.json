@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_35186_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "10-Jan-2024 03:00 PM",
+    "tenderValueAmount": "1,50,14,910",
+    "tender": [
+        {
+            "id": "2024_DoWR_35186_1",
+            "title": "Procurement of flood fighting materials (Mega Bag) for water Resources Department for the year 2024-25 Zone D.",
+            "description": "Procurement of flood fighting materials (Mega Bag) for water Resources Department for the year 2024-25 Zone D.",
+            "datePublished": "04-Jan-2024 12:00 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "1,50,14,910",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

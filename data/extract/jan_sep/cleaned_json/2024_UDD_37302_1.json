@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_UDD_37302_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Apr-2024 03:00 PM",
+    "tenderValueAmount": "2,30,00,000",
+    "tender": [
+        {
+            "id": "2024_UDD_37302_1",
+            "title": "Processing and Disposal of Legacy Municipal Solid Waste",
+            "description": "Processing and Disposal of Legacy Municipal Solid Waste",
+            "datePublished": "15-Mar-2024 02:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,30,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Apr-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

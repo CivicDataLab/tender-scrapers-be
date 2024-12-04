@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34206_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Dec-2023 02:00 PM",
+    "tenderValueAmount": "27,79,000",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34206_2",
+            "title": "Repairing and Renovation of Circuit House and Campus Development at Udalguri Circuit House (In connection with Cabinet Meeting)",
+            "description": "Repairing and Renovation of Circuit House and Campus Development at Udalguri Circuit House (In connection with Cabinet Meeting)",
+            "datePublished": "24-Nov-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "27,79,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

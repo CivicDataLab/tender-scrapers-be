@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32885_26",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,00,00,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32885_26",
+            "title": "MMNPPNA_23_24_196 (i) Improvement of Hamren PWD office to Rongmandu road (Don Bosco school to Langkarom)(Gaurab Path) (Ch-0.00 m to Ch-550.00 m), (ii) Improvement of Hamren purana bazar to Nepali gaon via Fire brigade road(Ch-270.00 m to Ch-895.00 m)",
+            "description": "MMNPPNA_23_24_196 (i) Improvement of Hamren PWD office to Rongmandu road (Don Bosco school to Langkarom)(Gaurab Path) (Ch-0.00 m to Ch-550.00 m), (ii) Improvement of Hamren purana bazar to Nepali gaon via Fire brigade road(Ch-270.00 m to Ch-895.00 m)",
+            "datePublished": "12-Oct-2023 12:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,00,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

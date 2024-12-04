@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33321_11",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Nov-2023 11:00 AM",
+    "tenderValueAmount": "12,80,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33321_11",
+            "title": "Package No.Chirang/MMPNA/BUG/01 Repair/ Rehabilitation of Br. No.2/1 on Bijni to NH 31 Sialmari Road at Ch.1650.00 m for the year 2023-24 Chirang R and B Division (BUG Bridge) in Barama LAC",
+            "description": "Package No.Chirang/MMPNA/BUG/01 Repair/ Rehabilitation of Br. No.2/1 on Bijni to NH 31 Sialmari Road at Ch.1650.00 m for the year 2023-24 Chirang R and B Division (BUG Bridge) in Barama LAC",
+            "datePublished": "28-Oct-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "12,80,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

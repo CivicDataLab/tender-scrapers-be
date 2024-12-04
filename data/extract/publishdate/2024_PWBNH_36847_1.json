@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36847_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Mar-2024 02:00 PM",
+    "tenderValueAmount": "96,83,773",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36847_1",
+            "title": "LBCNL/2023-24/Dhemaji/D-09",
+            "description": "LBCNL/2023-24/Dhemaji/D-09",
+            "datePublished": "02-Mar-2024 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "96,83,773",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

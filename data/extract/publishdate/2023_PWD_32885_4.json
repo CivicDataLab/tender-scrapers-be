@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32885_4",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,83,49,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32885_4",
+            "title": "MMNPPNA_23_24_149 (i) Construction of RCC Drainage System at Basugaon Bazar road no. 1, (ii) Construction of RCC Drainage System at Basugaon Bazar road no. 2, (iii) Construction of RCC Drainage System at Basugaon Bazar road no. 3, (iv) Construction",
+            "description": "MMNPPNA_23_24_149 (i) Construction of RCC Drainage System at Basugaon Bazar road no. 1, (ii) Construction of RCC Drainage System at Basugaon Bazar road no. 2, (iii) Construction of RCC Drainage System at Basugaon Bazar road no. 3, (iv) Construction",
+            "datePublished": "09-Oct-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,83,49,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

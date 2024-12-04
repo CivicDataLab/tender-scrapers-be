@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37728_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "18-Jul-2024 12:00 PM",
+    "tenderValueAmount": "23,80,920",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37728_1",
+            "title": "Repairing and Renovation of Existing Buildings of Offices of DEEOs/BEEOs under the Directorate of Elementary Education, Assam. at DEEO Office Morigaon",
+            "description": "Repairing and Renovation of Existing Buildings of Offices of DEEOs/BEEOs under the Directorate of Elementary Education, Assam. at DEEO Office Morigaon",
+            "datePublished": "26-Jun-2024 12:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "23,80,920",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "18-Jul-2024 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35299_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Jan-2024 03:30 PM",
+    "tenderValueAmount": "1,02,09,648",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35299_1",
+            "title": "Construction of boundary wall with Iron gate around the allotted plot of land for Sub-Divisional Judical Magistrate Court,Naharkatia, Dibrugarh",
+            "description": "Construction of boundary wall with Iron gate around the allotted plot of land for Sub-Divisional Judical Magistrate Court,Naharkatia, Dibrugarh",
+            "datePublished": "08-Jan-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,02,09,648",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Jan-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36354_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Mar-2024 11:00 AM",
+    "tenderValueAmount": "42,23,500",
+    "tender": [
+        {
+            "id": "2024_PWD_36354_1",
+            "title": "Bihpuria/MMPNA/R_R/RE-1 Repair/Rehabilitation of RCC Br No 14/1 on Laluk to Narayanpur via Bihpuria road at Ch 13870.00m under MMPNA for the year 2023-24 under Bihpuria LAC",
+            "description": "Bihpuria/MMPNA/R_R/RE-1 Repair/Rehabilitation of RCC Br No 14/1 on Laluk to Narayanpur via Bihpuria road at Ch 13870.00m under MMPNA for the year 2023-24 under Bihpuria LAC",
+            "datePublished": "17-Feb-2024 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "42,23,500",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Mar-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

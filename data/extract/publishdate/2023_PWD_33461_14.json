@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33461_14",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Nov-2023 02:00 PM",
+    "tenderValueAmount": "1,99,77,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33461_14",
+            "title": "MMNPPNA_23_24_129 (i) Construction of NH-37 to FRU Road as Gaurab Path from Ch.0.00KM to 0.50KM, (ii) Reconstruction of Teok FRU campus internal road From ch 0.00KM to Ch. 0.14KM, (iii) Construction of Cover Slab of Teok Bongaligaon Drain, (iv) Const",
+            "description": "MMNPPNA_23_24_129 (i) Construction of NH-37 to FRU Road as Gaurab Path from Ch.0.00KM to 0.50KM, (ii) Reconstruction of Teok FRU campus internal road From ch 0.00KM to Ch. 0.14KM, (iii) Construction of Cover Slab of Teok Bongaligaon Drain, (iv) Const",
+            "datePublished": "02-Nov-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,99,77,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

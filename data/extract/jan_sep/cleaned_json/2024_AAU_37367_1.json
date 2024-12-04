@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_AAU_37367_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "23-Apr-2024 03:00 PM",
+    "tenderValueAmount": "30,34,525",
+    "tender": [
+        {
+            "id": "2024_AAU_37367_1",
+            "title": "Construction of 2 nos of 12 m height elevated 24000 Litre capacity water tank at Horticulture Experimental Farm at AAU, Jorhat",
+            "description": "Construction of 2 nos of 12 m height elevated 24000 Litre capacity water tank at Horticulture Experimental Farm at AAU, Jorhat",
+            "datePublished": "16-Mar-2024 03:10 PM",
+            "contractType": "Percentage",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "30,34,525",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "23-Apr-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_HFWD_31148_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "10-Jul-2023 04:30 PM",
+    "tenderValueAmount": "9,70,000",
+    "tender": [
+        {
+            "id": "2023_HFWD_31148_1",
+            "title": "SUPPLY OF PHYSIOTHERAPY EQUIPMENTS",
+            "description": "SUPPLY OF PHYSIOTHERAPY EQUIPMENTS",
+            "datePublished": "10-Jun-2023 09:00 AM",
+            "contractType": "Buy",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "9,70,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Jul-2023 04:30 PM"
+                }
+            ]
+        }
+    ]
+}

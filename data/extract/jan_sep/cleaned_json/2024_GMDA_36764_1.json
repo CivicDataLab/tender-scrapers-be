@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_GMDA_36764_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "22-Mar-2024 03:00 PM",
+    "tenderValueAmount": "88,60,000",
+    "tender": [
+        {
+            "id": "2024_GMDA_36764_1",
+            "title": "Cleaning and Removal of water hyacinth from Deepor Beel near NH 17 at Dharapur",
+            "description": "Cleaning and Removal of water hyacinth from Deepor Beel near NH 17 at Dharapur",
+            "datePublished": "29-Feb-2024 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "88,60,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "22-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

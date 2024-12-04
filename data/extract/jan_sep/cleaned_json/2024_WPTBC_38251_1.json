@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_WPTBC_38251_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "09-Aug-2024 09:00 AM",
+    "tenderValueAmount": "2,00,00,000",
+    "tender": [
+        {
+            "id": "2024_WPTBC_38251_1",
+            "title": "Construction of Approach Road to EMRS Donka West Karbi Anglong",
+            "description": "Construction of Approach Road to EMRS Donka West Karbi Anglong",
+            "datePublished": "30-Jul-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,00,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Aug-2024 09:00 AM"
+                }
+            ]
+        }
+    ]
+}

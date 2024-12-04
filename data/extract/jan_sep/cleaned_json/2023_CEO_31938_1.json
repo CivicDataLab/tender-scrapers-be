@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_CEO_31938_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "28-Aug-2023 11:00 AM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_CEO_31938_1",
+            "title": "OUTREACH AND SOCIAL MEDIA MANAGEMENT UNDER CHIEF ELECTORAL OFFICER, ASSAM",
+            "description": "OUTREACH AND SOCIAL MEDIA MANAGEMENT UNDER CHIEF ELECTORAL OFFICER, ASSAM",
+            "datePublished": "04-Aug-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Aug-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

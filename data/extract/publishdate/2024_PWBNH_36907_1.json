@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36907_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Mar-2024 11:30 AM",
+    "tenderValueAmount": "1,99,99,941",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36907_1",
+            "title": "Construction of Boundary Wall with infrastructure Development of Rural Community Resource Centre at Fullung, Rudreswar GP, Kamrup District under Untied Fund (State Specific Scheme) during the year 2020-21",
+            "description": "Construction of Boundary Wall with infrastructure Development of Rural Community Resource Centre at Fullung, Rudreswar GP, Kamrup District under Untied Fund (State Specific Scheme) during the year 2020-21",
+            "datePublished": "05-Mar-2024 12:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,99,99,941",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Mar-2024 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

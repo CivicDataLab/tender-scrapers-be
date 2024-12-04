@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_34538_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Dec-2023 04:00 PM",
+    "tenderValueAmount": "24,50,000",
+    "tender": [
+        {
+            "id": "2023_BoTC_34538_1",
+            "title": "Construction of Parking Shed and Godown at Basugaon Municipal Board office premises, Ward No. 1, Basugaon Town.",
+            "description": "Construction of Parking Shed and Godown at Basugaon Municipal Board office premises, Ward No. 1, Basugaon Town.",
+            "datePublished": "08-Dec-2023 10:30 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,50,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Dec-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

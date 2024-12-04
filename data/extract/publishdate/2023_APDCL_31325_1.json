@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_APDCL_31325_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Jul-2023 02:00 PM",
+    "tenderValueAmount": "6,76,82,717",
+    "tender": [
+        {
+            "id": "2023_APDCL_31325_1",
+            "title": "Construction of 33kV line from Adabari GSS to Choibari DSS under Chapar ESD along with 33kV bay at Choibari DSS under Kokrajhar EC APDCL",
+            "description": "Construction of 33kV line from Adabari GSS to Choibari DSS under Chapar ESD along with 33kV bay at Choibari DSS under Kokrajhar EC APDCL",
+            "datePublished": "22-Jun-2023 10:00 AM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "6,76,82,717",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Jul-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

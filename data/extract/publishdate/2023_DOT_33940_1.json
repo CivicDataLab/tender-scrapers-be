@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DOT_33940_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "01-Dec-2023 01:00 PM",
+    "tenderValueAmount": "20,000",
+    "tender": [
+        {
+            "id": "2023_DOT_33940_1",
+            "title": "Development, Operation and Management Contract for running the Wayside Amenity Centre at Sorbhog",
+            "description": "Development, Operation and Management Contract for running the Wayside Amenity Centre at Sorbhog",
+            "datePublished": "14-Nov-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "20,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Dec-2023 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_UDD_33243_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "20-Nov-2023 11:00 AM",
+    "tenderValueAmount": "41,30,000",
+    "tender": [
+        {
+            "id": "2023_UDD_33243_1",
+            "title": "Selection of Agency for Generation of Quick Response Codes and Development of Mobile App for different stakeholders at State and ULB level",
+            "description": "Selection of Agency for Generation of Quick Response Codes and Development of Mobile App for different stakeholders at State and ULB level",
+            "datePublished": "23-Oct-2023 09:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "41,30,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

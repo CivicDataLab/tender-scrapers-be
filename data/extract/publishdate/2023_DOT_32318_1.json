@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DOT_32318_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "30-Sep-2023 03:00 PM",
+    "tenderValueAmount": "50,000",
+    "tender": [
+        {
+            "id": "2023_DOT_32318_1",
+            "title": "Development, Operation and Management Contract for running the Prashaanti Tourist Complex at Jonai",
+            "description": "Development, Operation and Management Contract for running the Prashaanti Tourist Complex at Jonai",
+            "datePublished": "31-Aug-2023 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "50,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Sep-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

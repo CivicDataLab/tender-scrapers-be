@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_31609_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Aug-2023 11:00 AM",
+    "tenderValueAmount": "3,00,35,054",
+    "tender": [
+        {
+            "id": "2023_BoTC_31609_2",
+            "title": "C.C. lining including earth work at Branch Canal M2D2 from Chainage 6780 m to 8850 m of ERM,Sukla Irrigation Project under PMKSY-AIBP for the year 2021-22",
+            "description": "C.C. lining including earth work at Branch Canal M2D2 from Chainage 6780 m to 8850 m of ERM,Sukla Irrigation Project under PMKSY-AIBP for the year 2021-22",
+            "datePublished": "10-Jul-2023 06:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,00,35,054",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Aug-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

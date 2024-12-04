@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34658_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "18-Dec-2023 03:30 PM",
+    "tenderValueAmount": "39,63,566",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34658_1",
+            "title": "Construction of Internal Approaches and Parking Yard in Opthalmology Ward at Assam Medical College Hospital, Dibrugarh",
+            "description": "Construction of Internal Approaches and Parking Yard in Opthalmology Ward at Assam Medical College Hospital, Dibrugarh",
+            "datePublished": "13-Dec-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "39,63,566",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "18-Dec-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

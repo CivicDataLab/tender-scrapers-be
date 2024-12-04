@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_37453_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Apr-2024 11:00 AM",
+    "tenderValueAmount": "3,32,82,819",
+    "tender": [
+        {
+            "id": "2024_PWD_37453_1",
+            "title": "Construction of SPT Bridge including approaches at Tamulorghuli 16 Mile to Majuli connecting path over river Subansiri under SOPD TSP for the year 2023.24",
+            "description": "Construction of SPT Bridge including approaches at Tamulorghuli 16 Mile to Majuli connecting path over river Subansiri under SOPD TSP for the year 2023.24",
+            "datePublished": "27-Mar-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,32,82,819",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Apr-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

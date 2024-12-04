@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_AHVD_34567_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Jan-2024 03:00 PM",
+    "tenderValueAmount": "3,09,19,314",
+    "tender": [
+        {
+            "id": "2023_AHVD_34567_1",
+            "title": "Establishment of 10000 LPD (expandable) upto 20000 LPD) Capacity Milk Processing Plant at Patacharkuchi, Bajali under NEC",
+            "description": "Establishment of 10000 LPD (expandable) upto 20000 LPD) Capacity Milk Processing Plant at Patacharkuchi, Bajali under NEC",
+            "datePublished": "08-Dec-2023 05:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,09,19,314",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

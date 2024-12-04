@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_BoTC_28565_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "25-Jan-2023 02:30 PM",
+    "tenderValueAmount": "44,65,482",
+    "tender": [
+        {
+            "id": "2022_BoTC_28565_1",
+            "title": "Const of concrete paver road from Sanparia Library house to Bhakru Lahary house under SOPD 2022-23.",
+            "description": "Const of concrete paver road from Sanparia Library house to Bhakru Lahary house under SOPD 2022-23.",
+            "datePublished": "31-Dec-2022 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "44,65,482",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "25-Jan-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

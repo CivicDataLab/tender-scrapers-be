@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ID_37549_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Jul-2024 03:00 PM",
+    "tenderValueAmount": "25,00,000",
+    "tender": [
+        {
+            "id": "2024_ID_37549_1",
+            "title": "Renovation of Bhetijan Salbari Flow I/Scheme under SOPD-G for the year 2023-24",
+            "description": "Renovation of Bhetijan Salbari Flow I/Scheme under SOPD-G for the year 2023-24",
+            "datePublished": "11-Jun-2024 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "25,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Jul-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

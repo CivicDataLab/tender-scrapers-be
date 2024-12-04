@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PCCF_35502_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Feb-2024 12:00 PM",
+    "tenderValueAmount": "79,37,919",
+    "tender": [
+        {
+            "id": "2024_PCCF_35502_1",
+            "title": "Supply fitting fixing around 104 Hect ANR plantation area of full chain linked goat proof fencing to be fitted on pre-cast RCC Pillars of specific specification and size",
+            "description": "Supply fitting fixing around 104 Hect ANR plantation area of full chain linked goat proof fencing to be fitted on pre-cast RCC Pillars of specific specification and size",
+            "datePublished": "16-Jan-2024 05:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "79,37,919",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Feb-2024 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

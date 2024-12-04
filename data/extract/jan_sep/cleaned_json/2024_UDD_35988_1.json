@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_UDD_35988_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "20-Feb-2024 03:00 PM",
+    "tenderValueAmount": "64,25,200",
+    "tender": [
+        {
+            "id": "2024_UDD_35988_1",
+            "title": "Const. of RCC drain starting from Kali Mandir up to Charbazar PHE under 15th Finance Commission, un-tied grant (2nd Phase) for the year 2022-23, at KARIMGANJ, ASSAM",
+            "description": "Const. of RCC drain starting from Kali Mandir up to Charbazar PHE under 15th Finance Commission, un-tied grant (2nd Phase) for the year 2022-23, at KARIMGANJ, ASSAM",
+            "datePublished": "06-Feb-2024 05:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "64,25,200",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

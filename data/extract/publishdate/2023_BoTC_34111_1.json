@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_34111_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Dec-2023 03:30 PM",
+    "tenderValueAmount": "42,31,720",
+    "tender": [
+        {
+            "id": "2023_BoTC_34111_1",
+            "title": "Creation of 1.5 Ha Nursery as per latest norms for 1.5 Ha Nursery at under State CHAMPA Scheme at Raimona",
+            "description": "Creation of 1.5 Ha Nursery as per latest norms for 1.5 Ha Nursery at under State CHAMPA Scheme at Raimona",
+            "datePublished": "21-Nov-2023 04:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "42,31,720",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Dec-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_35087_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "15-Jan-2024 03:30 PM",
+    "tenderValueAmount": "22,00,029",
+    "tender": [
+        {
+            "id": "2023_BoTC_35087_1",
+            "title": "Printing of four colour 6(six) leaves both side 12 Pages with strong binding bar",
+            "description": "Printing of four colour 6(six) leaves both side 12 Pages with strong binding bar",
+            "datePublished": "30-Dec-2023 03:00 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "22,00,029",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Jan-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

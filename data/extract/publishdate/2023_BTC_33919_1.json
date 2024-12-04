@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33919_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Dec-2023 02:00 PM",
+    "tenderValueAmount": "5,24,92,000",
+    "tender": [
+        {
+            "id": "2023_BTC_33919_1",
+            "title": "Construction of road from Tukrajhar H.S. School to Aie Dubri village via Aie Powali RCC bridge in Chirang District under CMs Goodwill project in BTC Area for the year 2023-24. TN-26-122",
+            "description": "Construction of road from Tukrajhar H.S. School to Aie Dubri village via Aie Powali RCC bridge in Chirang District under CMs Goodwill project in BTC Area for the year 2023-24. TN-26-122",
+            "datePublished": "13-Nov-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "5,24,92,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

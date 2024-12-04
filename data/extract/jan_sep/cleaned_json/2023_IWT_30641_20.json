@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_IWT_30641_20",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "19-May-2023 03:00 PM",
+    "tenderValueAmount": "3,80,000",
+    "tender": [
+        {
+            "id": "2023_IWT_30641_20",
+            "title": "LEASING OUT OF I.W.T. FERRY SERVICES UNDER IWT DIVISION GUWAHATI FOR THE PERIOD OF 2022-2024 AT Baghbor-Goalpara via Mainbari, Tarakandi (club)",
+            "description": "LEASING OUT OF I.W.T. FERRY SERVICES UNDER IWT DIVISION GUWAHATI FOR THE PERIOD OF 2022-2024 AT Baghbor-Goalpara via Mainbari, Tarakandi (club)",
+            "datePublished": "29-Apr-2023 04:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "3,80,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-May-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

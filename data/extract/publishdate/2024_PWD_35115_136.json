@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35115_136",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:30 PM",
+    "tenderValueAmount": "2,09,37,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35115_136",
+            "title": "MMPPNA_23_24_83, Construction of Road from NH 53 to Narayanpur Basti via Nagabasti and Debipur Basti from Ch. 1000.00 m to Ch. 2400.00 m, 2.Improvement of road from Hmarkulin Gobinda Nagar Road near Kalibari to Chaisel Punjee under Mukhya Mantrir..",
+            "description": "MMPPNA_23_24_83, Construction of Road from NH 53 to Narayanpur Basti via Nagabasti and Debipur Basti from Ch. 1000.00 m to Ch. 2400.00 m, 2.Improvement of road from Hmarkulin Gobinda Nagar Road near Kalibari to Chaisel Punjee under Mukhya Mantrir..",
+            "datePublished": "04-Jan-2024 03:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,09,37,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

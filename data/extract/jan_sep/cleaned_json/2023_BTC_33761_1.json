@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33761_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Nov-2023 12:00 PM",
+    "tenderValueAmount": "3,00,79,893",
+    "tender": [
+        {
+            "id": "2023_BTC_33761_1",
+            "title": "Construction of road from Duliapara T.D. road near Maipua Chowk to Nonaipara High School via No. 2 Nachansali village under CMs Goodwill Mision Project for the financial year 2023-24 of District Udalguri. (TN_26_149)",
+            "description": "Construction of road from Duliapara T.D. road near Maipua Chowk to Nonaipara High School via No. 2 Nachansali village under CMs Goodwill Mision Project for the financial year 2023-24 of District Udalguri. (TN_26_149)",
+            "datePublished": "09-Nov-2023 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,00,79,893",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

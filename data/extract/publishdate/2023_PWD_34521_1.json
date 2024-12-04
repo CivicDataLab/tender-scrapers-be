@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34521_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Dec-2023 11:00 AM",
+    "tenderValueAmount": "1,37,80,100",
+    "tender": [
+        {
+            "id": "2023_PWD_34521_1",
+            "title": "KAMRUP METRO/MMPNA/P_R/01 Repair and Rehabilitation of bridge located at ROB on Guwahati Club at Ch. 0.127 km under Mukhya Mantrir Path Nabikaran Aachani for the year 2023-24",
+            "description": "KAMRUP METRO/MMPNA/P_R/01 Repair and Rehabilitation of bridge located at ROB on Guwahati Club at Ch. 0.127 km under Mukhya Mantrir Path Nabikaran Aachani for the year 2023-24",
+            "datePublished": "07-Dec-2023 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,37,80,100",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Dec-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37939_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "22-Jul-2024 03:00 PM",
+    "tenderValueAmount": "21,79,446",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37939_1",
+            "title": "Repairing and Renovation of Assam Administrative Staff College, Khanapara, Guwahati-22 (Changing of damaged wall paneling and wall paper in Room No. 306 and 305 including roof treatment work top roof slab)",
+            "description": "Repairing and Renovation of Assam Administrative Staff College, Khanapara, Guwahati-22 (Changing of damaged wall paneling and wall paper in Room No. 306 and 305 including roof treatment work top roof slab)",
+            "datePublished": "10-Jul-2024 02:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "21,79,446",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "22-Jul-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

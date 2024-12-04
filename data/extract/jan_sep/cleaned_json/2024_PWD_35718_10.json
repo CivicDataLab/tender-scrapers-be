@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35718_10",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Feb-2024 02:00 PM",
+    "tenderValueAmount": "2,98,54,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35718_10",
+            "title": "MMPPNA_23_24_84 1. Construction of Road from Burtoll TE to Fagubaba Mandir via Burtoll Field and thailoo Boro line, 2.Construction of Road from NH37 to Machpara, 3.Construction of Road from RCC Bridge on Shibpur Lakhipur Road to Borbil (Razagram)",
+            "description": "MMPPNA_23_24_84 1. Construction of Road from Burtoll TE to Fagubaba Mandir via Burtoll Field and thailoo Boro line, 2.Construction of Road from NH37 to Machpara, 3.Construction of Road from RCC Bridge on Shibpur Lakhipur Road to Borbil (Razagram)",
+            "datePublished": "26-Jan-2024 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,98,54,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

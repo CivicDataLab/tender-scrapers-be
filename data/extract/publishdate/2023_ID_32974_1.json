@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ID_32974_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Nov-2023 03:00 PM",
+    "tenderValueAmount": "27,91,69,120",
+    "tender": [
+        {
+            "id": "2023_ID_32974_1",
+            "title": "Construction of 4 nos of SMI Schemes under PMKSY_HKKP_SMI for the year 2022_23 __Electric Lift Irrigation Scheme ELIS 21 Pts under PMKSY_HKKP_SMI for the year 2022_23 under Lakhipur Div Lakhipur Pkg_1",
+            "description": "Construction of 4 nos of SMI Schemes under PMKSY_HKKP_SMI for the year 2022_23 __Electric Lift Irrigation Scheme ELIS 21 Pts under PMKSY_HKKP_SMI for the year 2022_23 under Lakhipur Div Lakhipur Pkg_1",
+            "datePublished": "12-Oct-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "27,91,69,120",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

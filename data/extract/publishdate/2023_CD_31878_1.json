@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_CD_31878_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "01-Sep-2023 12:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_CD_31878_1",
+            "title": "Milk Crate and Perforated product Crate (Capacity 12 ltr)",
+            "description": "Milk Crate and Perforated product Crate (Capacity 12 ltr)",
+            "datePublished": "01-Aug-2023 04:40 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Sep-2023 12:30 PM"
+                }
+            ]
+        }
+    ]
+}

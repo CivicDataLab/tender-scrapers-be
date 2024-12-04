@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33659_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Nov-2023 12:00 PM",
+    "tenderValueAmount": "2,32,99,498",
+    "tender": [
+        {
+            "id": "2023_BTC_33659_1",
+            "title": "Construction of CC Block from Fakribari Church to Kathpuri village Thelamara Bathou Mandir (From Ch. 0.00 Km to Ch. 3.80 Km) (Total Pavement Length 2.988 Km) under CMs Goodwill Mission Project for the financial year 2023-24. (TN_26_125)",
+            "description": "Construction of CC Block from Fakribari Church to Kathpuri village Thelamara Bathou Mandir (From Ch. 0.00 Km to Ch. 3.80 Km) (Total Pavement Length 2.988 Km) under CMs Goodwill Mission Project for the financial year 2023-24. (TN_26_125)",
+            "datePublished": "08-Nov-2023 10:30 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,32,99,498",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

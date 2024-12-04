@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ICD_29730_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "15-Mar-2023 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_ICD_29730_1",
+            "title": "MANPOWER SUPPLY WITH TOOLS and TACKELS (WITHOUT CONSUMABLES) FOR REGULAR MAINTENANCE WORK AT APL.",
+            "description": "MANPOWER SUPPLY WITH TOOLS and TACKELS (WITHOUT CONSUMABLES) FOR REGULAR MAINTENANCE WORK AT APL.",
+            "datePublished": "04-Mar-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Limited",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Mar-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

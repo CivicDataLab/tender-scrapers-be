@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33784_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "21-Nov-2023 11:00 AM",
+    "tenderValueAmount": "23,45,626",
+    "tender": [
+        {
+            "id": "2023_PWD_33784_1",
+            "title": "Road Safety Measures on Rural Roads under PWD, North Abhayapuri Territorial Road Sub-Division, Manikpur, connect with NH, SH-2, ODR and RR for the year 2023-24",
+            "description": "Road Safety Measures on Rural Roads under PWD, North Abhayapuri Territorial Road Sub-Division, Manikpur, connect with NH, SH-2, ODR and RR for the year 2023-24",
+            "datePublished": "09-Nov-2023 01:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "23,45,626",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

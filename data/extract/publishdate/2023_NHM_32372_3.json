@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_NHM_32372_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Sep-2023 03:00 PM",
+    "tenderValueAmount": "35,52,213",
+    "tender": [
+        {
+            "id": "2023_NHM_32372_3",
+            "title": "Up gradation of Gauripur CHC to FRU in Dhubri district",
+            "description": "Up gradation of Gauripur CHC to FRU in Dhubri district",
+            "datePublished": "04-Sep-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "35,52,213",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Sep-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

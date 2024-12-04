@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_AHVD_34049_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Dec-2023 02:30 PM",
+    "tenderValueAmount": "30,00,000",
+    "tender": [
+        {
+            "id": "2023_AHVD_34049_1",
+            "title": "Construction of Raised Plate Form for Animal at Disoi in Golaghat District under SOPD G Scheme",
+            "description": "Construction of Raised Plate Form for Animal at Disoi in Golaghat District under SOPD G Scheme",
+            "datePublished": "18-Nov-2023 04:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "30,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Dec-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

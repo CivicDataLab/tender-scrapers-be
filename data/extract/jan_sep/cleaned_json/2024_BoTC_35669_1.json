@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_35669_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "15-Feb-2024 02:30 PM",
+    "tenderValueAmount": "23,53,594",
+    "tender": [
+        {
+            "id": "2024_BoTC_35669_1",
+            "title": "Construction of road with EF and SG from Goreswar Gokhaihawli connecting road to Singimari village road under Rampur VCDC under 15th FC Fund for the year 2023-24.",
+            "description": "Construction of road with EF and SG from Goreswar Gokhaihawli connecting road to Singimari village road under Rampur VCDC under 15th FC Fund for the year 2023-24.",
+            "datePublished": "24-Jan-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "23,53,594",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Feb-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

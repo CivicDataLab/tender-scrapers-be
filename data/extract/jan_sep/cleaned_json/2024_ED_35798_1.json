@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ED_35798_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "14-Mar-2024 11:00 AM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_ED_35798_1",
+            "title": "GRANT OF IMFL RETAIL OFF SHOP NO. UDL 1 AT LALPANI, UDALGURI",
+            "description": "GRANT OF IMFL RETAIL OFF SHOP NO. UDL 1 AT LALPANI, UDALGURI",
+            "datePublished": "12-Feb-2024 09:00 AM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "14-Mar-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_89",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,54,44,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_89",
+            "title": "MMNPPNA_23_24_10 (i) Construction of Babul Das Road (Road from NH-39 at Chandrapur to Co-operative Tin Ali Via Bokajan Cremation Ground at ward No. 2 N 3 (ii) Construction of Road form NH-39 at FCI Gudam to St. Jhon School at Ward No- 6 (Ch-0.00 m T",
+            "description": "MMNPPNA_23_24_10 (i) Construction of Babul Das Road (Road from NH-39 at Chandrapur to Co-operative Tin Ali Via Bokajan Cremation Ground at ward No. 2 N 3 (ii) Construction of Road form NH-39 at FCI Gudam to St. Jhon School at Ward No- 6 (Ch-0.00 m T",
+            "datePublished": "04-Oct-2023 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,54,44,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

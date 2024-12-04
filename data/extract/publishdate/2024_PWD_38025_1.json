@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_38025_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Jul-2024 02:00 PM",
+    "tenderValueAmount": "29,07,180",
+    "tender": [
+        {
+            "id": "2024_PWD_38025_1",
+            "title": "Balance work Estimate for Beautification work with renovation of existing Footpaths and central verges by providing Kerb stone ornamental Grills Coloured tiles FRP menholes etc on A T Road from Adabari to Jalukbari Upto NHAI Fly over L 900m",
+            "description": "Balance work Estimate for Beautification work with renovation of existing Footpaths and central verges by providing Kerb stone ornamental Grills Coloured tiles FRP menholes etc on A T Road from Adabari to Jalukbari Upto NHAI Fly over L 900m",
+            "datePublished": "15-Jul-2024 04:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "29,07,180",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jul-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

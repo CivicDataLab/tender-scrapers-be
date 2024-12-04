@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_32021_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Sep-2023 02:30 PM",
+    "tenderValueAmount": "21,11,31,086",
+    "tender": [
+        {
+            "id": "2023_PWBNH_32021_1",
+            "title": "Establishment of College of Sericulture at Titabor, Jorhat, Assam for the FY 2022-23 (on Engineering, Procurement and Construction (EPC) Mode-I Basis)",
+            "description": "Establishment of College of Sericulture at Titabor, Jorhat, Assam for the FY 2022-23 (on Engineering, Procurement and Construction (EPC) Mode-I Basis)",
+            "datePublished": "10-Aug-2023 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "21,11,31,086",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Sep-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

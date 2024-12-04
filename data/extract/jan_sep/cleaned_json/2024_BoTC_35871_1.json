@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_35871_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Feb-2024 01:30 PM",
+    "tenderValueAmount": "32,17,981",
+    "tender": [
+        {
+            "id": "2024_BoTC_35871_1",
+            "title": "Construction of Smart Fencing with main entry Gate at Khoirabari Anchalik Bathou Thansali Arrengapara under Grants to BTC for Infrastructure Development for the year 2023-24. 533-3",
+            "description": "Construction of Smart Fencing with main entry Gate at Khoirabari Anchalik Bathou Thansali Arrengapara under Grants to BTC for Infrastructure Development for the year 2023-24. 533-3",
+            "datePublished": "02-Feb-2024 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "32,17,981",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Feb-2024 01:30 PM"
+                }
+            ]
+        }
+    ]
+}

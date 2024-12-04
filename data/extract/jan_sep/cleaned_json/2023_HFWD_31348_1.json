@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_HFWD_31348_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "04-Aug-2023 04:00 PM",
+    "tenderValueAmount": "21,00,00,000",
+    "tender": [
+        {
+            "id": "2023_HFWD_31348_1",
+            "title": "Reagents for various Diagnostic equipment",
+            "description": "Reagents for various Diagnostic equipment",
+            "datePublished": "23-Jun-2023 02:00 PM",
+            "contractType": "Fixed-rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "21,00,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Aug-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

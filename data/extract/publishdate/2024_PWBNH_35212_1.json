@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35212_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Jan-2024 04:00 PM",
+    "tenderValueAmount": "1,40,73,143",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35212_1",
+            "title": "Jagannath Community and Skill Centre at South Catherines T.E.Gaglacherra in Hailakandi LAC of Hailakabdi DistrictGr.II",
+            "description": "Jagannath Community and Skill Centre at South Catherines T.E.Gaglacherra in Hailakandi LAC of Hailakabdi DistrictGr.II",
+            "datePublished": "06-Jan-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,40,73,143",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jan-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

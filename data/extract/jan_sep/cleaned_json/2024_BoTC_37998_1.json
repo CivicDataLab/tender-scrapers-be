@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_37998_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Aug-2024 02:30 PM",
+    "tenderValueAmount": "23,78,950",
+    "tender": [
+        {
+            "id": "2024_BoTC_37998_1",
+            "title": "Const of road filling and sand gravelling from Majadabri PMAGSY road to Believers Church under 15th FC, Untied Grant for the year 2023-24.",
+            "description": "Const of road filling and sand gravelling from Majadabri PMAGSY road to Believers Church under 15th FC, Untied Grant for the year 2023-24.",
+            "datePublished": "15-Jul-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "23,78,950",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Aug-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

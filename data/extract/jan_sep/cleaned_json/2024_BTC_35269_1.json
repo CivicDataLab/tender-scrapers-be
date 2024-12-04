@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_35269_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Feb-2024 03:00 PM",
+    "tenderValueAmount": "87,38,223",
+    "tender": [
+        {
+            "id": "2024_BTC_35269_1",
+            "title": "Construction of Martyr Sujit Narzary Memorial Auditorium at Shantipur in Chirang District. (TN_57_1)",
+            "description": "Construction of Martyr Sujit Narzary Memorial Auditorium at Shantipur in Chirang District. (TN_57_1)",
+            "datePublished": "06-Jan-2024 11:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "87,38,223",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

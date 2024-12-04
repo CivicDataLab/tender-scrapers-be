@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36324_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Feb-2024 02:00 PM",
+    "tenderValueAmount": "21,99,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36324_1",
+            "title": "Construction of Lathia Bagisa Bye Lane including Construction of Brick Masonry Drain near Guwahati IIT under SOPD G for the year 2023 24",
+            "description": "Construction of Lathia Bagisa Bye Lane including Construction of Brick Masonry Drain near Guwahati IIT under SOPD G for the year 2023 24",
+            "datePublished": "16-Feb-2024 02:20 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "21,99,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

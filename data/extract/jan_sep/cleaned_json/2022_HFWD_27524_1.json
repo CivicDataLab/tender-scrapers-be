@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_HFWD_27524_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "28-Nov-2022 04:30 PM",
+    "tenderValueAmount": "65,38,800",
+    "tender": [
+        {
+            "id": "2022_HFWD_27524_1",
+            "title": "SUPPLY OF MANNEQUIN",
+            "description": "SUPPLY OF MANNEQUIN",
+            "datePublished": "29-Oct-2022 05:45 PM",
+            "contractType": "Buy",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "65,38,800",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Nov-2022 04:30 PM"
+                }
+            ]
+        }
+    ]
+}

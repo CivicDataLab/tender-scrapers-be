@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35115_152",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:30 PM",
+    "tenderValueAmount": "4,25,75,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35115_152",
+            "title": "MMPPNA_23_24_125 1. Construction of SDBC road from Kashikotra to Athiabari village via Dakhin Bamungaon, 2.Construction of ICBP road at Subbaijhar village road under Mukhya Mantrir Pakipath Nirman Achani for the year 2023-24",
+            "description": "MMPPNA_23_24_125 1. Construction of SDBC road from Kashikotra to Athiabari village via Dakhin Bamungaon, 2.Construction of ICBP road at Subbaijhar village road under Mukhya Mantrir Pakipath Nirman Achani for the year 2023-24",
+            "datePublished": "06-Jan-2024 11:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,25,75,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

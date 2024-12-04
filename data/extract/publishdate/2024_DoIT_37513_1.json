@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoIT_37513_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Jul-2024 11:30 AM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_DoIT_37513_1",
+            "title": "Supply of Network Accessories",
+            "description": "Supply of Network Accessories",
+            "datePublished": "31-May-2024 04:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Jul-2024 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

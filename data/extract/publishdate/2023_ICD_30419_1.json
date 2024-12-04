@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ICD_30419_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "10-Apr-2023 03:00 PM",
+    "tenderValueAmount": "90,00,000",
+    "tender": [
+        {
+            "id": "2023_ICD_30419_1",
+            "title": "Construction of Pandal for Virtual Inauguration of 500 TPD Methanol Expansion Project of Assam PetroChemicals Limited by Honorable Prime Minister of India on April 14th 2023",
+            "description": "Construction of Pandal for Virtual Inauguration of 500 TPD Methanol Expansion Project of Assam PetroChemicals Limited by Honorable Prime Minister of India on April 14th 2023",
+            "datePublished": "07-Apr-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "90,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Apr-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

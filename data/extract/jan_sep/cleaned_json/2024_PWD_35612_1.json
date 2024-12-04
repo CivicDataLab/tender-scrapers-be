@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35612_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 11:00 AM",
+    "tenderValueAmount": "29,50,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35612_1",
+            "title": "Box Cell Culvert including Approaches at Nonoi Dakhinpat Roadunder Mukhya Mantrir Pakipath Nirman Achani for the year 2023-24",
+            "description": "Box Cell Culvert including Approaches at Nonoi Dakhinpat Roadunder Mukhya Mantrir Pakipath Nirman Achani for the year 2023-24",
+            "datePublished": "20-Jan-2024 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "29,50,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

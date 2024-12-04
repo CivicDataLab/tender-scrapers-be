@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33170_99",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Nov-2023 02:00 PM",
+    "tenderValueAmount": "12,39,35,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33170_99",
+            "title": "MMUPPNA_RIDF_XXIX_23_24_70 Improvement of (i) NH-06 at Abdullapur to Apin via Rongpur Pt-V (From Ch. 0.00m to Ch. 890.00m N Ch. 1660.00m to Ch. 6550.00m), (ii) Lala Koiya road (Lala town to Koiya) under Mukhya Mantrir Unnoto Pakipath Nirman Achani un",
+            "description": "MMUPPNA_RIDF_XXIX_23_24_70 Improvement of (i) NH-06 at Abdullapur to Apin via Rongpur Pt-V (From Ch. 0.00m to Ch. 890.00m N Ch. 1660.00m to Ch. 6550.00m), (ii) Lala Koiya road (Lala town to Koiya) under Mukhya Mantrir Unnoto Pakipath Nirman Achani un",
+            "datePublished": "26-Oct-2023 11:55 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "12,39,35,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36055_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 02:30 PM",
+    "tenderValueAmount": "1,54,10,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36055_1",
+            "title": "MMPPNA/Dispur/3 (RB)",
+            "description": "MMPPNA/Dispur/3 (RB)",
+            "datePublished": "08-Feb-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,54,10,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

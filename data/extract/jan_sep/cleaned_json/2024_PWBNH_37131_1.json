@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37131_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Apr-2024 02:00 PM",
+    "tenderValueAmount": "13,33,98,922",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37131_1",
+            "title": "Upgradation of Tularam Bafna Hospital from 50 beds to 200 Beds at Amingaon, Kamrup",
+            "description": "Upgradation of Tularam Bafna Hospital from 50 beds to 200 Beds at Amingaon, Kamrup",
+            "datePublished": "12-Mar-2024 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "13,33,98,922",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Apr-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

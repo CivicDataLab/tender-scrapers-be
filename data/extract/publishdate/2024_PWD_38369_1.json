@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_38369_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "22-Aug-2024 11:00 AM",
+    "tenderValueAmount": "1,47,29,712",
+    "tender": [
+        {
+            "id": "2024_PWD_38369_1",
+            "title": "Utility shifting (Shifting of Electrical lines) for the work Construction of R.O.B. in replacement of Railway Level crossing gate No. FM-72 at Cinnamora on Jorhat Mariani Mokochung Road in the district of Jorhat, Assam under construction of ROBs on",
+            "description": "Utility shifting (Shifting of Electrical lines) for the work Construction of R.O.B. in replacement of Railway Level crossing gate No. FM-72 at Cinnamora on Jorhat Mariani Mokochung Road in the district of Jorhat, Assam under construction of ROBs on",
+            "datePublished": "12-Aug-2024 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,47,29,712",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "22-Aug-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWRDW_35522_11",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Feb-2024 02:30 PM",
+    "tenderValueAmount": "4,83,04,000",
+    "tender": [
+        {
+            "id": "2024_PWRDW_35522_11",
+            "title": "Construction of Bridges in Barpeta District i.Br. No. 3/1 on Saderi, Nityananda, Anandapur Sathisamuka Road ii.Br. No. 1/1 on Hakartup to Bagulapara via Janpar Road",
+            "description": "Construction of Bridges in Barpeta District i.Br. No. 3/1 on Saderi, Nityananda, Anandapur Sathisamuka Road ii.Br. No. 1/1 on Hakartup to Bagulapara via Janpar Road",
+            "datePublished": "19-Jan-2024 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,83,04,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Feb-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

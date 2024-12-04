@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_127",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "4,27,37,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_127",
+            "title": "MMPPNA_23_24_311 (i) Construction of Ghuguloni Bongali Gaon Road from Ch. 0.00km to Ch. 1.60km, (ii) Construction of Approach Road to Naharpukhuri Project from Ch. 0.00 km to Ch. 0.997 km, (iii) Construction of Maran Nitai Road to 1 No.",
+            "description": "MMPPNA_23_24_311 (i) Construction of Ghuguloni Bongali Gaon Road from Ch. 0.00km to Ch. 1.60km, (ii) Construction of Approach Road to Naharpukhuri Project from Ch. 0.00 km to Ch. 0.997 km, (iii) Construction of Maran Nitai Road to 1 No.",
+            "datePublished": "18-Jan-2024 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,27,37,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

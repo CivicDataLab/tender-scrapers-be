@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DAASC_32720_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "21-Nov-2023 11:30 AM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_DAASC_32720_1",
+            "title": "PROCUREMENT OF BIO-FERTILIZER UNDER DIRECTORATE OF AGRICULTURE FOR THE YEAR 2023-24",
+            "description": "PROCUREMENT OF BIO-FERTILIZER UNDER DIRECTORATE OF AGRICULTURE FOR THE YEAR 2023-24",
+            "datePublished": "30-Sep-2023 11:10 AM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Nov-2023 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

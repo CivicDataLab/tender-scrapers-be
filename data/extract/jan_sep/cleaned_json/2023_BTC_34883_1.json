@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_34883_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Jan-2024 02:00 PM",
+    "tenderValueAmount": "3,83,14,679",
+    "tender": [
+        {
+            "id": "2023_BTC_34883_1",
+            "title": "Construction of ICBP road from Bijni PWD road via Doturi Railway Gate to Horizon Basti Doturi village road (Length-4.885 Km) in Chirang District, Assam under CMs Goodwill Project in BTC area for the year 2023-24. TN-26-100 R-1",
+            "description": "Construction of ICBP road from Bijni PWD road via Doturi Railway Gate to Horizon Basti Doturi village road (Length-4.885 Km) in Chirang District, Assam under CMs Goodwill Project in BTC area for the year 2023-24. TN-26-100 R-1",
+            "datePublished": "21-Dec-2023 01:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,83,14,679",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

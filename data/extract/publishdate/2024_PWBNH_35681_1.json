@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35681_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "15-Feb-2024 11:30 AM",
+    "tenderValueAmount": "24,91,100",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35681_1",
+            "title": "Providing and Installation of office staff working table along with shelves and AC machines at newly arranged cabin of the Assam Type Building at Directorate of Technical Education, Assam, Kahilipara, Guwahati-19 under EE during the year 2023-24",
+            "description": "Providing and Installation of office staff working table along with shelves and AC machines at newly arranged cabin of the Assam Type Building at Directorate of Technical Education, Assam, Kahilipara, Guwahati-19 under EE during the year 2023-24",
+            "datePublished": "24-Jan-2024 04:30 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,91,100",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Feb-2024 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

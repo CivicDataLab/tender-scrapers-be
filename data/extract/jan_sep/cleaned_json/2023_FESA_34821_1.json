@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_FESA_34821_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "09-Jan-2024 05:00 PM",
+    "tenderValueAmount": "2,10,13,453",
+    "tender": [
+        {
+            "id": "2023_FESA_34821_1",
+            "title": "Construction of RCC 3(three) storied Fire Station Building, Under Ground Water Reservoir (1.00 Lakh Ltr. Capacity), Boundary Wall and Security Fencing with Heavy Duty Iron Gate etc. at Duni in Darrang District,Assam",
+            "description": "Construction of RCC 3(three) storied Fire Station Building, Under Ground Water Reservoir (1.00 Lakh Ltr. Capacity), Boundary Wall and Security Fencing with Heavy Duty Iron Gate etc. at Duni in Darrang District,Assam",
+            "datePublished": "19-Dec-2023 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,10,13,453",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Jan-2024 05:00 PM"
+                }
+            ]
+        }
+    ]
+}

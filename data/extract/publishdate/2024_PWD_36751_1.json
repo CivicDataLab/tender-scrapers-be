@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36751_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Mar-2024 02:00 PM",
+    "tenderValueAmount": "2,71,97,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36751_1",
+            "title": "MMNPPNA_23_24_69 (i) Construction of Surja Sen Path (Ward-5) (ii) Construction of Bishnu Ram Tamuli Road (Ward-2) (iii) Construction of Vivekananda Path (Ward-5) (iv) Widening and re- construction of Road From ROB at ST45 to Nagaon Bus Stand",
+            "description": "MMNPPNA_23_24_69 (i) Construction of Surja Sen Path (Ward-5) (ii) Construction of Bishnu Ram Tamuli Road (Ward-2) (iii) Construction of Vivekananda Path (Ward-5) (iv) Widening and re- construction of Road From ROB at ST45 to Nagaon Bus Stand",
+            "datePublished": "29-Feb-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,71,97,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

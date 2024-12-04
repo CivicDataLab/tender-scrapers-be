@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_SCD_34851_6",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Jan-2024 11:00 AM",
+    "tenderValueAmount": "39,80,200",
+    "tender": [
+        {
+            "id": "2023_SCD_34851_6",
+            "title": "Water Harvesting Project at Bormuriya Deori Pathar, dhemaji",
+            "description": "Water Harvesting Project at Bormuriya Deori Pathar, dhemaji",
+            "datePublished": "20-Dec-2023 01:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "39,80,200",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Jan-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

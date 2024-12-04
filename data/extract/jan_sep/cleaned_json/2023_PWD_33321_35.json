@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33321_35",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Nov-2023 11:00 AM",
+    "tenderValueAmount": "15,44,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33321_35",
+            "title": "Package No. Kamrup(M)/MMPNA/BUG/2 Repair and Rehabilitation of BUG Br. No. 1/1 on NH-27 to Pamohi Road at Ch. 235.00m for the year 2023-24. West Guwahati Territorial Road Division",
+            "description": "Package No. Kamrup(M)/MMPNA/BUG/2 Repair and Rehabilitation of BUG Br. No. 1/1 on NH-27 to Pamohi Road at Ch. 235.00m for the year 2023-24. West Guwahati Territorial Road Division",
+            "datePublished": "28-Oct-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "15,44,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_AEGCL_32778_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Nov-2023 02:00 PM",
+    "tenderValueAmount": "33,94,839",
+    "tender": [
+        {
+            "id": "2023_AEGCL_32778_1",
+            "title": "Repairing and maintenance of existing approach road from main road to RE office with Pavers block pavement and construction of RCC slow sand filter at Behiating GSS and construction of security barrack in place of existing shed at Dibrugarh GSS",
+            "description": "Repairing and maintenance of existing approach road from main road to RE office with Pavers block pavement and construction of RCC slow sand filter at Behiating GSS and construction of security barrack in place of existing shed at Dibrugarh GSS",
+            "datePublished": "05-Oct-2023 12:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "33,94,839",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

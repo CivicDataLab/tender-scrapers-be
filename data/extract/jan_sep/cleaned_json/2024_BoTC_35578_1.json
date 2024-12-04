@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_35578_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Feb-2024 03:30 PM",
+    "tenderValueAmount": "22,00,000",
+    "tender": [
+        {
+            "id": "2024_BoTC_35578_1",
+            "title": "Construction of Market shed at Gurubasha Bazar under Sidli Chirang Development Block under SOPD Fund for the year 2023-24",
+            "description": "Construction of Market shed at Gurubasha Bazar under Sidli Chirang Development Block under SOPD Fund for the year 2023-24",
+            "datePublished": "20-Jan-2024 09:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "22,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Feb-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

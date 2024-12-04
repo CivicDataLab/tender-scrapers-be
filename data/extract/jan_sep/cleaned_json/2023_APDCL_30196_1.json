@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_APDCL_30196_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "19-Apr-2023 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_APDCL_30196_1",
+            "title": "SUPPLY OF ENERGY EFFICIENT DISTRIBUTION TRANSFORMER CONFIRMING TO BIS LEVEL 1 AND LEVEL 2 AS PER IS 1180 Part 1 2014 AND ITS LATEST AMENDMENTS",
+            "description": "SUPPLY OF ENERGY EFFICIENT DISTRIBUTION TRANSFORMER CONFIRMING TO BIS LEVEL 1 AND LEVEL 2 AS PER IS 1180 Part 1 2014 AND ITS LATEST AMENDMENTS",
+            "datePublished": "28-Mar-2023 06:45 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Apr-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

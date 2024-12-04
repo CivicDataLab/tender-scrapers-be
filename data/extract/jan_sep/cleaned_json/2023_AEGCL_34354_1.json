@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_AEGCL_34354_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Dec-2023 02:30 PM",
+    "tenderValueAmount": "26,76,877",
+    "tender": [
+        {
+            "id": "2023_AEGCL_34354_1",
+            "title": "Construction/ renovation of Civil works under Nazira Division",
+            "description": "Construction/ renovation of Civil works under Nazira Division",
+            "datePublished": "04-Dec-2023 12:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "26,76,877",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Dec-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

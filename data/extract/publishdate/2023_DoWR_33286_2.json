@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_33286_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 03:00 PM",
+    "tenderValueAmount": "15,20,77,573",
+    "tender": [
+        {
+            "id": "2023_DoWR_33286_2",
+            "title": "Flood Prevention of Pahumara River in Bajali District, PACKAGE 1 RETENDER",
+            "description": "Flood Prevention of Pahumara River in Bajali District, PACKAGE 1 RETENDER",
+            "datePublished": "22-Jan-2024 06:55 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "15,20,77,573",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

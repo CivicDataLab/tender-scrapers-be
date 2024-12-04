@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ID_36919_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Mar-2024 03:00 PM",
+    "tenderValueAmount": "35,00,000",
+    "tender": [
+        {
+            "id": "2024_ID_36919_1",
+            "title": "Reconstruction of Goalparabasti D.T.W Irrigation Scheme Pt. No-2 of Dhekiajuli LAC under SOPD-G for the year 2023-24 under Dhekiajuli-Barchalla Division Irrigation, Dhekiajuli",
+            "description": "Reconstruction of Goalparabasti D.T.W Irrigation Scheme Pt. No-2 of Dhekiajuli LAC under SOPD-G for the year 2023-24 under Dhekiajuli-Barchalla Division Irrigation, Dhekiajuli",
+            "datePublished": "06-Mar-2024 06:00 PM",
+            "contractType": "Percentage",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "35,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

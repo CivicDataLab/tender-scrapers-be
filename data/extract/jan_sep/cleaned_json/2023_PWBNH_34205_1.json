@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34205_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Dec-2023 04:00 PM",
+    "tenderValueAmount": "28,83,354",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34205_1",
+            "title": "Construction of Boundary Wall at 1 No Pithaguti Public Play Ground under One time Special Grant for Development of Moran Community for the year 22-23",
+            "description": "Construction of Boundary Wall at 1 No Pithaguti Public Play Ground under One time Special Grant for Development of Moran Community for the year 22-23",
+            "datePublished": "24-Nov-2023 02:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "28,83,354",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Dec-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

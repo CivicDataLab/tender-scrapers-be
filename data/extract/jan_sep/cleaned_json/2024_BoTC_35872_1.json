@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_35872_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Feb-2024 01:30 PM",
+    "tenderValueAmount": "20,80,988",
+    "tender": [
+        {
+            "id": "2024_BoTC_35872_1",
+            "title": "Construction of Side Drain at Harisinga Model Hospital Campus, Udalguri. 533-4",
+            "description": "Construction of Side Drain at Harisinga Model Hospital Campus, Udalguri. 533-4",
+            "datePublished": "02-Feb-2024 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "20,80,988",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Feb-2024 01:30 PM"
+                }
+            ]
+        }
+    ]
+}

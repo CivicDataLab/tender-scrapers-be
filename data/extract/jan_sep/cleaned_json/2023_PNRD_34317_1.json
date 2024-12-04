@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PNRD_34317_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "18-Dec-2023 10:00 AM",
+    "tenderValueAmount": "34,80,822",
+    "tender": [
+        {
+            "id": "2023_PNRD_34317_1",
+            "title": "Supply and Installation of Looms, Equipment, Articles etc. for Nine (9) nos. of Loom Sewing Centre at Bihpuria Rurban Cluster, Lakhimpur, Assam",
+            "description": "Supply and Installation of Looms, Equipment, Articles etc. for Nine (9) nos. of Loom Sewing Centre at Bihpuria Rurban Cluster, Lakhimpur, Assam",
+            "datePublished": "01-Dec-2023 10:00 AM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "34,80,822",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "18-Dec-2023 10:00 AM"
+                }
+            ]
+        }
+    ]
+}

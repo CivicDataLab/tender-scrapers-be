@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_SSA_36358_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Feb-2024 03:00 PM",
+    "tenderValueAmount": "45,36,684",
+    "tender": [
+        {
+            "id": "2024_SSA_36358_1",
+            "title": "Construction of Lift",
+            "description": "Construction of Lift",
+            "datePublished": "17-Feb-2024 04:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "45,36,684",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

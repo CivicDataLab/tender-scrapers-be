@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_GMC_33771_5",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Feb-2024 03:00 PM",
+    "tenderValueAmount": "53,00,000",
+    "tender": [
+        {
+            "id": "2023_GMC_33771_5",
+            "title": "Reno.. of community Hall at Anil Nagar, Renovation of Tarun Nagar Namghar, Renovation of Lakhimi Path main road, RCC Slab casting at Bishnu Path, Construction and Installation of a water tank with structure atLakhimi Naragan Namghar sendori A P PATH",
+            "description": "Reno.. of community Hall at Anil Nagar, Renovation of Tarun Nagar Namghar, Renovation of Lakhimi Path main road, RCC Slab casting at Bishnu Path, Construction and Installation of a water tank with structure atLakhimi Naragan Namghar sendori A P PATH",
+            "datePublished": "12-Jan-2024 02:00 PM",
+            "contractType": "Lump-sum",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "53,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

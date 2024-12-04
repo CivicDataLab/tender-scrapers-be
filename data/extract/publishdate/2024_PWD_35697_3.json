@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35697_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Feb-2024 02:00 PM",
+    "tenderValueAmount": "4,11,50,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35697_3",
+            "title": "RIDF_XXIX_23_24_70 Construction of Road from NH-37 to Balibat NC Ali via Nahordunga from Ch. 0.00m to 5600.00m under RIDF-XXIX of NABARD for the year 2023-24.",
+            "description": "RIDF_XXIX_23_24_70 Construction of Road from NH-37 to Balibat NC Ali via Nahordunga from Ch. 0.00m to 5600.00m under RIDF-XXIX of NABARD for the year 2023-24.",
+            "datePublished": "25-Jan-2024 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,11,50,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

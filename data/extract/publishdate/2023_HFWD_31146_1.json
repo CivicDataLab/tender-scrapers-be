@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_HFWD_31146_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "14-Jul-2023 04:30 PM",
+    "tenderValueAmount": "2,14,00,000",
+    "tender": [
+        {
+            "id": "2023_HFWD_31146_1",
+            "title": "SUPPLY OF VIDEO LARYNGOSCOPE and FIBER OPTIC BRONCHOSCOPE",
+            "description": "SUPPLY OF VIDEO LARYNGOSCOPE and FIBER OPTIC BRONCHOSCOPE",
+            "datePublished": "09-Jun-2023 06:55 PM",
+            "contractType": "Buy",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "2,14,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "14-Jul-2023 04:30 PM"
+                }
+            ]
+        }
+    ]
+}

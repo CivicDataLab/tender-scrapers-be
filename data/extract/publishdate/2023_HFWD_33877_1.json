@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_HFWD_33877_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "02-Dec-2023 04:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_HFWD_33877_1",
+            "title": "supply of Equipment for Embryology Laboratory for GMCH IVF Centre, HMS, GMCH, Guwahati",
+            "description": "supply of Equipment for Embryology Laboratory for GMCH IVF Centre, HMS, GMCH, Guwahati",
+            "datePublished": "10-Nov-2023 06:30 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Dec-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

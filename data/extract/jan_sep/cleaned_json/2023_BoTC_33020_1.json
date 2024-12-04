@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_33020_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Oct-2023 11:30 AM",
+    "tenderValueAmount": "42,00,000",
+    "tender": [
+        {
+            "id": "2023_BoTC_33020_1",
+            "title": "Arrangement of Temporary Pandal, Dias, Baricading, Branding Temporary VVIP, VIP Toilets etc. in connection with the programme from 10th October, 2023 to 15thOctber, 2023 at various District in presence of Honble Chief Minister of Assam (At Chirang D",
+            "description": "Arrangement of Temporary Pandal, Dias, Baricading, Branding Temporary VVIP, VIP Toilets etc. in connection with the programme from 10th October, 2023 to 15thOctber, 2023 at various District in presence of Honble Chief Minister of Assam (At Chirang D",
+            "datePublished": "13-Oct-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "42,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Oct-2023 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36327_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Feb-2024 02:00 PM",
+    "tenderValueAmount": "4,36,47,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36327_1",
+            "title": "SOPD_G_23_24_46 (i)Construction of Napukhuri Mudi Bosti to Gayan Gaon connecting road from Ch. 0.00 m to Ch. 1000.00 m, (ii) Construction of Namtidol Mridongia Gayear 20ting road from Ch. 0.00 m to Ch.800.00 m, (iii) Construction of Veterinary Feeder",
+            "description": "SOPD_G_23_24_46 (i)Construction of Napukhuri Mudi Bosti to Gayan Gaon connecting road from Ch. 0.00 m to Ch. 1000.00 m, (ii) Construction of Namtidol Mridongia Gayear 20ting road from Ch. 0.00 m to Ch.800.00 m, (iii) Construction of Veterinary Feeder",
+            "datePublished": "16-Feb-2024 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,36,47,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

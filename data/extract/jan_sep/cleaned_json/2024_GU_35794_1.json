@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_GU_35794_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "23-Feb-2024 02:00 PM",
+    "tenderValueAmount": "24,50,000",
+    "tender": [
+        {
+            "id": "2024_GU_35794_1",
+            "title": "Supply-installation and commissioning of Floating Fish feed mill at Aquaculture and Biodiversity Centre, Gauhati University",
+            "description": "Supply-installation and commissioning of Floating Fish feed mill at Aquaculture and Biodiversity Centre, Gauhati University",
+            "datePublished": "30-Jan-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,50,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "23-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

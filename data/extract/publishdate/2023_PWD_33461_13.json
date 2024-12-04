@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33461_13",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Nov-2023 02:00 PM",
+    "tenderValueAmount": "2,11,13,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33461_13",
+            "title": "MMNPPNA_23_24_120 Construction of (i) Road from Rangacharan Mandir to Bhuyanpara Shiv Mandir Road from (Ch 0.00m to Ch- 295.00m), (ii) Road from Bhuyan Para Tiniali Chawk to Rajahuwa Pukhuri (From Ch 0.00m to 50.00m), (iii) Road from Ghorabandha G",
+            "description": "MMNPPNA_23_24_120 Construction of (i) Road from Rangacharan Mandir to Bhuyanpara Shiv Mandir Road from (Ch 0.00m to Ch- 295.00m), (ii) Road from Bhuyan Para Tiniali Chawk to Rajahuwa Pukhuri (From Ch 0.00m to 50.00m), (iii) Road from Ghorabandha G",
+            "datePublished": "02-Nov-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,11,13,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

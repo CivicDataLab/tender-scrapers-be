@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36549_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "16-Mar-2024 12:30 PM",
+    "tenderValueAmount": "24,60,824",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36549_1",
+            "title": "Protective measures for preventing soil erosion near Bungalows No 5 and 6 at Mali bagan, Guwahati (Raising height of retaining wall, brick soling with cement concrete work in entire slope area)",
+            "description": "Protective measures for preventing soil erosion near Bungalows No 5 and 6 at Mali bagan, Guwahati (Raising height of retaining wall, brick soling with cement concrete work in entire slope area)",
+            "datePublished": "24-Feb-2024 12:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,60,824",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Mar-2024 12:30 PM"
+                }
+            ]
+        }
+    ]
+}

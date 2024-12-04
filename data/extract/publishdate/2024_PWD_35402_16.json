@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_16",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "2,10,74,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_16",
+            "title": "MMPPNA_23_24_199 (1)Construction of road from (i) Naharani Bengali to Nepalibasti from Ch. 0.00m to 1500.00m, (ii) Moila Ali to Surabhi Nursery from Ch. 0.00m to 300.00m, (2)Construction of road from Balijan to Balijan Kachari Link Road from....",
+            "description": "MMPPNA_23_24_199 (1)Construction of road from (i) Naharani Bengali to Nepalibasti from Ch. 0.00m to 1500.00m, (ii) Moila Ali to Surabhi Nursery from Ch. 0.00m to 300.00m, (2)Construction of road from Balijan to Balijan Kachari Link Road from....",
+            "datePublished": "12-Jan-2024 03:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,10,74,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

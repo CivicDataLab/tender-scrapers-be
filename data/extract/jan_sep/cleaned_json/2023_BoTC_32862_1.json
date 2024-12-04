@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_32862_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "31-Oct-2023 04:00 PM",
+    "tenderValueAmount": "4,92,02,400",
+    "tender": [
+        {
+            "id": "2023_BoTC_32862_1",
+            "title": "DHS/BTC/E-TENDER/2023-24/7",
+            "description": "DHS/BTC/E-TENDER/2023-24/7",
+            "datePublished": "09-Oct-2023 10:00 AM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "4,92,02,400",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "31-Oct-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

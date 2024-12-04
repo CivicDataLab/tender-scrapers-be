@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_GMDA_33522_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Nov-2023 03:00 PM",
+    "tenderValueAmount": "1,01,99,000",
+    "tender": [
+        {
+            "id": "2023_GMDA_33522_1",
+            "title": "90 Degree Laser Projection/ Multimedia Illumination at Dr. Bhupen Hazarika Samadhi Kshetra",
+            "description": "90 Degree Laser Projection/ Multimedia Illumination at Dr. Bhupen Hazarika Samadhi Kshetra",
+            "datePublished": "04-Nov-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,01,99,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

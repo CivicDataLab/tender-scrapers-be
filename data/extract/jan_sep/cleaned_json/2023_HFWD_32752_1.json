@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_HFWD_32752_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "25-Oct-2023 01:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_HFWD_32752_1",
+            "title": "Supply of consumables for Cath Lab in Cardiology Department, Cardiothoracic and Neurosciences Center (CN Center), GMCH, Guwahati",
+            "description": "Supply of consumables for Cath Lab in Cardiology Department, Cardiothoracic and Neurosciences Center (CN Center), GMCH, Guwahati",
+            "datePublished": "03-Oct-2023 04:30 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "25-Oct-2023 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

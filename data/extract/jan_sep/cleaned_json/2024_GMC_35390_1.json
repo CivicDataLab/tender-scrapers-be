@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_GMC_35390_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Feb-2024 12:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_GMC_35390_1",
+            "title": "Operation and maintenance of heavy duty Trolley Mounted De-Watering Pumps and supply including fitting _ fixing of Accessories.",
+            "description": "Operation and maintenance of heavy duty Trolley Mounted De-Watering Pumps and supply including fitting _ fixing of Accessories.",
+            "datePublished": "11-Jan-2024 02:05 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Feb-2024 12:30 PM"
+                }
+            ]
+        }
+    ]
+}

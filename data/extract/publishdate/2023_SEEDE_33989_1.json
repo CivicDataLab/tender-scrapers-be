@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_SEEDE_33989_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "09-Jan-2024 02:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_SEEDE_33989_1",
+            "title": "GS02c",
+            "description": "GS02c",
+            "datePublished": "17-Nov-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

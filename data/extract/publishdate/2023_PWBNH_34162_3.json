@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34162_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Dec-2023 03:30 PM",
+    "tenderValueAmount": "2,88,24,000",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34162_3",
+            "title": "TGR- 37 Construction of 100 (hundred) Model Secondary Schools in the Tea Garden Areas, Assam at Deopani TGMS, Dist Sivsagar",
+            "description": "TGR- 37 Construction of 100 (hundred) Model Secondary Schools in the Tea Garden Areas, Assam at Deopani TGMS, Dist Sivsagar",
+            "datePublished": "23-Nov-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,88,24,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Dec-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_AEGCL_31527_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "31-Aug-2023 02:00 PM",
+    "tenderValueAmount": "38,09,783",
+    "tender": [
+        {
+            "id": "2023_AEGCL_31527_1",
+            "title": "Turnkey Construction of a 132kV Bus Coupler Bay at 132KV GSS,AEGCL, Dhemaji",
+            "description": "Turnkey Construction of a 132kV Bus Coupler Bay at 132KV GSS,AEGCL, Dhemaji",
+            "datePublished": "07-Jul-2023 12:00 PM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "38,09,783",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "31-Aug-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

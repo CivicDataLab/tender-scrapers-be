@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36820_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Mar-2024 11:00 AM",
+    "tenderValueAmount": "1,53,82,925",
+    "tender": [
+        {
+            "id": "2024_PWD_36820_1",
+            "title": "Construction of Road from No 1 Phutuki to Sonapara Road at Majuli LAC proposed construction under TSP for the year 2023 24",
+            "description": "Construction of Road from No 1 Phutuki to Sonapara Road at Majuli LAC proposed construction under TSP for the year 2023 24",
+            "datePublished": "02-Mar-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,53,82,925",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Mar-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

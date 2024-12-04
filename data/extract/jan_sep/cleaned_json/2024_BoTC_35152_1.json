@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_35152_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "24-Jan-2024 03:00 PM",
+    "tenderValueAmount": "87,94,935",
+    "tender": [
+        {
+            "id": "2024_BoTC_35152_1",
+            "title": "Construction of 3 Nos. of ACR, 1- Science Lab, 1-Art and Craft Room (RCC 1) at Fakiragram H.S. School, under BTC, Kokrajhar funded by Samagra Siksha, Assam for the year 2023-24.",
+            "description": "Construction of 3 Nos. of ACR, 1- Science Lab, 1-Art and Craft Room (RCC 1) at Fakiragram H.S. School, under BTC, Kokrajhar funded by Samagra Siksha, Assam for the year 2023-24.",
+            "datePublished": "03-Jan-2024 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "87,94,935",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "24-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

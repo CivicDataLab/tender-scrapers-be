@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_37440_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Mar-2024 02:00 PM",
+    "tenderValueAmount": "1,49,81,000",
+    "tender": [
+        {
+            "id": "2024_BTC_37440_1",
+            "title": "Construction of Mini Cinema Hall (100 Seater) at Rowta, Udalguri under Grants to BTC for Infrastructure Development Fund for the year 2023-24. (TN_90_28)",
+            "description": "Construction of Mini Cinema Hall (100 Seater) at Rowta, Udalguri under Grants to BTC for Infrastructure Development Fund for the year 2023-24. (TN_90_28)",
+            "datePublished": "22-Mar-2024 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,49,81,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

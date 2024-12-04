@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33904_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Dec-2023 02:00 PM",
+    "tenderValueAmount": "3,78,00,774",
+    "tender": [
+        {
+            "id": "2023_BTC_33904_1",
+            "title": "Construction of road from Fakriguri (Bijni Ulubari road) to Hanchara via Bhutuyabari No.1 and No.2 Charagaon Hawyargaon in Chirang District under Assam Govt. Goodwill Project for BTR District under the SOPD for 2023-24.TN-26-107",
+            "description": "Construction of road from Fakriguri (Bijni Ulubari road) to Hanchara via Bhutuyabari No.1 and No.2 Charagaon Hawyargaon in Chirang District under Assam Govt. Goodwill Project for BTR District under the SOPD for 2023-24.TN-26-107",
+            "datePublished": "13-Nov-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,78,00,774",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

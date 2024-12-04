@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34521_10",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Dec-2023 11:00 AM",
+    "tenderValueAmount": "1,24,91,300",
+    "tender": [
+        {
+            "id": "2023_PWD_34521_10",
+            "title": "Mazbat/MMPNA/R_R/01 Repair and Rehabilitation of the Bridge located on Gelabil Mezbat Sirajuli Road (Gelabil(NH-15) - Majbat) Part1 under Mantrir Path Nabikaran Achani (MMPNA) for the year 2023-24",
+            "description": "Mazbat/MMPNA/R_R/01 Repair and Rehabilitation of the Bridge located on Gelabil Mezbat Sirajuli Road (Gelabil(NH-15) - Majbat) Part1 under Mantrir Path Nabikaran Achani (MMPNA) for the year 2023-24",
+            "datePublished": "07-Dec-2023 01:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,24,91,300",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Dec-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

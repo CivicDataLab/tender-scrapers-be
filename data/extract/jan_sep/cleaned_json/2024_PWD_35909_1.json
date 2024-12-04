@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35909_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Feb-2024 02:30 PM",
+    "tenderValueAmount": "1,16,78,960",
+    "tender": [
+        {
+            "id": "2024_PWD_35909_1",
+            "title": "Construction of Road under Clean Village Award 2023 in Jugibari Gaon of Kothalguri ZPC (1) Extension Bhaben Konwar Path (L 1000m), (2) Aka Tenpur Ali to Lachit Borphukan Ali Part 1 (L 205m), (3) Lachit Borphukan Road Bye Lane 1 (L 100m), (4) Lachit",
+            "description": "Construction of Road under Clean Village Award 2023 in Jugibari Gaon of Kothalguri ZPC (1) Extension Bhaben Konwar Path (L 1000m), (2) Aka Tenpur Ali to Lachit Borphukan Ali Part 1 (L 205m), (3) Lachit Borphukan Road Bye Lane 1 (L 100m), (4) Lachit",
+            "datePublished": "05-Feb-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,16,78,960",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Feb-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

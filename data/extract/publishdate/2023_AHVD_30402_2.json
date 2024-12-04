@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_AHVD_30402_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Apr-2023 02:30 PM",
+    "tenderValueAmount": "33,71,000",
+    "tender": [
+        {
+            "id": "2023_AHVD_30402_2",
+            "title": "Construction of Assam Type Sub-Centre Building with electrification,Water supply and sanitary works etc. at Balitara in Nalbari District.",
+            "description": "Construction of Assam Type Sub-Centre Building with electrification,Water supply and sanitary works etc. at Balitara in Nalbari District.",
+            "datePublished": "06-Apr-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "33,71,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Apr-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

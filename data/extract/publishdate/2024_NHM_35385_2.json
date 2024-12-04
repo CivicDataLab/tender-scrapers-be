@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_NHM_35385_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "25-Jan-2024 03:30 PM",
+    "tenderValueAmount": "52,03,000",
+    "tender": [
+        {
+            "id": "2024_NHM_35385_2",
+            "title": "Construction of Buildingless Sub Health Centre in Burirchar SC in Dhubri District under PM ABHIM for FY 2021-22 under NHM Assam on Turnkey Basis",
+            "description": "Construction of Buildingless Sub Health Centre in Burirchar SC in Dhubri District under PM ABHIM for FY 2021-22 under NHM Assam on Turnkey Basis",
+            "datePublished": "11-Jan-2024 09:00 AM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "52,03,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "25-Jan-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

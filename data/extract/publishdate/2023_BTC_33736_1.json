@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33736_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Dec-2023 02:00 PM",
+    "tenderValueAmount": "2,94,78,879",
+    "tender": [
+        {
+            "id": "2023_BTC_33736_1",
+            "title": "Construction of Road from NH 127A Dharani Das House Majarsupa to NH-127A Tukrakuchi Dakhinsupa via Tukrakuchi Borosupa under CMs Goodwill Mission Project for the year 2023-24. TN_26_73",
+            "description": "Construction of Road from NH 127A Dharani Das House Majarsupa to NH-127A Tukrakuchi Dakhinsupa via Tukrakuchi Borosupa under CMs Goodwill Mission Project for the year 2023-24. TN_26_73",
+            "datePublished": "09-Nov-2023 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,94,78,879",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

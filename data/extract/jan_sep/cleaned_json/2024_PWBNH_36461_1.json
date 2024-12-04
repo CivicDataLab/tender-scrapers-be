@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36461_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Mar-2024 02:30 PM",
+    "tenderValueAmount": "20,35,459",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36461_1",
+            "title": "Improv of site around the building of the District Judicial Courts and Officers Building (G 1 Assam Type) including RCC staging, Drain, Septic tank and conversion of toilet block in to Office Room record room etc. at Sankardev Nagar Hojai for 2023-24",
+            "description": "Improv of site around the building of the District Judicial Courts and Officers Building (G 1 Assam Type) including RCC staging, Drain, Septic tank and conversion of toilet block in to Office Room record room etc. at Sankardev Nagar Hojai for 2023-24",
+            "datePublished": "20-Feb-2024 03:35 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "20,35,459",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Mar-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_37813_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "24-Jul-2024 11:00 AM",
+    "tenderValueAmount": "35,47,572",
+    "tender": [
+        {
+            "id": "2024_BTC_37813_1",
+            "title": "Colour washing of Guest house including interior and exterior painting, false ceiling, water proofing at roof top, allied sanitary and plumbing works required at C.I.T., Kokrajhar. TN No.103_02.",
+            "description": "Colour washing of Guest house including interior and exterior painting, false ceiling, water proofing at roof top, allied sanitary and plumbing works required at C.I.T., Kokrajhar. TN No.103_02.",
+            "datePublished": "02-Jul-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "35,47,572",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "24-Jul-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

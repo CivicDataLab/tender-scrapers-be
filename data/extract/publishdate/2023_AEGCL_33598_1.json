@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_AEGCL_33598_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "29-Nov-2023 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_AEGCL_33598_1",
+            "title": "Supply, Installation and Commissioning of 1 1 dedicated 300MBps lease line internet connectivity with SLA agreement at Corporate Office of Assam Electricity Grid Corporation Limited, 1st Floor, Bijulee Bhawan, Paltan Bazar, Guwahati 01",
+            "description": "Supply, Installation and Commissioning of 1 1 dedicated 300MBps lease line internet connectivity with SLA agreement at Corporate Office of Assam Electricity Grid Corporation Limited, 1st Floor, Bijulee Bhawan, Paltan Bazar, Guwahati 01",
+            "datePublished": "08-Nov-2023 11:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

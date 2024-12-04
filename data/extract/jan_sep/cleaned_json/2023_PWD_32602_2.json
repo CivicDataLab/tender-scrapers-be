@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32602_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Oct-2023 02:00 PM",
+    "tenderValueAmount": "9,97,99,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32602_2",
+            "title": "SOPD_G_22_23_18 Improvement of Road on B/Dyke from Sissikalghar to Deorighat (Kathalguri to Tongani Underpass at NH-15) from Ch. 107.879 Km to 116.579 Km under SOPD-G for the year 2023-24 of Dhemaji District under Jonai Territorial Road Division.",
+            "description": "SOPD_G_22_23_18 Improvement of Road on B/Dyke from Sissikalghar to Deorighat (Kathalguri to Tongani Underpass at NH-15) from Ch. 107.879 Km to 116.579 Km under SOPD-G for the year 2023-24 of Dhemaji District under Jonai Territorial Road Division.",
+            "datePublished": "20-Sep-2023 06:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "9,97,99,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

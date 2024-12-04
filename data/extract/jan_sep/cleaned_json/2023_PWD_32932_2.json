@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32932_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Nov-2023 11:00 AM",
+    "tenderValueAmount": "11,97,46,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32932_2",
+            "title": "Package No.RIDF-XXIX/Cachar/02 Const of RCC (BUG Bridge) ove River Jatinga near Purandarpur Shibbari from Badarpur Pt-I to Badarpur Pt-II under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD for the year 2023-24 Borkhola LAC",
+            "description": "Package No.RIDF-XXIX/Cachar/02 Const of RCC (BUG Bridge) ove River Jatinga near Purandarpur Shibbari from Badarpur Pt-I to Badarpur Pt-II under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD for the year 2023-24 Borkhola LAC",
+            "datePublished": "10-Oct-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "11,97,46,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

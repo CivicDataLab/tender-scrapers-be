@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_UDD_37339_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "16-Apr-2024 10:00 AM",
+    "tenderValueAmount": "57,01,912",
+    "tender": [
+        {
+            "id": "2024_UDD_37339_1",
+            "title": "Improvement of Vegetable Market of Central Market at Ward No VIII under 14th FC last Installment",
+            "description": "Improvement of Vegetable Market of Central Market at Ward No VIII under 14th FC last Installment",
+            "datePublished": "16-Mar-2024 09:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "57,01,912",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Apr-2024 10:00 AM"
+                }
+            ]
+        }
+    ]
+}

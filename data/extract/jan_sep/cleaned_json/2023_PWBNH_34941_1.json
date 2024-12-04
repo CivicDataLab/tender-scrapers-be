@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34941_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 04:30 PM",
+    "tenderValueAmount": "82,79,901",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34941_1",
+            "title": "Front side development work by providing paver blocks for the ground plus 5 (five) storied Residential Apartment Building (Block-H) for MLAs at Dispur, Guwahati-6",
+            "description": "Front side development work by providing paver blocks for the ground plus 5 (five) storied Residential Apartment Building (Block-H) for MLAs at Dispur, Guwahati-6",
+            "datePublished": "22-Dec-2023 05:45 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "82,79,901",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 04:30 PM"
+                }
+            ]
+        }
+    ]
+}

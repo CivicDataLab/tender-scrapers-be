@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_37325_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Mar-2024 02:00 PM",
+    "tenderValueAmount": "9,98,75,000",
+    "tender": [
+        {
+            "id": "2024_PWD_37325_1",
+            "title": "SOPD_G_23_24_66 (i) Construction of road from Kunderbil Chowk to Phulbari via Mangal Chowk and Garo Basti under Udalguri(R and B) Division under SOPD-G for the year 2023-24, Udalguri LAC.",
+            "description": "SOPD_G_23_24_66 (i) Construction of road from Kunderbil Chowk to Phulbari via Mangal Chowk and Garo Basti under Udalguri(R and B) Division under SOPD-G for the year 2023-24, Udalguri LAC.",
+            "datePublished": "16-Mar-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "9,98,75,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

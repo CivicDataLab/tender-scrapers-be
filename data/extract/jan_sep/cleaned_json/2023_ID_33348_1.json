@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ID_33348_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "21-Nov-2023 04:00 PM",
+    "tenderValueAmount": "36,88,675",
+    "tender": [
+        {
+            "id": "2023_ID_33348_1",
+            "title": "SOLAR POWERED MDTWS (1 POINT) AT HAJO LAC UNDER RIDF (NABARD) XXIX FOR THE YEAR 2023-24",
+            "description": "SOLAR POWERED MDTWS (1 POINT) AT HAJO LAC UNDER RIDF (NABARD) XXIX FOR THE YEAR 2023-24",
+            "datePublished": "30-Oct-2023 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "36,88,675",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Nov-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

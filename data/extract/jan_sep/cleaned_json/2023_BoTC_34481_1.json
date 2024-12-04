@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_34481_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "18-Dec-2023 03:30 PM",
+    "tenderValueAmount": "24,82,000",
+    "tender": [
+        {
+            "id": "2023_BoTC_34481_1",
+            "title": "Procurement and installation of PA System and FLS Materials",
+            "description": "Procurement and installation of PA System and FLS Materials",
+            "datePublished": "06-Dec-2023 03:00 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "24,82,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "18-Dec-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

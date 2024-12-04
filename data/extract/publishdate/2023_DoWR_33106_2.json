@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_33106_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Feb-2024 03:00 PM",
+    "tenderValueAmount": "1,73,19,515",
+    "tender": [
+        {
+            "id": "2023_DoWR_33106_2",
+            "title": "Anti-erosion measures to protect Desang bund left Bank from Pathaligarh to Bahgarh at 16th Km near Chiringdubi. RETENDER",
+            "description": "Anti-erosion measures to protect Desang bund left Bank from Pathaligarh to Bahgarh at 16th Km near Chiringdubi. RETENDER",
+            "datePublished": "27-Jan-2024 06:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,73,19,515",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

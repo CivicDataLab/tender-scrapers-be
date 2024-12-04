@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_32889_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "25-Oct-2023 03:00 PM",
+    "tenderValueAmount": "92,83,800",
+    "tender": [
+        {
+            "id": "2023_PWBNH_32889_1",
+            "title": "Construction of Open air Auditorium at Bokakhat Dist Golaghat Phase II",
+            "description": "Construction of Open air Auditorium at Bokakhat Dist Golaghat Phase II",
+            "datePublished": "09-Oct-2023 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "92,83,800",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "25-Oct-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

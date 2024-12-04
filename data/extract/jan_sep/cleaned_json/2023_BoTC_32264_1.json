@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_32264_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "12-Sep-2023 03:00 PM",
+    "tenderValueAmount": "99,04,950",
+    "tender": [
+        {
+            "id": "2023_BoTC_32264_1",
+            "title": "Supply of Maize Seed against Maize Development Programme under SOPD for the year 2023-24.",
+            "description": "Supply of Maize Seed against Maize Development Programme under SOPD for the year 2023-24.",
+            "datePublished": "29-Aug-2023 10:00 AM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "99,04,950",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Sep-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

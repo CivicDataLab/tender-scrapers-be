@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33321_43",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Nov-2023 11:00 AM",
+    "tenderValueAmount": "42,80,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33321_43",
+            "title": "PACKAGE NO Kamrup/MMPNA/BUG/2 Repair/Rehabilitation of BUG Br. No. 3/2 on Kamalpur Morrowa road over Puthimari under MMPNA for the year 2023-24 in Kamalpur LAC",
+            "description": "PACKAGE NO Kamrup/MMPNA/BUG/2 Repair/Rehabilitation of BUG Br. No. 3/2 on Kamalpur Morrowa road over Puthimari under MMPNA for the year 2023-24 in Kamalpur LAC",
+            "datePublished": "28-Oct-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "42,80,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_38345_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "27-Aug-2024 03:00 PM",
+    "tenderValueAmount": "1,19,00,000",
+    "tender": [
+        {
+            "id": "2024_BoTC_38345_1",
+            "title": "Supply of E Rickshaw to differently able persons of BTC under the scheme BTR Manav Seva Missionin Kokrajhar, Chirang, Baksa, Tamulpur and Udalguri district under SOPD-G fund during the financial year 2024-25.",
+            "description": "Supply of E Rickshaw to differently able persons of BTC under the scheme BTR Manav Seva Missionin Kokrajhar, Chirang, Baksa, Tamulpur and Udalguri district under SOPD-G fund during the financial year 2024-25.",
+            "datePublished": "06-Aug-2024 10:00 AM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "1,19,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Aug-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

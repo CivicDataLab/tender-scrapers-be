@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36579_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Mar-2024 11:30 AM",
+    "tenderValueAmount": "24,93,741",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36579_1",
+            "title": "Installation of Bronze Statue, College Logo, S.S. lettering etc. at Entrance Gate of Govt. Ayurvedic College, Guwahati-14",
+            "description": "Installation of Bronze Statue, College Logo, S.S. lettering etc. at Entrance Gate of Govt. Ayurvedic College, Guwahati-14",
+            "datePublished": "23-Feb-2024 05:20 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,93,741",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Mar-2024 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

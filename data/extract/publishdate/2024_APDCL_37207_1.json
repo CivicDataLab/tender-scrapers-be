@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_APDCL_37207_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Apr-2024 02:00 PM",
+    "tenderValueAmount": "8,37,71,894",
+    "tender": [
+        {
+            "id": "2024_APDCL_37207_1",
+            "title": "Construction of 33kV overhead line alongwith 1 Railway Track crossing and 1 NH Crossing under SOPD_2024 25",
+            "description": "Construction of 33kV overhead line alongwith 1 Railway Track crossing and 1 NH Crossing under SOPD_2024 25",
+            "datePublished": "13-Mar-2024 05:00 PM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "8,37,71,894",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Apr-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

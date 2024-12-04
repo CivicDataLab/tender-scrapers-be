@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_30965_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "21-Aug-2023 02:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_PWD_30965_1",
+            "title": "PMC for a Ropeway project viz-Const of Ropeway System over the river Brahmaputra connecting BiswanathGhat and Umatumoni Island of Biswanath District, Assam on EPC mode, including Defect Liability cum Comprehensive O and M period for 3 yrs",
+            "description": "PMC for a Ropeway project viz-Const of Ropeway System over the river Brahmaputra connecting BiswanathGhat and Umatumoni Island of Biswanath District, Assam on EPC mode, including Defect Liability cum Comprehensive O and M period for 3 yrs",
+            "datePublished": "25-May-2023 05:00 PM",
+            "contractType": "EOI",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Aug-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

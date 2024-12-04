@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_UDD_37333_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "16-Apr-2024 10:00 AM",
+    "tenderValueAmount": "47,90,403",
+    "tender": [
+        {
+            "id": "2024_UDD_37333_1",
+            "title": "Construction of Food Zone Cum Market Complex at Tank Side of Ward No 12 under 14th FC last Installment",
+            "description": "Construction of Food Zone Cum Market Complex at Tank Side of Ward No 12 under 14th FC last Installment",
+            "datePublished": "16-Mar-2024 09:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "47,90,403",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Apr-2024 10:00 AM"
+                }
+            ]
+        }
+    ]
+}

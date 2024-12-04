@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33081_6",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Nov-2023 02:00 PM",
+    "tenderValueAmount": "2,18,18,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33081_6",
+            "title": "MMNPPNA_23_24_249 (i) Construction of Kamar Chubiri Path via Nalanda Public School to Kardarpa Barmans House via Puranbari Road, (ii) Construction of Kamarkuchi Road via Kokil Hazarika House to Sankar Talukdar House, (iii) Construction of road from",
+            "description": "MMNPPNA_23_24_249 (i) Construction of Kamar Chubiri Path via Nalanda Public School to Kardarpa Barmans House via Puranbari Road, (ii) Construction of Kamarkuchi Road via Kokil Hazarika House to Sankar Talukdar House, (iii) Construction of road from",
+            "datePublished": "17-Oct-2023 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,18,18,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

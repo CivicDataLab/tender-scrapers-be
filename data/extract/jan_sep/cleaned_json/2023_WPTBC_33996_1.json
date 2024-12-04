@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_WPTBC_33996_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "23-Nov-2023 02:00 PM",
+    "tenderValueAmount": "30,00,000",
+    "tender": [
+        {
+            "id": "2023_WPTBC_33996_1",
+            "title": "Construction and erection of fibre glass statue of famous writer and historian Ambika Charan Choudhury at Bongaigaon Assam",
+            "description": "Construction and erection of fibre glass statue of famous writer and historian Ambika Charan Choudhury at Bongaigaon Assam",
+            "datePublished": "17-Nov-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "30,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "23-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

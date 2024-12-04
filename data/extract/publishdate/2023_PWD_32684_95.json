@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_95",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,31,18,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_95",
+            "title": "MMNPPNA_23_24_52 (i) Strengthening of Road from Rabindra Bidyalaya School to Deshabandhu School (Ch. 0.00 m to Ch. 574.00 m) (ii) Construction of RCC covered drain at north side of Shivbari road from Madhav road point to Rashtra Bhasa School boundary",
+            "description": "MMNPPNA_23_24_52 (i) Strengthening of Road from Rabindra Bidyalaya School to Deshabandhu School (Ch. 0.00 m to Ch. 574.00 m) (ii) Construction of RCC covered drain at north side of Shivbari road from Madhav road point to Rashtra Bhasa School boundary",
+            "datePublished": "04-Oct-2023 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,31,18,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

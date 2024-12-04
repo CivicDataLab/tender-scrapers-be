@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_56",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "2,45,26,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_56",
+            "title": "MMPPNA_23_24_214 (1)Construction of road from Rupai T.E. Manager Bungloo to Disajan G.P. office (L 1.90km), (2)Construction of road from Baghjan P.W.D road to Diamolee Nagamati From Ch. 0.00m to Ch. 1200.00m (L 1.20km) under Mukhya Mantrir Pakipath",
+            "description": "MMPPNA_23_24_214 (1)Construction of road from Rupai T.E. Manager Bungloo to Disajan G.P. office (L 1.90km), (2)Construction of road from Baghjan P.W.D road to Diamolee Nagamati From Ch. 0.00m to Ch. 1200.00m (L 1.20km) under Mukhya Mantrir Pakipath",
+            "datePublished": "18-Jan-2024 04:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,45,26,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

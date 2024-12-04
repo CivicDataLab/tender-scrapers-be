@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_20",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "2,83,00,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_20",
+            "title": "MMPPNA_23_24_265 (1)Construction of road from Kathalbari Village to Kahibari Road, (2)Construction of Road from Bhergaon Nowkata to Dakhin Chewni Road under Mukhya Mantrir Pakipath Nirman Achani for the year 2023-24",
+            "description": "MMPPNA_23_24_265 (1)Construction of road from Kathalbari Village to Kahibari Road, (2)Construction of Road from Bhergaon Nowkata to Dakhin Chewni Road under Mukhya Mantrir Pakipath Nirman Achani for the year 2023-24",
+            "datePublished": "12-Jan-2024 03:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,83,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

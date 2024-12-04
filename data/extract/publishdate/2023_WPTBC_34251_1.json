@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_WPTBC_34251_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Dec-2023 04:00 PM",
+    "tenderValueAmount": "1,75,00,000",
+    "tender": [
+        {
+            "id": "2023_WPTBC_34251_1",
+            "title": "Infrastructure Developemnt of 5 nos of Existing Tribal Guest House at different places of Assam",
+            "description": "Infrastructure Developemnt of 5 nos of Existing Tribal Guest House at different places of Assam",
+            "datePublished": "29-Nov-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,75,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Dec-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

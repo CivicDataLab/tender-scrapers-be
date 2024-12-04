@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_GMC_32305_27",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Nov-2023 02:00 PM",
+    "tenderValueAmount": "26,36,000",
+    "tender": [
+        {
+            "id": "2023_GMC_32305_27",
+            "title": "Construction of drain with slab at Machkhowa inner drain",
+            "description": "Construction of drain with slab at Machkhowa inner drain",
+            "datePublished": "09-Nov-2023 02:00 PM",
+            "contractType": "Lump-sum",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "26,36,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

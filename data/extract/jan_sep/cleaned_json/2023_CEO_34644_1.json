@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_CEO_34644_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "29-Dec-2023 04:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_CEO_34644_1",
+            "title": "LIVE WEB STREAMING FOR GENERAL ELECTIONS IN ASSAM",
+            "description": "LIVE WEB STREAMING FOR GENERAL ELECTIONS IN ASSAM",
+            "datePublished": "12-Dec-2023 04:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Dec-2023 04:30 PM"
+                }
+            ]
+        }
+    ]
+}

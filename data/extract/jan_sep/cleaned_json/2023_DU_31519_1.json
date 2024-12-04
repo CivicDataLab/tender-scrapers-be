@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DU_31519_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "26-Jul-2023 02:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_DU_31519_1",
+            "title": "Supply, Installation and Commissioning of Furniture-Fixtures and Kitchen essentials at Hostel of Dibrugarh University",
+            "description": "Supply, Installation and Commissioning of Furniture-Fixtures and Kitchen essentials at Hostel of Dibrugarh University",
+            "datePublished": "05-Jul-2023 02:15 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Jul-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

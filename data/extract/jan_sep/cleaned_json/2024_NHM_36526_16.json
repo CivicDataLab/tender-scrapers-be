@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_NHM_36526_16",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Mar-2024 03:30 PM",
+    "tenderValueAmount": "1,00,00,000",
+    "tender": [
+        {
+            "id": "2024_NHM_36526_16",
+            "title": "Construction of BPHU at Kalaigaon MH and Orang CHC in Udalguri District under PM ABHIM for the FY 2024-25 under NHM, Assam on Turnkey Basis Group no-23 (2 nos. of Scheme in Udalguri District)",
+            "description": "Construction of BPHU at Kalaigaon MH and Orang CHC in Udalguri District under PM ABHIM for the FY 2024-25 under NHM, Assam on Turnkey Basis Group no-23 (2 nos. of Scheme in Udalguri District)",
+            "datePublished": "22-Feb-2024 06:55 PM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,00,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Mar-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

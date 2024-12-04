@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35959_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Feb-2024 11:30 AM",
+    "tenderValueAmount": "1,67,29,739",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35959_1",
+            "title": "Repairing and renovation works of Second Floor and third Floor of Police Control Building at Assam Legislative Assembly, Dispur, Guwahati-06",
+            "description": "Repairing and renovation works of Second Floor and third Floor of Police Control Building at Assam Legislative Assembly, Dispur, Guwahati-06",
+            "datePublished": "06-Feb-2024 09:00 AM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,67,29,739",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Feb-2024 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

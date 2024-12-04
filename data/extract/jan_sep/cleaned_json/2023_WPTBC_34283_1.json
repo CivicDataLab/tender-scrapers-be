@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_WPTBC_34283_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Dec-2023 04:00 PM",
+    "tenderValueAmount": "2,01,83,700",
+    "tender": [
+        {
+            "id": "2023_WPTBC_34283_1",
+            "title": "Construction of Roof top Floor at 4th Floor Interirorand Exterior works including Libraray Gym Equipments Generator Set Synthetic Gloor Playground Etc in the existing G3 RCC ST Girls Hostel Building cum Indoor Playground in the premises of",
+            "description": "Construction of Roof top Floor at 4th Floor Interirorand Exterior works including Libraray Gym Equipments Generator Set Synthetic Gloor Playground Etc in the existing G3 RCC ST Girls Hostel Building cum Indoor Playground in the premises of",
+            "datePublished": "30-Nov-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,01,83,700",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Dec-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

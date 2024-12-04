@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_UDD_34025_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "24-Nov-2023 12:30 PM",
+    "tenderValueAmount": "98,52,218",
+    "tender": [
+        {
+            "id": "2023_UDD_34025_1",
+            "title": "Construction of Market cum Guest House near Medical College, Barpeta under Untied Basic Grant for the year 2021-22 1stl of the Award of the 15th Finance Commission",
+            "description": "Construction of Market cum Guest House near Medical College, Barpeta under Untied Basic Grant for the year 2021-22 1stl of the Award of the 15th Finance Commission",
+            "datePublished": "18-Nov-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "98,52,218",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "24-Nov-2023 12:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35115_104",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:30 PM",
+    "tenderValueAmount": "4,28,71,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35115_104",
+            "title": "MMPPNA_23_24_111, Construction of Konwari Gaon Bonoria Mohar Chuk Road...",
+            "description": "MMPPNA_23_24_111, Construction of Konwari Gaon Bonoria Mohar Chuk Road...",
+            "datePublished": "03-Jan-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,28,71,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

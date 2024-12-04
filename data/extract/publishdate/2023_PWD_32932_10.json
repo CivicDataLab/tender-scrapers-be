@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32932_10",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Nov-2023 11:00 AM",
+    "tenderValueAmount": "4,02,41,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32932_10",
+            "title": "Package No. RIDF/XXIX/Golaghat/03 Construction of RCC Br. No. 2/1 (L 24.75m x 2 49.50m) with Approach and Protection work over Japoripathar Nalani Jan on Japori Pathar Majgaon Ali under Mukhya Mantrir Unnoto Poki Path Nirman Achani (MMUPPNA) for the",
+            "description": "Package No. RIDF/XXIX/Golaghat/03 Construction of RCC Br. No. 2/1 (L 24.75m x 2 49.50m) with Approach and Protection work over Japoripathar Nalani Jan on Japori Pathar Majgaon Ali under Mukhya Mantrir Unnoto Poki Path Nirman Achani (MMUPPNA) for the",
+            "datePublished": "10-Oct-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,02,41,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

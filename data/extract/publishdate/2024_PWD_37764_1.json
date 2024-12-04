@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_37764_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Jul-2024 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_PWD_37764_1",
+            "title": "KAM/KRC/Deposit Works/2024-25/01 Construction of Internal Road, Paved parking area in NIPER, Guwahati Campus under Deposit works for the year 2023.24",
+            "description": "KAM/KRC/Deposit Works/2024-25/01 Construction of Internal Road, Paved parking area in NIPER, Guwahati Campus under Deposit works for the year 2023.24",
+            "datePublished": "29-Jun-2024 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Jul-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

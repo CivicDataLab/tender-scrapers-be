@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34918_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Jan-2024 03:30 PM",
+    "tenderValueAmount": "1,87,82,580",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34918_1",
+            "title": "Construction of State of Art Modern Air Conditioned Auditorium in the Premises of DHSK College Dibrugarh under Untied Fund 22-23",
+            "description": "Construction of State of Art Modern Air Conditioned Auditorium in the Premises of DHSK College Dibrugarh under Untied Fund 22-23",
+            "datePublished": "22-Dec-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,87,82,580",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Jan-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

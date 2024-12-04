@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34628_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Jan-2024 11:30 AM",
+    "tenderValueAmount": "1,90,80,405",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34628_1",
+            "title": "Landscaping works in around the New Assam Legislative Assembly Complex and providing red carpet, artificial grass, blockout flex and Electrical works etc. at Dispur, Guwahati-6",
+            "description": "Landscaping works in around the New Assam Legislative Assembly Complex and providing red carpet, artificial grass, blockout flex and Electrical works etc. at Dispur, Guwahati-6",
+            "datePublished": "12-Dec-2023 12:30 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,90,80,405",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Jan-2024 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

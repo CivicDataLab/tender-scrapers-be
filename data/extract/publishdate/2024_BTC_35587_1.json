@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_35587_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 11:00 AM",
+    "tenderValueAmount": "46,32,425",
+    "tender": [
+        {
+            "id": "2024_BTC_35587_1",
+            "title": "Repairing and Renovation of SHC main building with Sanitary, Water Supply, Earth filling and approach road at Gurufela SHC under Kokrajhar District. TN No.64_06",
+            "description": "Repairing and Renovation of SHC main building with Sanitary, Water Supply, Earth filling and approach road at Gurufela SHC under Kokrajhar District. TN No.64_06",
+            "datePublished": "20-Jan-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "46,32,425",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

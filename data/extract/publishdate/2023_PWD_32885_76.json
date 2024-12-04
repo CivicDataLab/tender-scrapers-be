@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32885_76",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 02:00 PM",
+    "tenderValueAmount": "3,87,04,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32885_76",
+            "title": "MMNPPNA_23_24_169 (i) Improvement of Road from Prabhat Deka house to Shyam Prasad Upadhaya house (Ward No.- 14),(ii)Improvement of Road from Haradhan Das house to Nripen Sarkar house (Ward No. 14), (iii)Improvement of Road from Rabin Ray house to",
+            "description": "MMNPPNA_23_24_169 (i) Improvement of Road from Prabhat Deka house to Shyam Prasad Upadhaya house (Ward No.- 14),(ii)Improvement of Road from Haradhan Das house to Nripen Sarkar house (Ward No. 14), (iii)Improvement of Road from Rabin Ray house to",
+            "datePublished": "12-Oct-2023 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,87,04,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_NHM_32818_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Oct-2023 03:30 PM",
+    "tenderValueAmount": "48,00,000",
+    "tender": [
+        {
+            "id": "2023_NHM_32818_1",
+            "title": "Construction of AYUSH Dispensary (Assam Type) in Dima Hasao and West Karbi Anglong District, group.5 (2 nos. of scheme in Dima Hasao nad West Karbi Anglong District) for FY 2022-23 under NAM, Assam.",
+            "description": "Construction of AYUSH Dispensary (Assam Type) in Dima Hasao and West Karbi Anglong District, group.5 (2 nos. of scheme in Dima Hasao nad West Karbi Anglong District) for FY 2022-23 under NAM, Assam.",
+            "datePublished": "06-Oct-2023 04:40 PM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "48,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Oct-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

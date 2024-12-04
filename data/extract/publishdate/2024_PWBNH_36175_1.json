@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36175_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Feb-2024 03:00 PM",
+    "tenderValueAmount": "20,20,000",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36175_1",
+            "title": "Repair Renovation of Office Building of Dhemaji Revenue Circle (Providing paver block including GSB and WBM of front open yard)",
+            "description": "Repair Renovation of Office Building of Dhemaji Revenue Circle (Providing paver block including GSB and WBM of front open yard)",
+            "datePublished": "12-Feb-2024 04:20 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "20,20,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

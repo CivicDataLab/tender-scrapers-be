@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2021_PWBNH_23137_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2021-2022",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Oct-2021 03:30 PM",
+    "tenderValueAmount": "3,15,09,624",
+    "tender": [
+        {
+            "id": "2021_PWBNH_23137_1",
+            "title": "GROUP-A Construction of Mother and Child Hospital (500 bedded) at Gauhati Medical College and Hospital, Guwahati Under SOPD-ODS for the FY 2019-2020.(Providing 1500 KVA RADIATOR COOLED D.G SET in acoustic enclosure etc.), GROUP-A",
+            "description": "GROUP-A Construction of Mother and Child Hospital (500 bedded) at Gauhati Medical College and Hospital, Guwahati Under SOPD-ODS for the FY 2019-2020.(Providing 1500 KVA RADIATOR COOLED D.G SET in acoustic enclosure etc.), GROUP-A",
+            "datePublished": "08-Oct-2021 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,15,09,624",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Oct-2021 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

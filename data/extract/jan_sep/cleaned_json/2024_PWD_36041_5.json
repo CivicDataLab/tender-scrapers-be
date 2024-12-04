@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36041_5",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "15-Feb-2024 02:00 PM",
+    "tenderValueAmount": "4,28,19,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36041_5",
+            "title": "MMPPNA_23_24_231 (1)Construction of Chandan Nagar Bye Lane- 03, 04, 09 (Total L 0.79Km), (2)Construction of Arunudoi Path from Ch. 0.00km to 0.200km (L 0.200km), (3)Construction of Kunjaban Path (Ch. 0.00km to Ch. 0.218km, L 0.218km) Kalyanpur",
+            "description": "MMPPNA_23_24_231 (1)Construction of Chandan Nagar Bye Lane- 03, 04, 09 (Total L 0.79Km), (2)Construction of Arunudoi Path from Ch. 0.00km to 0.200km (L 0.200km), (3)Construction of Kunjaban Path (Ch. 0.00km to Ch. 0.218km, L 0.218km) Kalyanpur",
+            "datePublished": "08-Feb-2024 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,28,19,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

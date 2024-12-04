@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32885_93",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,00,00,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32885_93",
+            "title": "MMNPPNA_23_24_222 (i) Construction of Road from NH-15(Malbhug Chuburi) to Mornoi Muhani Tiniali , Ward No.1B in Narayanpur Municipality from Ch.500.00m to 1000.00m , (ii) Construction of Road from Narayanpur Bihpuria State Highway (SH-43) to Akanbal",
+            "description": "MMNPPNA_23_24_222 (i) Construction of Road from NH-15(Malbhug Chuburi) to Mornoi Muhani Tiniali , Ward No.1B in Narayanpur Municipality from Ch.500.00m to 1000.00m , (ii) Construction of Road from Narayanpur Bihpuria State Highway (SH-43) to Akanbal",
+            "datePublished": "14-Oct-2023 12:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,00,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

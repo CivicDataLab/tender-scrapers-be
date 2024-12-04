@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32932_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Nov-2023 11:00 AM",
+    "tenderValueAmount": "10,85,93,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32932_1",
+            "title": "Package No.RIDF-XXIX/Cachar/01 Construction of RCC Br no-1/1 over River Rukni NH-54 at Kabuganj-Motinagar-Amjur Road (MDR-03) (Ch.0.00m to Ch. 400.00m) under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD for the year 2023-24,",
+            "description": "Package No.RIDF-XXIX/Cachar/01 Construction of RCC Br no-1/1 over River Rukni NH-54 at Kabuganj-Motinagar-Amjur Road (MDR-03) (Ch.0.00m to Ch. 400.00m) under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD for the year 2023-24,",
+            "datePublished": "10-Oct-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "10,85,93,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_32985_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Nov-2023 11:30 AM",
+    "tenderValueAmount": "42,67,716",
+    "tender": [
+        {
+            "id": "2023_PWBNH_32985_1",
+            "title": "Strengthening of Minister Colony Quarter No.M-10 (Conversion of open backyard into room by covering with WPC panelling, false ceiling, floor and preparation of kitchen garden including electrical works)",
+            "description": "Strengthening of Minister Colony Quarter No.M-10 (Conversion of open backyard into room by covering with WPC panelling, false ceiling, floor and preparation of kitchen garden including electrical works)",
+            "datePublished": "13-Oct-2023 12:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "42,67,716",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Nov-2023 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

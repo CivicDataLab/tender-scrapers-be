@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36555_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "15-Mar-2024 04:00 PM",
+    "tenderValueAmount": "24,47,050",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36555_1",
+            "title": "Strengthening and Improvement work of Newly created S.E. Office at North Lakhimpur",
+            "description": "Strengthening and Improvement work of Newly created S.E. Office at North Lakhimpur",
+            "datePublished": "23-Feb-2024 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,47,050",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Mar-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

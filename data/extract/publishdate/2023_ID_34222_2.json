@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ID_34222_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "18-Dec-2023 03:00 PM",
+    "tenderValueAmount": "48,56,088",
+    "tender": [
+        {
+            "id": "2023_ID_34222_2",
+            "title": "Renovation and Revival of Hatilung FIS under SOPD-G for the year 2023-24 under Lakhimpur-Naoboicha-Bihpuria Division(Irrigation) , North Lakhimpur(Package No.2).",
+            "description": "Renovation and Revival of Hatilung FIS under SOPD-G for the year 2023-24 under Lakhimpur-Naoboicha-Bihpuria Division(Irrigation) , North Lakhimpur(Package No.2).",
+            "datePublished": "28-Nov-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "48,56,088",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "18-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

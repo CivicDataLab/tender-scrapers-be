@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWRDW_30958_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "23-Jun-2023 02:30 PM",
+    "tenderValueAmount": "5,26,90,000",
+    "tender": [
+        {
+            "id": "2023_PWRDW_30958_1",
+            "title": "Construction of Bridges in Jorhat district i. Br no. 3/1 on Bhotia Gaon Road ii. Br no. 4/1 on Bohikhuaghat ali road iii. Br no. 1/1 on Seujipar road and iv. Br no. 2/1 on new Toklai road",
+            "description": "Construction of Bridges in Jorhat district i. Br no. 3/1 on Bhotia Gaon Road ii. Br no. 4/1 on Bohikhuaghat ali road iii. Br no. 1/1 on Seujipar road and iv. Br no. 2/1 on new Toklai road",
+            "datePublished": "24-May-2023 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "5,26,90,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "23-Jun-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

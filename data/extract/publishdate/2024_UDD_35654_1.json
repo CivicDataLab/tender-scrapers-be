@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_UDD_35654_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "21-Feb-2024 12:00 PM",
+    "tenderValueAmount": "1,93,14,500",
+    "tender": [
+        {
+            "id": "2024_UDD_35654_1",
+            "title": "Improvement of A T Road by widening with concrete pavers block on both side from junction of ASTC Tini Ali towards Phonidhar Chaliha Road at Ward No. VI, VIII, IX, XI and X of Sibsagar Municipal Board under NCAP",
+            "description": "Improvement of A T Road by widening with concrete pavers block on both side from junction of ASTC Tini Ali towards Phonidhar Chaliha Road at Ward No. VI, VIII, IX, XI and X of Sibsagar Municipal Board under NCAP",
+            "datePublished": "22-Jan-2024 06:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,93,14,500",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Feb-2024 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35733_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Feb-2024 02:00 PM",
+    "tenderValueAmount": "12,39,25,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35733_3",
+            "title": "MMUPPNA_RIDF_XXIX_23_24_92 Improvement of road from Dhamdhama to Bhitha at Rangia - Dhamdhama road including RCC Br. No. 3/2 under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD for the year 2023-24",
+            "description": "MMUPPNA_RIDF_XXIX_23_24_92 Improvement of road from Dhamdhama to Bhitha at Rangia - Dhamdhama road including RCC Br. No. 3/2 under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD for the year 2023-24",
+            "datePublished": "26-Jan-2024 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "12,39,25,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35744_11",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 02:00 PM",
+    "tenderValueAmount": "1,44,87,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35744_11",
+            "title": "SOPD_ODS_23_24_27 Construction of Road from (i) NH-15 Bhangamandir PWD Road to Arun TE (Ch. 0.00 m to 650.00 m), (ii) NH-15 Bhangamandir PWD Road to Arun TE (Ch. 650.00 m to 1425.00 m) (iii) Dibrudarrang TE New Line Road and Notun Line 2 Road under",
+            "description": "SOPD_ODS_23_24_27 Construction of Road from (i) NH-15 Bhangamandir PWD Road to Arun TE (Ch. 0.00 m to 650.00 m), (ii) NH-15 Bhangamandir PWD Road to Arun TE (Ch. 650.00 m to 1425.00 m) (iii) Dibrudarrang TE New Line Road and Notun Line 2 Road under",
+            "datePublished": "03-Feb-2024 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,44,87,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

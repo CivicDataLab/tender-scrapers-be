@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_35469_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Jan-2024 03:30 PM",
+    "tenderValueAmount": "75,60,304",
+    "tender": [
+        {
+            "id": "2024_BoTC_35469_1",
+            "title": "Installation, Erection and Commission of 5 line Solar fencing Farm Chowk to Bogrital",
+            "description": "Installation, Erection and Commission of 5 line Solar fencing Farm Chowk to Bogrital",
+            "datePublished": "13-Jan-2024 09:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "75,60,304",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Jan-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_30370_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Apr-2023 01:30 PM",
+    "tenderValueAmount": "25,60,783",
+    "tender": [
+        {
+            "id": "2023_BoTC_30370_1",
+            "title": "Arrangement of Temporary Pandal, Dias, Barricading, Branding in connection with Inauguration Ceremony of Medical College, Kokrajhar (Electrical Work) 518, Group No. II",
+            "description": "Arrangement of Temporary Pandal, Dias, Barricading, Branding in connection with Inauguration Ceremony of Medical College, Kokrajhar (Electrical Work) 518, Group No. II",
+            "datePublished": "05-Apr-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "25,60,783",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Apr-2023 01:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWRDW_31881_4",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Aug-2023 02:30 PM",
+    "tenderValueAmount": "3,33,67,000",
+    "tender": [
+        {
+            "id": "2023_PWRDW_31881_4",
+            "title": "Construction of Bridge in Darrang district (i)Br No. 1/1 on Narikali Makarachuba Punia Road",
+            "description": "Construction of Bridge in Darrang district (i)Br No. 1/1 on Narikali Makarachuba Punia Road",
+            "datePublished": "01-Aug-2023 04:45 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,33,67,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Aug-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36173_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "16-Feb-2024 10:00 AM",
+    "tenderValueAmount": "90,48,488",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36173_1",
+            "title": "Construction of Model School at different Districts under RMSA at Simolguri Chuk Gaon, under Itakhuli Block in Tinsukia, District Gr. No. 19 (Balance work Phase-I)",
+            "description": "Construction of Model School at different Districts under RMSA at Simolguri Chuk Gaon, under Itakhuli Block in Tinsukia, District Gr. No. 19 (Balance work Phase-I)",
+            "datePublished": "12-Feb-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "90,48,488",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Feb-2024 10:00 AM"
+                }
+            ]
+        }
+    ]
+}

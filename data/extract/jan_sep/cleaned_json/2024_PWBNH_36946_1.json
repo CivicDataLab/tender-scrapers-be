@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36946_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Mar-2024 12:00 PM",
+    "tenderValueAmount": "1,45,59,233",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36946_1",
+            "title": "Construction of Cultural Centre near Keshav Smarak Samiti Silchar at Shreegauri, Karimganj.Gr.II",
+            "description": "Construction of Cultural Centre near Keshav Smarak Samiti Silchar at Shreegauri, Karimganj.Gr.II",
+            "datePublished": "06-Mar-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,45,59,233",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Mar-2024 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

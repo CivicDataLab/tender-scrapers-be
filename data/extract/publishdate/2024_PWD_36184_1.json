@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36184_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Feb-2024 02:30 PM",
+    "tenderValueAmount": "44,49,44,300",
+    "tender": [
+        {
+            "id": "2024_PWD_36184_1",
+            "title": "AsomMala2.0/ Barpeta /01",
+            "description": "AsomMala2.0/ Barpeta /01",
+            "datePublished": "12-Feb-2024 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "44,49,44,300",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Feb-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

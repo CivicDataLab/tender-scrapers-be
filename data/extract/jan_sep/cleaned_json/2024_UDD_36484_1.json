@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_UDD_36484_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Mar-2024 01:30 PM",
+    "tenderValueAmount": "80,04,300",
+    "tender": [
+        {
+            "id": "2024_UDD_36484_1",
+            "title": "Construction of a Welcome Gate at Doomdooma Town including supply and procurement fabrication trial run and commissioning complete on engineering Procurement and Construction EPC mode1 basis",
+            "description": "Construction of a Welcome Gate at Doomdooma Town including supply and procurement fabrication trial run and commissioning complete on engineering Procurement and Construction EPC mode1 basis",
+            "datePublished": "21-Feb-2024 03:30 PM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "80,04,300",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Mar-2024 01:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35436_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Feb-2024 03:00 PM",
+    "tenderValueAmount": "14,07,31,430",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35436_1",
+            "title": "Jagannath Community and Skill Centre at i) Teok T.E. ii) Seleng T.E. iii) Dalim T.E. iv) Sotai T.E v) SelengMajnoi T.E vi)Jagduar T.E vii) Naginijan T.E viii) Nagajanka T.E, ix) DhekiajuliT.E , x) Sycotta T.E (Pkg. No.132)",
+            "description": "Jagannath Community and Skill Centre at i) Teok T.E. ii) Seleng T.E. iii) Dalim T.E. iv) Sotai T.E v) SelengMajnoi T.E vi)Jagduar T.E vii) Naginijan T.E viii) Nagajanka T.E, ix) DhekiajuliT.E , x) Sycotta T.E (Pkg. No.132)",
+            "datePublished": "12-Jan-2024 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "14,07,31,430",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

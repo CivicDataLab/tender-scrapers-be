@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_37",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "1,86,33,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_37",
+            "title": "MMPPNA_23_24_178 (1)Construction of Romai Road to Habichuk Karamora Gaon Road Ch. 0.00m to 940.00m, (2)Construction of Uttor Dikom Sessa L.P School Road to Dikom Town connecting road from CH. 200.00m to 1410.00m under Mukhya Mantrir Pakipath Nirman",
+            "description": "MMPPNA_23_24_178 (1)Construction of Romai Road to Habichuk Karamora Gaon Road Ch. 0.00m to 940.00m, (2)Construction of Uttor Dikom Sessa L.P School Road to Dikom Town connecting road from CH. 200.00m to 1410.00m under Mukhya Mantrir Pakipath Nirman",
+            "datePublished": "16-Jan-2024 03:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,86,33,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35744_34",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 02:00 PM",
+    "tenderValueAmount": "1,93,93,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35744_34",
+            "title": "SOPD_ODS_23_24_15 Construction of road from Naharsola rd to Njangpo TE under SOPD-ODS (Tea Garden Road) for the year 2023-24",
+            "description": "SOPD_ODS_23_24_15 Construction of road from Naharsola rd to Njangpo TE under SOPD-ODS (Tea Garden Road) for the year 2023-24",
+            "datePublished": "03-Feb-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,93,93,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

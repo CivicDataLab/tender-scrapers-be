@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_34735_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Jan-2024 01:00 PM",
+    "tenderValueAmount": "1,35,03,783",
+    "tender": [
+        {
+            "id": "2023_BoTC_34735_1",
+            "title": "Vertical extension of Girls Hostel of Chirang Polytechnic, Bijni, Chirang under SOPD_G during for the year 2023_24.TN_610",
+            "description": "Vertical extension of Girls Hostel of Chirang Polytechnic, Bijni, Chirang under SOPD_G during for the year 2023_24.TN_610",
+            "datePublished": "15-Dec-2023 04:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,35,03,783",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Jan-2024 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36363_5",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "20-Mar-2024 02:00 PM",
+    "tenderValueAmount": "89,14,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36363_5",
+            "title": "SOPD_ODS_23_24_141 Improvement of Tea Garden Roads at Ouphulia T.E. (Shiv Mandir to Ouphulia 14 No. Line) (Ch. 0.00m to Ch. 1567.00m) under SOPD-ODS (Tea Garden Road) for the year 2023-24",
+            "description": "SOPD_ODS_23_24_141 Improvement of Tea Garden Roads at Ouphulia T.E. (Shiv Mandir to Ouphulia 14 No. Line) (Ch. 0.00m to Ch. 1567.00m) under SOPD-ODS (Tea Garden Road) for the year 2023-24",
+            "datePublished": "19-Feb-2024 03:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "89,14,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

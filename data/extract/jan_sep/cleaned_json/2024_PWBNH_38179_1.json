@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_38179_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Aug-2024 02:30 PM",
+    "tenderValueAmount": "25,97,665",
+    "tender": [
+        {
+            "id": "2024_PWBNH_38179_1",
+            "title": "Construction of Assam Type Dining with Kitchen at Charaideo District Jail, Sonari in Charaideo District",
+            "description": "Construction of Assam Type Dining with Kitchen at Charaideo District Jail, Sonari in Charaideo District",
+            "datePublished": "25-Jul-2024 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "25,97,665",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Aug-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_30512_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Apr-2023 10:00 AM",
+    "tenderValueAmount": "27,09,000",
+    "tender": [
+        {
+            "id": "2023_PWD_30512_1",
+            "title": "Construction of link road from Koylaghat PWD road to Basontinagar via Kalachandbari (Ph-I) under Annual Action Plan of Border Development Activities in the Inter-State Border for the year 2022-23 in Karimganj District",
+            "description": "Construction of link road from Koylaghat PWD road to Basontinagar via Kalachandbari (Ph-I) under Annual Action Plan of Border Development Activities in the Inter-State Border for the year 2022-23 in Karimganj District",
+            "datePublished": "20-Apr-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "27,09,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Apr-2023 10:00 AM"
+                }
+            ]
+        }
+    ]
+}

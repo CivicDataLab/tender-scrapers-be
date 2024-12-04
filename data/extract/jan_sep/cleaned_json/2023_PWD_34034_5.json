@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34034_5",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Dec-2023 11:00 AM",
+    "tenderValueAmount": "84,88,000",
+    "tender": [
+        {
+            "id": "2023_PWD_34034_5",
+            "title": "Package No. Sivasagar/MMPNA/2 Maintenance and Repairing of (1)Steel Bridge No. 2/1 on Borali Road, (2) Steel Bridge No. 1/1 on Nimaijan Road, (3) Steel Bridge No. 1/1 on Nazira Ali over Jamuna Channel, (4) Steel Bridge No. 1/1 on Naojan Ali connecti",
+            "description": "Package No. Sivasagar/MMPNA/2 Maintenance and Repairing of (1)Steel Bridge No. 2/1 on Borali Road, (2) Steel Bridge No. 1/1 on Nimaijan Road, (3) Steel Bridge No. 1/1 on Nazira Ali over Jamuna Channel, (4) Steel Bridge No. 1/1 on Naojan Ali connecti",
+            "datePublished": "18-Nov-2023 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "84,88,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Dec-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

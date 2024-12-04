@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_31776_4",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Aug-2023 02:00 PM",
+    "tenderValueAmount": "14,56,303",
+    "tender": [
+        {
+            "id": "2023_PWBNH_31776_4",
+            "title": "Infrastructure Development of Amlaiguri ME School under Udalguri LAC, District Udalguri",
+            "description": "Infrastructure Development of Amlaiguri ME School under Udalguri LAC, District Udalguri",
+            "datePublished": "25-Jul-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "14,56,303",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Aug-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

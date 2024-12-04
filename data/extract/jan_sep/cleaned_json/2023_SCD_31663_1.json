@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_SCD_31663_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "25-Jul-2023 11:30 AM",
+    "tenderValueAmount": "99,84,842",
+    "tender": [
+        {
+            "id": "2023_SCD_31663_1",
+            "title": "Hashraobari Soil Conservation Project under RIDF-XXVIII DURING 2022-23",
+            "description": "Hashraobari Soil Conservation Project under RIDF-XXVIII DURING 2022-23",
+            "datePublished": "14-Jul-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "99,84,842",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "25-Jul-2023 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

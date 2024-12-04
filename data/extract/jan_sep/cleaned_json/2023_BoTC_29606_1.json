@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_29606_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "09-Mar-2023 03:00 PM",
+    "tenderValueAmount": "40,19,000",
+    "tender": [
+        {
+            "id": "2023_BoTC_29606_1",
+            "title": "Construction of Bodoland Co-Operative Thrift and Credit Society Ltd (1st Floor only) Salbari under Jalah Development Block.",
+            "description": "Construction of Bodoland Co-Operative Thrift and Credit Society Ltd (1st Floor only) Salbari under Jalah Development Block.",
+            "datePublished": "28-Feb-2023 03:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "40,19,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Mar-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

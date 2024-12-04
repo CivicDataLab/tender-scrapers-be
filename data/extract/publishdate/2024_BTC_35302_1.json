@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_35302_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Jan-2024 04:00 PM",
+    "tenderValueAmount": "9,31,46,052",
+    "tender": [
+        {
+            "id": "2024_BTC_35302_1",
+            "title": "Construction of Birsa Munda Complex at Amguri, Kokrajhar District under SDP to be funded by Govt. of Assam.TN-52_5",
+            "description": "Construction of Birsa Munda Complex at Amguri, Kokrajhar District under SDP to be funded by Govt. of Assam.TN-52_5",
+            "datePublished": "08-Jan-2024 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "9,31,46,052",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jan-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

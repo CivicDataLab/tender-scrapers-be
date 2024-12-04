@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34772_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Jan-2024 11:30 AM",
+    "tenderValueAmount": "95,21,725",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34772_1",
+            "title": "Establishment of OPD Registration Counter at existing Vaccination Centre at GMCH, Dispur, Guwahati-32",
+            "description": "Establishment of OPD Registration Counter at existing Vaccination Centre at GMCH, Dispur, Guwahati-32",
+            "datePublished": "19-Dec-2023 12:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "95,21,725",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Jan-2024 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

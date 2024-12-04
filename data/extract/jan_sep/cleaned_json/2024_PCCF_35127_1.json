@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PCCF_35127_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "25-Jan-2024 01:00 PM",
+    "tenderValueAmount": "49,83,000",
+    "tender": [
+        {
+            "id": "2024_PCCF_35127_1",
+            "title": "Construction of Boundary Fencing with R.C.C Post and chain linked fencing against 50 Ha AR Plantation at Khagarpur Pt-III (Barekamara)",
+            "description": "Construction of Boundary Fencing with R.C.C Post and chain linked fencing against 50 Ha AR Plantation at Khagarpur Pt-III (Barekamara)",
+            "datePublished": "02-Jan-2024 05:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "49,83,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "25-Jan-2024 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

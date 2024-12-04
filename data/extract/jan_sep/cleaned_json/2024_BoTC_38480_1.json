@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_38480_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Aug-2024 01:30 PM",
+    "tenderValueAmount": "30,00,000",
+    "tender": [
+        {
+            "id": "2024_BoTC_38480_1",
+            "title": "Construction of Godown of Gossaigaon Sub-Divisional wholesale consumers Ltd. under Kokrajhar District for the financial year 2024-25. Pkg No.537-1",
+            "description": "Construction of Godown of Gossaigaon Sub-Divisional wholesale consumers Ltd. under Kokrajhar District for the financial year 2024-25. Pkg No.537-1",
+            "datePublished": "13-Aug-2024 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "30,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Aug-2024 01:30 PM"
+                }
+            ]
+        }
+    ]
+}

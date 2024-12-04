@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_GMC_32305_22",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "14-Sep-2023 02:30 PM",
+    "tenderValueAmount": "21,00,000",
+    "tender": [
+        {
+            "id": "2023_GMC_32305_22",
+            "title": "Drain and Road at Bishnujyoti Path adjacent to AK Dev Road Ambari",
+            "description": "Drain and Road at Bishnujyoti Path adjacent to AK Dev Road Ambari",
+            "datePublished": "30-Aug-2023 02:00 PM",
+            "contractType": "Lump-sum",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "21,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "14-Sep-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

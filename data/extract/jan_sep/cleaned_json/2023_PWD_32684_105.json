@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_105",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,25,00,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_105",
+            "title": "MMNPPNA_23_24_91 Construction of Sukapha Nagar Drain at Joikhamsang Path ( From Ch 0.00m to 1600.00m) under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA) for the year 2023-24, Nazira MB",
+            "description": "MMNPPNA_23_24_91 Construction of Sukapha Nagar Drain at Joikhamsang Path ( From Ch 0.00m to 1600.00m) under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA) for the year 2023-24, Nazira MB",
+            "datePublished": "04-Oct-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,25,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

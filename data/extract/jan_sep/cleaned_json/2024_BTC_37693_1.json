@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_37693_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Jul-2024 03:00 PM",
+    "tenderValueAmount": "2,00,64,950",
+    "tender": [
+        {
+            "id": "2024_BTC_37693_1",
+            "title": "Construction of RCC Bridge No. 1/1 on Harpur to Chandana Bagan under CMs Goodwill Mission Project under SOPD-G for the year 2023-24. (TN_26_161)",
+            "description": "Construction of RCC Bridge No. 1/1 on Harpur to Chandana Bagan under CMs Goodwill Mission Project under SOPD-G for the year 2023-24. (TN_26_161)",
+            "datePublished": "21-Jun-2024 02:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,00,64,950",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Jul-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

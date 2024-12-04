@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_32114_4",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "09-Oct-2023 03:30 PM",
+    "tenderValueAmount": "32,03,75,512",
+    "tender": [
+        {
+            "id": "2023_PWBNH_32114_4",
+            "title": "Establishment of 10 Nos. of Government Model Degree Colleges under NESIDs atAssamatDholai (Cachar District),on Engineering, Procurement and Construction (EPC) Mode-I Basis",
+            "description": "Establishment of 10 Nos. of Government Model Degree Colleges under NESIDs atAssamatDholai (Cachar District),on Engineering, Procurement and Construction (EPC) Mode-I Basis",
+            "datePublished": "18-Aug-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "32,03,75,512",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Oct-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

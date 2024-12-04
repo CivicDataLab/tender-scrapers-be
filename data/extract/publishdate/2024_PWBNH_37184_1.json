@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37184_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Mar-2024 03:30 PM",
+    "tenderValueAmount": "13,15,72,614",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37184_1",
+            "title": "Construction of Proposed Circuit House at Barpeta",
+            "description": "Construction of Proposed Circuit House at Barpeta",
+            "datePublished": "13-Mar-2024 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "13,15,72,614",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Mar-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

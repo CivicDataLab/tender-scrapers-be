@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PCCF_32396_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Sep-2023 11:00 AM",
+    "tenderValueAmount": "23,22,307",
+    "tender": [
+        {
+            "id": "2023_PCCF_32396_2",
+            "title": "A.2ndyearMaintenancefor Institutional Single Planting 2190 Nos. B. 2ndyearMaintenancefor Rural Roadside Single Planting 900 Nos. C. 2nd yearMaintenance of 1.5 ha. Nursery1 No. Under Sonapur SF Range",
+            "description": "A.2ndyearMaintenancefor Institutional Single Planting 2190 Nos. B. 2ndyearMaintenancefor Rural Roadside Single Planting 900 Nos. C. 2nd yearMaintenance of 1.5 ha. Nursery1 No. Under Sonapur SF Range",
+            "datePublished": "07-Sep-2023 01:00 PM",
+            "contractType": "Percentage",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "23,22,307",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Sep-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

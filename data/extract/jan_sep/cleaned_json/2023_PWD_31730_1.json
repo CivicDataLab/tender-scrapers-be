@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_31730_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "09-Aug-2023 02:30 PM",
+    "tenderValueAmount": "1,76,55,000",
+    "tender": [
+        {
+            "id": "2023_PWD_31730_1",
+            "title": "Relocation and Construction of Rahdhala L.P. School at Gauripur, North Guwahati",
+            "description": "Relocation and Construction of Rahdhala L.P. School at Gauripur, North Guwahati",
+            "datePublished": "20-Jul-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,76,55,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Aug-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

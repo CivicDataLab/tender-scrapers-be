@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_UDD_35700_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "15-Feb-2024 12:00 PM",
+    "tenderValueAmount": "56,13,000",
+    "tender": [
+        {
+            "id": "2024_UDD_35700_1",
+            "title": "Group No 1",
+            "description": "Group No 1",
+            "datePublished": "25-Jan-2024 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "56,13,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Feb-2024 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

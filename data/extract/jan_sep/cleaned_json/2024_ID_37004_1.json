@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ID_37004_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Mar-2024 02:00 PM",
+    "tenderValueAmount": "68,82,500",
+    "tender": [
+        {
+            "id": "2024_ID_37004_1",
+            "title": "Solar Powered MDTW (2 Points) at Romai Area under SOPD-G for the year 2023-24",
+            "description": "Solar Powered MDTW (2 Points) at Romai Area under SOPD-G for the year 2023-24",
+            "datePublished": "07-Mar-2024 03:00 PM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "68,82,500",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_35923_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Feb-2024 11:00 AM",
+    "tenderValueAmount": "45,49,446",
+    "tender": [
+        {
+            "id": "2024_BTC_35923_1",
+            "title": "Construction of 2 Two units of Gr-III Qtrs. with Sanitary, Water Supply, Boundary Wall and Iron Gate at Bhaoraguri PHC in Kokrajhar District. TN No.70_04.",
+            "description": "Construction of 2 Two units of Gr-III Qtrs. with Sanitary, Water Supply, Boundary Wall and Iron Gate at Bhaoraguri PHC in Kokrajhar District. TN No.70_04.",
+            "datePublished": "05-Feb-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "45,49,446",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Feb-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

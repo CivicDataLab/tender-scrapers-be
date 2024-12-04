@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_35006_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Jan-2024 03:00 PM",
+    "tenderValueAmount": "42,85,860",
+    "tender": [
+        {
+            "id": "2023_BTC_35006_1",
+            "title": "Vertical extension of Godown cum residential quarter for night chowkider at the office of the Addl. Director cum CHD, Tribal Affairs (P) at Gaurang Nwgwr, Magurmari BTC, Kokrajhar. (TN_50_1)",
+            "description": "Vertical extension of Godown cum residential quarter for night chowkider at the office of the Addl. Director cum CHD, Tribal Affairs (P) at Gaurang Nwgwr, Magurmari BTC, Kokrajhar. (TN_50_1)",
+            "datePublished": "28-Dec-2023 01:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "42,85,860",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

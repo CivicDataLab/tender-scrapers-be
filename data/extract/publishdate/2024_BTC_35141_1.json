@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_35141_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "24-Jan-2024 12:00 PM",
+    "tenderValueAmount": "21,19,69,180",
+    "tender": [
+        {
+            "id": "2024_BTC_35141_1",
+            "title": "Development of State Guest House at Kokrajhar, BTC under Grant to BTC for infrastructure Development Fund for the financial year 2022-23. (TN_53_1)",
+            "description": "Development of State Guest House at Kokrajhar, BTC under Grant to BTC for infrastructure Development Fund for the financial year 2022-23. (TN_53_1)",
+            "datePublished": "03-Jan-2024 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "21,19,69,180",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "24-Jan-2024 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

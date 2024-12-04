@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_GMDA_35973_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Feb-2024 03:00 PM",
+    "tenderValueAmount": "2,62,84,859",
+    "tender": [
+        {
+            "id": "2024_GMDA_35973_1",
+            "title": "Excavation of Silsako Beel Part 1A to enhance its retention capacity for the FY 2023 24 Package2",
+            "description": "Excavation of Silsako Beel Part 1A to enhance its retention capacity for the FY 2023 24 Package2",
+            "datePublished": "06-Feb-2024 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,62,84,859",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

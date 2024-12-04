@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35376_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Feb-2024 03:00 PM",
+    "tenderValueAmount": "1,40,73,143",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35376_1",
+            "title": "Jagannath Community and Skill Centre at Gopal Krishna TE under Jagiroad LAC (Pkg. No.34)",
+            "description": "Jagannath Community and Skill Centre at Gopal Krishna TE under Jagiroad LAC (Pkg. No.34)",
+            "datePublished": "10-Jan-2024 05:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,40,73,143",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

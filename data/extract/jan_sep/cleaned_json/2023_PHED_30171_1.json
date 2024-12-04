@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PHED_30171_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Apr-2023 03:00 PM",
+    "tenderValueAmount": "0.0",
+    "tender": [
+        {
+            "id": "2023_PHED_30171_1",
+            "title": "Fixation of Rates for additional items of PWSS under Dima Hasao Zone to be executed under JJM Assam",
+            "description": "Fixation of Rates for additional items of PWSS under Dima Hasao Zone to be executed under JJM Assam",
+            "datePublished": "29-Mar-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "0.0",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Apr-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

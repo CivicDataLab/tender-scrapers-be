@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ID_32714_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Nov-2023 11:00 AM",
+    "tenderValueAmount": "29,55,331",
+    "tender": [
+        {
+            "id": "2023_ID_32714_3",
+            "title": "Installation of Solar Powered Medium Deep Tube Well Irrigation System at Ashini Sarania s paddy",
+            "description": "Installation of Solar Powered Medium Deep Tube Well Irrigation System at Ashini Sarania s paddy",
+            "datePublished": "30-Sep-2023 09:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "29,55,331",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

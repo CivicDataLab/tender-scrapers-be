@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_UDD_34373_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "02-Jan-2024 11:00 AM",
+    "tenderValueAmount": "2,00,00,000",
+    "tender": [
+        {
+            "id": "2023_UDD_34373_1",
+            "title": "SELECTION OF AGENCY FOR PROCESSING AND DISPOSAL OF LEGACY MUNICIPL SOLID WASTE AT SIVASAGAR DUMPSITE THROUGH BIO MINING",
+            "description": "SELECTION OF AGENCY FOR PROCESSING AND DISPOSAL OF LEGACY MUNICIPL SOLID WASTE AT SIVASAGAR DUMPSITE THROUGH BIO MINING",
+            "datePublished": "04-Dec-2023 02:00 PM",
+            "contractType": "EOI",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "2,00,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Jan-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

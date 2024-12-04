@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_36694_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Mar-2024 02:00 PM",
+    "tenderValueAmount": "2,32,08,875",
+    "tender": [
+        {
+            "id": "2024_BTC_36694_1",
+            "title": "Road connecting from 3 No. Silakhuti to Kalbari PMGSY Connecting road via bennabari village PMGSY connecting road under Goodwill Project for the year 2022-23 (L-3000.00 M) TN_26_47 (R-1)",
+            "description": "Road connecting from 3 No. Silakhuti to Kalbari PMGSY Connecting road via bennabari village PMGSY connecting road under Goodwill Project for the year 2022-23 (L-3000.00 M) TN_26_47 (R-1)",
+            "datePublished": "27-Feb-2024 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,32,08,875",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

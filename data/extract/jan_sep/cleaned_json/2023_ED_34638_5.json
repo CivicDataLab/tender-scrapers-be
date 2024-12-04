@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ED_34638_5",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "19-Jan-2024 11:00 AM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_ED_34638_5",
+            "title": "Grant of IMFL retail OFF licence at NIZ-DHING MARKETING, DHING MUNICIPAL BOARD",
+            "description": "Grant of IMFL retail OFF licence at NIZ-DHING MARKETING, DHING MUNICIPAL BOARD",
+            "datePublished": "14-Dec-2023 09:30 AM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Jan-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

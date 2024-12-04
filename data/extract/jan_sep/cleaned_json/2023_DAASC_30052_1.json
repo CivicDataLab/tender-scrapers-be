@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DAASC_30052_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "24-Apr-2023 01:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_DAASC_30052_1",
+            "title": "Empanelment for Manufacturers of Agricultural Machinery",
+            "description": "Empanelment for Manufacturers of Agricultural Machinery",
+            "datePublished": "23-Mar-2023 10:00 AM",
+            "contractType": "Empanelment",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "24-Apr-2023 01:30 PM"
+                }
+            ]
+        }
+    ]
+}

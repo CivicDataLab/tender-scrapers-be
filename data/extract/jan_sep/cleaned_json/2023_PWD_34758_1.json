@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34758_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Dec-2023 11:00 AM",
+    "tenderValueAmount": "62,85,000",
+    "tender": [
+        {
+            "id": "2023_PWD_34758_1",
+            "title": "Road safety Measures on SH/MDR/ODR/RR under Hojai District Territorial Road Division which connect NH-54 for the year 2023-24 under Hojai Territorial Sub-Division under 966 -road safety works",
+            "description": "Road safety Measures on SH/MDR/ODR/RR under Hojai District Territorial Road Division which connect NH-54 for the year 2023-24 under Hojai Territorial Sub-Division under 966 -road safety works",
+            "datePublished": "16-Dec-2023 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "62,85,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Dec-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

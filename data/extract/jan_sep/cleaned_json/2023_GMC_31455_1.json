@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_GMC_31455_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "25-Jul-2023 03:00 PM",
+    "tenderValueAmount": "41,36,170",
+    "tender": [
+        {
+            "id": "2023_GMC_31455_1",
+            "title": "Restoration of functional capacity of the floculators, clarifiers, sedimentation tanks and other hydraulic units of the Panbazar ,Satpukhuri and Kamakhya WTP by cleaning and de-silting under 15th FC with Extended Maintenance for One year",
+            "description": "Restoration of functional capacity of the floculators, clarifiers, sedimentation tanks and other hydraulic units of the Panbazar ,Satpukhuri and Kamakhya WTP by cleaning and de-silting under 15th FC with Extended Maintenance for One year",
+            "datePublished": "01-Jul-2023 02:15 PM",
+            "contractType": "Lump-sum",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "41,36,170",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "25-Jul-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

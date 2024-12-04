@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32932_16",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Nov-2023 11:00 AM",
+    "tenderValueAmount": "4,23,19,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32932_16",
+            "title": "Package No. RIDF-XXIX/Dhubri/05 Construction of RCC Br.No.1/1 on Road from 1st km of Dharmasala Durahati Road to Singimari Road under Mukhya Mantrir Unnoto Paki Path Nirman Achani (MMUPPNA ) for the year 2023-24 under Dhubri LAC",
+            "description": "Package No. RIDF-XXIX/Dhubri/05 Construction of RCC Br.No.1/1 on Road from 1st km of Dharmasala Durahati Road to Singimari Road under Mukhya Mantrir Unnoto Paki Path Nirman Achani (MMUPPNA ) for the year 2023-24 under Dhubri LAC",
+            "datePublished": "10-Oct-2023 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,23,19,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

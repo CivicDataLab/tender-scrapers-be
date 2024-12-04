@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32885_8",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 02:00 PM",
+    "tenderValueAmount": "3,20,69,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32885_8",
+            "title": "MMNPPNA_23_24_152 Widening and Strengthening of Bijni Gerukabari to Panbari Road (Ch 2000.00 m to Ch-2700.00 m) under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA) for the year 2023-24, Bijni MB",
+            "description": "MMNPPNA_23_24_152 Widening and Strengthening of Bijni Gerukabari to Panbari Road (Ch 2000.00 m to Ch-2700.00 m) under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA) for the year 2023-24, Bijni MB",
+            "datePublished": "12-Oct-2023 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,20,69,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

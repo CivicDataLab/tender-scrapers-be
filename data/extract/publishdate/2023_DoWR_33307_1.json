@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_33307_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Nov-2023 03:00 PM",
+    "tenderValueAmount": "6,98,26,158",
+    "tender": [
+        {
+            "id": "2023_DoWR_33307_1",
+            "title": "Construction of Additional Sluice Opening (Double Shutter ) at Bethukandi for drainage of Mahisabeel to Borak River.",
+            "description": "Construction of Additional Sluice Opening (Double Shutter ) at Bethukandi for drainage of Mahisabeel to Borak River.",
+            "datePublished": "27-Oct-2023 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "6,98,26,158",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

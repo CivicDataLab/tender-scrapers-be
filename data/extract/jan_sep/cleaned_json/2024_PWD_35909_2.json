@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35909_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Feb-2024 02:30 PM",
+    "tenderValueAmount": "91,01,955",
+    "tender": [
+        {
+            "id": "2024_PWD_35909_2",
+            "title": "Construction of Road under Clean Village Award 2023 in Melamora Gaon of Khumtai ZPC (1) Paniram Hazarika Path (Ch.0.00 m to Ch. 340.00 m), (2) Bayan Chuburi Path (Ch.0.00 m to Ch. 350.00 m), (3) Bailachuburi Path (Ch.0.00 m to Ch. 70.00 m), (4) Pu",
+            "description": "Construction of Road under Clean Village Award 2023 in Melamora Gaon of Khumtai ZPC (1) Paniram Hazarika Path (Ch.0.00 m to Ch. 340.00 m), (2) Bayan Chuburi Path (Ch.0.00 m to Ch. 350.00 m), (3) Bailachuburi Path (Ch.0.00 m to Ch. 70.00 m), (4) Pu",
+            "datePublished": "05-Feb-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "91,01,955",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Feb-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

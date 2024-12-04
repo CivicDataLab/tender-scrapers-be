@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33321_15",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Nov-2023 11:00 AM",
+    "tenderValueAmount": "31,59,300",
+    "tender": [
+        {
+            "id": "2023_PWD_33321_15",
+            "title": "Package No.Dhubri/MMPNA/BUG/02 Repair/Rehabilitation of (1) BUG Br. No 5/1 on Gauripur Kalahat via Rowah (Gauripur Rly. Station to Kismot Hasdaha Pt.III) Road at Ch 4920.00m (2) BUG Br. No 1/1 on DG Road Dhubri near Samshanghat to NH-31, Gauripur at",
+            "description": "Package No.Dhubri/MMPNA/BUG/02 Repair/Rehabilitation of (1) BUG Br. No 5/1 on Gauripur Kalahat via Rowah (Gauripur Rly. Station to Kismot Hasdaha Pt.III) Road at Ch 4920.00m (2) BUG Br. No 1/1 on DG Road Dhubri near Samshanghat to NH-31, Gauripur at",
+            "datePublished": "28-Oct-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "31,59,300",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_WPTBC_35041_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Jan-2024 04:00 PM",
+    "tenderValueAmount": "25,00,000",
+    "tender": [
+        {
+            "id": "2023_WPTBC_35041_1",
+            "title": "Infrastructure Development of Muduki Anchalik Janajatiya High School of Palashbari LAC, Dist Kamrup",
+            "description": "Infrastructure Development of Muduki Anchalik Janajatiya High School of Palashbari LAC, Dist Kamrup",
+            "datePublished": "29-Dec-2023 03:05 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "25,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Jan-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

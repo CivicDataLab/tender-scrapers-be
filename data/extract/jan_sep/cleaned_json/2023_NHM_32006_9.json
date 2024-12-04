@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_NHM_32006_9",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Aug-2023 03:30 PM",
+    "tenderValueAmount": "72,00,000",
+    "tender": [
+        {
+            "id": "2023_NHM_32006_9",
+            "title": "Construction of AYUSH Dispensary (Assam Type) in Nagaon District, group.15 (3 nos. of scheme in Nagaon District) for FY 2022-23 under NAM, Assam.",
+            "description": "Construction of AYUSH Dispensary (Assam Type) in Nagaon District, group.15 (3 nos. of scheme in Nagaon District) for FY 2022-23 under NAM, Assam.",
+            "datePublished": "09-Aug-2023 05:50 PM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "72,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Aug-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

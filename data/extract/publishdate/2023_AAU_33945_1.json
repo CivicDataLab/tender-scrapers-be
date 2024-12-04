@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_AAU_33945_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "16-Dec-2023 03:00 PM",
+    "tenderValueAmount": "34,06,077",
+    "tender": [
+        {
+            "id": "2023_AAU_33945_1",
+            "title": "Construction of RCC entrance gate and boundary wall at KVK, Karbi Anglong",
+            "description": "Construction of RCC entrance gate and boundary wall at KVK, Karbi Anglong",
+            "datePublished": "15-Nov-2023 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "34,06,077",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

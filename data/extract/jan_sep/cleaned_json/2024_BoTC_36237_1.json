@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_36237_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Feb-2024 03:30 PM",
+    "tenderValueAmount": "36,85,874",
+    "tender": [
+        {
+            "id": "2024_BoTC_36237_1",
+            "title": "Constrcution of Anti-Poaching Camp",
+            "description": "Constrcution of Anti-Poaching Camp",
+            "datePublished": "13-Feb-2024 06:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "36,85,874",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Feb-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

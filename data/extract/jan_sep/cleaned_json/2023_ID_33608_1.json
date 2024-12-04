@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ID_33608_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Dec-2023 03:00 PM",
+    "tenderValueAmount": "53,16,09,511",
+    "tender": [
+        {
+            "id": "2023_ID_33608_1",
+            "title": "LIS FROM RIVER DOYANG IN GOLAGHAT AND SARUPATHAR LAC UNDER PMKSY HKKP SMI FOR THE YEAR 2022_23 9PTS UNDER GOLAGHAT SARUPATHAR DIV I GOLAGHAT",
+            "description": "LIS FROM RIVER DOYANG IN GOLAGHAT AND SARUPATHAR LAC UNDER PMKSY HKKP SMI FOR THE YEAR 2022_23 9PTS UNDER GOLAGHAT SARUPATHAR DIV I GOLAGHAT",
+            "datePublished": "07-Nov-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "53,16,09,511",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

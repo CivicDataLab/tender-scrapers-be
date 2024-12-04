@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_37444_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Apr-2024 04:00 PM",
+    "tenderValueAmount": "49,99,800",
+    "tender": [
+        {
+            "id": "2024_BTC_37444_1",
+            "title": "Construction of College Building of Dimakuchi College, Dimakuchi in Udalguri Dist. (TN_94_1)",
+            "description": "Construction of College Building of Dimakuchi College, Dimakuchi in Udalguri Dist. (TN_94_1)",
+            "datePublished": "22-Mar-2024 04:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "49,99,800",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Apr-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35115_62",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:30 PM",
+    "tenderValueAmount": "3,42,61,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35115_62",
+            "title": "MMPPNA_23_24_61, Const. of Road from Karkok Bilashpuri Gaon to Sarik Bey Gaon, 2.Const. of Road from Rongkut Block No-1 (Lotika Bazar) to Lang Terang River Via Matrimangal L.P School, 3.Const. of Road from Matikhola H.S School to Rongkut Horizon LP S",
+            "description": "MMPPNA_23_24_61, Const. of Road from Karkok Bilashpuri Gaon to Sarik Bey Gaon, 2.Const. of Road from Rongkut Block No-1 (Lotika Bazar) to Lang Terang River Via Matrimangal L.P School, 3.Const. of Road from Matikhola H.S School to Rongkut Horizon LP S",
+            "datePublished": "03-Jan-2024 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,42,61,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

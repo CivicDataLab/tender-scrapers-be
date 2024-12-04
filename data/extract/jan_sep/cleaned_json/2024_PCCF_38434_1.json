@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PCCF_38434_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Sep-2024 03:00 PM",
+    "tenderValueAmount": "35,00,000",
+    "tender": [
+        {
+            "id": "2024_PCCF_38434_1",
+            "title": "CONSTRUCTION OF TRANSIT CAMP",
+            "description": "CONSTRUCTION OF TRANSIT CAMP",
+            "datePublished": "12-Aug-2024 09:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "35,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Sep-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

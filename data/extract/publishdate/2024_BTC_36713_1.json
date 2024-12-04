@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_36713_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Mar-2024 02:00 PM",
+    "tenderValueAmount": "5,07,25,719",
+    "tender": [
+        {
+            "id": "2024_BTC_36713_1",
+            "title": "Construction of road from Dogorpara Chowk to Laxmi Mandir via Ballamguri road to No.1 Boro Ladanguri Model village to Kumarsali SSb camp to Rangijhora SSB camp in Chirang District, BTC, Assam for the year 2023-24. TN_26_106 (R-2)",
+            "description": "Construction of road from Dogorpara Chowk to Laxmi Mandir via Ballamguri road to No.1 Boro Ladanguri Model village to Kumarsali SSb camp to Rangijhora SSB camp in Chirang District, BTC, Assam for the year 2023-24. TN_26_106 (R-2)",
+            "datePublished": "28-Feb-2024 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "5,07,25,719",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

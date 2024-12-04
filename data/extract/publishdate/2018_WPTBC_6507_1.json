@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2018_WPTBC_6507_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2017-2018",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Mar-2018 03:00 PM",
+    "tenderValueAmount": "1,29,58,841",
+    "tender": [
+        {
+            "id": "2018_WPTBC_6507_1",
+            "title": "Repairing Guide bundh and de siltation work s at Tipomia River phase I phase II and Agriculture bundh cum anti erosion work at Domjan Tanti Basti and adjoining areas Samoguri Jorhat",
+            "description": "Repairing Guide bundh and de siltation work s at Tipomia River phase I phase II and Agriculture bundh cum anti erosion work at Domjan Tanti Basti and adjoining areas Samoguri Jorhat",
+            "datePublished": "24-Mar-2018 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,29,58,841",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Mar-2018 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

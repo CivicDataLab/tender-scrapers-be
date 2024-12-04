@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33797_248",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Dec-2023 03:00 PM",
+    "tenderValueAmount": "1,03,08,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33797_248",
+            "title": "MMPNA/2023-24/24_Periodic Renewal of road from Baghmari at NH-15 to Brahmaputra Chapari (at NH-15) and Bapujar Gereki road (3km) under MMPNA for the year 2023-24 under Behali LAC",
+            "description": "MMPNA/2023-24/24_Periodic Renewal of road from Baghmari at NH-15 to Brahmaputra Chapari (at NH-15) and Bapujar Gereki road (3km) under MMPNA for the year 2023-24 under Behali LAC",
+            "datePublished": "14-Nov-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,03,08,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

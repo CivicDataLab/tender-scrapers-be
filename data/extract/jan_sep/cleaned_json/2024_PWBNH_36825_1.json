@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36825_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "14-Mar-2024 03:00 PM",
+    "tenderValueAmount": "56,39,694",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36825_1",
+            "title": "Repairing Renovation of Adarsha Vidyalaya Fularguri in Barpeta District Pakabetbari",
+            "description": "Repairing Renovation of Adarsha Vidyalaya Fularguri in Barpeta District Pakabetbari",
+            "datePublished": "02-Mar-2024 02:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "56,39,694",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "14-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

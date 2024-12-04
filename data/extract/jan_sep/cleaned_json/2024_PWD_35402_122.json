@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_122",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "2,63,37,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_122",
+            "title": "MMPPNA_23_24_316 (i) Construction of Road from Chapannahal Bagmara Road (Liakat Ali House Road), (ii)Construction of Purba Salganga Kali Mandir Road (Ch. 750.00m to Ch. 961.00m) (iii)Construction of Bahadurpur Kali Mandir Road (Ch. 0.00m to",
+            "description": "MMPPNA_23_24_316 (i) Construction of Road from Chapannahal Bagmara Road (Liakat Ali House Road), (ii)Construction of Purba Salganga Kali Mandir Road (Ch. 750.00m to Ch. 961.00m) (iii)Construction of Bahadurpur Kali Mandir Road (Ch. 0.00m to",
+            "datePublished": "18-Jan-2024 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,63,37,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

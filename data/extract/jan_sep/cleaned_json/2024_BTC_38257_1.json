@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_38257_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "21-Aug-2024 11:00 AM",
+    "tenderValueAmount": "1,99,22,624",
+    "tender": [
+        {
+            "id": "2024_BTC_38257_1",
+            "title": "Approach Road to EMRS, Bedlangmari, Kokrajhar. TN No.06_01",
+            "description": "Approach Road to EMRS, Bedlangmari, Kokrajhar. TN No.06_01",
+            "datePublished": "31-Jul-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,99,22,624",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Aug-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

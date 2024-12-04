@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36316_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Feb-2024 03:00 PM",
+    "tenderValueAmount": "46,99,963",
+    "tender": [
+        {
+            "id": "2024_PWD_36316_2",
+            "title": "Periodic Renewal of Road from Agia to Medhipara Lakhipur Road (SH-12) under Mukhya Mantri Path Nabikara Aachani (MMPNA) for 2023-24 under Goalpara West LAC in Goalpara District (From 21st Km to 32nd Km) Phase-II. Package No.MMPNA_GSSRC_02",
+            "description": "Periodic Renewal of Road from Agia to Medhipara Lakhipur Road (SH-12) under Mukhya Mantri Path Nabikara Aachani (MMPNA) for 2023-24 under Goalpara West LAC in Goalpara District (From 21st Km to 32nd Km) Phase-II. Package No.MMPNA_GSSRC_02",
+            "datePublished": "16-Feb-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "46,99,963",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

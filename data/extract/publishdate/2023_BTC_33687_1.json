@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33687_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Nov-2023 12:00 PM",
+    "tenderValueAmount": "2,10,23,948",
+    "tender": [
+        {
+            "id": "2023_BTC_33687_1",
+            "title": "Construction of CC Block Road from Bisarchuburi (Balipara) to No. 2 Balisita under CMs Goodwill Mission Project for the financial year 2023-24. (TN_26_133)",
+            "description": "Construction of CC Block Road from Bisarchuburi (Balipara) to No. 2 Balisita under CMs Goodwill Mission Project for the financial year 2023-24. (TN_26_133)",
+            "datePublished": "08-Nov-2023 02:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,10,23,948",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

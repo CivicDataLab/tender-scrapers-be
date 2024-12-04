@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32885_38",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 02:00 PM",
+    "tenderValueAmount": "1,79,33,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32885_38",
+            "title": "MMNPPNA_23_24_212 (i) Reconstruction of Srinath Road , Ward No. VI VII ( Ch 0.00 m to Ch 950.00 m), (ii) Reconstruction of S.S. Sarani road Ward No. IX X ( Ch 0.000 m to Ch 850.00 m), (iii) Reconstruction of Badalmal Sarani Road, Ward No. IX",
+            "description": "MMNPPNA_23_24_212 (i) Reconstruction of Srinath Road , Ward No. VI VII ( Ch 0.00 m to Ch 950.00 m), (ii) Reconstruction of S.S. Sarani road Ward No. IX X ( Ch 0.000 m to Ch 850.00 m), (iii) Reconstruction of Badalmal Sarani Road, Ward No. IX",
+            "datePublished": "11-Oct-2023 12:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,79,33,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

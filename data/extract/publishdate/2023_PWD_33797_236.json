@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33797_236",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Dec-2023 03:00 PM",
+    "tenderValueAmount": "82,60,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33797_236",
+            "title": "MMPNA/2023-24/223_Periodic Renewal of Road from Muwamari Uttar to Bhagamur Pachim Road (Ch. 0.00m to Ch. 1780.00m) and NH-37 at Missa to Sivasthan via Pachim Khalimari (Samaguri Missa) part2 (Ch. 7599.00m to Ch. 9949.00m) under MMPNA 2023_24",
+            "description": "MMPNA/2023-24/223_Periodic Renewal of Road from Muwamari Uttar to Bhagamur Pachim Road (Ch. 0.00m to Ch. 1780.00m) and NH-37 at Missa to Sivasthan via Pachim Khalimari (Samaguri Missa) part2 (Ch. 7599.00m to Ch. 9949.00m) under MMPNA 2023_24",
+            "datePublished": "13-Nov-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "82,60,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

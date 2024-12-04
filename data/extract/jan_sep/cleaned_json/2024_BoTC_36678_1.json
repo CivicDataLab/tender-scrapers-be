@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_36678_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "01-Mar-2024 01:30 PM",
+    "tenderValueAmount": "23,00,000",
+    "tender": [
+        {
+            "id": "2024_BoTC_36678_1",
+            "title": "Set up of Wind Mill 1 (one) No. in the Tourism Spots under BTR area under SOPD for the year 2023-24.",
+            "description": "Set up of Wind Mill 1 (one) No. in the Tourism Spots under BTR area under SOPD for the year 2023-24.",
+            "datePublished": "27-Feb-2024 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "23,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Mar-2024 01:30 PM"
+                }
+            ]
+        }
+    ]
+}

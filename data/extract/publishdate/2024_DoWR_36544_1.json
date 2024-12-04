@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_36544_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Feb-2024 03:00 PM",
+    "tenderValueAmount": "8,85,70,777",
+    "tender": [
+        {
+            "id": "2024_DoWR_36544_1",
+            "title": "Widening and strengthening the Solengi Right bank embankment with A/E measures to protect from the flood devastation of river Solengi (Ph-I). PACKAGE 2",
+            "description": "Widening and strengthening the Solengi Right bank embankment with A/E measures to protect from the flood devastation of river Solengi (Ph-I). PACKAGE 2",
+            "datePublished": "23-Feb-2024 09:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "8,85,70,777",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

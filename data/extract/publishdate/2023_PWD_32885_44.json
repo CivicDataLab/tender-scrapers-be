@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32885_44",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,39,44,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32885_44",
+            "title": "MMNPPNA_23_24_229 (i) Improvement of Old NT road including underground cabling and furnishing from NH31 (eastside) to Bhattadev University, (ii) Construction of CD on Pathsala Station Feeder Road near NH31 and Pathsala Main Post Office, (iii) Constr",
+            "description": "MMNPPNA_23_24_229 (i) Improvement of Old NT road including underground cabling and furnishing from NH31 (eastside) to Bhattadev University, (ii) Construction of CD on Pathsala Station Feeder Road near NH31 and Pathsala Main Post Office, (iii) Constr",
+            "datePublished": "11-Oct-2023 12:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,39,44,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

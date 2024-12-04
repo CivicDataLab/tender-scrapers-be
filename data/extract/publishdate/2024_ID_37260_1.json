@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ID_37260_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Apr-2024 02:00 PM",
+    "tenderValueAmount": "1,60,67,813",
+    "tender": [
+        {
+            "id": "2024_ID_37260_1",
+            "title": "Solar Powered TW Scheme at Tingkhong LAC, Kololowa Gaon Area (19 Points) Under SOPD-G For The Year 2023-24",
+            "description": "Solar Powered TW Scheme at Tingkhong LAC, Kololowa Gaon Area (19 Points) Under SOPD-G For The Year 2023-24",
+            "datePublished": "14-Mar-2024 05:00 PM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,60,67,813",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Apr-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

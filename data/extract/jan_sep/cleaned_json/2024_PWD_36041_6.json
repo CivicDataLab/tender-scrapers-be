@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36041_6",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "15-Feb-2024 02:00 PM",
+    "tenderValueAmount": "4,37,76,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36041_6",
+            "title": "MMPPNA_23_24_236 (1)Construction of road starting from Sadirkhal Rajatilla Road to Saidpur Pt-II connecting IBB Road via 243 Saidpur L.P. School (Ch. 0.00m to Ch. 1050.00m), (2)Construction of Road starting from PMGSY Road to Sinjuripar via Bihara",
+            "description": "MMPPNA_23_24_236 (1)Construction of road starting from Sadirkhal Rajatilla Road to Saidpur Pt-II connecting IBB Road via 243 Saidpur L.P. School (Ch. 0.00m to Ch. 1050.00m), (2)Construction of Road starting from PMGSY Road to Sinjuripar via Bihara",
+            "datePublished": "08-Feb-2024 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,37,76,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

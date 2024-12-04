@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DHTS_33842_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "30-Nov-2023 01:00 PM",
+    "tenderValueAmount": "21,38,000",
+    "tender": [
+        {
+            "id": "2023_DHTS_33842_1",
+            "title": "Supply of Textile Testing Machineries and Equipment/Tools and Plants to the Handloom Research and Designing Centre",
+            "description": "Supply of Textile Testing Machineries and Equipment/Tools and Plants to the Handloom Research and Designing Centre",
+            "datePublished": "10-Nov-2023 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "21,38,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Nov-2023 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

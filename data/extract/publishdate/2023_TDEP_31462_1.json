@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_TDEP_31462_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Aug-2023 04:00 PM",
+    "tenderValueAmount": "1,36,70,30,000",
+    "tender": [
+        {
+            "id": "2023_TDEP_31462_1",
+            "title": "Construction of 4 (Four) Terminals and Riverine Infrastructure at North-",
+            "description": "Construction of 4 (Four) Terminals and Riverine Infrastructure at North-",
+            "datePublished": "03-Jul-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,36,70,30,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Aug-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

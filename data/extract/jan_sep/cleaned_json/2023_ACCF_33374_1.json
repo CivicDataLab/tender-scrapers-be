@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ACCF_33374_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "27-Nov-2023 04:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_ACCF_33374_1",
+            "title": "ACCF/Medical furniture/2023-24/69",
+            "description": "ACCF/Medical furniture/2023-24/69",
+            "datePublished": "01-Nov-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Nov-2023 04:30 PM"
+                }
+            ]
+        }
+    ]
+}

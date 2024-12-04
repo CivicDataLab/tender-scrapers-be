@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33170_53",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Nov-2023 02:00 PM",
+    "tenderValueAmount": "10,34,54,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33170_53",
+            "title": "MMUPPNA_RIDF_XXIX_23_24_30 (i) Improvement of road from Helosa Kenduguri road, (ii) Widening and strengthening of road from B.B.R road at Mandal chowk to Kakaya Bihari chowk under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD",
+            "description": "MMUPPNA_RIDF_XXIX_23_24_30 (i) Improvement of road from Helosa Kenduguri road, (ii) Widening and strengthening of road from B.B.R road at Mandal chowk to Kakaya Bihari chowk under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD",
+            "datePublished": "25-Oct-2023 12:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "10,34,54,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

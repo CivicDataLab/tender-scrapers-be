@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_GMC_29798_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Apr-2023 02:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_GMC_29798_1",
+            "title": "Selection of Concessionaire for Design-Build-Operate-Transfer of a 20 KLD Faecal Sludge Treatment Plant (FSTP) for 5 years in Guwahati City",
+            "description": "Selection of Concessionaire for Design-Build-Operate-Transfer of a 20 KLD Faecal Sludge Treatment Plant (FSTP) for 5 years in Guwahati City",
+            "datePublished": "08-Mar-2023 12:30 PM",
+            "contractType": "Lump-sum",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Apr-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

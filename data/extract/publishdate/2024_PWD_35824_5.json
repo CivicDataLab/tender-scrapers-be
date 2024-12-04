@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35824_5",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "14-Feb-2024 02:00 PM",
+    "tenderValueAmount": "87,89,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35824_5",
+            "title": "MMPPNA_23_24_330 1. Construction of Tamuli Path from Ch. 0.00m to Ch. 250.00m (L 0.250 km), 2. Construction of Bheselimari Na Ali Road from Ch. 170.00m to Ch. 1170.00 m (L 1.00Km under Mukhya Mantrir Pakipath Nirman Achani for the year 2023-24",
+            "description": "MMPPNA_23_24_330 1. Construction of Tamuli Path from Ch. 0.00m to Ch. 250.00m (L 0.250 km), 2. Construction of Bheselimari Na Ali Road from Ch. 170.00m to Ch. 1170.00 m (L 1.00Km under Mukhya Mantrir Pakipath Nirman Achani for the year 2023-24",
+            "datePublished": "02-Feb-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "87,89,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "14-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

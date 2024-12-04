@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35422_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Feb-2024 12:30 PM",
+    "tenderValueAmount": "23,19,089",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35422_1",
+            "title": "Repairing the wall and Ceiling Leakage of 2Nos of Room of PG and UG Hostel of Regional College of Nursing of Guwahati, Narakasur Hill Top, Guwahati-32",
+            "description": "Repairing the wall and Ceiling Leakage of 2Nos of Room of PG and UG Hostel of Regional College of Nursing of Guwahati, Narakasur Hill Top, Guwahati-32",
+            "datePublished": "12-Jan-2024 09:00 AM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "23,19,089",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Feb-2024 12:30 PM"
+                }
+            ]
+        }
+    ]
+}

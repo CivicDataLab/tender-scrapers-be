@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_AAU_35855_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "20-Feb-2024 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_AAU_35855_1",
+            "title": "Procurement of Multispectral Sensor",
+            "description": "Procurement of Multispectral Sensor",
+            "datePublished": "01-Feb-2024 05:15 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

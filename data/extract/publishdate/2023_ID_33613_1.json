@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ID_33613_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Nov-2023 03:00 PM",
+    "tenderValueAmount": "26,91,80,272",
+    "tender": [
+        {
+            "id": "2023_ID_33613_1",
+            "title": "SOPAI TAMULIBARI FLOW I_SCHEME UNDER PMKSY_HKKP-SMI FOR THE YEAR 2022_23 UNDER DHEKIAJULI BARCHALLA DIV I DHEKIAJULI",
+            "description": "SOPAI TAMULIBARI FLOW I_SCHEME UNDER PMKSY_HKKP-SMI FOR THE YEAR 2022_23 UNDER DHEKIAJULI BARCHALLA DIV I DHEKIAJULI",
+            "datePublished": "07-Nov-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "26,91,80,272",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

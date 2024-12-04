@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36212_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Mar-2024 04:00 PM",
+    "tenderValueAmount": "1,17,01,461",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36212_1",
+            "title": "Repair renovation of Animal House Anatomy Department Academic Block at Silchar Medical College and Hospital Silchar",
+            "description": "Repair renovation of Animal House Anatomy Department Academic Block at Silchar Medical College and Hospital Silchar",
+            "datePublished": "13-Feb-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,17,01,461",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Mar-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

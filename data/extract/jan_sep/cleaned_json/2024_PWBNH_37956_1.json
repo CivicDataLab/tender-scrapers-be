@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37956_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Aug-2024 02:00 PM",
+    "tenderValueAmount": "26,66,195",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37956_1",
+            "title": "Construction of 2 (Two) nos.of watch tower by providing steel structure at Minister Colony, Dispur, Guwahati-6",
+            "description": "Construction of 2 (Two) nos.of watch tower by providing steel structure at Minister Colony, Dispur, Guwahati-6",
+            "datePublished": "11-Jul-2024 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "26,66,195",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Aug-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

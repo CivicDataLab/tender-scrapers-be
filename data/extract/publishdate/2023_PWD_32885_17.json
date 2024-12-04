@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32885_17",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 02:00 PM",
+    "tenderValueAmount": "1,15,03,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32885_17",
+            "title": "MMNPPNA_23_24_161 (i) Construction of Chath Puja Ghat Road (Municipal area road) , (ii) Construction of Bholanath Sarmah Path (Municipal area road), (iii)Construction of Rajubala Roy Path (Municipal area road), (iv) Construction of Mohmaikigaon",
+            "description": "MMNPPNA_23_24_161 (i) Construction of Chath Puja Ghat Road (Municipal area road) , (ii) Construction of Bholanath Sarmah Path (Municipal area road), (iii)Construction of Rajubala Roy Path (Municipal area road), (iv) Construction of Mohmaikigaon",
+            "datePublished": "12-Oct-2023 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,15,03,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

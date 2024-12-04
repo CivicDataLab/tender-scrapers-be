@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_35268_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Feb-2024 03:00 PM",
+    "tenderValueAmount": "4,77,23,708",
+    "tender": [
+        {
+            "id": "2024_BTC_35268_1",
+            "title": "Construction of Bir Chilagang Basumatary Memorial Mini Stadium at Dwarkuchi, District Tamulpur. (TN_35_5_R)",
+            "description": "Construction of Bir Chilagang Basumatary Memorial Mini Stadium at Dwarkuchi, District Tamulpur. (TN_35_5_R)",
+            "datePublished": "06-Jan-2024 11:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,77,23,708",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

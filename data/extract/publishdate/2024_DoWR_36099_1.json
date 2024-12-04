@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_36099_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "15-Feb-2024 03:00 PM",
+    "tenderValueAmount": "2,71,03,742",
+    "tender": [
+        {
+            "id": "2024_DoWR_36099_1",
+            "title": "Anti-Erosion Measures to Protect Bahadurpur area from the Ersion of River Digli on its R/B.",
+            "description": "Anti-Erosion Measures to Protect Bahadurpur area from the Ersion of River Digli on its R/B.",
+            "datePublished": "08-Feb-2024 06:40 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,71,03,742",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34034_6",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Dec-2023 11:00 AM",
+    "tenderValueAmount": "13,39,000",
+    "tender": [
+        {
+            "id": "2023_PWD_34034_6",
+            "title": "Package No. Sivasagar/MMPNA/3 Maintenance and Repairing of 1)Steel Bridge No. 1/3 and 1/2 on Dhundarmukh Ali, (2) Steel BridgeNo. 3/1 on Netai Bhimbor road, and 4/1 on Demow Dehing Road under Mukhya Mantrir Path Nabikaran Achani for the year 2023-24",
+            "description": "Package No. Sivasagar/MMPNA/3 Maintenance and Repairing of 1)Steel Bridge No. 1/3 and 1/2 on Dhundarmukh Ali, (2) Steel BridgeNo. 3/1 on Netai Bhimbor road, and 4/1 on Demow Dehing Road under Mukhya Mantrir Path Nabikaran Achani for the year 2023-24",
+            "datePublished": "18-Nov-2023 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "13,39,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Dec-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

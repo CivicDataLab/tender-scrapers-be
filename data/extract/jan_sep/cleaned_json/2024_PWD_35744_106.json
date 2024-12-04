@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35744_106",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 02:00 PM",
+    "tenderValueAmount": "1,53,74,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35744_106",
+            "title": "SOPD_ODS_23_24_44 Construction of (i) Anandpur connecting Road from Ch.0.00 m to 500.00 m in Halem TE (ii) Naya Ghagra PMGSY Road to Noya Ghagra TE Road",
+            "description": "SOPD_ODS_23_24_44 Construction of (i) Anandpur connecting Road from Ch.0.00 m to 500.00 m in Halem TE (ii) Naya Ghagra PMGSY Road to Noya Ghagra TE Road",
+            "datePublished": "06-Feb-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,53,74,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

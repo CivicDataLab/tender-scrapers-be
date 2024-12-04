@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_UDD_37654_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "23-Jul-2024 03:00 PM",
+    "tenderValueAmount": "2,23,74,000",
+    "tender": [
+        {
+            "id": "2024_UDD_37654_1",
+            "title": "Request for Proposal To Select an Agency for Establishment and Commissioning of Material Recovery Facility (MRF) and Waste to Compost Plant (W2C) at DIPHU ASSAM",
+            "description": "Request for Proposal To Select an Agency for Establishment and Commissioning of Material Recovery Facility (MRF) and Waste to Compost Plant (W2C) at DIPHU ASSAM",
+            "datePublished": "21-Jun-2024 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,23,74,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "23-Jul-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

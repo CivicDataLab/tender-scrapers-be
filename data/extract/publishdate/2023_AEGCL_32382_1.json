@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_AEGCL_32382_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Sep-2023 12:00 PM",
+    "tenderValueAmount": "29,51,426",
+    "tender": [
+        {
+            "id": "2023_AEGCL_32382_1",
+            "title": "Construction of switchyard main road with side drain (both side) at 220KV Agia GSS and Construction of new security barrack at 220KV Boko GSS, AEGCL",
+            "description": "Construction of switchyard main road with side drain (both side) at 220KV Agia GSS and Construction of new security barrack at 220KV Boko GSS, AEGCL",
+            "datePublished": "05-Sep-2023 03:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "29,51,426",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Sep-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

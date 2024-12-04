@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_UDD_36530_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Mar-2024 12:00 PM",
+    "tenderValueAmount": "9,65,000",
+    "tender": [
+        {
+            "id": "2024_UDD_36530_1",
+            "title": "Development of Sanitary Landfill (SLF) at North Guwahati Municipal Board, Assam",
+            "description": "Development of Sanitary Landfill (SLF) at North Guwahati Municipal Board, Assam",
+            "datePublished": "22-Feb-2024 06:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "9,65,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Mar-2024 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

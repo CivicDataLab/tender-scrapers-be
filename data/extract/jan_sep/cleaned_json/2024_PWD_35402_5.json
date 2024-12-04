@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_5",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "2,67,23,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_5",
+            "title": "MMPPNA_23_24_164 (1)Construction of Road from NH-15 at Kettla to Orang Gaon Road, (2)Construction of Road from Borgang TE Main Office to 1 No. Line Connecting Road, (3)Construction of Road from Batiamari MV School to Tamang Gaon under Mukhya Mantrir",
+            "description": "MMPPNA_23_24_164 (1)Construction of Road from NH-15 at Kettla to Orang Gaon Road, (2)Construction of Road from Borgang TE Main Office to 1 No. Line Connecting Road, (3)Construction of Road from Batiamari MV School to Tamang Gaon under Mukhya Mantrir",
+            "datePublished": "11-Jan-2024 04:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,67,23,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

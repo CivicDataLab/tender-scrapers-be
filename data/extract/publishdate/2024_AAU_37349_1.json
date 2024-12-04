@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_AAU_37349_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "10-Apr-2024 03:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_AAU_37349_1",
+            "title": "Establishment of One unit of MTS walking seed storage room (2 Chamber)",
+            "description": "Establishment of One unit of MTS walking seed storage room (2 Chamber)",
+            "datePublished": "16-Mar-2024 11:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Apr-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

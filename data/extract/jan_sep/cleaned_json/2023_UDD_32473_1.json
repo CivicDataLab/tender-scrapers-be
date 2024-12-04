@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_UDD_32473_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Sep-2023 02:00 PM",
+    "tenderValueAmount": "30,88,431",
+    "tender": [
+        {
+            "id": "2023_UDD_32473_1",
+            "title": "Construction of Funeral Pyre Shed and Pyre at Gellapukhuri Cremation Ground, Tinsukia.",
+            "description": "Construction of Funeral Pyre Shed and Pyre at Gellapukhuri Cremation Ground, Tinsukia.",
+            "datePublished": "13-Sep-2023 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "30,88,431",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Sep-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

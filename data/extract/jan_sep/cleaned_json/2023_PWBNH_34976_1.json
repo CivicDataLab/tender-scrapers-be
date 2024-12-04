@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34976_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Jan-2024 03:00 PM",
+    "tenderValueAmount": "39,15,643",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34976_1",
+            "title": "Additional work for newly constructed Multi storied Judicial Court Buildings at Krishnanagar Barpeta Providing paver block and chain link fencing etc",
+            "description": "Additional work for newly constructed Multi storied Judicial Court Buildings at Krishnanagar Barpeta Providing paver block and chain link fencing etc",
+            "datePublished": "26-Dec-2023 06:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "39,15,643",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

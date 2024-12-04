@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_AEGCL_30078_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Apr-2023 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_AEGCL_30078_1",
+            "title": "Supply of PLS-CADD Standard and FE(SAPS) software latest version at AEGCL",
+            "description": "Supply of PLS-CADD Standard and FE(SAPS) software latest version at AEGCL",
+            "datePublished": "23-Mar-2023 02:00 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Apr-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

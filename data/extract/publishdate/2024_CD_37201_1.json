@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_CD_37201_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Mar-2024 11:00 AM",
+    "tenderValueAmount": "95,67,113",
+    "tender": [
+        {
+            "id": "2024_CD_37201_1",
+            "title": "Construction of Girls Hostel building, RCC ground floor (3 storied Provision) at Pragjyotish College, Guwahati",
+            "description": "Construction of Girls Hostel building, RCC ground floor (3 storied Provision) at Pragjyotish College, Guwahati",
+            "datePublished": "13-Mar-2024 03:30 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "95,67,113",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Mar-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_UDD_33590_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Dec-2023 02:00 PM",
+    "tenderValueAmount": "69,91,54,876",
+    "tender": [
+        {
+            "id": "2023_UDD_33590_1",
+            "title": "Construction of North Lakhimpur Water Supply Project under AMRUT 2",
+            "description": "Construction of North Lakhimpur Water Supply Project under AMRUT 2",
+            "datePublished": "07-Nov-2023 03:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "69,91,54,876",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_35901_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Feb-2024 03:30 PM",
+    "tenderValueAmount": "23,26,624",
+    "tender": [
+        {
+            "id": "2024_BoTC_35901_1",
+            "title": "Const. of RCC Drain with Slab Culvert at Totpara, W/No. 1, Famiragram Municipal Board under the Untied grant (2nd installment) for the year 2021-22.",
+            "description": "Const. of RCC Drain with Slab Culvert at Totpara, W/No. 1, Famiragram Municipal Board under the Untied grant (2nd installment) for the year 2021-22.",
+            "datePublished": "03-Feb-2024 11:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "23,26,624",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Feb-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

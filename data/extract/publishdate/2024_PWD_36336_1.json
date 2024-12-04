@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36336_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "16-Mar-2024 01:00 PM",
+    "tenderValueAmount": "20,26,292",
+    "tender": [
+        {
+            "id": "2024_PWD_36336_1",
+            "title": "Roof Changing at ITI Haflong",
+            "description": "Roof Changing at ITI Haflong",
+            "datePublished": "16-Feb-2024 06:05 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "20,26,292",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Mar-2024 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

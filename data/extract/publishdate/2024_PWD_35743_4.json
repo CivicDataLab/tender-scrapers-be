@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35743_4",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "14-Feb-2024 02:00 PM",
+    "tenderValueAmount": "81,82,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35743_4",
+            "title": "MMPPNA_23_24_325 1. Construction of Road from Barjhar Tiniali to Simaltali Road (From Ch.0.00Km to 0.690Km) (L 0.690 Km), 2. Construction of Road from Dalgaon Khuti to NH-15 DIET Road (From Ch. 0.00 Km to 0.640Km) (L 0.640Km) under Mukhya Mantrir",
+            "description": "MMPPNA_23_24_325 1. Construction of Road from Barjhar Tiniali to Simaltali Road (From Ch.0.00Km to 0.690Km) (L 0.690 Km), 2. Construction of Road from Dalgaon Khuti to NH-15 DIET Road (From Ch. 0.00 Km to 0.640Km) (L 0.640Km) under Mukhya Mantrir",
+            "datePublished": "27-Jan-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "81,82,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "14-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

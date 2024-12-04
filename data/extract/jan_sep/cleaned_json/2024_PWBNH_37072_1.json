@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37072_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Mar-2024 04:00 PM",
+    "tenderValueAmount": "3,85,04,452",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37072_1",
+            "title": "Post Constructional Anti-Termite Treatment Works at inside and outside of New Assam Legislative Assembly Building including RCC Overhead Water Tank Treatment Work and Servicing and Functioning of existing Bio tank and changing of Duct Pipe lines of N",
+            "description": "Post Constructional Anti-Termite Treatment Works at inside and outside of New Assam Legislative Assembly Building including RCC Overhead Water Tank Treatment Work and Servicing and Functioning of existing Bio tank and changing of Duct Pipe lines of N",
+            "datePublished": "09-Mar-2024 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,85,04,452",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Mar-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

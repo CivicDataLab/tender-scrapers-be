@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2019_WPTBC_11277_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2018-2019",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Jan-2019 03:00 PM",
+    "tenderValueAmount": "85,40,000",
+    "tender": [
+        {
+            "id": "2019_WPTBC_11277_1",
+            "title": "Construction of Road from Laomuri to No. 2 Gohain gaon at Naruwa Than Dhemaji Flood Damaged Portion under Thengal Kachari Autonomous Council Fund for the year 2017 18",
+            "description": "Construction of Road from Laomuri to No. 2 Gohain gaon at Naruwa Than Dhemaji Flood Damaged Portion under Thengal Kachari Autonomous Council Fund for the year 2017 18",
+            "datePublished": "22-Jan-2019 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "85,40,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Jan-2019 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

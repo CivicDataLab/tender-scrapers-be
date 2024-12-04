@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_33528_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "18-Jan-2024 02:00 PM",
+    "tenderValueAmount": "24,78,069",
+    "tender": [
+        {
+            "id": "2023_BoTC_33528_2",
+            "title": "Impt of road with sand gravelling from Dhadri Basti PWD road to Bhumkipara Tiniali under 6th ASFC for the year 2023-24",
+            "description": "Impt of road with sand gravelling from Dhadri Basti PWD road to Bhumkipara Tiniali under 6th ASFC for the year 2023-24",
+            "datePublished": "06-Jan-2024 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,78,069",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "18-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

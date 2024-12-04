@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35741_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "14-Feb-2024 02:00 PM",
+    "tenderValueAmount": "1,74,03,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35741_3",
+            "title": "SOPD_ODS_23_24_03 (i)Construction of road from Dhodar ali to Kothalguri T.E. for Ch. 0.00 km to 0.90km(ii) Construction of Road from Dahingeapar T.E to Meleng Lakhipur Gaon under SOPD-ODS for the year 2023-24 in Mariani LAC",
+            "description": "SOPD_ODS_23_24_03 (i)Construction of road from Dhodar ali to Kothalguri T.E. for Ch. 0.00 km to 0.90km(ii) Construction of Road from Dahingeapar T.E to Meleng Lakhipur Gaon under SOPD-ODS for the year 2023-24 in Mariani LAC",
+            "datePublished": "26-Jan-2024 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,74,03,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "14-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

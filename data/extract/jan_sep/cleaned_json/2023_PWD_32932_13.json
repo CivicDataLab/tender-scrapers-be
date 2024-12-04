@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32932_13",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Nov-2023 11:00 AM",
+    "tenderValueAmount": "4,62,11,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32932_13",
+            "title": "Package No.RIDF-XXIX/Dhubri/02 Construction of RCC Br. No. 3/1 on Mahamaya IB to Gutipara under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD for the year 2023-24,Bilasipara Wes LAC",
+            "description": "Package No.RIDF-XXIX/Dhubri/02 Construction of RCC Br. No. 3/1 on Mahamaya IB to Gutipara under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD for the year 2023-24,Bilasipara Wes LAC",
+            "datePublished": "10-Oct-2023 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,62,11,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

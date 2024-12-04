@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_UDD_35091_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "20-Jan-2024 02:00 PM",
+    "tenderValueAmount": "5,72,13,833",
+    "tender": [
+        {
+            "id": "2023_UDD_35091_1",
+            "title": "Construction of Tangla Ph II Town Water Supply Project",
+            "description": "Construction of Tangla Ph II Town Water Supply Project",
+            "datePublished": "30-Dec-2023 12:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "5,72,13,833",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

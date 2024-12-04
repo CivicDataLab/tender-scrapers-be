@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_AAU_34147_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Dec-2023 03:00 PM",
+    "tenderValueAmount": "1,97,03,049",
+    "tender": [
+        {
+            "id": "2023_AAU_34147_1",
+            "title": "Construction of G plus 2 staff quarters at ZRS, NLP under AAU, Jorhat",
+            "description": "Construction of G plus 2 staff quarters at ZRS, NLP under AAU, Jorhat",
+            "datePublished": "23-Nov-2023 10:00 AM",
+            "contractType": "Percentage",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,97,03,049",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

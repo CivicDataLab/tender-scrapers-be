@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35733_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Feb-2024 02:00 PM",
+    "tenderValueAmount": "12,50,00,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35733_1",
+            "title": "MMUPPNA_RIDF_XXIX_23_24_68 Improvement of (i) road from Fakua to Balia, (ii) road from Tukarbazar to Sunatola BSF Camp road (iii) Kayasthagram Eraligool road Mukhya Mantrir Unnoto Paki Path Nirman Achani under RIDF-XXIX of NABARD for the year 2023-24",
+            "description": "MMUPPNA_RIDF_XXIX_23_24_68 Improvement of (i) road from Fakua to Balia, (ii) road from Tukarbazar to Sunatola BSF Camp road (iii) Kayasthagram Eraligool road Mukhya Mantrir Unnoto Paki Path Nirman Achani under RIDF-XXIX of NABARD for the year 2023-24",
+            "datePublished": "26-Jan-2024 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "12,50,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

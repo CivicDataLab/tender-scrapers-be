@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_93",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "2,05,36,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_93",
+            "title": "MMPPNA_23_24_224, (1)Construction of Road from Patartilla PWD Road to Amala Bhabanipur PWD Road , (2)Construction of Road from Borbond PWD Road Baliura PWD Road at Borbond Pt III under Mukhya Mantrir Pakipath Nirman Achani for the year 2023-24",
+            "description": "MMPPNA_23_24_224, (1)Construction of Road from Patartilla PWD Road to Amala Bhabanipur PWD Road , (2)Construction of Road from Borbond PWD Road Baliura PWD Road at Borbond Pt III under Mukhya Mantrir Pakipath Nirman Achani for the year 2023-24",
+            "datePublished": "17-Jan-2024 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,05,36,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

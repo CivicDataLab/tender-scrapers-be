@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWRDW_37458_9",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "22-Apr-2024 02:30 PM",
+    "tenderValueAmount": "3,17,16,000",
+    "tender": [
+        {
+            "id": "2024_PWRDW_37458_9",
+            "title": "Construction of Bridge in Chirang district i) Br. No. 1/2 on Khagrabari to Kasudola Road",
+            "description": "Construction of Bridge in Chirang district i) Br. No. 1/2 on Khagrabari to Kasudola Road",
+            "datePublished": "29-Mar-2024 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,17,16,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "22-Apr-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

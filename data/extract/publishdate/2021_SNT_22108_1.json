@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2021_SNT_22108_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2021-2022",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "24-Jul-2021 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2021_SNT_22108_1",
+            "title": "PROCUREMENT FOR SUPPLY, INSTALLATION AND COMMISSIONING OF LABORATORY EQUIPMENTS AT GUWAHATI BIOTECH PARK INCUBATION CENTER",
+            "description": "PROCUREMENT FOR SUPPLY, INSTALLATION AND COMMISSIONING OF LABORATORY EQUIPMENTS AT GUWAHATI BIOTECH PARK INCUBATION CENTER",
+            "datePublished": "03-Jul-2021 06:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Global Tenders",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "24-Jul-2021 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

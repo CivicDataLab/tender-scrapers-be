@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ICD_33109_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "14-Nov-2023 03:00 PM",
+    "tenderValueAmount": "0.0",
+    "tender": [
+        {
+            "id": "2023_ICD_33109_1",
+            "title": "SUPPLY AND INSTALLATION OF 6 TON PER DAYEXPELLOR MUSTARD OIL PROCESSING UNIT WITH RELATED SERVICES IN TURNKEY BASIS AT CHENGMORA JARANI BISWANATH",
+            "description": "SUPPLY AND INSTALLATION OF 6 TON PER DAYEXPELLOR MUSTARD OIL PROCESSING UNIT WITH RELATED SERVICES IN TURNKEY BASIS AT CHENGMORA JARANI BISWANATH",
+            "datePublished": "17-Oct-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "0.0",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "14-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

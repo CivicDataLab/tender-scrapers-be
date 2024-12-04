@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34365_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Dec-2023 03:30 PM",
+    "tenderValueAmount": "4,81,15,000",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34365_1",
+            "title": "Estimate for Installation of Modular Laboratories/ teaching laboratories in different department of Dhubri Medical College and Hospital, Dhubri, Assam",
+            "description": "Estimate for Installation of Modular Laboratories/ teaching laboratories in different department of Dhubri Medical College and Hospital, Dhubri, Assam",
+            "datePublished": "04-Dec-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,81,15,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Dec-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

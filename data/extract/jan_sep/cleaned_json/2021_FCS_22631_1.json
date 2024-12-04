@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2021_FCS_22631_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2021-2022",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "10-Sep-2021 12:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2021_FCS_22631_1",
+            "title": "Transporation of food grains i.e. NFSA rice under Golaghat District for the year 2021-22",
+            "description": "Transporation of food grains i.e. NFSA rice under Golaghat District for the year 2021-22",
+            "datePublished": "19-Aug-2021 05:45 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Sep-2021 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

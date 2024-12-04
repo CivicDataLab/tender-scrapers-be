@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2021_FCS_22191_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2021-2022",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "10-Sep-2021 12:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2021_FCS_22191_1",
+            "title": "E-tender for the allotment of Salt (under Zonal quota) detailed hereunder for the pperiod of 2021-22",
+            "description": "E-tender for the allotment of Salt (under Zonal quota) detailed hereunder for the pperiod of 2021-22",
+            "datePublished": "19-Jul-2021 12:00 PM",
+            "contractType": "EOI",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Sep-2021 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

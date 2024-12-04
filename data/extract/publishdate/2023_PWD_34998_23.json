@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34998_23",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:00 PM",
+    "tenderValueAmount": "9,99,94,000",
+    "tender": [
+        {
+            "id": "2023_PWD_34998_23",
+            "title": "RIDF_XXIX_23_24_148 i) Improvement of road from P.K. road to Khilorbond (Length 4000.00m), (ii) Construction of road from NH-08 to Hathikhira 58-no garden line (Length4050.00m) (iii) Construction of road from Duhalia-Binodini PWD road to Kanaibaza",
+            "description": "RIDF_XXIX_23_24_148 i) Improvement of road from P.K. road to Khilorbond (Length 4000.00m), (ii) Construction of road from NH-08 to Hathikhira 58-no garden line (Length4050.00m) (iii) Construction of road from Duhalia-Binodini PWD road to Kanaibaza",
+            "datePublished": "29-Dec-2023 12:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "9,99,94,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35559_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_PWD_35559_1",
+            "title": "KAM/KRC/SOPD(G)/2023-24/17 Ex post Facto approval for Construction of Parking Yard and Approach Road in view of Namghar Samahor at Aunuati Satra Ghat, North Guwahati under SOPD-G for the year 2023-24, Jalukbari LAC",
+            "description": "KAM/KRC/SOPD(G)/2023-24/17 Ex post Facto approval for Construction of Parking Yard and Approach Road in view of Namghar Samahor at Aunuati Satra Ghat, North Guwahati under SOPD-G for the year 2023-24, Jalukbari LAC",
+            "datePublished": "22-Jan-2024 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoIT_31209_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Jul-2023 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_DoIT_31209_1",
+            "title": "SELECTION OF AN AGENCY FOR TURNKEY DEPLOYMENT OF INDUSTRY 4.0 ECOSYSTEM",
+            "description": "SELECTION OF AN AGENCY FOR TURNKEY DEPLOYMENT OF INDUSTRY 4.0 ECOSYSTEM",
+            "datePublished": "15-Jun-2023 10:00 AM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Jul-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

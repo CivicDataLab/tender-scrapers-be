@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36553_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Feb-2024 10:00 AM",
+    "tenderValueAmount": "75,91,175",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36553_1",
+            "title": "Restoration of Ladies Hostel 7 PICU PG Hostel New Boys Hostel and Boundary Wall at Assam Medical College Hospital Dibrugarh in Storm Damage",
+            "description": "Restoration of Ladies Hostel 7 PICU PG Hostel New Boys Hostel and Boundary Wall at Assam Medical College Hospital Dibrugarh in Storm Damage",
+            "datePublished": "23-Feb-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "75,91,175",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Feb-2024 10:00 AM"
+                }
+            ]
+        }
+    ]
+}

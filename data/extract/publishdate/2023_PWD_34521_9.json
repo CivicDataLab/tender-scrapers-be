@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34521_9",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Dec-2023 11:00 AM",
+    "tenderValueAmount": "11,14,300",
+    "tender": [
+        {
+            "id": "2023_PWD_34521_9",
+            "title": "Karbi Anglong/MMPNA/R_R/01 Repair and Rehabilitation of bridge located at Howraghat Parakhowa Road (Howraghat(Hospital Tiniali) - Parakhowa) at Ch.12.36 km under Mantrir Path Nabikaran Achani (MMPNA) for the year 2023-24",
+            "description": "Karbi Anglong/MMPNA/R_R/01 Repair and Rehabilitation of bridge located at Howraghat Parakhowa Road (Howraghat(Hospital Tiniali) - Parakhowa) at Ch.12.36 km under Mantrir Path Nabikaran Achani (MMPNA) for the year 2023-24",
+            "datePublished": "07-Dec-2023 01:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "11,14,300",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Dec-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

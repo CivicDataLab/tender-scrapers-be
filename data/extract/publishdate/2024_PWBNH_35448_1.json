@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35448_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Feb-2024 02:30 PM",
+    "tenderValueAmount": "9,79,10,300",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35448_1",
+            "title": "Transformation of Kamrup Academy Higher Secondary School as a Centre of Excellence in the capital region of Assam at Kamrup(M) District of Assam",
+            "description": "Transformation of Kamrup Academy Higher Secondary School as a Centre of Excellence in the capital region of Assam at Kamrup(M) District of Assam",
+            "datePublished": "13-Jan-2024 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "9,79,10,300",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Feb-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

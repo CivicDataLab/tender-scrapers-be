@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_30994_11",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Jun-2023 02:00 PM",
+    "tenderValueAmount": "2,85,48,381",
+    "tender": [
+        {
+            "id": "2023_BoTC_30994_11",
+            "title": "Construction of Headworks and other apurtenant structures at Thagirhola F.I.S",
+            "description": "Construction of Headworks and other apurtenant structures at Thagirhola F.I.S",
+            "datePublished": "29-May-2023 03:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,85,48,381",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Jun-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

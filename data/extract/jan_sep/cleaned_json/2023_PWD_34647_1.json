@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34647_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Jan-2024 10:00 AM",
+    "tenderValueAmount": "52,33,802",
+    "tender": [
+        {
+            "id": "2023_PWD_34647_1",
+            "title": "Road safety measure works for all connecting roads to abandoned NH, NH-17, NH-52 under PWRD, Dudhnoi and Goalpara East Territorial Road Division for the year 2023-24. Package No. Rd.safety_GSSRC_01.",
+            "description": "Road safety measure works for all connecting roads to abandoned NH, NH-17, NH-52 under PWRD, Dudhnoi and Goalpara East Territorial Road Division for the year 2023-24. Package No. Rd.safety_GSSRC_01.",
+            "datePublished": "12-Dec-2023 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "52,33,802",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Jan-2024 10:00 AM"
+                }
+            ]
+        }
+    ]
+}

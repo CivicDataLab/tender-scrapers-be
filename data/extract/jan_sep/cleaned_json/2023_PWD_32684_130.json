@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_130",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,99,97,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_130",
+            "title": "MMNPPNA_23_24_121 (i) Construcion of Road Widening With Paver Block Both Side Of Sonai Silchar PWD Road (ii) Construction of Road Widening With Paver Block Both Side Of Sonai Motinagar PWD Road (iii) Construction of Green Park Road, Starting from U",
+            "description": "MMNPPNA_23_24_121 (i) Construcion of Road Widening With Paver Block Both Side Of Sonai Silchar PWD Road (ii) Construction of Road Widening With Paver Block Both Side Of Sonai Motinagar PWD Road (iii) Construction of Green Park Road, Starting from U",
+            "datePublished": "07-Oct-2023 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,99,97,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

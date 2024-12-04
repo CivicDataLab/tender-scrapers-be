@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_APDCL_32470_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Oct-2023 03:00 PM",
+    "tenderValueAmount": "59,11,800",
+    "tender": [
+        {
+            "id": "2023_APDCL_32470_1",
+            "title": "Survey, Drawing and Estimation of Construction of tower foundation PKG-4",
+            "description": "Survey, Drawing and Estimation of Construction of tower foundation PKG-4",
+            "datePublished": "14-Sep-2023 03:00 PM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "59,11,800",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Oct-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

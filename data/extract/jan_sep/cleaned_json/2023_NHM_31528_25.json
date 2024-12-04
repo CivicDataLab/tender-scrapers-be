@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_NHM_31528_25",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "25-Jul-2023 03:30 PM",
+    "tenderValueAmount": "52,03,000",
+    "tender": [
+        {
+            "id": "2023_NHM_31528_25",
+            "title": "Construction of Buildingless Sub Health Centre in LATIMARA I SC in CACHAR District under PM ABHIM for the FY 2022 23 under NHM on Turnkey Basis",
+            "description": "Construction of Buildingless Sub Health Centre in LATIMARA I SC in CACHAR District under PM ABHIM for the FY 2022 23 under NHM on Turnkey Basis",
+            "datePublished": "06-Jul-2023 06:00 PM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "52,03,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "25-Jul-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

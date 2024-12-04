@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33900_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Dec-2023 02:00 PM",
+    "tenderValueAmount": "3,60,10,267",
+    "tender": [
+        {
+            "id": "2023_BTC_33900_1",
+            "title": "Construction of road from Chowari Boripara Field to Namjaipara via Gargaon Borobazar road in Chirang District, BTC, Assam for the year 2023-24.TN-26-103TN-26-103",
+            "description": "Construction of road from Chowari Boripara Field to Namjaipara via Gargaon Borobazar road in Chirang District, BTC, Assam for the year 2023-24.TN-26-103TN-26-103",
+            "datePublished": "13-Nov-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,60,10,267",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

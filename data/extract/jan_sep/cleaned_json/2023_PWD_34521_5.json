@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34521_5",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Dec-2023 11:00 AM",
+    "tenderValueAmount": "9,89,500",
+    "tender": [
+        {
+            "id": "2023_PWD_34521_5",
+            "title": "Dibrugarh/MMPNA/R_R/02 Repair and Rehabilitation of the Bridge located on Moran Naharkatia Road (Moran - Naharkatia) at Ch. 37.563 km under Mantrir Path Nabikaran Achani (MMPNA) for the year 2023-24",
+            "description": "Dibrugarh/MMPNA/R_R/02 Repair and Rehabilitation of the Bridge located on Moran Naharkatia Road (Moran - Naharkatia) at Ch. 37.563 km under Mantrir Path Nabikaran Achani (MMPNA) for the year 2023-24",
+            "datePublished": "07-Dec-2023 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "9,89,500",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Dec-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

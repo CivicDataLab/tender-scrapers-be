@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33321_41",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Nov-2023 11:00 AM",
+    "tenderValueAmount": "1,38,15,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33321_41",
+            "title": "Package No Bongaigaon/MMPNA/BUG/1 Repair /Rehabilitation of 1.BUG/Steel Bridge no 1/1 on Ashok Paper Mill to Sakomura road 2. BUG/Steel Bridge no 1/1 on Jogipara Mahadev Mandir Road 3.BUG/Steel Bridge no 1/1 on Kabaitary Mohanpur Road 4.BUG/Steel Br",
+            "description": "Package No Bongaigaon/MMPNA/BUG/1 Repair /Rehabilitation of 1.BUG/Steel Bridge no 1/1 on Ashok Paper Mill to Sakomura road 2. BUG/Steel Bridge no 1/1 on Jogipara Mahadev Mandir Road 3.BUG/Steel Bridge no 1/1 on Kabaitary Mohanpur Road 4.BUG/Steel Br",
+            "datePublished": "28-Oct-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,38,15,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

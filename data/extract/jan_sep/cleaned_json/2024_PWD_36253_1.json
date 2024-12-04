@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36253_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "23-Feb-2024 04:00 PM",
+    "tenderValueAmount": "75,00,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36253_1",
+            "title": "Construction of Road from Dongapur Hari Mandir to Niz-Borigog Maszid (from ch. 0.00 m to 850.00 m) including Routine maintenance for Four years under Mukhya Mantir Pakipath Nirman Aachani for the year 2023-24 under Rangia LAC.PKG. NO.EE/NKTRD/MMPPNA/",
+            "description": "Construction of Road from Dongapur Hari Mandir to Niz-Borigog Maszid (from ch. 0.00 m to 850.00 m) including Routine maintenance for Four years under Mukhya Mantir Pakipath Nirman Aachani for the year 2023-24 under Rangia LAC.PKG. NO.EE/NKTRD/MMPPNA/",
+            "datePublished": "14-Feb-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "75,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "23-Feb-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

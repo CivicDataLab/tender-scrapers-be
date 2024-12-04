@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34395_127",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Dec-2023 02:00 PM",
+    "tenderValueAmount": "4,56,26,000",
+    "tender": [
+        {
+            "id": "2023_PWD_34395_127",
+            "title": "RIDF_XXIX_23_24_113 Construction of Road from Dhulapdung TE Factory to Rangapara Adarsha Bidyalaya Road (L 5000.00 M) under RIDF XXIX of NABARD for the year 2023-24",
+            "description": "RIDF_XXIX_23_24_113 Construction of Road from Dhulapdung TE Factory to Rangapara Adarsha Bidyalaya Road (L 5000.00 M) under RIDF XXIX of NABARD for the year 2023-24",
+            "datePublished": "11-Dec-2023 04:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,56,26,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

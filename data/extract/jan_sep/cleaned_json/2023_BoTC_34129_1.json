@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_34129_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "11-Dec-2023 10:00 AM",
+    "tenderValueAmount": "1,00,00,000",
+    "tender": [
+        {
+            "id": "2023_BoTC_34129_1",
+            "title": "Supply of Bicycle with Ice Box",
+            "description": "Supply of Bicycle with Ice Box",
+            "datePublished": "22-Nov-2023 03:00 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "1,00,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Dec-2023 10:00 AM"
+                }
+            ]
+        }
+    ]
+}

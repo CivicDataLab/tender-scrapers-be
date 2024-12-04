@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35115_5",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:30 PM",
+    "tenderValueAmount": "4,76,05,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35115_5",
+            "title": "MMPPNA_23_24_56 Improvement of PGHJ Bypass Road (Ch. 120.50 km to Ch. 126.00 km L5.50 km) under Mukhya Mantrir Pakipath Nirman Achani for the year 2023-24",
+            "description": "MMPPNA_23_24_56 Improvement of PGHJ Bypass Road (Ch. 120.50 km to Ch. 126.00 km L5.50 km) under Mukhya Mantrir Pakipath Nirman Achani for the year 2023-24",
+            "datePublished": "01-Jan-2024 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,76,05,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

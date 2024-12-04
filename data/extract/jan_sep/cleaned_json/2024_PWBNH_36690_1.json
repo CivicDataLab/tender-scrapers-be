@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36690_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Mar-2024 03:00 PM",
+    "tenderValueAmount": "2,81,46,286",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36690_1",
+            "title": "Jagannath Community and Skill Centre at (i) Labac TE (ii) Thalloo TE under Lakhipur LAC (Pkg. No.121)",
+            "description": "Jagannath Community and Skill Centre at (i) Labac TE (ii) Thalloo TE under Lakhipur LAC (Pkg. No.121)",
+            "datePublished": "27-Feb-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,81,46,286",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

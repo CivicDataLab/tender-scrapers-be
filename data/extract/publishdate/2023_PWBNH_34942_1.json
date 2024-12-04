@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34942_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 04:30 PM",
+    "tenderValueAmount": "98,74,059",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34942_1",
+            "title": "Installation of Fire Fighting system along with construction of 2,00,000 (Two Lakh) Litre capacity Fire Water Tank for the Six storied RCC Residential Apartment Building (Block-H) for MLAs at Old MLA Hostel Campus, Dispur, Guwahati-781006",
+            "description": "Installation of Fire Fighting system along with construction of 2,00,000 (Two Lakh) Litre capacity Fire Water Tank for the Six storied RCC Residential Apartment Building (Block-H) for MLAs at Old MLA Hostel Campus, Dispur, Guwahati-781006",
+            "datePublished": "22-Dec-2023 05:45 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "98,74,059",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 04:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_112",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "2,36,86,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_112",
+            "title": "MMPPNA_23_24_278 (1)Construction of road from NH-15 at Dubi to Santipur via Pilkhana from Ch. 0.00m to 3800.00m (L 3.80km), (2)Construction of road from Bahbari to Phulbari No. 1 Sarani (Ch. 0.00m to Ch. 1148.00m, L 1.148km) under Mukhya Mantrir Pak",
+            "description": "MMPPNA_23_24_278 (1)Construction of road from NH-15 at Dubi to Santipur via Pilkhana from Ch. 0.00m to 3800.00m (L 3.80km), (2)Construction of road from Bahbari to Phulbari No. 1 Sarani (Ch. 0.00m to Ch. 1148.00m, L 1.148km) under Mukhya Mantrir Pak",
+            "datePublished": "18-Jan-2024 04:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,36,86,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

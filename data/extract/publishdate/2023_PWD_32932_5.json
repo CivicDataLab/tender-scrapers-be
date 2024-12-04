@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32932_5",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Nov-2023 11:00 AM",
+    "tenderValueAmount": "7,38,98,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32932_5",
+            "title": "Package No-RIDFXXIX/Nalbari/01 Const of RCC Bridge No-13/2,16/1 and 16/2 on Ghograpar-Damodardham- Bijulighat (GDB) Road under Mukhya Mantri Unnoto Pakipath Nirman Achoni (RIDF-XXIX) for the year 2023-24 in 60- Barkhetri LAC under Nalbari District T",
+            "description": "Package No-RIDFXXIX/Nalbari/01 Const of RCC Bridge No-13/2,16/1 and 16/2 on Ghograpar-Damodardham- Bijulighat (GDB) Road under Mukhya Mantri Unnoto Pakipath Nirman Achoni (RIDF-XXIX) for the year 2023-24 in 60- Barkhetri LAC under Nalbari District T",
+            "datePublished": "10-Oct-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "7,38,98,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

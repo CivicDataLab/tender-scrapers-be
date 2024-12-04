@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35888_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_PWD_35888_1",
+            "title": "Ex Post Facto approval for Construction of Road from 2nd Km of Kulhati Bongshor PWD Road to 132/33 Hajo Grid Sub Station for the year 2023.24 under Jalukbari and Hajo Territorial Road Division under SOPD-G for the year 2023.24, Jalukbari LAC",
+            "description": "Ex Post Facto approval for Construction of Road from 2nd Km of Kulhati Bongshor PWD Road to 132/33 Hajo Grid Sub Station for the year 2023.24 under Jalukbari and Hajo Territorial Road Division under SOPD-G for the year 2023.24, Jalukbari LAC",
+            "datePublished": "05-Feb-2024 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

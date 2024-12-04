@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_AEGCL_33943_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Dec-2023 03:00 PM",
+    "tenderValueAmount": "42,91,145",
+    "tender": [
+        {
+            "id": "2023_AEGCL_33943_1",
+            "title": "Renovation and repairing of four numbers of type IV four numbers of type V and two numbers of type VI quarters at Samaguri GSS AEGCL",
+            "description": "Renovation and repairing of four numbers of type IV four numbers of type V and two numbers of type VI quarters at Samaguri GSS AEGCL",
+            "datePublished": "15-Nov-2023 02:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "42,91,145",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

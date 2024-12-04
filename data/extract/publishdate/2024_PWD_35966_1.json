@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35966_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 10:00 AM",
+    "tenderValueAmount": "34,67,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35966_1",
+            "title": "Construction of cross drainage work in front of State bank of India in Kahilipara Lalganesh Road for flood mitigation under SOPD G for the year 2023-24",
+            "description": "Construction of cross drainage work in front of State bank of India in Kahilipara Lalganesh Road for flood mitigation under SOPD G for the year 2023-24",
+            "datePublished": "06-Feb-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "34,67,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 10:00 AM"
+                }
+            ]
+        }
+    ]
+}

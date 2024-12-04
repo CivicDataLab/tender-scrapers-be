@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PCCF_29980_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "25-Apr-2023 11:00 AM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_PCCF_29980_1",
+            "title": "Project Management and Monitoring Consultant PMMC for setting up new Wildlife Safari and Rescue Centre Dibrugarh",
+            "description": "Project Management and Monitoring Consultant PMMC for setting up new Wildlife Safari and Rescue Centre Dibrugarh",
+            "datePublished": "21-Mar-2023 03:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "25-Apr-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

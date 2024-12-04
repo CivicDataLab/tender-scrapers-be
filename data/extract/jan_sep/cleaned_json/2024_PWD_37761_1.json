@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_37761_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "09-Jul-2024 12:00 PM",
+    "tenderValueAmount": "1,39,95,816",
+    "tender": [
+        {
+            "id": "2024_PWD_37761_1",
+            "title": "Balance work for Improvement and Upgradation of Key Infrastructure and connectivity from KGT road to Simlabari Purani Satra Saka Ramraikuti Satra Satrasa Kaimari Agomoni under Assam Darshan for the year 2019 20",
+            "description": "Balance work for Improvement and Upgradation of Key Infrastructure and connectivity from KGT road to Simlabari Purani Satra Saka Ramraikuti Satra Satrasa Kaimari Agomoni under Assam Darshan for the year 2019 20",
+            "datePublished": "28-Jun-2024 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,39,95,816",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Jul-2024 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

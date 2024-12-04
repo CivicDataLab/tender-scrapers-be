@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33797_35",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Dec-2023 03:00 PM",
+    "tenderValueAmount": "1,21,59,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33797_35",
+            "title": "MMPNA/2023-24/159_Periodic Renewal to Bhewchuk Kumarbari Road0.80 KM Majuli Road and Gopalpur Madhupur road from ch. 0.00m to ch. 2450.00m L2450.00 m under MUKHYA MANTRI PATH NABIKARAN AACHANI for the year 2023-24 under Majuli Lac",
+            "description": "MMPNA/2023-24/159_Periodic Renewal to Bhewchuk Kumarbari Road0.80 KM Majuli Road and Gopalpur Madhupur road from ch. 0.00m to ch. 2450.00m L2450.00 m under MUKHYA MANTRI PATH NABIKARAN AACHANI for the year 2023-24 under Majuli Lac",
+            "datePublished": "10-Nov-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,21,59,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

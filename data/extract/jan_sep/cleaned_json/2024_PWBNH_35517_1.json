@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35517_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Feb-2024 03:30 PM",
+    "tenderValueAmount": "13,18,06,030",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35517_1",
+            "title": "Development of Sports Complex at Ghahigaon Under Gohpur LAC (part-II)",
+            "description": "Development of Sports Complex at Ghahigaon Under Gohpur LAC (part-II)",
+            "datePublished": "17-Jan-2024 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "13,18,06,030",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Feb-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

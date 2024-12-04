@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_UDD_35406_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "03-Feb-2024 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_UDD_35406_1",
+            "title": "Design Development Implementation and Maintenance of Single Window System with Integrated CAD Based Automated Building Drawing Scrutiny for Online Building Permission System of Assam",
+            "description": "Design Development Implementation and Maintenance of Single Window System with Integrated CAD Based Automated Building Drawing Scrutiny for Online Building Permission System of Assam",
+            "datePublished": "11-Jan-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

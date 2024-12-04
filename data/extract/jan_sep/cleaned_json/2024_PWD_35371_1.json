@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35371_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "31-Jan-2024 11:00 AM",
+    "tenderValueAmount": "58,28,00,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35371_1",
+            "title": "RIDF-XXIX/Dibrugarh/02 Construction of Road from Madhavpur Tiniali to Dehing Patkai in Dibrigarh District under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD for the year 2023-24, Naharkatia LAC",
+            "description": "RIDF-XXIX/Dibrugarh/02 Construction of Road from Madhavpur Tiniali to Dehing Patkai in Dibrigarh District under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD for the year 2023-24, Naharkatia LAC",
+            "datePublished": "10-Jan-2024 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "58,28,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "31-Jan-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

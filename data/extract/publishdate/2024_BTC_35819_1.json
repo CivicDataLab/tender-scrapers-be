@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_35819_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Feb-2024 04:00 PM",
+    "tenderValueAmount": "49,99,344",
+    "tender": [
+        {
+            "id": "2024_BTC_35819_1",
+            "title": "Const. of RCC Box cell culvert at Dhoribasti over Mara River under PWD, Udalguri (R and B) Division under SOPD (BTC) for the year 2023-24. (TN_67_2)",
+            "description": "Const. of RCC Box cell culvert at Dhoribasti over Mara River under PWD, Udalguri (R and B) Division under SOPD (BTC) for the year 2023-24. (TN_67_2)",
+            "datePublished": "31-Jan-2024 06:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "49,99,344",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Feb-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

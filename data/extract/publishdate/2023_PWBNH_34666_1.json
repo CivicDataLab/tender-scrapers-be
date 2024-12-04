@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34666_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Jan-2024 12:00 PM",
+    "tenderValueAmount": "62,16,494",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34666_1",
+            "title": "Construction of Vulnerable witness deposition centre in the District Court Complex, South Salmara Mankachar at Femakari",
+            "description": "Construction of Vulnerable witness deposition centre in the District Court Complex, South Salmara Mankachar at Femakari",
+            "datePublished": "13-Dec-2023 12:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "62,16,494",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Jan-2024 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

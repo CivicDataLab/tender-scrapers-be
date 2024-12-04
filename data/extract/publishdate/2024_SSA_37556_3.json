@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_SSA_37556_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Jul-2024 03:00 PM",
+    "tenderValueAmount": "2,65,64,000",
+    "tender": [
+        {
+            "id": "2024_SSA_37556_3",
+            "title": "Group-4",
+            "description": "Group-4",
+            "datePublished": "25-Jun-2024 11:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,65,64,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Jul-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ID_37794_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Jul-2024 01:00 PM",
+    "tenderValueAmount": "25,15,198",
+    "tender": [
+        {
+            "id": "2024_ID_37794_1",
+            "title": "Supply and Installation of Solar Powered Mobile Lift Irrigation Scheme (3H.P) under Hailakandi LAC (Three Points) for the year 2023-2024",
+            "description": "Supply and Installation of Solar Powered Mobile Lift Irrigation Scheme (3H.P) under Hailakandi LAC (Three Points) for the year 2023-2024",
+            "datePublished": "29-Jun-2024 09:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "25,15,198",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Jul-2024 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

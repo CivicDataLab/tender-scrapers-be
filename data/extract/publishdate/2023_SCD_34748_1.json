@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_SCD_34748_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Jan-2024 11:00 AM",
+    "tenderValueAmount": "1,97,12,925",
+    "tender": [
+        {
+            "id": "2023_SCD_34748_1",
+            "title": "JAKATI SOIL CONSERVATION PROJECT",
+            "description": "JAKATI SOIL CONSERVATION PROJECT",
+            "datePublished": "16-Dec-2023 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,97,12,925",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Jan-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

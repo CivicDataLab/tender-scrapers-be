@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_WPTBC_34913_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Dec-2023 04:00 PM",
+    "tenderValueAmount": "2,87,30,000",
+    "tender": [
+        {
+            "id": "2023_WPTBC_34913_1",
+            "title": "Interior and Exterior Works in the existing Sonowal Bhawan at Sonapur",
+            "description": "Interior and Exterior Works in the existing Sonowal Bhawan at Sonapur",
+            "datePublished": "21-Dec-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,87,30,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Dec-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_30422_32",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Apr-2023 02:30 PM",
+    "tenderValueAmount": "1,23,12,000",
+    "tender": [
+        {
+            "id": "2023_PWD_30422_32",
+            "title": "MMPPNA_22_23_330 Construction of road from Dolamuri Garakhia Than to Baligaon via Garuamari (From Ch. 0.00 m to 1750.00 m) including routine maintenance for 4 (four) years under Mukhya Mantrir Paki Path Nirman Achani for the year 2022-23, Naharkatia",
+            "description": "MMPPNA_22_23_330 Construction of road from Dolamuri Garakhia Than to Baligaon via Garuamari (From Ch. 0.00 m to 1750.00 m) including routine maintenance for 4 (four) years under Mukhya Mantrir Paki Path Nirman Achani for the year 2022-23, Naharkatia",
+            "datePublished": "10-Apr-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,23,12,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Apr-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

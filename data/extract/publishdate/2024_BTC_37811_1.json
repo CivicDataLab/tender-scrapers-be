@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_37811_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "24-Jul-2024 11:00 AM",
+    "tenderValueAmount": "95,31,954",
+    "tender": [
+        {
+            "id": "2024_BTC_37811_1",
+            "title": "Repairing and colour washing of all toilet blocks- 03 No. Boys hostel, 01 No. Girls hostel, Academic Part-III, Central library, Adjacent to 02 nos, Seminar hall and 02 nos Gallery at C.I.T., Kokrajhar. TN No.103_01.",
+            "description": "Repairing and colour washing of all toilet blocks- 03 No. Boys hostel, 01 No. Girls hostel, Academic Part-III, Central library, Adjacent to 02 nos, Seminar hall and 02 nos Gallery at C.I.T., Kokrajhar. TN No.103_01.",
+            "datePublished": "02-Jul-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "95,31,954",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "24-Jul-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

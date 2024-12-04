@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36020_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Feb-2024 12:30 PM",
+    "tenderValueAmount": "24,83,545",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36020_1",
+            "title": "Construction of guard wall slope protection at back side of Grade-II quarter at Malibagan",
+            "description": "Construction of guard wall slope protection at back side of Grade-II quarter at Malibagan",
+            "datePublished": "08-Feb-2024 12:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,83,545",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Feb-2024 12:30 PM"
+                }
+            ]
+        }
+    ]
+}

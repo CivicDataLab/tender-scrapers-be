@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_35583_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 11:00 AM",
+    "tenderValueAmount": "25,78,564",
+    "tender": [
+        {
+            "id": "2024_BTC_35583_1",
+            "title": "Painting, Tiles Cleaning and Minor Repairing of Old Hospital Building at R.N.B. Hospital, Kokrajhar. TN No.64_02",
+            "description": "Painting, Tiles Cleaning and Minor Repairing of Old Hospital Building at R.N.B. Hospital, Kokrajhar. TN No.64_02",
+            "datePublished": "20-Jan-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "25,78,564",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

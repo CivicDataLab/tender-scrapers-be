@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37167_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Apr-2024 11:00 AM",
+    "tenderValueAmount": "19,23,093",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37167_1",
+            "title": "Construction of Boundary Wall and Library Building at Purbanchal Cultural Center, Purbanchal, Tinsukia Under One Time Special Grant for Development of Moran Community. (Phase-II)",
+            "description": "Construction of Boundary Wall and Library Building at Purbanchal Cultural Center, Purbanchal, Tinsukia Under One Time Special Grant for Development of Moran Community. (Phase-II)",
+            "datePublished": "13-Mar-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "19,23,093",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Apr-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

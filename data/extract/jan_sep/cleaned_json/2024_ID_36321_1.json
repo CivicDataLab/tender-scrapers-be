@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ID_36321_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Mar-2024 11:00 AM",
+    "tenderValueAmount": "1,19,99,911",
+    "tender": [
+        {
+            "id": "2024_ID_36321_1",
+            "title": "Protection work at Syphon of main canal at ch. 250.00m of Dhansiri Irrigation Project (M) for the year 2023-24",
+            "description": "Protection work at Syphon of main canal at ch. 250.00m of Dhansiri Irrigation Project (M) for the year 2023-24",
+            "datePublished": "16-Feb-2024 02:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,19,99,911",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Mar-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

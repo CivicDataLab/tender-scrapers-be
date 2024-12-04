@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_36022_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "16-Mar-2024 03:00 PM",
+    "tenderValueAmount": "2,94,11,743",
+    "tender": [
+        {
+            "id": "2024_DoWR_36022_2",
+            "title": "Pro-siltation measures to protect Sukchar, Borobalu and its adjoining areas from the erosion of river Brahmaputra.",
+            "description": "Pro-siltation measures to protect Sukchar, Borobalu and its adjoining areas from the erosion of river Brahmaputra.",
+            "datePublished": "09-Mar-2024 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,94,11,743",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

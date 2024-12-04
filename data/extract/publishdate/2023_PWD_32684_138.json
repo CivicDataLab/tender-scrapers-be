@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_138",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,35,28,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_138",
+            "title": "MMNPPNA_23_24_29 (i) Construction of RCC covered drain at Lachit Nagar old Namghar to Bibekananda Path (ii) Construction of RCC covered drain at Bolaram Duarah Road (iii) Construction of RCC covered drain at Manikpur Road (iv) Construction of RCC cov",
+            "description": "MMNPPNA_23_24_29 (i) Construction of RCC covered drain at Lachit Nagar old Namghar to Bibekananda Path (ii) Construction of RCC covered drain at Bolaram Duarah Road (iii) Construction of RCC covered drain at Manikpur Road (iv) Construction of RCC cov",
+            "datePublished": "07-Oct-2023 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,35,28,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

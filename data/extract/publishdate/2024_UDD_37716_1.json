@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_UDD_37716_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "02-Aug-2024 12:00 PM",
+    "tenderValueAmount": "70,52,00,000",
+    "tender": [
+        {
+            "id": "2024_UDD_37716_1",
+            "title": "SELECTION OF AN AGENCY FOR LEGACY WASTE REMEDIATION IN 39 ULBS",
+            "description": "SELECTION OF AN AGENCY FOR LEGACY WASTE REMEDIATION IN 39 ULBS",
+            "datePublished": "24-Jun-2024 05:00 PM",
+            "contractType": "Lump-sum",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "70,52,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Aug-2024 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

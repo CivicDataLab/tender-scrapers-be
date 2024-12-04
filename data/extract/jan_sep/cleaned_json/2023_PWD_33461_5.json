@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33461_5",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Nov-2023 02:00 PM",
+    "tenderValueAmount": "2,37,71,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33461_5",
+            "title": "MMNPPNA_23_24_67 (i) Construction of Adarsha pally (Ward-6) (ii) Construction of Bir Tikendrajit Path (Ward-7) (iii) Construction of Bimala Prasad Chaliha Path (Ward-5) (iv) Construction of Drain at Left Hand Side of Vivekananda Road (Ward-11) under",
+            "description": "MMNPPNA_23_24_67 (i) Construction of Adarsha pally (Ward-6) (ii) Construction of Bir Tikendrajit Path (Ward-7) (iii) Construction of Bimala Prasad Chaliha Path (Ward-5) (iv) Construction of Drain at Left Hand Side of Vivekananda Road (Ward-11) under",
+            "datePublished": "02-Nov-2023 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,37,71,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

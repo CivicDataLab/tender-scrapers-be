@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_35997_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "15-Feb-2024 03:00 PM",
+    "tenderValueAmount": "7,81,86,123",
+    "tender": [
+        {
+            "id": "2024_DoWR_35997_1",
+            "title": "River training works along with construction of new embankment and A/E measures to resolve perennial flood inundation problem of Singra river at Gelahati area.",
+            "description": "River training works along with construction of new embankment and A/E measures to resolve perennial flood inundation problem of Singra river at Gelahati area.",
+            "datePublished": "06-Feb-2024 06:45 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "7,81,86,123",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

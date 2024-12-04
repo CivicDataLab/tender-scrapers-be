@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33604_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Nov-2023 12:00 PM",
+    "tenderValueAmount": "2,21,91,383",
+    "tender": [
+        {
+            "id": "2023_BTC_33604_1",
+            "title": "Construction of raod from Polashguri No.2 to Burichatam road by providing SDBC under CMs Goodwill Project for the year 2023-24. TN_26_7",
+            "description": "Construction of raod from Polashguri No.2 to Burichatam road by providing SDBC under CMs Goodwill Project for the year 2023-24. TN_26_7",
+            "datePublished": "09-Nov-2023 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,21,91,383",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

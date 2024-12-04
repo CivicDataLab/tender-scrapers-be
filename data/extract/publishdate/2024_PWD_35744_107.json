@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35744_107",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 02:00 PM",
+    "tenderValueAmount": "1,47,96,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35744_107",
+            "title": "SOPD_ODS_23_24_45 Construction of (i) Bholaguri TE Road 22 No. Line (Ch.0.00 m to 650.00 m) (ii) Gohpur TE PMGSY Road to Laudangi via Magoni Road Ch.0.00 m to 1380.00 m under SOPD-ODS (Tea Garden Road) for the year 2023-24",
+            "description": "SOPD_ODS_23_24_45 Construction of (i) Bholaguri TE Road 22 No. Line (Ch.0.00 m to 650.00 m) (ii) Gohpur TE PMGSY Road to Laudangi via Magoni Road Ch.0.00 m to 1380.00 m under SOPD-ODS (Tea Garden Road) for the year 2023-24",
+            "datePublished": "06-Feb-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,47,96,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

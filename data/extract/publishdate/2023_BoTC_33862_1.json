@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_33862_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "30-Nov-2023 03:30 PM",
+    "tenderValueAmount": "45,98,000",
+    "tender": [
+        {
+            "id": "2023_BoTC_33862_1",
+            "title": "Construction of AC Luxury Bus on the New TATA 12 M Chaises Diesel Chaises for Bodoland Transport Services for the year 2023-24",
+            "description": "Construction of AC Luxury Bus on the New TATA 12 M Chaises Diesel Chaises for Bodoland Transport Services for the year 2023-24",
+            "datePublished": "10-Nov-2023 05:00 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "45,98,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Nov-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

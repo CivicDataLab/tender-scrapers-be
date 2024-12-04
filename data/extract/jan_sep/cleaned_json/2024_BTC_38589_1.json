@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_38589_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Sep-2024 11:00 AM",
+    "tenderValueAmount": "47,98,753",
+    "tender": [
+        {
+            "id": "2024_BTC_38589_1",
+            "title": "Finishing works of newly constructed 2nd Floor Vertically extended portion etc. of the Oo the CHD, FCS and CA, BTC, Kokrajhar 2nd Phase for the financial year 2024-25. TN No.08_01",
+            "description": "Finishing works of newly constructed 2nd Floor Vertically extended portion etc. of the Oo the CHD, FCS and CA, BTC, Kokrajhar 2nd Phase for the financial year 2024-25. TN No.08_01",
+            "datePublished": "22-Aug-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "47,98,753",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Sep-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

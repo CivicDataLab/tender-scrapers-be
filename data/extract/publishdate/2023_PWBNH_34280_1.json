@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34280_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Dec-2023 03:00 PM",
+    "tenderValueAmount": "57,20,475",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34280_1",
+            "title": "Modernization interior works of Auditorium at DIET, Barpeta, Howly",
+            "description": "Modernization interior works of Auditorium at DIET, Barpeta, Howly",
+            "datePublished": "29-Nov-2023 03:15 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "57,20,475",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

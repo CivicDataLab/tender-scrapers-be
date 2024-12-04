@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36462_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Feb-2024 04:00 PM",
+    "tenderValueAmount": "48,06,403",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36462_1",
+            "title": "Construction of RCC (Ground Floor) Building with future provision (G Plus 1) for newly created PWD, Behali and Gohpur Territorial Building Sub Division, Gohpur in Sonitpur District",
+            "description": "Construction of RCC (Ground Floor) Building with future provision (G Plus 1) for newly created PWD, Behali and Gohpur Territorial Building Sub Division, Gohpur in Sonitpur District",
+            "datePublished": "20-Feb-2024 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "48,06,403",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Feb-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

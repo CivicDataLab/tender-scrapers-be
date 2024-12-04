@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWRDW_37231_9",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "09-Apr-2024 02:30 PM",
+    "tenderValueAmount": "7,04,98,000",
+    "tender": [
+        {
+            "id": "2024_PWRDW_37231_9",
+            "title": "Construction of Bridge in Nagaon district i. Br. No. 1/1 on KSB Road to Singimari Parghat",
+            "description": "Construction of Bridge in Nagaon district i. Br. No. 1/1 on KSB Road to Singimari Parghat",
+            "datePublished": "14-Mar-2024 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "7,04,98,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Apr-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

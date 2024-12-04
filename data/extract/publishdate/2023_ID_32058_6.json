@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ID_32058_6",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Sep-2023 11:00 AM",
+    "tenderValueAmount": "54,54,987",
+    "tender": [
+        {
+            "id": "2023_ID_32058_6",
+            "title": "Renovation of Jaldoba ELIS under SOPD-G for the year 2022-23",
+            "description": "Renovation of Jaldoba ELIS under SOPD-G for the year 2022-23",
+            "datePublished": "12-Aug-2023 06:55 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "54,54,987",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Sep-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

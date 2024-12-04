@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_123",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "5,21,00,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_123",
+            "title": "MMNPPNA_23_24_84 Construction of Road from Nagaon Circuit House Chariali to Panigaon Chariali ( Ch 0.00 to Ch-2000.00 m ) as Gaurab Path under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA) for the year 2023-24, Nagaon MB",
+            "description": "MMNPPNA_23_24_84 Construction of Road from Nagaon Circuit House Chariali to Panigaon Chariali ( Ch 0.00 to Ch-2000.00 m ) as Gaurab Path under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA) for the year 2023-24, Nagaon MB",
+            "datePublished": "06-Oct-2023 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "5,21,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

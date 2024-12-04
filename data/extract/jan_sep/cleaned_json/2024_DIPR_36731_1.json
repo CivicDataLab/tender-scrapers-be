@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DIPR_36731_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "05-Mar-2024 01:00 PM",
+    "tenderValueAmount": "24,75,000",
+    "tender": [
+        {
+            "id": "2024_DIPR_36731_1",
+            "title": "Tender for designing, printing and delivery of multi colored Bihu greetings Cards with envelopes including postal charge",
+            "description": "Tender for designing, printing and delivery of multi colored Bihu greetings Cards with envelopes including postal charge",
+            "datePublished": "28-Feb-2024 04:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "24,75,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Mar-2024 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

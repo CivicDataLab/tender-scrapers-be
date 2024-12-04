@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_APDCL_37629_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Jul-2024 02:00 PM",
+    "tenderValueAmount": "9,73,39,843",
+    "tender": [
+        {
+            "id": "2024_APDCL_37629_1",
+            "title": "33kV and 11kV line to 3 Nos. Assam Commando Battalion sites",
+            "description": "33kV and 11kV line to 3 Nos. Assam Commando Battalion sites",
+            "datePublished": "15-Jun-2024 05:00 PM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "9,73,39,843",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Jul-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

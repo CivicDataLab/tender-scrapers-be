@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_32128_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Nov-2023 04:00 PM",
+    "tenderValueAmount": "2,78,64,21,845",
+    "tender": [
+        {
+            "id": "2023_PWBNH_32128_1",
+            "title": "Construction of Open Stadium at Amingaon Sports Complex, Kamrup, Assam",
+            "description": "Construction of Open Stadium at Amingaon Sports Complex, Kamrup, Assam",
+            "datePublished": "19-Aug-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,78,64,21,845",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Nov-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

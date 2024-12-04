@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_34703_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Jan-2024 01:30 PM",
+    "tenderValueAmount": "23,79,244",
+    "tender": [
+        {
+            "id": "2023_BoTC_34703_1",
+            "title": "Renovation of Boundary wall with Iron Gate and Renovation of Staff Quarters alongwith Sanitary at Kachugaon Hospital. 529-2",
+            "description": "Renovation of Boundary wall with Iron Gate and Renovation of Staff Quarters alongwith Sanitary at Kachugaon Hospital. 529-2",
+            "datePublished": "15-Dec-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "23,79,244",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Jan-2024 01:30 PM"
+                }
+            ]
+        }
+    ]
+}

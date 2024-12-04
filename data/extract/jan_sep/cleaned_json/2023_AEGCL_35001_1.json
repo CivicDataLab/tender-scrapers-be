@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_AEGCL_35001_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Jan-2024 03:00 PM",
+    "tenderValueAmount": "99,13,055",
+    "tender": [
+        {
+            "id": "2023_AEGCL_35001_1",
+            "title": "Procurement of spare equipment for 132/33kV AIIMS GSS, AEGCL at Changsari, Guwahati",
+            "description": "Procurement of spare equipment for 132/33kV AIIMS GSS, AEGCL at Changsari, Guwahati",
+            "datePublished": "28-Dec-2023 12:00 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "99,13,055",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

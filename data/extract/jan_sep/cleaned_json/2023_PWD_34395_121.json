@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34395_121",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Dec-2023 02:00 PM",
+    "tenderValueAmount": "9,99,96,000",
+    "tender": [
+        {
+            "id": "2023_PWD_34395_121",
+            "title": "RIDF_XXIX_23_24_88 Improvement Upgradation of (i) Road from NH 37 at Sribar to Lakhipur (Nandachand Road) (ii) Road from Tilka Grant to LRA Road at Kaptanpur V 632 No Putikhal L.P School (iii) Road from Silchar pailapool NH-37 at Shiv tilla to labo",
+            "description": "RIDF_XXIX_23_24_88 Improvement Upgradation of (i) Road from NH 37 at Sribar to Lakhipur (Nandachand Road) (ii) Road from Tilka Grant to LRA Road at Kaptanpur V 632 No Putikhal L.P School (iii) Road from Silchar pailapool NH-37 at Shiv tilla to labo",
+            "datePublished": "11-Dec-2023 12:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "9,99,96,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

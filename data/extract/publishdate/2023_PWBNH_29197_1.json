@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_29197_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "16-Mar-2023 04:00 PM",
+    "tenderValueAmount": "2,66,89,000",
+    "tender": [
+        {
+            "id": "2023_PWBNH_29197_1",
+            "title": "PMC services for Proposed Construction of RCC Multistoried MLA Hostel Building Tower-1 and Tower-2 at Old MLA Hostel Campus, Dispur, Guwahati-781006",
+            "description": "PMC services for Proposed Construction of RCC Multistoried MLA Hostel Building Tower-1 and Tower-2 at Old MLA Hostel Campus, Dispur, Guwahati-781006",
+            "datePublished": "07-Feb-2023 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,66,89,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Mar-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

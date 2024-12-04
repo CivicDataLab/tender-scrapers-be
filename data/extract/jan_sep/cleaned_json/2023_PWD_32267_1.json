@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32267_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Sep-2023 02:30 PM",
+    "tenderValueAmount": "6,98,92,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32267_1",
+            "title": "road network leading to Navagraha Temple",
+            "description": "road network leading to Navagraha Temple",
+            "datePublished": "28-Aug-2023 01:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "6,98,92,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Sep-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

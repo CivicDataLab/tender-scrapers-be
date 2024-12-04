@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_38412_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Aug-2024 02:00 PM",
+    "tenderValueAmount": "46,84,068",
+    "tender": [
+        {
+            "id": "2024_BoTC_38412_1",
+            "title": "Construction of Common Facility Centre on mushroom at kokrajhar",
+            "description": "Construction of Common Facility Centre on mushroom at kokrajhar",
+            "datePublished": "12-Aug-2024 10:30 AM",
+            "contractType": "Percentage",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "46,84,068",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Aug-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

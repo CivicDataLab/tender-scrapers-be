@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_35032_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "20-Jan-2024 02:30 PM",
+    "tenderValueAmount": "38,09,520",
+    "tender": [
+        {
+            "id": "2023_BoTC_35032_1",
+            "title": "Construction of Open Rang Mancha at Kajiamati Bwisagu Thili under 15th FC fund for the year 2023-24.",
+            "description": "Construction of Open Rang Mancha at Kajiamati Bwisagu Thili under 15th FC fund for the year 2023-24.",
+            "datePublished": "29-Dec-2023 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "38,09,520",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

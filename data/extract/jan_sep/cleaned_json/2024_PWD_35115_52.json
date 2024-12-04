@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35115_52",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:30 PM",
+    "tenderValueAmount": "3,28,73,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35115_52",
+            "title": "MMPPNA_23_24_50 1. Construction of Road from Gorudhuwa Dhubi to Itapara PMGSY Road (Ch. 0.00 m to 1500.00 m), 2. Construction of Road from Jalukbari PHE Tiniali to Nirmala TE Connecting Road from Ch. 0.00 m to 1000.00 m, 3. Construction of Hahara Pat",
+            "description": "MMPPNA_23_24_50 1. Construction of Road from Gorudhuwa Dhubi to Itapara PMGSY Road (Ch. 0.00 m to 1500.00 m), 2. Construction of Road from Jalukbari PHE Tiniali to Nirmala TE Connecting Road from Ch. 0.00 m to 1000.00 m, 3. Construction of Hahara Pat",
+            "datePublished": "02-Jan-2024 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,28,73,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

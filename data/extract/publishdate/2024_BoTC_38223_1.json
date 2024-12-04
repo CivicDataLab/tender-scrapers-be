@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_38223_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Aug-2024 03:30 PM",
+    "tenderValueAmount": "72,43,000",
+    "tender": [
+        {
+            "id": "2024_BoTC_38223_1",
+            "title": "Concrete River Protection at Burijhar near Aie-Powali 180.00m (Part-I) under Runikhata Range of Chirang Forest Division, Kajalgaon",
+            "description": "Concrete River Protection at Burijhar near Aie-Powali 180.00m (Part-I) under Runikhata Range of Chirang Forest Division, Kajalgaon",
+            "datePublished": "27-Jul-2024 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "72,43,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Aug-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

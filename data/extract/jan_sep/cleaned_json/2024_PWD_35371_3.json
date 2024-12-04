@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35371_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "31-Jan-2024 11:00 AM",
+    "tenderValueAmount": "69,60,75,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35371_3",
+            "title": "RIDF-XXIX/Karbi Anglong/01 Improv of Nelie Umpanai Birsingki Rongjangphong Amtereng Road under Mukhya Mantrir Unnoto Pakipath Nirman Achaniunder RIDF-XXIX for the year 2023-24 in Baithalangso (For Intermediate Lane)",
+            "description": "RIDF-XXIX/Karbi Anglong/01 Improv of Nelie Umpanai Birsingki Rongjangphong Amtereng Road under Mukhya Mantrir Unnoto Pakipath Nirman Achaniunder RIDF-XXIX for the year 2023-24 in Baithalangso (For Intermediate Lane)",
+            "datePublished": "10-Jan-2024 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "69,60,75,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "31-Jan-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

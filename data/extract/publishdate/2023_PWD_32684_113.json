@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_113",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,15,44,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_113",
+            "title": "MMNPPNA_23_24_139 Reconstruction of Sericulture Road from Dhodar Ali to Railway Level Crossing , From 3rd APBN 1st gate to 2nd Gate and APBN Tiniali to Tantigaon Shiva Mandir ( Ch.0.00 m to Ch. 1200.00 m ,Ch.1500.00 m to Ch.2100.00 m and Ch.2100.00",
+            "description": "MMNPPNA_23_24_139 Reconstruction of Sericulture Road from Dhodar Ali to Railway Level Crossing , From 3rd APBN 1st gate to 2nd Gate and APBN Tiniali to Tantigaon Shiva Mandir ( Ch.0.00 m to Ch. 1200.00 m ,Ch.1500.00 m to Ch.2100.00 m and Ch.2100.00",
+            "datePublished": "04-Oct-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,15,44,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

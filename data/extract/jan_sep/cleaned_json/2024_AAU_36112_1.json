@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_AAU_36112_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "01-Mar-2024 03:00 PM",
+    "tenderValueAmount": "14,00,00,000",
+    "tender": [
+        {
+            "id": "2024_AAU_36112_1",
+            "title": "Architectural Consultancy Services for Construction of Convention Centre at AAU, Jorhat",
+            "description": "Architectural Consultancy Services for Construction of Convention Centre at AAU, Jorhat",
+            "datePublished": "09-Feb-2024 02:00 PM",
+            "contractType": "EOI",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "14,00,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

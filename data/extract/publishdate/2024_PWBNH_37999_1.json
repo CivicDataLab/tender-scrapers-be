@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37999_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "31-Jul-2024 03:00 PM",
+    "tenderValueAmount": "1,40,73,143",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37999_1",
+            "title": "Jagannath Community and Skill centre at Khongea Tea Estate under Thowra LAC under sivasagar district territorial building division,Sivasagar",
+            "description": "Jagannath Community and Skill centre at Khongea Tea Estate under Thowra LAC under sivasagar district territorial building division,Sivasagar",
+            "datePublished": "15-Jul-2024 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,40,73,143",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "31-Jul-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

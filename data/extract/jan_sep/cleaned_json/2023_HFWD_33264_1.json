@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_HFWD_33264_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "11-Dec-2023 04:30 PM",
+    "tenderValueAmount": "7,36,405",
+    "tender": [
+        {
+            "id": "2023_HFWD_33264_1",
+            "title": "PROCUREMENT OF VARIOUS ITEMS UNDER NATIONAL MENTAL HEATH PROGRAMME(NMHP)",
+            "description": "PROCUREMENT OF VARIOUS ITEMS UNDER NATIONAL MENTAL HEATH PROGRAMME(NMHP)",
+            "datePublished": "27-Oct-2023 10:00 AM",
+            "contractType": "Buy",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "7,36,405",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Dec-2023 04:30 PM"
+                }
+            ]
+        }
+    ]
+}

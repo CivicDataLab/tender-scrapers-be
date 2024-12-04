@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ICD_33255_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "02-Nov-2023 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_ICD_33255_1",
+            "title": "CALIBRATION AND SERVICING OF SOx NOx CO ANALYSERS INSTALLED IN 500 TPD METHANOL PLANT REFORMER STACK",
+            "description": "CALIBRATION AND SERVICING OF SOx NOx CO ANALYSERS INSTALLED IN 500 TPD METHANOL PLANT REFORMER STACK",
+            "datePublished": "25-Oct-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

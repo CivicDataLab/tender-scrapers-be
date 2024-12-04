@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_WPTBC_37702_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "09-Jul-2024 03:30 PM",
+    "tenderValueAmount": "24,98,375",
+    "tender": [
+        {
+            "id": "2024_WPTBC_37702_1",
+            "title": "Development of Play ground at Gogamukh collage field under Dhemaji LAC, Dist- Dhemaji under infrastructure development in ITDP and outside ITDP areas of Assam during the year 2023-24",
+            "description": "Development of Play ground at Gogamukh collage field under Dhemaji LAC, Dist- Dhemaji under infrastructure development in ITDP and outside ITDP areas of Assam during the year 2023-24",
+            "datePublished": "24-Jun-2024 01:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,98,375",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Jul-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

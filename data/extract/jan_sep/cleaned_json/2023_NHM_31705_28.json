@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_NHM_31705_28",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Aug-2023 03:30 PM",
+    "tenderValueAmount": "48,58,668",
+    "tender": [
+        {
+            "id": "2023_NHM_31705_28",
+            "title": "Repairing Renovation of 229 Nos of Sub Centre to upgrade them as Health n Wellness Centre at various places of Assam under NHM Assam Group 1 7 nos schemes in Darrang district",
+            "description": "Repairing Renovation of 229 Nos of Sub Centre to upgrade them as Health n Wellness Centre at various places of Assam under NHM Assam Group 1 7 nos schemes in Darrang district",
+            "datePublished": "20-Jul-2023 12:15 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "48,58,668",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Aug-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

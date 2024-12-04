@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_31192_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jun-2023 10:00 AM",
+    "tenderValueAmount": "28,02,13,000",
+    "tender": [
+        {
+            "id": "2023_PWD_31192_1",
+            "title": "Construction of ROB at Rangia in replacement of Railway Level Crossing Gate No. SK-14 at Km-361/9-362/0-1 on Rangia Kendukona Road in Kamrup District under Construction of ROBs on 50_50 Cost Sharing Basis",
+            "description": "Construction of ROB at Rangia in replacement of Railway Level Crossing Gate No. SK-14 at Km-361/9-362/0-1 on Rangia Kendukona Road in Kamrup District under Construction of ROBs on 50_50 Cost Sharing Basis",
+            "datePublished": "14-Jun-2023 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "28,02,13,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jun-2023 10:00 AM"
+                }
+            ]
+        }
+    ]
+}

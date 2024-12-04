@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2019_WPTBC_11286_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2018-2019",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "28-Jan-2019 04:00 PM",
+    "tenderValueAmount": "0.0",
+    "tender": [
+        {
+            "id": "2019_WPTBC_11286_1",
+            "title": "SUPPLY OF ITEMS For the Year 2018-19 Re",
+            "description": "SUPPLY OF ITEMS For the Year 2018-19 Re",
+            "datePublished": "22-Jan-2019 01:00 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "0.0",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Jan-2019 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

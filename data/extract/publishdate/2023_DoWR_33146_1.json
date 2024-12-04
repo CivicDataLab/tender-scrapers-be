@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_33146_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Nov-2023 03:00 PM",
+    "tenderValueAmount": "3,97,78,308",
+    "tender": [
+        {
+            "id": "2023_DoWR_33146_1",
+            "title": "Measures to minimise water-logging problem of Bongshor area of Kamrup district by renovation of existing water bodies including construction of sluice gate.",
+            "description": "Measures to minimise water-logging problem of Bongshor area of Kamrup district by renovation of existing water bodies including construction of sluice gate.",
+            "datePublished": "17-Oct-2023 06:35 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,97,78,308",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

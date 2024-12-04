@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34962_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Jan-2024 02:00 PM",
+    "tenderValueAmount": "3,22,09,723",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34962_1",
+            "title": "Repair renovation of Pharmacology, Community Medicine, and Anatomy Department building including furniture at SMCH Silchar",
+            "description": "Repair renovation of Pharmacology, Community Medicine, and Anatomy Department building including furniture at SMCH Silchar",
+            "datePublished": "26-Dec-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,22,09,723",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

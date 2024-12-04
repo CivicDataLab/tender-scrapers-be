@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DCA_34091_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "28-Nov-2023 01:00 PM",
+    "tenderValueAmount": "45,00,000",
+    "tender": [
+        {
+            "id": "2023_DCA_34091_1",
+            "title": "ASSAM TABLEAUX AT REPUBLIC DAY FUNCTION 2024 AT RAJPATH , NEW DELHI",
+            "description": "ASSAM TABLEAUX AT REPUBLIC DAY FUNCTION 2024 AT RAJPATH , NEW DELHI",
+            "datePublished": "20-Nov-2023 04:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "45,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Nov-2023 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

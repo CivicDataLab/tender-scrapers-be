@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_35413_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "29-Jan-2024 04:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_DoWR_35413_1",
+            "title": "Supply of 1 (One) no. of Toyota Innova Hycross GX-7S for the Chairman of Executive Body (EB) FREMAA",
+            "description": "Supply of 1 (One) no. of Toyota Innova Hycross GX-7S for the Chairman of Executive Body (EB) FREMAA",
+            "datePublished": "11-Jan-2024 06:00 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jan-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ID_33979_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Dec-2023 03:00 PM",
+    "tenderValueAmount": "74,26,394",
+    "tender": [
+        {
+            "id": "2023_ID_33979_1",
+            "title": "2 MDTW SCHEME AT SIPAJHAR LAC UNDER RIDF_XXIX_NABARD_FOR THE YEAR 2023-24",
+            "description": "2 MDTW SCHEME AT SIPAJHAR LAC UNDER RIDF_XXIX_NABARD_FOR THE YEAR 2023-24",
+            "datePublished": "17-Nov-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "74,26,394",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35893_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 03:00 PM",
+    "tenderValueAmount": "71,79,712",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35893_1",
+            "title": "Works of Civil Electrical and other required works for installation of one unit of Oxygen Generation Plant at FAAMCH Barpeta received as a CSR activity from HDFC Bank Installation of Manifold and Oxygen Pipe line works connecting with PSA and LMO",
+            "description": "Works of Civil Electrical and other required works for installation of one unit of Oxygen Generation Plant at FAAMCH Barpeta received as a CSR activity from HDFC Bank Installation of Manifold and Oxygen Pipe line works connecting with PSA and LMO",
+            "datePublished": "02-Feb-2024 05:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "71,79,712",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34395_36",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Dec-2023 02:00 PM",
+    "tenderValueAmount": "2,25,21,000",
+    "tender": [
+        {
+            "id": "2023_PWD_34395_36",
+            "title": "RIDF_XXIX_23_24_97 Construction of Maj Longpotia Road (From Rongswal to Longpotia HS School) (From Ch. 0.00M to Ch. 2650.00M, L 2.65 Km) under RIDF XXIX of NABARD under PWRD for the year 2023-24",
+            "description": "RIDF_XXIX_23_24_97 Construction of Maj Longpotia Road (From Rongswal to Longpotia HS School) (From Ch. 0.00M to Ch. 2650.00M, L 2.65 Km) under RIDF XXIX of NABARD under PWRD for the year 2023-24",
+            "datePublished": "08-Dec-2023 05:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,25,21,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

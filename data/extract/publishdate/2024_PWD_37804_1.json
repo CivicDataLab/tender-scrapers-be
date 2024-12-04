@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_37804_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jul-2024 02:00 PM",
+    "tenderValueAmount": "26,22,000",
+    "tender": [
+        {
+            "id": "2024_PWD_37804_1",
+            "title": "Improvement of Road surface including Road furniture from NHAI Flyover at Jalukbari(Ch.8060.00m to Ch.8160.00m both way) under SOPD G for the year 2023 24.",
+            "description": "Improvement of Road surface including Road furniture from NHAI Flyover at Jalukbari(Ch.8060.00m to Ch.8160.00m both way) under SOPD G for the year 2023 24.",
+            "datePublished": "29-Jun-2024 04:45 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "26,22,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jul-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

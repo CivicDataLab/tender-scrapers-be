@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_34397_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "16-Dec-2023 02:00 PM",
+    "tenderValueAmount": "2,26,77,481",
+    "tender": [
+        {
+            "id": "2023_BTC_34397_1",
+            "title": "Construction of RCC Box Cell Bridge No.3by1 Size-5by44by0 cell at Baruapara to Mowamari road under CMs Goodwill Mission Project for the year 2023-24. TN_26_45R.",
+            "description": "Construction of RCC Box Cell Bridge No.3by1 Size-5by44by0 cell at Baruapara to Mowamari road under CMs Goodwill Mission Project for the year 2023-24. TN_26_45R.",
+            "datePublished": "05-Dec-2023 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,26,77,481",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

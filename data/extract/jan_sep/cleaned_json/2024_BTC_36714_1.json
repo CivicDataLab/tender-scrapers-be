@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_36714_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Mar-2024 02:00 PM",
+    "tenderValueAmount": "2,42,50,603",
+    "tender": [
+        {
+            "id": "2024_BTC_36714_1",
+            "title": "Construction of RCC bridge No. 2/1 on Garam Bazar to Manas National Park under Goodwill Project in Chirang District, BTC, Assam for the year 2023-24 . TN_26_108 (R-1)",
+            "description": "Construction of RCC bridge No. 2/1 on Garam Bazar to Manas National Park under Goodwill Project in Chirang District, BTC, Assam for the year 2023-24 . TN_26_108 (R-1)",
+            "datePublished": "28-Feb-2024 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,42,50,603",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

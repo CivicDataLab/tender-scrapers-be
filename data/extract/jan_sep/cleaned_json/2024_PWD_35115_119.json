@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35115_119",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:30 PM",
+    "tenderValueAmount": "3,61,00,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35115_119",
+            "title": "MMPPNA_23_24_146, onstruction of road from 2nd Km of Borguri Amolapam PMGSY road to Punioni village, 2. Construction of road from 3rd Km of Borguri Amolapam PMGSY road to Kachokoni village, 3. Construction of road from 2nd Km of Borguri Amolapam PMG",
+            "description": "MMPPNA_23_24_146, onstruction of road from 2nd Km of Borguri Amolapam PMGSY road to Punioni village, 2. Construction of road from 3rd Km of Borguri Amolapam PMGSY road to Kachokoni village, 3. Construction of road from 2nd Km of Borguri Amolapam PMG",
+            "datePublished": "03-Jan-2024 05:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,61,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

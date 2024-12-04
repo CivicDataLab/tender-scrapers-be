@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_32989_14",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Nov-2023 03:00 PM",
+    "tenderValueAmount": "1,40,73,143",
+    "tender": [
+        {
+            "id": "2023_PWBNH_32989_14",
+            "title": "Jagannath Community and Skill Centre at Dufflagarh T.E. under Gohpur LAC",
+            "description": "Jagannath Community and Skill Centre at Dufflagarh T.E. under Gohpur LAC",
+            "datePublished": "13-Oct-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,40,73,143",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

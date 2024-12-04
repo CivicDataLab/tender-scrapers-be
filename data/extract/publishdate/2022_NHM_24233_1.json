@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_NHM_24233_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2021-2022",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Feb-2022 04:30 PM",
+    "tenderValueAmount": "32,24,821",
+    "tender": [
+        {
+            "id": "2022_NHM_24233_1",
+            "title": "Establishing 20 bedded wards closer to the CHCs at various Places of Assam under NHM Assam on Turnkey Basis Group 1 1 no 20 Bedded Ward at CHCs in Baksa District",
+            "description": "Establishing 20 bedded wards closer to the CHCs at various Places of Assam under NHM Assam on Turnkey Basis Group 1 1 no 20 Bedded Ward at CHCs in Baksa District",
+            "datePublished": "05-Feb-2022 09:00 AM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "32,24,821",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Feb-2022 04:30 PM"
+                }
+            ]
+        }
+    ]
+}

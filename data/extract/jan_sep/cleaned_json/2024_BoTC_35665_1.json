@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_35665_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "15-Feb-2024 02:30 PM",
+    "tenderValueAmount": "23,76,471",
+    "tender": [
+        {
+            "id": "2024_BoTC_35665_1",
+            "title": "Construction of Road EF and SG from Surendrapur Tapu to Barghopa Tapu via Naya Bazar-3.0 Km under 15th FC for the year 2023-24.",
+            "description": "Construction of Road EF and SG from Surendrapur Tapu to Barghopa Tapu via Naya Bazar-3.0 Km under 15th FC for the year 2023-24.",
+            "datePublished": "24-Jan-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "23,76,471",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Feb-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

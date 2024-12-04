@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33170_57",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Nov-2023 02:00 PM",
+    "tenderValueAmount": "12,43,43,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33170_57",
+            "title": "MMUPPNA_RIDF_XXIX_23_24_49 (i) Improvement with Widening and strenthening of Srirampur to Maktaigaon Road Ch. 0.00km to Ch. 6.00km, (ii) Improvement of road from NH 31 C (Garufella) to Saraibil Road (from Ch. 0.00m to Ch. 4000.00m) under Mukhya Mantr",
+            "description": "MMUPPNA_RIDF_XXIX_23_24_49 (i) Improvement with Widening and strenthening of Srirampur to Maktaigaon Road Ch. 0.00km to Ch. 6.00km, (ii) Improvement of road from NH 31 C (Garufella) to Saraibil Road (from Ch. 0.00m to Ch. 4000.00m) under Mukhya Mantr",
+            "datePublished": "25-Oct-2023 12:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "12,43,43,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

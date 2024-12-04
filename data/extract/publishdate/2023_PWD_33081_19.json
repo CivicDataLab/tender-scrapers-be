@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33081_19",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Nov-2023 02:00 PM",
+    "tenderValueAmount": "1,91,89,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33081_19",
+            "title": "MMNPPNA_23_24_244 (i)Construction of road from PWD Road to Partha P Das House, (ii)Construction of road from AB-NH to Dhruba Rabha House via Kalpana Chawla Academy, (iii)Construction of road from Agriculture road (Swami Vivekananda Path) to Tapash Bh",
+            "description": "MMNPPNA_23_24_244 (i)Construction of road from PWD Road to Partha P Das House, (ii)Construction of road from AB-NH to Dhruba Rabha House via Kalpana Chawla Academy, (iii)Construction of road from Agriculture road (Swami Vivekananda Path) to Tapash Bh",
+            "datePublished": "17-Oct-2023 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,91,89,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

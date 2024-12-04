@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_SYWA_26461_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "16-Aug-2022 02:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2022_SYWA_26461_1",
+            "title": "PROCUREMENT OF PHYSIOTHERAPY EQUIPMENT FOR KHELO INDIA STATE CENTRE OF EXCELLENCE (KISCE), ASSAM",
+            "description": "PROCUREMENT OF PHYSIOTHERAPY EQUIPMENT FOR KHELO INDIA STATE CENTRE OF EXCELLENCE (KISCE), ASSAM",
+            "datePublished": "26-Jul-2022 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Aug-2022 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

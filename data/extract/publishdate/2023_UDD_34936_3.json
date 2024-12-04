@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_UDD_34936_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Mar-2024 03:00 PM",
+    "tenderValueAmount": "1,56,00,700",
+    "tender": [
+        {
+            "id": "2023_UDD_34936_3",
+            "title": "Execution, Testing and Commissioning of Naharkatia Water Supply Scheme ,Ph-II",
+            "description": "Execution, Testing and Commissioning of Naharkatia Water Supply Scheme ,Ph-II",
+            "datePublished": "12-Feb-2024 11:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,56,00,700",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_62",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "1,59,55,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_62",
+            "title": "MMPPNA_23_24_238 (1)Construction of Road starting from NH-6 to Sukritipur Railway station via GS Quarter from Ch. 700.00m to Ch. 1400.00m, (2)Construction of road starting from Gumrah Leverputa Road to Manikpur via Gatarkuna (Ch. 0.00m to Ch. 1900.00",
+            "description": "MMPPNA_23_24_238 (1)Construction of Road starting from NH-6 to Sukritipur Railway station via GS Quarter from Ch. 700.00m to Ch. 1400.00m, (2)Construction of road starting from Gumrah Leverputa Road to Manikpur via Gatarkuna (Ch. 0.00m to Ch. 1900.00",
+            "datePublished": "17-Jan-2024 12:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,59,55,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

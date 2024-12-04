@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_WPTBC_37191_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "15-Mar-2024 04:00 PM",
+    "tenderValueAmount": "25,00,000",
+    "tender": [
+        {
+            "id": "2024_WPTBC_37191_1",
+            "title": "Infrastructure Development of Dudhnoi College, Goalpara",
+            "description": "Infrastructure Development of Dudhnoi College, Goalpara",
+            "datePublished": "13-Mar-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "25,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Mar-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

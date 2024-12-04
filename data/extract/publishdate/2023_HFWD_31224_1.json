@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_HFWD_31224_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "17-Jul-2023 04:30 PM",
+    "tenderValueAmount": "12,11,34,720",
+    "tender": [
+        {
+            "id": "2023_HFWD_31224_1",
+            "title": "SUPPLY OF CHILD HEALTH EQUIPMENTS",
+            "description": "SUPPLY OF CHILD HEALTH EQUIPMENTS",
+            "datePublished": "15-Jun-2023 01:00 PM",
+            "contractType": "Buy",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "12,11,34,720",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Jul-2023 04:30 PM"
+                }
+            ]
+        }
+    ]
+}

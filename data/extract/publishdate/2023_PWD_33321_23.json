@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33321_23",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Nov-2023 11:00 AM",
+    "tenderValueAmount": "31,71,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33321_23",
+            "title": "Package No.Hailakandi/MMPNA/BUG/01 Repair/ Rehabilitation of BUG BRIDGE. No. 5/1 on Algapur Mohanpur Road for the year 2023-24 under Hailakandi District Territorial Road Division under MUKHYA MANTRIR PATH NABIKARAN ACHANI (MMPNA) for the year 2023-24",
+            "description": "Package No.Hailakandi/MMPNA/BUG/01 Repair/ Rehabilitation of BUG BRIDGE. No. 5/1 on Algapur Mohanpur Road for the year 2023-24 under Hailakandi District Territorial Road Division under MUKHYA MANTRIR PATH NABIKARAN ACHANI (MMPNA) for the year 2023-24",
+            "datePublished": "28-Oct-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "31,71,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

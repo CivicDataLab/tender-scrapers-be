@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_HFWD_37563_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "04-Jul-2024 04:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_HFWD_37563_1",
+            "title": "Operation and maintenance of Sewage Treatment Plant (STP) in Gauhati Medical College Hospital, Guwahati",
+            "description": "Operation and maintenance of Sewage Treatment Plant (STP) in Gauhati Medical College Hospital, Guwahati",
+            "datePublished": "11-Jun-2024 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Jul-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

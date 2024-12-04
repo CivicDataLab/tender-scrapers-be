@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_72",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,27,72,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_72",
+            "title": "MMNPPNA_23_24_77 (i) Construction of Ankur Nagar Path, Ward No.8( ch. 0.00 m to Ch. 90.00m ), (ii) Construction of Bye Lane No.1 N 4 from NH-15 towards south at ward No.10 ( ch. 0.00 m to Ch. 155.00m ), (iii) Construction of Gopal Mandir Path ( North",
+            "description": "MMNPPNA_23_24_77 (i) Construction of Ankur Nagar Path, Ward No.8( ch. 0.00 m to Ch. 90.00m ), (ii) Construction of Bye Lane No.1 N 4 from NH-15 towards south at ward No.10 ( ch. 0.00 m to Ch. 155.00m ), (iii) Construction of Gopal Mandir Path ( North",
+            "datePublished": "03-Oct-2023 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,27,72,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

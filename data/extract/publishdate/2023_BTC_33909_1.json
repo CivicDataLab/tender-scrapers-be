@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33909_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Dec-2023 02:00 PM",
+    "tenderValueAmount": "3,11,45,481",
+    "tender": [
+        {
+            "id": "2023_BTC_33909_1",
+            "title": "Widening and Strengthening of road from (A) Kukurmari to Domgaon Road (From Ch. 8000.00 m to 10300.00m) (Length-2.30 Km) (B) NH 31 C to Sidli Rev. Circle Office via Sidli Civil Hospital Approach Road (Length-0.884Km) in Chirang District, BTC under CM",
+            "description": "Widening and Strengthening of road from (A) Kukurmari to Domgaon Road (From Ch. 8000.00 m to 10300.00m) (Length-2.30 Km) (B) NH 31 C to Sidli Rev. Circle Office via Sidli Civil Hospital Approach Road (Length-0.884Km) in Chirang District, BTC under CM",
+            "datePublished": "13-Nov-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,11,45,481",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

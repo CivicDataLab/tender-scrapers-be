@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_69",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,70,34,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_69",
+            "title": "MMNPPNA_23_24_65 (i) Construction of Steamer Ghat road road side drain (From Ch-0.00 m to Ch-365.00 M), (ii) Construction of RCC covered road side drain on Sonarpatty Road No.2, (iii) Construction of RCC covered road side drain on Vivekanda Road,",
+            "description": "MMNPPNA_23_24_65 (i) Construction of Steamer Ghat road road side drain (From Ch-0.00 m to Ch-365.00 M), (ii) Construction of RCC covered road side drain on Sonarpatty Road No.2, (iii) Construction of RCC covered road side drain on Vivekanda Road,",
+            "datePublished": "03-Oct-2023 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,70,34,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

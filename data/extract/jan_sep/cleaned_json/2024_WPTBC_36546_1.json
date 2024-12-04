@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_WPTBC_36546_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Feb-2024 03:30 PM",
+    "tenderValueAmount": "24,99,851",
+    "tender": [
+        {
+            "id": "2024_WPTBC_36546_1",
+            "title": "Construction of classroom building at Kulajan Border ME school, Siga GP under LAC, Dist- Dhemaji.",
+            "description": "Construction of classroom building at Kulajan Border ME school, Siga GP under LAC, Dist- Dhemaji.",
+            "datePublished": "23-Feb-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,99,851",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Feb-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

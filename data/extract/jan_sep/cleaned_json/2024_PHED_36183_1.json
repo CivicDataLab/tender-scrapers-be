@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PHED_36183_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "21-Feb-2024 10:00 AM",
+    "tenderValueAmount": "75,22,980",
+    "tender": [
+        {
+            "id": "2024_PHED_36183_1",
+            "title": "Renovation/ Upgradation of old existing Bharalichuk PWSS",
+            "description": "Renovation/ Upgradation of old existing Bharalichuk PWSS",
+            "datePublished": "12-Feb-2024 04:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "75,22,980",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Feb-2024 10:00 AM"
+                }
+            ]
+        }
+    ]
+}

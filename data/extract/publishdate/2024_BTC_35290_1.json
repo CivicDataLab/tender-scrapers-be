@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_35290_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "24-Jan-2024 02:00 PM",
+    "tenderValueAmount": "3,78,88,705",
+    "tender": [
+        {
+            "id": "2024_BTC_35290_1",
+            "title": "Construction of (Gplus2), Jt. Director Office Building under Health and Family Welfare Department along with Asha Conference Hall on 2nd Floor in Chirang District.TN-54-1",
+            "description": "Construction of (Gplus2), Jt. Director Office Building under Health and Family Welfare Department along with Asha Conference Hall on 2nd Floor in Chirang District.TN-54-1",
+            "datePublished": "06-Jan-2024 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,78,88,705",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "24-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

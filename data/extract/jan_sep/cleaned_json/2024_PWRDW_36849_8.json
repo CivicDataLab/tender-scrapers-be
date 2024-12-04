@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWRDW_36849_8",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Apr-2024 02:30 PM",
+    "tenderValueAmount": "5,09,84,000",
+    "tender": [
+        {
+            "id": "2024_PWRDW_36849_8",
+            "title": "Construction of Bridges in Biswanath district i.Br. No. 6/2 on Rampur Road ii.Br. No. 1/1 on Rongajan Nahorbari Link Road iii. Br. No. 1/1 on Borjaroni Monabari Link Road",
+            "description": "Construction of Bridges in Biswanath district i.Br. No. 6/2 on Rampur Road ii.Br. No. 1/1 on Rongajan Nahorbari Link Road iii. Br. No. 1/1 on Borjaroni Monabari Link Road",
+            "datePublished": "04-Mar-2024 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "5,09,84,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Apr-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

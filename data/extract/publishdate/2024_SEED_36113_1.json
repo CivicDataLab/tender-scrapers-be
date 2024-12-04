@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_SEED_36113_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "04-Mar-2024 03:00 PM",
+    "tenderValueAmount": "1,83,30,000",
+    "tender": [
+        {
+            "id": "2024_SEED_36113_1",
+            "title": "Karagar Se Karigar project Under Placement Linked Skill Development Training Program (PLSDTP)",
+            "description": "Karagar Se Karigar project Under Placement Linked Skill Development Training Program (PLSDTP)",
+            "datePublished": "09-Feb-2024 05:00 PM",
+            "contractType": "Empanelment",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "1,83,30,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

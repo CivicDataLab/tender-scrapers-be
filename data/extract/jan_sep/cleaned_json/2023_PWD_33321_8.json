@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33321_8",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Nov-2023 11:00 AM",
+    "tenderValueAmount": "13,00,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33321_8",
+            "title": "Package No.Cachar/MMPNA/BUG/04 Repair/Rehabilitation of (i) BUG Bridge / Steel Bridge No. 2/1 on Meherpur Panchgori Road at Ch. 998.00M (ii) BUG Bridge / Steel Bridge No. 5/1 on Chincoorie Elgin Road at Ch. 4250.00M under Mukhya Mantrir Path Nabikara",
+            "description": "Package No.Cachar/MMPNA/BUG/04 Repair/Rehabilitation of (i) BUG Bridge / Steel Bridge No. 2/1 on Meherpur Panchgori Road at Ch. 998.00M (ii) BUG Bridge / Steel Bridge No. 5/1 on Chincoorie Elgin Road at Ch. 4250.00M under Mukhya Mantrir Path Nabikara",
+            "datePublished": "28-Oct-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "13,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_30537_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Jun-2023 02:30 PM",
+    "tenderValueAmount": "43,12,89,000",
+    "tender": [
+        {
+            "id": "2023_PWD_30537_1",
+            "title": "Const. of Ropeway System over the river Brahmaputra connecting Biswanath Ghat and Umatumoni Island at Biswanath Ghat of Biswanath District, Assam on EPC mode, including Defect Liability cum Comprehensive Operation and Maintenance period for three",
+            "description": "Const. of Ropeway System over the river Brahmaputra connecting Biswanath Ghat and Umatumoni Island at Biswanath Ghat of Biswanath District, Assam on EPC mode, including Defect Liability cum Comprehensive Operation and Maintenance period for three",
+            "datePublished": "19-Apr-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "43,12,89,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Jun-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

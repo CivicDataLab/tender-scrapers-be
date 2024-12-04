@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_31505_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "20-Jul-2023 03:00 PM",
+    "tenderValueAmount": "22,70,997",
+    "tender": [
+        {
+            "id": "2023_BoTC_31505_1",
+            "title": "Supply of Paddy Seed against Demonstration on Stress Tolerant variety under Krishannati Yojana, FNS-Rice, NFSM for the year 2023-24.",
+            "description": "Supply of Paddy Seed against Demonstration on Stress Tolerant variety under Krishannati Yojana, FNS-Rice, NFSM for the year 2023-24.",
+            "datePublished": "05-Jul-2023 10:00 AM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "22,70,997",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Jul-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

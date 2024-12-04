@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_UADEA_32159_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "26-Sep-2023 04:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_UADEA_32159_1",
+            "title": "Central Water Management Centre CWMC SCADA and Instrumentation with Comprehensive maintenance for a period of 5 years",
+            "description": "Central Water Management Centre CWMC SCADA and Instrumentation with Comprehensive maintenance for a period of 5 years",
+            "datePublished": "22-Aug-2023 12:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Sep-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36332_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Feb-2024 02:00 PM",
+    "tenderValueAmount": "72,29,267",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36332_1",
+            "title": "Shifting of Medical Oxygen Generating Plants (MOGP) of 1000 LPM Capacity from MMCH Panbazar and reinstallation at Dhubri Medical College and Hospital, Dhubri (Balance Emergency Work)",
+            "description": "Shifting of Medical Oxygen Generating Plants (MOGP) of 1000 LPM Capacity from MMCH Panbazar and reinstallation at Dhubri Medical College and Hospital, Dhubri (Balance Emergency Work)",
+            "datePublished": "16-Feb-2024 06:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "72,29,267",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

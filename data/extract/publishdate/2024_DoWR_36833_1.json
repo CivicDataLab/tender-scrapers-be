@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_36833_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Mar-2024 03:00 PM",
+    "tenderValueAmount": "2,70,79,059",
+    "tender": [
+        {
+            "id": "2024_DoWR_36833_1",
+            "title": "Protection of Borahi Kochari area of Desang left bank from the erosion of river Desang under Sonari L.A.C.",
+            "description": "Protection of Borahi Kochari area of Desang left bank from the erosion of river Desang under Sonari L.A.C.",
+            "datePublished": "02-Mar-2024 06:55 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,70,79,059",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

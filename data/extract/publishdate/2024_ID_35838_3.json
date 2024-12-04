@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ID_35838_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "20-Feb-2024 03:00 PM",
+    "tenderValueAmount": "46,79,000",
+    "tender": [
+        {
+            "id": "2024_ID_35838_3",
+            "title": "Improvement of Kaldiya FIS under SOPD-G for the year 2023- 24 package 3",
+            "description": "Improvement of Kaldiya FIS under SOPD-G for the year 2023- 24 package 3",
+            "datePublished": "01-Feb-2024 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "46,79,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

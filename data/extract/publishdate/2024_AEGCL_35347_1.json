@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_AEGCL_35347_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 04:00 PM",
+    "tenderValueAmount": "25,98,224",
+    "tender": [
+        {
+            "id": "2024_AEGCL_35347_1",
+            "title": "Construction of bituminous road for west side road from main access road of AEGCL Kahilipara colony.",
+            "description": "Construction of bituminous road for west side road from main access road of AEGCL Kahilipara colony.",
+            "datePublished": "09-Jan-2024 05:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "25,98,224",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

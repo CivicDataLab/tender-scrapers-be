@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_GMC_34907_5",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Feb-2024 03:00 PM",
+    "tenderValueAmount": "15,00,000",
+    "tender": [
+        {
+            "id": "2023_GMC_34907_5",
+            "title": "Construction of Jonaki Path, Birubari",
+            "description": "Construction of Jonaki Path, Birubari",
+            "datePublished": "05-Feb-2024 02:00 PM",
+            "contractType": "Lump-sum",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "15,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

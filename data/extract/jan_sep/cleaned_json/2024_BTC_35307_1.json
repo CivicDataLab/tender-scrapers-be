@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_35307_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Jan-2024 03:00 PM",
+    "tenderValueAmount": "9,01,72,072",
+    "tender": [
+        {
+            "id": "2024_BTC_35307_1",
+            "title": "Construction of Gorkha Bhawan and Cultural Research Centre at Chirang District under SDP to be funded by Govt. of Assam. (TN_52_1)",
+            "description": "Construction of Gorkha Bhawan and Cultural Research Centre at Chirang District under SDP to be funded by Govt. of Assam. (TN_52_1)",
+            "datePublished": "08-Jan-2024 01:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "9,01,72,072",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

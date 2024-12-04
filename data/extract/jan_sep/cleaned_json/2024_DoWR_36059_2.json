@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_36059_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "18-Apr-2024 03:00 PM",
+    "tenderValueAmount": "2,94,11,739",
+    "tender": [
+        {
+            "id": "2024_DoWR_36059_2",
+            "title": "Anti Erosion measure to protect Baligaon near Mugasong L. P. School from the erosion of river Kopili in West Karbi Anglong District.",
+            "description": "Anti Erosion measure to protect Baligaon near Mugasong L. P. School from the erosion of river Kopili in West Karbi Anglong District.",
+            "datePublished": "04-Apr-2024 06:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,94,11,739",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "18-Apr-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

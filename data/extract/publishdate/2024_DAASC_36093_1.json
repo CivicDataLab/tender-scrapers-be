@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DAASC_36093_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "04-Mar-2024 02:30 PM",
+    "tenderValueAmount": "46,50,000",
+    "tender": [
+        {
+            "id": "2024_DAASC_36093_1",
+            "title": "SUPPLY, INSTALLATION AND COMMISSIONING OF 15 NOS MILLET DE-HUSKER AND FOUNDATION FRAME UNDER THE ASSAM MILLET MISSION",
+            "description": "SUPPLY, INSTALLATION AND COMMISSIONING OF 15 NOS MILLET DE-HUSKER AND FOUNDATION FRAME UNDER THE ASSAM MILLET MISSION",
+            "datePublished": "08-Feb-2024 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "46,50,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Mar-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

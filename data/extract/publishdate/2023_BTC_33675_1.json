@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33675_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Nov-2023 12:00 PM",
+    "tenderValueAmount": "2,42,71,609",
+    "tender": [
+        {
+            "id": "2023_BTC_33675_1",
+            "title": "Construction of RCC Bridge No. 1by3 on Polashguri to Sindrijhora road under CMs Goodwill Project under Kokrajhar Rural Roads Division for the year 2023-24. TN_26_40",
+            "description": "Construction of RCC Bridge No. 1by3 on Polashguri to Sindrijhora road under CMs Goodwill Project under Kokrajhar Rural Roads Division for the year 2023-24. TN_26_40",
+            "datePublished": "09-Nov-2023 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,42,71,609",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

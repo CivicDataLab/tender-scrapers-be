@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PHED_31607_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "09-Aug-2023 03:00 PM",
+    "tenderValueAmount": "25,76,54,000",
+    "tender": [
+        {
+            "id": "2023_PHED_31607_1",
+            "title": "Retrofitting of Composite WSS for Iron and Arsenic Mitigation under Golaghat Central development Block under Golaghat PHE Div under JJM Assam",
+            "description": "Retrofitting of Composite WSS for Iron and Arsenic Mitigation under Golaghat Central development Block under Golaghat PHE Div under JJM Assam",
+            "datePublished": "12-Jul-2023 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "25,76,54,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Aug-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

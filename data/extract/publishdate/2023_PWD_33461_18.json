@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33461_18",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Nov-2023 02:00 PM",
+    "tenderValueAmount": "1,95,83,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33461_18",
+            "title": "MMNPPNA_23_24_194 (i)Construction of Road from Golalganj Soulmari PWD Road to Medha Ram Rays House ( Ch.0.00 to 500.00 m), (ii)Construction of Road from Kadamtala to near Gaikhowa Panchayat office( ch. 0.00 to 700.00 m), (iii)Construction of Road",
+            "description": "MMNPPNA_23_24_194 (i)Construction of Road from Golalganj Soulmari PWD Road to Medha Ram Rays House ( Ch.0.00 to 500.00 m), (ii)Construction of Road from Kadamtala to near Gaikhowa Panchayat office( ch. 0.00 to 700.00 m), (iii)Construction of Road",
+            "datePublished": "02-Nov-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,95,83,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

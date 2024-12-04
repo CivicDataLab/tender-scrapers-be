@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_35020_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "20-Jan-2024 11:30 AM",
+    "tenderValueAmount": "24,72,784",
+    "tender": [
+        {
+            "id": "2023_PWBNH_35020_1",
+            "title": "Renovation works in the Gauhati High Court, Old Block (painting works at Civil Rule Disposal Section, First Appeal and RO Contempt Section, aluminium works for cubicles at Administrative Officer (Judicial) Disposal Section, wooden file cabinet etc.)",
+            "description": "Renovation works in the Gauhati High Court, Old Block (painting works at Civil Rule Disposal Section, First Appeal and RO Contempt Section, aluminium works for cubicles at Administrative Officer (Judicial) Disposal Section, wooden file cabinet etc.)",
+            "datePublished": "29-Dec-2023 12:35 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,72,784",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Jan-2024 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

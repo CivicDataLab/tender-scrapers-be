@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_30966_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Jan-2024 03:00 PM",
+    "tenderValueAmount": "1,89,26,228",
+    "tender": [
+        {
+            "id": "2023_DoWR_30966_3",
+            "title": "Restoration of Tikritola embankment on its L/B of Rowta river.",
+            "description": "Restoration of Tikritola embankment on its L/B of Rowta river.",
+            "datePublished": "01-Jan-2024 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,89,26,228",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

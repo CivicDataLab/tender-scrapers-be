@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34035_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Nov-2023 11:00 AM",
+    "tenderValueAmount": "47,84,000",
+    "tender": [
+        {
+            "id": "2023_PWD_34035_2",
+            "title": "Package No. KAMRUP METRO/MMPNA/R_R/02 Repair and Rehabilitation of the bridges 1) located at G.G. Road (Paltanbazar Bijuli Bhawan Police Point- Lokhra NH 37 near Nepali Mandir at Ch. 0.4887 km , 2) located at Rajgarh bridge near Aruna Menorial Hospi",
+            "description": "Package No. KAMRUP METRO/MMPNA/R_R/02 Repair and Rehabilitation of the bridges 1) located at G.G. Road (Paltanbazar Bijuli Bhawan Police Point- Lokhra NH 37 near Nepali Mandir at Ch. 0.4887 km , 2) located at Rajgarh bridge near Aruna Menorial Hospi",
+            "datePublished": "18-Nov-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "47,84,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

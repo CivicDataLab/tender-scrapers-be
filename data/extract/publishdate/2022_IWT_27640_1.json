@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_IWT_27640_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "28-Nov-2022 03:00 PM",
+    "tenderValueAmount": "5,05,625",
+    "tender": [
+        {
+            "id": "2022_IWT_27640_1",
+            "title": "LEASING OUT OF DAUKUCHI BHAKRADIA RANGESWARI PIJUPARA FERRY SERVICE, GUWAHATI",
+            "description": "LEASING OUT OF DAUKUCHI BHAKRADIA RANGESWARI PIJUPARA FERRY SERVICE, GUWAHATI",
+            "datePublished": "07-Nov-2022 06:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "5,05,625",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Nov-2022 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

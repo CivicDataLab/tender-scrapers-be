@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35744_89",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 02:00 PM",
+    "tenderValueAmount": "1,00,00,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35744_89",
+            "title": "SOPD_ODS_23_24_120 Construction of (1) Salkathoni T.E. Roads (i) For Factory Line No 1 (From Ch. 0.00 M to Ch. 110.00 M, L 0.11 Km), ii) For Factory Line No- 2 (From Ch. 0.00M to Ch. 70.00M, L 0.07 Km), iii) For Factory Line",
+            "description": "SOPD_ODS_23_24_120 Construction of (1) Salkathoni T.E. Roads (i) For Factory Line No 1 (From Ch. 0.00 M to Ch. 110.00 M, L 0.11 Km), ii) For Factory Line No- 2 (From Ch. 0.00M to Ch. 70.00M, L 0.07 Km), iii) For Factory Line",
+            "datePublished": "06-Feb-2024 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,00,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

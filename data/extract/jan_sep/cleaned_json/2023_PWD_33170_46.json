@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33170_46",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Nov-2023 02:00 PM",
+    "tenderValueAmount": "12,46,21,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33170_46",
+            "title": "MMUPPNA_RIDF_XXIX_23_24_17 (i) Upgradation of Salkocha Bir Chilaray Status to Bashbari Market (From Ch. 0.00km to Ch. 5.00km), (ii) Construction of road from Sonamukhi Bazar (NH 31) to No. 2203 Masaner Alga L.P School (from Ch. 0.00m to Ch. 5000.00m)",
+            "description": "MMUPPNA_RIDF_XXIX_23_24_17 (i) Upgradation of Salkocha Bir Chilaray Status to Bashbari Market (From Ch. 0.00km to Ch. 5.00km), (ii) Construction of road from Sonamukhi Bazar (NH 31) to No. 2203 Masaner Alga L.P School (from Ch. 0.00m to Ch. 5000.00m)",
+            "datePublished": "24-Oct-2023 06:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "12,46,21,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

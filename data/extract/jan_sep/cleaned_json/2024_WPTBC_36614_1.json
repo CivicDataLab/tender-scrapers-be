@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_WPTBC_36614_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Feb-2024 04:00 PM",
+    "tenderValueAmount": "1,60,91,000",
+    "tender": [
+        {
+            "id": "2024_WPTBC_36614_1",
+            "title": "Construction of outdoor stadium at Kampur Sports Association Complex under Barhampur Consituenc, Dist Nagaon",
+            "description": "Construction of outdoor stadium at Kampur Sports Association Complex under Barhampur Consituenc, Dist Nagaon",
+            "datePublished": "24-Feb-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,60,91,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Feb-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ID_32714_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Nov-2023 11:00 AM",
+    "tenderValueAmount": "29,55,331",
+    "tender": [
+        {
+            "id": "2023_ID_32714_1",
+            "title": "Installation of Solar Powered Medium Deep Tube well Irrigation system at Biplob Das s paddy field of village Harharia under RIDF-XXVIII (NABARD) for the year 2022-23",
+            "description": "Installation of Solar Powered Medium Deep Tube well Irrigation system at Biplob Das s paddy field of village Harharia under RIDF-XXVIII (NABARD) for the year 2022-23",
+            "datePublished": "30-Sep-2023 09:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "29,55,331",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_34509_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "22-Dec-2023 02:00 PM",
+    "tenderValueAmount": "39,49,300",
+    "tender": [
+        {
+            "id": "2023_BTC_34509_1",
+            "title": "Heightening of Boundary Wall West and South side, Repairing Painting of existing wall East and North Side, Construction of Shed in front of existing Warehouse and Construction of Engineering Cell at Director of Health Office, Kokrajhar etc. 44_02",
+            "description": "Heightening of Boundary Wall West and South side, Repairing Painting of existing wall East and North Side, Construction of Shed in front of existing Warehouse and Construction of Engineering Cell at Director of Health Office, Kokrajhar etc. 44_02",
+            "datePublished": "07-Dec-2023 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "39,49,300",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "22-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

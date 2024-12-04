@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWRDW_33524_13",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Dec-2023 02:30 PM",
+    "tenderValueAmount": "24,45,01,000",
+    "tender": [
+        {
+            "id": "2023_PWRDW_33524_13",
+            "title": "Construction of Bridges in Tamulpur district i.Br. No. 1/1 on Chiknibari Chawk to Khanekuchi Road ii.Br. No. 4/1 on Kasukata Barbalichiha Road iii.Br. No. 1/1 on Kasubari Naokata Pathurighat Road",
+            "description": "Construction of Bridges in Tamulpur district i.Br. No. 1/1 on Chiknibari Chawk to Khanekuchi Road ii.Br. No. 4/1 on Kasukata Barbalichiha Road iii.Br. No. 1/1 on Kasubari Naokata Pathurighat Road",
+            "datePublished": "04-Nov-2023 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,45,01,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Dec-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

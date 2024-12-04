@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34034_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Dec-2023 11:00 AM",
+    "tenderValueAmount": "33,92,000",
+    "tender": [
+        {
+            "id": "2023_PWD_34034_1",
+            "title": "Package Golaghat/MMPNA/BUG/01 Repairing/Rehabilitation of BUG RCC Br. No.3/4(L 229.68 Rm) on Obhoipuria to Pulibor Via Halmira comprising Bridge Proper and Approach under MMANA for the year 2023-24 in PWRD Golaghat and Khumtai Territorial Road Divisi",
+            "description": "Package Golaghat/MMPNA/BUG/01 Repairing/Rehabilitation of BUG RCC Br. No.3/4(L 229.68 Rm) on Obhoipuria to Pulibor Via Halmira comprising Bridge Proper and Approach under MMANA for the year 2023-24 in PWRD Golaghat and Khumtai Territorial Road Divisi",
+            "datePublished": "18-Nov-2023 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "33,92,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Dec-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

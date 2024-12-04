@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ICD_33068_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "20-Oct-2023 11:00 AM",
+    "tenderValueAmount": "1,00,00,000",
+    "tender": [
+        {
+            "id": "2023_ICD_33068_1",
+            "title": "MS Drum",
+            "description": "MS Drum",
+            "datePublished": "14-Oct-2023 01:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "1,00,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Oct-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

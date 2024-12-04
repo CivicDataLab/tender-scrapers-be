@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_34212_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "18-Dec-2023 02:30 PM",
+    "tenderValueAmount": "21,29,052",
+    "tender": [
+        {
+            "id": "2023_BoTC_34212_1",
+            "title": "Const of road with sand gravelling from Homeswar Rabhas house to Lohit Das house at Pub- Anthaibari Bunbari village under Addl SOPD for the year 2023-24.",
+            "description": "Const of road with sand gravelling from Homeswar Rabhas house to Lohit Das house at Pub- Anthaibari Bunbari village under Addl SOPD for the year 2023-24.",
+            "datePublished": "25-Nov-2023 02:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "21,29,052",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "18-Dec-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

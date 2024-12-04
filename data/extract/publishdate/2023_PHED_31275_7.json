@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PHED_31275_7",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "20-Jul-2023 03:00 PM",
+    "tenderValueAmount": "0.0",
+    "tender": [
+        {
+            "id": "2023_PHED_31275_7",
+            "title": "PKG 07 Fixation of Rates for additional items of New PWSS under JJM Assam for PHE Divisions under Jorhat Circle",
+            "description": "PKG 07 Fixation of Rates for additional items of New PWSS under JJM Assam for PHE Divisions under Jorhat Circle",
+            "datePublished": "21-Jun-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "0.0",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Jul-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

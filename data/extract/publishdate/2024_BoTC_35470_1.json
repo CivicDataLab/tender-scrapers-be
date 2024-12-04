@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_35470_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Feb-2024 03:30 PM",
+    "tenderValueAmount": "22,00,000",
+    "tender": [
+        {
+            "id": "2024_BoTC_35470_1",
+            "title": "Construction of Market Shed at Ananda Bazar under Jalah Dev. Block in Baksa District.",
+            "description": "Construction of Market Shed at Ananda Bazar under Jalah Dev. Block in Baksa District.",
+            "datePublished": "13-Jan-2024 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "22,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Feb-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33698_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Dec-2023 03:00 PM",
+    "tenderValueAmount": "3,35,51,837",
+    "tender": [
+        {
+            "id": "2023_BTC_33698_1",
+            "title": "Construction of R.C.C. Bridge No. 1/1 Kachubil PHE to Gaoburah Chowk via Kalajhar Natun Basti under CMs Goodwill Mission Project for the year 2023-24 of District Udalguri (38 Bhairabkunda (ST). (TN_26_140)",
+            "description": "Construction of R.C.C. Bridge No. 1/1 Kachubil PHE to Gaoburah Chowk via Kalajhar Natun Basti under CMs Goodwill Mission Project for the year 2023-24 of District Udalguri (38 Bhairabkunda (ST). (TN_26_140)",
+            "datePublished": "08-Nov-2023 05:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,35,51,837",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_36557_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Mar-2024 03:00 PM",
+    "tenderValueAmount": "2,34,97,881",
+    "tender": [
+        {
+            "id": "2024_BTC_36557_1",
+            "title": "Construction of CC Block from Dalakati Jungle to Saotalgaon Shiv Mandir (From Ch. 0.00 Km to Ch. 2.15 Km) under PWD, Udalguri (R and B) Division under CMs Goodwill Mission Project for the financial year 2023-24 of District Udalguri. (TN_26_124)",
+            "description": "Construction of CC Block from Dalakati Jungle to Saotalgaon Shiv Mandir (From Ch. 0.00 Km to Ch. 2.15 Km) under PWD, Udalguri (R and B) Division under CMs Goodwill Mission Project for the financial year 2023-24 of District Udalguri. (TN_26_124)",
+            "datePublished": "23-Feb-2024 10:30 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,34,97,881",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

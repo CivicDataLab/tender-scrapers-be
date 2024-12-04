@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33534_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "21-Nov-2023 11:00 AM",
+    "tenderValueAmount": "5,01,60,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33534_2",
+            "title": "Package No.RIDF-XXIX/Golaghat/01 Construction of RCC Br. No. 1/1 (L 21.75m x 3 65.25m) with Approach and Protection work over Boraikhowa Singa Jan on Borpak to Nogabali Road under Mukhya Mantrir Unnata Poki Path Nirman Achani (MMUPPNA) for the year",
+            "description": "Package No.RIDF-XXIX/Golaghat/01 Construction of RCC Br. No. 1/1 (L 21.75m x 3 65.25m) with Approach and Protection work over Boraikhowa Singa Jan on Borpak to Nogabali Road under Mukhya Mantrir Unnata Poki Path Nirman Achani (MMUPPNA) for the year",
+            "datePublished": "04-Nov-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "5,01,60,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

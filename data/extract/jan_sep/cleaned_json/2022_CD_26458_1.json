@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_CD_26458_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Aug-2022 11:30 AM",
+    "tenderValueAmount": "7,92,44,261",
+    "tender": [
+        {
+            "id": "2022_CD_26458_1",
+            "title": "Construction of 100 Bedded Girls Hostel (G plus 2 Storeyed) at Assam University Diphu Campus including furniture",
+            "description": "Construction of 100 Bedded Girls Hostel (G plus 2 Storeyed) at Assam University Diphu Campus including furniture",
+            "datePublished": "26-Jul-2022 03:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "7,92,44,261",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Aug-2022 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

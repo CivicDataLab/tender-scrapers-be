@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36064_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Feb-2024 03:00 PM",
+    "tenderValueAmount": "18,43,56,995",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36064_1",
+            "title": "Construction of Multi Storied Car Parking cum City Hall at Jorhat Town (Balance Work) on Engineering, Procurement and Construction (EPC) Mode-1",
+            "description": "Construction of Multi Storied Car Parking cum City Hall at Jorhat Town (Balance Work) on Engineering, Procurement and Construction (EPC) Mode-1",
+            "datePublished": "08-Feb-2024 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "18,43,56,995",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

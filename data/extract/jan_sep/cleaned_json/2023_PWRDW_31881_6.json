@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWRDW_31881_6",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Aug-2023 02:30 PM",
+    "tenderValueAmount": "5,18,63,000",
+    "tender": [
+        {
+            "id": "2023_PWRDW_31881_6",
+            "title": "Construction of Bridges in Darrang district i)Br No. 1/1 on Gangajani Moilata Bill Road ii) Br No. 1/1 on Deomornoi to Debaparen Road",
+            "description": "Construction of Bridges in Darrang district i)Br No. 1/1 on Gangajani Moilata Bill Road ii) Br No. 1/1 on Deomornoi to Debaparen Road",
+            "datePublished": "01-Aug-2023 05:35 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "5,18,63,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Aug-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

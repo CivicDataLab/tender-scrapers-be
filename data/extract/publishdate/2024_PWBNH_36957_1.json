@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36957_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Mar-2024 12:30 PM",
+    "tenderValueAmount": "41,92,459",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36957_1",
+            "title": "Installation of Iron Removal Treatment Plant and cleaning of water reserver with water tank in the Regional Dental College Boys and Girls Hostel, Guwahati",
+            "description": "Installation of Iron Removal Treatment Plant and cleaning of water reserver with water tank in the Regional Dental College Boys and Girls Hostel, Guwahati",
+            "datePublished": "07-Mar-2024 12:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "41,92,459",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Mar-2024 12:30 PM"
+                }
+            ]
+        }
+    ]
+}

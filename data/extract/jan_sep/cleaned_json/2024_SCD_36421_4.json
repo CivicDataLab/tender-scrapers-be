@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_SCD_36421_4",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Mar-2024 12:00 PM",
+    "tenderValueAmount": "34,57,285",
+    "tender": [
+        {
+            "id": "2024_SCD_36421_4",
+            "title": "Water Harvesting Structure Farm Pond At Gabharumukh Balichapari Under RIDF-XXIX 2023-24",
+            "description": "Water Harvesting Structure Farm Pond At Gabharumukh Balichapari Under RIDF-XXIX 2023-24",
+            "datePublished": "19-Feb-2024 01:40 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "34,57,285",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Mar-2024 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

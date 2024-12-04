@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_NHM_31356_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Jul-2023 03:30 PM",
+    "tenderValueAmount": "52,03,000",
+    "tender": [
+        {
+            "id": "2023_NHM_31356_2",
+            "title": "Construction of Buildingless Sub Health Centre in DEBRA SC in Barpeta District for FY 2022 23 under PM Abhim on turnkey basis",
+            "description": "Construction of Buildingless Sub Health Centre in DEBRA SC in Barpeta District for FY 2022 23 under PM Abhim on turnkey basis",
+            "datePublished": "23-Jun-2023 04:45 PM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "52,03,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Jul-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

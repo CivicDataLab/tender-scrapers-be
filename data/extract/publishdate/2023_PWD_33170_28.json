@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33170_28",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Nov-2023 02:00 PM",
+    "tenderValueAmount": "12,49,98,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33170_28",
+            "title": "MMUPPNA_RIDF_XXIX_23_24_71 Improvement of (i) Doria Ali Road from Ch. 0.00m to 5000.00m, (ii) Daria ali Kaniachapori road (Mohbondha Ali) (Doriya - River Bank) under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD for the year",
+            "description": "MMUPPNA_RIDF_XXIX_23_24_71 Improvement of (i) Doria Ali Road from Ch. 0.00m to 5000.00m, (ii) Daria ali Kaniachapori road (Mohbondha Ali) (Doriya - River Bank) under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD for the year",
+            "datePublished": "23-Oct-2023 11:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "12,49,98,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

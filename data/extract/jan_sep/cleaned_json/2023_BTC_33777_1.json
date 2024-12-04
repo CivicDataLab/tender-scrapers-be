@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33777_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Nov-2023 12:00 PM",
+    "tenderValueAmount": "3,09,47,942",
+    "tender": [
+        {
+            "id": "2023_BTC_33777_1",
+            "title": "Construction of RCC Bridge No. 1/2 over River Gerua at Bokrajhar Road under CMs Goodwill Project for the year 2023-24 of District Udalguri (35. Mwdwibari (Open). (TN_26_160)",
+            "description": "Construction of RCC Bridge No. 1/2 over River Gerua at Bokrajhar Road under CMs Goodwill Project for the year 2023-24 of District Udalguri (35. Mwdwibari (Open). (TN_26_160)",
+            "datePublished": "09-Nov-2023 12:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,09,47,942",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

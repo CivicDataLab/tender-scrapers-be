@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_HAD_37821_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "15-Jul-2024 04:00 PM",
+    "tenderValueAmount": "1,95,99,929",
+    "tender": [
+        {
+            "id": "2024_HAD_37821_1",
+            "title": "Construction of Boundary wall Gate at Manja Industrial Complex under AHSIDC Ltd., Manja",
+            "description": "Construction of Boundary wall Gate at Manja Industrial Complex under AHSIDC Ltd., Manja",
+            "datePublished": "01-Jul-2024 06:00 PM",
+            "contractType": "Percentage",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,95,99,929",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Jul-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_35508_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Feb-2024 04:00 PM",
+    "tenderValueAmount": "19,99,997",
+    "tender": [
+        {
+            "id": "2024_BTC_35508_1",
+            "title": "Const. of RCC Slab culvert of Nishahatkhola Jhalukbari road (at Arangadol) under SOPD (BTC) for the year 2023-24. (TN_61_2)",
+            "description": "Const. of RCC Slab culvert of Nishahatkhola Jhalukbari road (at Arangadol) under SOPD (BTC) for the year 2023-24. (TN_61_2)",
+            "datePublished": "17-Jan-2024 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "19,99,997",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Feb-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

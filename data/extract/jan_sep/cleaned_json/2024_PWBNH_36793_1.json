@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36793_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Mar-2024 02:30 PM",
+    "tenderValueAmount": "34,62,438",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36793_1",
+            "title": "Construction of Component Separation Unit in Blood Bank(Reparing/Renovation of Existing Blood Bank including Extension of New Component Separation Room at Sivasagar Civil Hospital, Sivasagar",
+            "description": "Construction of Component Separation Unit in Blood Bank(Reparing/Renovation of Existing Blood Bank including Extension of New Component Separation Room at Sivasagar Civil Hospital, Sivasagar",
+            "datePublished": "01-Mar-2024 04:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "34,62,438",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Mar-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

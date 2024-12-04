@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_GSCT_35054_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "25-Jan-2024 03:30 PM",
+    "tenderValueAmount": "2,03,56,84,080",
+    "tender": [
+        {
+            "id": "2023_GSCT_35054_1",
+            "title": "SELECTION OF SYSTEM INTEGRATOR FOR INTELLIGENT CITY SURVEILLANCE SYSTEM IN GUWAHATI",
+            "description": "SELECTION OF SYSTEM INTEGRATOR FOR INTELLIGENT CITY SURVEILLANCE SYSTEM IN GUWAHATI",
+            "datePublished": "29-Dec-2023 06:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,03,56,84,080",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "25-Jan-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

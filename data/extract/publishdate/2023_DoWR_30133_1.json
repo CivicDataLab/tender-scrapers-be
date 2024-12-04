@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_30133_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Apr-2023 03:00 PM",
+    "tenderValueAmount": "1,73,61,708",
+    "tender": [
+        {
+            "id": "2023_DoWR_30133_1",
+            "title": "A/E measures to protect Rimijimi and its adjoining villages from erosion of Gangia river.",
+            "description": "A/E measures to protect Rimijimi and its adjoining villages from erosion of Gangia river.",
+            "datePublished": "25-Mar-2023 06:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,73,61,708",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Apr-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

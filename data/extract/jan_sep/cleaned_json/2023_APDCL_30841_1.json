@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_APDCL_30841_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Sep-2023 02:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_APDCL_30841_1",
+            "title": "Pailapool 33 Line",
+            "description": "Pailapool 33 Line",
+            "datePublished": "17-Aug-2023 05:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Sep-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

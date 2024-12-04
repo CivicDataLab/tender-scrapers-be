@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36005_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "16-Feb-2024 03:30 PM",
+    "tenderValueAmount": "87,98,999",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36005_1",
+            "title": "Construction of RCC Building Ground Floor (With G2 Foundation) Building at DIET, Chabua",
+            "description": "Construction of RCC Building Ground Floor (With G2 Foundation) Building at DIET, Chabua",
+            "datePublished": "07-Feb-2024 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "87,98,999",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Feb-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_AEGCL_35287_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "17-Jan-2024 04:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_AEGCL_35287_1",
+            "title": "Supply, Installation and Commissioning of dedicated 4 Mbps Internet Leased Line ILL connectivity with SLA agreement at various locations of Assam Electricity Grid Corporation Limited",
+            "description": "Supply, Installation and Commissioning of dedicated 4 Mbps Internet Leased Line ILL connectivity with SLA agreement at various locations of Assam Electricity Grid Corporation Limited",
+            "datePublished": "06-Jan-2024 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Jan-2024 04:30 PM"
+                }
+            ]
+        }
+    ]
+}

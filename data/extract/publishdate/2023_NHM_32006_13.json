@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_NHM_32006_13",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Aug-2023 03:30 PM",
+    "tenderValueAmount": "72,00,000",
+    "tender": [
+        {
+            "id": "2023_NHM_32006_13",
+            "title": "Construction of AYUSH Dispensary (Assam Type) in Kokrajhar District, group.19 (3 nos. of scheme in Kokrajhar District) for FY 2022-23 under NAM, Assam.",
+            "description": "Construction of AYUSH Dispensary (Assam Type) in Kokrajhar District, group.19 (3 nos. of scheme in Kokrajhar District) for FY 2022-23 under NAM, Assam.",
+            "datePublished": "09-Aug-2023 06:45 PM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "72,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Aug-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

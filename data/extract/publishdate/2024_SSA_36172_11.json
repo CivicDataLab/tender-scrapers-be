@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_SSA_36172_11",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Feb-2024 03:00 PM",
+    "tenderValueAmount": "53,70,000",
+    "tender": [
+        {
+            "id": "2024_SSA_36172_11",
+            "title": "Rakshasmari High School",
+            "description": "Rakshasmari High School",
+            "datePublished": "12-Feb-2024 09:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "53,70,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

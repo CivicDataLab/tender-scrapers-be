@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35282_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 04:00 PM",
+    "tenderValueAmount": "50,68,505",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35282_1",
+            "title": "Construction of Classroom Building at ITI Majuli under ESDI Scheme. Dist- Majuli, Assam",
+            "description": "Construction of Classroom Building at ITI Majuli under ESDI Scheme. Dist- Majuli, Assam",
+            "datePublished": "06-Jan-2024 05:05 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "50,68,505",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

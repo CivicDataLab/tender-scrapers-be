@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35381_14",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Jan-2024 02:00 PM",
+    "tenderValueAmount": "4,39,90,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35381_14",
+            "title": "SOPD_G_23_24_48 (i) Construction of Dhodar Ali to Da Tinikuria Road from ch.0.00m to ch.530.00m (L 0.530 km), (ii) 37 Nos NH to Resham Pam connecting Road Gaurisagar from ch.0.00m to ch.285.00m (L 0.285 km), (iii) Construction of Raghubari ..",
+            "description": "SOPD_G_23_24_48 (i) Construction of Dhodar Ali to Da Tinikuria Road from ch.0.00m to ch.530.00m (L 0.530 km), (ii) 37 Nos NH to Resham Pam connecting Road Gaurisagar from ch.0.00m to ch.285.00m (L 0.285 km), (iii) Construction of Raghubari ..",
+            "datePublished": "11-Jan-2024 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,39,90,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

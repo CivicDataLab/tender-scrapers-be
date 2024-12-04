@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_WPTBC_34992_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Jan-2024 03:30 PM",
+    "tenderValueAmount": "58,68,000",
+    "tender": [
+        {
+            "id": "2023_WPTBC_34992_1",
+            "title": "Repairing and Renovation of Assam Tea and Ex tea Garden Tribes Girls Hostel near Borbeel ME school, Digboi, Tinsukia.",
+            "description": "Repairing and Renovation of Assam Tea and Ex tea Garden Tribes Girls Hostel near Borbeel ME school, Digboi, Tinsukia.",
+            "datePublished": "28-Dec-2023 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "58,68,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Jan-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

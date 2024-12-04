@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_30585_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "15-May-2023 03:00 PM",
+    "tenderValueAmount": "8,45,751",
+    "tender": [
+        {
+            "id": "2023_DoWR_30585_1",
+            "title": "Construction of Guest House of Water Resources Department at Kohora (Ph-II), PACKAGE 2",
+            "description": "Construction of Guest House of Water Resources Department at Kohora (Ph-II), PACKAGE 2",
+            "datePublished": "24-Apr-2023 06:50 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "8,45,751",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-May-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

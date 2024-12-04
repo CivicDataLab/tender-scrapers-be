@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_35817_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Feb-2024 04:00 PM",
+    "tenderValueAmount": "48,50,530",
+    "tender": [
+        {
+            "id": "2024_BTC_35817_1",
+            "title": "Construction Bwirathi Tourist Cottage (Highway Amenities) at Nagrijuli Island under Nagrijuli Constituency under Tourism Department under SOPD for the financial year 2023-24. (TN_61_1)",
+            "description": "Construction Bwirathi Tourist Cottage (Highway Amenities) at Nagrijuli Island under Nagrijuli Constituency under Tourism Department under SOPD for the financial year 2023-24. (TN_61_1)",
+            "datePublished": "31-Jan-2024 01:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "48,50,530",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Feb-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

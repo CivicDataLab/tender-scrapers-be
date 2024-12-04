@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_BoTC_27838_13",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Dec-2022 02:00 PM",
+    "tenderValueAmount": "1,05,13,416",
+    "tender": [
+        {
+            "id": "2022_BoTC_27838_13",
+            "title": "Different works of Extension, Renovation and Modernization of (ERM), Sukla Irrigation Project under PMKSY-AIBP for the year 2021-22",
+            "description": "Different works of Extension, Renovation and Modernization of (ERM), Sukla Irrigation Project under PMKSY-AIBP for the year 2021-22",
+            "datePublished": "21-Nov-2022 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,05,13,416",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Dec-2022 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

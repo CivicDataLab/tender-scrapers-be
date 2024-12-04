@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_37074_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Apr-2024 02:30 PM",
+    "tenderValueAmount": "22,00,000",
+    "tender": [
+        {
+            "id": "2024_BoTC_37074_1",
+            "title": "Const of Market Shed at Sesapani Bazar under Debitola Dev. Block in Kokrajhar District under Market and Fairs Department in BTC for the year 2023-24.",
+            "description": "Const of Market Shed at Sesapani Bazar under Debitola Dev. Block in Kokrajhar District under Market and Fairs Department in BTC for the year 2023-24.",
+            "datePublished": "09-Mar-2024 02:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "22,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Apr-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

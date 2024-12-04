@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37487_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-May-2024 03:00 PM",
+    "tenderValueAmount": "23,71,855",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37487_1",
+            "title": "Construction of Brick Boundary wall surrounding of the Jail land at District Jail Nalbari Phase I",
+            "description": "Construction of Brick Boundary wall surrounding of the Jail land at District Jail Nalbari Phase I",
+            "datePublished": "19-Apr-2024 03:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "23,71,855",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-May-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

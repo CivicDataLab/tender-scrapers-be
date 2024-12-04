@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ICD_37781_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "30-Jul-2024 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_ICD_37781_1",
+            "title": "ANNUAL CONTRACT OF INSTALLATION OF ENERGY METERS AND PREPARATION AND SUBMISSION OF MONTHLY BILLS IN APL, TOWNSHIP",
+            "description": "ANNUAL CONTRACT OF INSTALLATION OF ENERGY METERS AND PREPARATION AND SUBMISSION OF MONTHLY BILLS IN APL, TOWNSHIP",
+            "datePublished": "28-Jun-2024 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jul-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

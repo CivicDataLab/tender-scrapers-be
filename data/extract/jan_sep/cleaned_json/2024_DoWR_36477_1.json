@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_36477_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Feb-2024 03:00 PM",
+    "tenderValueAmount": "9,99,62,801",
+    "tender": [
+        {
+            "id": "2024_DoWR_36477_1",
+            "title": "Extension of Gainadi L/B embankment from Sumonigaon to Amguri PWD Road (Ph-II) along with 4 shutter sluice, PACKAGE 1",
+            "description": "Extension of Gainadi L/B embankment from Sumonigaon to Amguri PWD Road (Ph-II) along with 4 shutter sluice, PACKAGE 1",
+            "datePublished": "21-Feb-2024 02:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "9,99,62,801",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

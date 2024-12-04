@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36206_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "21-Feb-2024 04:00 PM",
+    "tenderValueAmount": "32,00,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36206_1",
+            "title": "Construction of Betbari Shyam Village Road (L_400.00m) under SOPD_G (Border Development Activities in the Inter_State) for the year 2023_24 under Jorhat and Titabor Territorial Road Division in Titabor LAC",
+            "description": "Construction of Betbari Shyam Village Road (L_400.00m) under SOPD_G (Border Development Activities in the Inter_State) for the year 2023_24 under Jorhat and Titabor Territorial Road Division in Titabor LAC",
+            "datePublished": "15-Feb-2024 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "32,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Feb-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

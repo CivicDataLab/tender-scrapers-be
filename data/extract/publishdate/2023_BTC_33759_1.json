@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33759_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Nov-2023 12:00 PM",
+    "tenderValueAmount": "7,99,99,974",
+    "tender": [
+        {
+            "id": "2023_BTC_33759_1",
+            "title": "Construction of road from Belapur Village near Lakhi Mandir to Gosenpur via No.7, 14, 16 Bahipukhuri TE to Bahadur Adarsha Gaon under CMs Goodwill Mission Project for the financial year 2023-24 of Disitict Udalguri. (39 Pasnoi Serfang). (TN_26_147)",
+            "description": "Construction of road from Belapur Village near Lakhi Mandir to Gosenpur via No.7, 14, 16 Bahipukhuri TE to Bahadur Adarsha Gaon under CMs Goodwill Mission Project for the financial year 2023-24 of Disitict Udalguri. (39 Pasnoi Serfang). (TN_26_147)",
+            "datePublished": "09-Nov-2023 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "7,99,99,974",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

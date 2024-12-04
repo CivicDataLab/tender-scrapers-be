@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36326_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Mar-2024 02:30 PM",
+    "tenderValueAmount": "1,28,72,974",
+    "tender": [
+        {
+            "id": "2024_PWD_36326_1",
+            "title": "Construction of RCC Bridge No. 5 by 1 at Borjan on Duliajan-Digboi Road under deposit scheme under PWRD, Digboi and Margherita Territorial Road Division, Tinsukia",
+            "description": "Construction of RCC Bridge No. 5 by 1 at Borjan on Duliajan-Digboi Road under deposit scheme under PWRD, Digboi and Margherita Territorial Road Division, Tinsukia",
+            "datePublished": "17-Feb-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,28,72,974",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Mar-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

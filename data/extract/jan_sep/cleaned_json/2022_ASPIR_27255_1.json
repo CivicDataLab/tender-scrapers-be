@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_ASPIR_27255_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "14-Oct-2022 02:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2022_ASPIR_27255_1",
+            "title": "REQUEST FOR EXPRESSIONS OF INTEREST FOR ENGAGEMENT OF STATUTORY AUDITOR UNDER THE ASPIRE PROJECT, GOVERNMENT OF ASSAM",
+            "description": "REQUEST FOR EXPRESSIONS OF INTEREST FOR ENGAGEMENT OF STATUTORY AUDITOR UNDER THE ASPIRE PROJECT, GOVERNMENT OF ASSAM",
+            "datePublished": "01-Oct-2022 10:00 AM",
+            "contractType": "EOI",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "14-Oct-2022 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

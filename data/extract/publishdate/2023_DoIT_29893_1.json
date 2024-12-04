@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoIT_29893_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "27-Mar-2023 01:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_DoIT_29893_1",
+            "title": "Providing Managed Services at Data Center",
+            "description": "Providing Managed Services at Data Center",
+            "datePublished": "15-Mar-2023 05:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Mar-2023 01:30 PM"
+                }
+            ]
+        }
+    ]
+}

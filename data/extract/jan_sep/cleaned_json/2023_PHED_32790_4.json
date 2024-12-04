@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PHED_32790_4",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Nov-2023 03:00 PM",
+    "tenderValueAmount": "0.0",
+    "tender": [
+        {
+            "id": "2023_PHED_32790_4",
+            "title": "PKG 04 FIXATION OF RATES FOR ADDITIONAL ITEMS OF NEW PWSS UNDER TEZPUR CIRCLE TO BE EXECUTED UNDER JJM ASSAM",
+            "description": "PKG 04 FIXATION OF RATES FOR ADDITIONAL ITEMS OF NEW PWSS UNDER TEZPUR CIRCLE TO BE EXECUTED UNDER JJM ASSAM",
+            "datePublished": "06-Oct-2023 12:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "0.0",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

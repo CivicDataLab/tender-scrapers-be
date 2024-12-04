@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DAASC_34483_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "13-Dec-2023 02:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_DAASC_34483_1",
+            "title": "Supply Of Food Items And Catering service for The 8th Assam International Agri-Horti Show 2023",
+            "description": "Supply Of Food Items And Catering service for The 8th Assam International Agri-Horti Show 2023",
+            "datePublished": "06-Dec-2023 03:30 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Dec-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

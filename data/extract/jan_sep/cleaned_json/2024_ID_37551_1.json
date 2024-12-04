@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ID_37551_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Jun-2024 01:00 PM",
+    "tenderValueAmount": "29,37,879",
+    "tender": [
+        {
+            "id": "2024_ID_37551_1",
+            "title": "RENOVATION OF CANAL SYSTEM , MECHANICAL WORKS (BARGE SIZE 7.6M X 4.5M X 1.37M), (2 X 20 H.P) AND L.T ELECTRICAL WORK OF LIS FROM RIVER DESANG IN KHALOIGHUGURA AND BOKOTA MAUZA UNDER SOPD-G FOR THE YEAR 2023-24",
+            "description": "RENOVATION OF CANAL SYSTEM , MECHANICAL WORKS (BARGE SIZE 7.6M X 4.5M X 1.37M), (2 X 20 H.P) AND L.T ELECTRICAL WORK OF LIS FROM RIVER DESANG IN KHALOIGHUGURA AND BOKOTA MAUZA UNDER SOPD-G FOR THE YEAR 2023-24",
+            "datePublished": "12-Jun-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "29,37,879",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Jun-2024 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

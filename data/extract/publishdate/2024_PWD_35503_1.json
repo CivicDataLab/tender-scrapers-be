@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35503_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Jan-2024 01:00 PM",
+    "tenderValueAmount": "49,85,995",
+    "tender": [
+        {
+            "id": "2024_PWD_35503_1",
+            "title": "Road safety measures on roads under Charaideo District Territorial Road Division for the year 2023-2024 for Sonari and Mahmora LAC",
+            "description": "Road safety measures on roads under Charaideo District Territorial Road Division for the year 2023-2024 for Sonari and Mahmora LAC",
+            "datePublished": "18-Jan-2024 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "49,85,995",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jan-2024 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

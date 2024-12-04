@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ID_37743_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "09-Jul-2024 02:30 PM",
+    "tenderValueAmount": "37,96,500",
+    "tender": [
+        {
+            "id": "2024_ID_37743_1",
+            "title": "Renovation of Samaguri Beel LIS Phase_I under SOPD_G for the year 2023_24_Repairing of Trapezoidal Canal _Pkg 2",
+            "description": "Renovation of Samaguri Beel LIS Phase_I under SOPD_G for the year 2023_24_Repairing of Trapezoidal Canal _Pkg 2",
+            "datePublished": "26-Jun-2024 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "37,96,500",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Jul-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

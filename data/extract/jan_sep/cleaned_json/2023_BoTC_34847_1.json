@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_34847_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Jan-2024 01:30 PM",
+    "tenderValueAmount": "25,03,137",
+    "tender": [
+        {
+            "id": "2023_BoTC_34847_1",
+            "title": "Repairing of Doctor Quarter and Staff Quarter at Rowta Model Hospital in Udalguri District. 530-6",
+            "description": "Repairing of Doctor Quarter and Staff Quarter at Rowta Model Hospital in Udalguri District. 530-6",
+            "datePublished": "20-Dec-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "25,03,137",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Jan-2024 01:30 PM"
+                }
+            ]
+        }
+    ]
+}

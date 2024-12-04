@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_36442_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Mar-2024 02:00 PM",
+    "tenderValueAmount": "1,23,17,108",
+    "tender": [
+        {
+            "id": "2024_BTC_36442_1",
+            "title": "Construction, Vertical Extension of Academic Building RCC 2nd Floor at Science College, Kokrajhar in Kokrajhar District. TN No.80_01",
+            "description": "Construction, Vertical Extension of Academic Building RCC 2nd Floor at Science College, Kokrajhar in Kokrajhar District. TN No.80_01",
+            "datePublished": "20-Feb-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,23,17,108",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

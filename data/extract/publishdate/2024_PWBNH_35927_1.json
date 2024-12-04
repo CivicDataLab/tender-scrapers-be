@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35927_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Feb-2024 09:00 AM",
+    "tenderValueAmount": "79,17,680",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35927_1",
+            "title": "Restoration of Modern Hostel in Storm damage on 27th March,23 at AMCH Dibrugarh",
+            "description": "Restoration of Modern Hostel in Storm damage on 27th March,23 at AMCH Dibrugarh",
+            "datePublished": "05-Feb-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "79,17,680",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Feb-2024 09:00 AM"
+                }
+            ]
+        }
+    ]
+}

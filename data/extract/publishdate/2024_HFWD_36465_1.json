@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_HFWD_36465_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "14-Mar-2024 04:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_HFWD_36465_1",
+            "title": "supply of Surgical Items for the department of Clinical Hematology, GMCH",
+            "description": "supply of Surgical Items for the department of Clinical Hematology, GMCH",
+            "datePublished": "20-Feb-2024 05:30 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "14-Mar-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

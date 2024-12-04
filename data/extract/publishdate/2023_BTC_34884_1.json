@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_34884_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Jan-2024 02:00 PM",
+    "tenderValueAmount": "4,98,56,769",
+    "tender": [
+        {
+            "id": "2023_BTC_34884_1",
+            "title": "Construction of RCC Bridge No.3/1 over Sampur river on Dakhingaon PMGSY road at Narenguri to Jia Bazar via Sonapur village road in Chirang District under CMs Goodwill Project in BTC area for the year 2023-24.TN-26-117 R-1",
+            "description": "Construction of RCC Bridge No.3/1 over Sampur river on Dakhingaon PMGSY road at Narenguri to Jia Bazar via Sonapur village road in Chirang District under CMs Goodwill Project in BTC area for the year 2023-24.TN-26-117 R-1",
+            "datePublished": "21-Dec-2023 01:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,98,56,769",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35115_121",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:30 PM",
+    "tenderValueAmount": "2,48,88,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35115_121",
+            "title": "MMPPNA_23_24_148, Construction of Sukani Langkashi Road to Pup Kachamari (Remaining portion) Road, 2. Construction of Mahakali 328/338 Grant to Nala Kinar Gaon Road, 3. Construction of Sukani Langkashi Road to Poteswari LP. School (Remaining Portion",
+            "description": "MMPPNA_23_24_148, Construction of Sukani Langkashi Road to Pup Kachamari (Remaining portion) Road, 2. Construction of Mahakali 328/338 Grant to Nala Kinar Gaon Road, 3. Construction of Sukani Langkashi Road to Poteswari LP. School (Remaining Portion",
+            "datePublished": "03-Jan-2024 05:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,48,88,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

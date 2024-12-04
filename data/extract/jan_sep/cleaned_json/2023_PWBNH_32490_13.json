@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_32490_13",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Oct-2023 03:00 PM",
+    "tenderValueAmount": "9,85,12,001",
+    "tender": [
+        {
+            "id": "2023_PWBNH_32490_13",
+            "title": "Jagannath Community and Skill Centre at i) Golaghat TE ii) Naharjan TE iii) Bhogadabari TE iv) Doyang TE v) Sengajan TE vi) Chipahibari TE",
+            "description": "Jagannath Community and Skill Centre at i) Golaghat TE ii) Naharjan TE iii) Bhogadabari TE iv) Doyang TE v) Sengajan TE vi) Chipahibari TE",
+            "datePublished": "14-Sep-2023 01:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "9,85,12,001",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Oct-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

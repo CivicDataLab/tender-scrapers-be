@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_34585_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Dec-2023 01:30 PM",
+    "tenderValueAmount": "91,91,203",
+    "tender": [
+        {
+            "id": "2023_BoTC_34585_1",
+            "title": "Construction of New parking Shed at Administrative Building and Academic Building at Binneswar Brahma Engineering College Campus, Kokrajhar under SOPD-G during the year 2023-24. 528_1",
+            "description": "Construction of New parking Shed at Administrative Building and Academic Building at Binneswar Brahma Engineering College Campus, Kokrajhar under SOPD-G during the year 2023-24. 528_1",
+            "datePublished": "11-Dec-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "91,91,203",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Dec-2023 01:30 PM"
+                }
+            ]
+        }
+    ]
+}

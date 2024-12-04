@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_37226_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Mar-2024 02:00 PM",
+    "tenderValueAmount": "2,53,72,000",
+    "tender": [
+        {
+            "id": "2024_PWD_37226_1",
+            "title": "MMNPPNA_23_24_37 Construction of road from NH-37 (old AT road) to Doomdooma Police Station as Gaurab Path under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA) for the year 2023-24, Doom Dooma MB",
+            "description": "MMNPPNA_23_24_37 Construction of road from NH-37 (old AT road) to Doomdooma Police Station as Gaurab Path under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA) for the year 2023-24, Doom Dooma MB",
+            "datePublished": "13-Mar-2024 06:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,53,72,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

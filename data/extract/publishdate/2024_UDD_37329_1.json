@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_UDD_37329_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "16-Apr-2024 03:00 PM",
+    "tenderValueAmount": "1,35,00,000",
+    "tender": [
+        {
+            "id": "2024_UDD_37329_1",
+            "title": "Processing and Disposal of Legacy Municipal Solid Waste at Mangaldai Dump Site, through Bio Mining under 15th CFC (tied grant).",
+            "description": "Processing and Disposal of Legacy Municipal Solid Waste at Mangaldai Dump Site, through Bio Mining under 15th CFC (tied grant).",
+            "datePublished": "16-Mar-2024 09:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,35,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Apr-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

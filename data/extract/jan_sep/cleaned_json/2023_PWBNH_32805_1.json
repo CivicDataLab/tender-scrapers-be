@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_32805_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "09-Oct-2023 02:05 PM",
+    "tenderValueAmount": "80,72,197",
+    "tender": [
+        {
+            "id": "2023_PWBNH_32805_1",
+            "title": "Constn. of temporary Pandals at dist. headqtrs for ceremonies events on Orunodoi 2.0, Bicycle distribution and Assam Microfinance Incentive and Relief Scheme programme scheduled from 11th Oct,23 to 16th Oct,23 at Rampur H.S. School Field, Dist.Kamrup",
+            "description": "Constn. of temporary Pandals at dist. headqtrs for ceremonies events on Orunodoi 2.0, Bicycle distribution and Assam Microfinance Incentive and Relief Scheme programme scheduled from 11th Oct,23 to 16th Oct,23 at Rampur H.S. School Field, Dist.Kamrup",
+            "datePublished": "06-Oct-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "80,72,197",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Oct-2023 02:05 PM"
+                }
+            ]
+        }
+    ]
+}

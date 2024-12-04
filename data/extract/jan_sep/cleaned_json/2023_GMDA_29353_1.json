@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_GMDA_29353_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "24-Feb-2023 03:00 PM",
+    "tenderValueAmount": "1,30,31,000",
+    "tender": [
+        {
+            "id": "2023_GMDA_29353_1",
+            "title": "Construction of Pump House at Silsako Beel and increasing the discharge capacity of Bahini flow from Pibco point to Silsako Beel Package-2 on EPC basis",
+            "description": "Construction of Pump House at Silsako Beel and increasing the discharge capacity of Bahini flow from Pibco point to Silsako Beel Package-2 on EPC basis",
+            "datePublished": "16-Feb-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,30,31,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "24-Feb-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

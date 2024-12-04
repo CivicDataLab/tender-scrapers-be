@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PCCF_37539_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Jul-2024 11:00 AM",
+    "tenderValueAmount": "2,90,50,000",
+    "tender": [
+        {
+            "id": "2024_PCCF_37539_1",
+            "title": "Creation of Nursery",
+            "description": "Creation of Nursery",
+            "datePublished": "10-Jun-2024 05:20 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,90,50,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Jul-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

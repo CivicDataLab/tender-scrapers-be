@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PHED_29850_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "04-Apr-2023 03:00 PM",
+    "tenderValueAmount": "0.0",
+    "tender": [
+        {
+            "id": "2023_PHED_29850_1",
+            "title": "Empanelment of DPR Consultants through Limited Bidding among JJM DPR consultants for Town Water Supply Schemes to be implemented under State Plan Assam",
+            "description": "Empanelment of DPR Consultants through Limited Bidding among JJM DPR consultants for Town Water Supply Schemes to be implemented under State Plan Assam",
+            "datePublished": "14-Mar-2023 10:00 AM",
+            "contractType": "EOI",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "0.0",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Apr-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

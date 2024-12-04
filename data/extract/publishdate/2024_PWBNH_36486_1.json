@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36486_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Mar-2024 01:00 PM",
+    "tenderValueAmount": "27,72,447",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36486_1",
+            "title": "Strengthening and Renovation of outside work of quarter No.M-17 at New Minister Colony, Dispur, Ghy-6, (Providing grass carpet, brick wall ,iron jali over the drain, flower plant and flower vase, new approach with marble,earth filling , etc.",
+            "description": "Strengthening and Renovation of outside work of quarter No.M-17 at New Minister Colony, Dispur, Ghy-6, (Providing grass carpet, brick wall ,iron jali over the drain, flower plant and flower vase, new approach with marble,earth filling , etc.",
+            "datePublished": "07-Mar-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "27,72,447",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Mar-2024 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

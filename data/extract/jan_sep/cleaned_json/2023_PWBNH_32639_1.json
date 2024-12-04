@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_32639_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "16-Oct-2023 03:30 PM",
+    "tenderValueAmount": "42,75,590",
+    "tender": [
+        {
+            "id": "2023_PWBNH_32639_1",
+            "title": "Repairing,Renovation and Upgradation works of Block No.B2 including providing modular kichen,changing of all bathroom fittings changing of all floor and wall tiles changing of all doors and windows,providing celling and providing antitermite treatmen",
+            "description": "Repairing,Renovation and Upgradation works of Block No.B2 including providing modular kichen,changing of all bathroom fittings changing of all floor and wall tiles changing of all doors and windows,providing celling and providing antitermite treatmen",
+            "datePublished": "26-Sep-2023 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "42,75,590",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Oct-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}
