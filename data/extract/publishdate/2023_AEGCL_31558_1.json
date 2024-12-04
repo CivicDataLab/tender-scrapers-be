@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_AEGCL_31558_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "26-Jul-2023 12:00 PM",
+    "tenderValueAmount": "36,52,100",
+    "tender": [
+        {
+            "id": "2023_AEGCL_31558_1",
+            "title": "SUPPLY OF AUTOMATIC 12KV CAPACITANCE AND DISSIPATION FACTOR TEST SET FOR TnC DIVISION, SILCHAR, AEGCL",
+            "description": "SUPPLY OF AUTOMATIC 12KV CAPACITANCE AND DISSIPATION FACTOR TEST SET FOR TnC DIVISION, SILCHAR, AEGCL",
+            "datePublished": "07-Jul-2023 05:00 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "36,52,100",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Jul-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

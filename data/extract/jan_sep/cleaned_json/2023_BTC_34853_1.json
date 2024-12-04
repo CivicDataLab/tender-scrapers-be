@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_34853_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Jan-2024 02:00 PM",
+    "tenderValueAmount": "1,95,61,233",
+    "tender": [
+        {
+            "id": "2023_BTC_34853_1",
+            "title": "Construction of New Annex Building to Dr. Ravi Boro Civil Hospital 3-storey RCC Building at Mushalpur in Baksa, BTAD, Assam under POWERGRID CSR initiative Scheme 2021-22. TN-47-1",
+            "description": "Construction of New Annex Building to Dr. Ravi Boro Civil Hospital 3-storey RCC Building at Mushalpur in Baksa, BTAD, Assam under POWERGRID CSR initiative Scheme 2021-22. TN-47-1",
+            "datePublished": "20-Dec-2023 01:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,95,61,233",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

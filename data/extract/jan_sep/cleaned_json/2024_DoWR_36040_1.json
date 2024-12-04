@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_36040_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Feb-2024 03:00 PM",
+    "tenderValueAmount": "14,58,91,804",
+    "tender": [
+        {
+            "id": "2024_DoWR_36040_1",
+            "title": "Construction of retirement of B/Dyke from Bahari to Baghbar (Breach closing) along with protection works at Dokreswar area (From ch.45046m to ch.45826m).",
+            "description": "Construction of retirement of B/Dyke from Bahari to Baghbar (Breach closing) along with protection works at Dokreswar area (From ch.45046m to ch.45826m).",
+            "datePublished": "07-Feb-2024 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "14,58,91,804",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

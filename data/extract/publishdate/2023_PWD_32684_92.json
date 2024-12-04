@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_92",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "3,50,00,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_92",
+            "title": "MMNPPNA_23_24_36 Reconstruction N Widening of Old NH-36 from Doboka Bypass to 4-lane via Doboka town ( Ch 0.00m to Ch. 850.00m) as Gaurab Path under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA) for the year 2023-24, Doboka MB",
+            "description": "MMNPPNA_23_24_36 Reconstruction N Widening of Old NH-36 from Doboka Bypass to 4-lane via Doboka town ( Ch 0.00m to Ch. 850.00m) as Gaurab Path under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA) for the year 2023-24, Doboka MB",
+            "datePublished": "04-Oct-2023 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,50,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

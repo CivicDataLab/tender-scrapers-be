@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_38482_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Aug-2024 01:30 PM",
+    "tenderValueAmount": "72,54,540",
+    "tender": [
+        {
+            "id": "2024_BoTC_38482_1",
+            "title": "Construction of Vehicle Parking, Basketball court and Classroom extension for Bijni College at Bijni, Dist Chirang, Assam. Pkg No.537-2",
+            "description": "Construction of Vehicle Parking, Basketball court and Classroom extension for Bijni College at Bijni, Dist Chirang, Assam. Pkg No.537-2",
+            "datePublished": "13-Aug-2024 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "72,54,540",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Aug-2024 01:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_MDRDE_29981_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "02-May-2023 02:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_MDRDE_29981_1",
+            "title": "Selection of Agency for Proof Checking and Construction Management Consultancy for District Hospitals in Assam",
+            "description": "Selection of Agency for Proof Checking and Construction Management Consultancy for District Hospitals in Assam",
+            "datePublished": "21-Mar-2023 12:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-May-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32885_28",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,57,13,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32885_28",
+            "title": "MMNPPNA_23_24_200 (i) Construction of road at Kukurmari Village Road, Ward no. 3, (ii) Construction of road at Dhaligaon Thana Road, Ward no. 3 , (iii) Construction of road at Gwjwnpuri Road No. 2 N 3, Ward no. 3 , (iv)Construction of road at Kharija",
+            "description": "MMNPPNA_23_24_200 (i) Construction of road at Kukurmari Village Road, Ward no. 3, (ii) Construction of road at Dhaligaon Thana Road, Ward no. 3 , (iii) Construction of road at Gwjwnpuri Road No. 2 N 3, Ward no. 3 , (iv)Construction of road at Kharija",
+            "datePublished": "11-Oct-2023 12:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,57,13,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

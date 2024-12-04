@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33338_28",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "20-Nov-2023 02:30 PM",
+    "tenderValueAmount": "1,94,44,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33338_28",
+            "title": "MMNPPNA/GMC/46/99",
+            "description": "MMNPPNA/GMC/46/99",
+            "datePublished": "31-Oct-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,94,44,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Nov-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35421_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 12:30 PM",
+    "tenderValueAmount": "39,94,479",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35421_1",
+            "title": "Repairing/Renovation of (05) Nos Grade -IV Quarters at Regional College of Nursing N.K. Hill Top, Guwahati-32",
+            "description": "Repairing/Renovation of (05) Nos Grade -IV Quarters at Regional College of Nursing N.K. Hill Top, Guwahati-32",
+            "datePublished": "12-Jan-2024 09:00 AM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "39,94,479",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 12:30 PM"
+                }
+            ]
+        }
+    ]
+}

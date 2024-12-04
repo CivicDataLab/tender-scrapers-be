@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36745_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Mar-2024 02:30 PM",
+    "tenderValueAmount": "83,27,586",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36745_2",
+            "title": "Repairing, renovation and painting work of Judicial Court building at Mushalpur, Baksa district",
+            "description": "Repairing, renovation and painting work of Judicial Court building at Mushalpur, Baksa district",
+            "datePublished": "29-Feb-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "83,27,586",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Mar-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

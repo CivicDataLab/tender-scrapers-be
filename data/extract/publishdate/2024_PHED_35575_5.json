@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PHED_35575_5",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Feb-2024 03:00 PM",
+    "tenderValueAmount": "0.0",
+    "tender": [
+        {
+            "id": "2024_PHED_35575_5",
+            "title": "PKG 05 FIXATION OF RATES FOR ADDITIONAL ITEMS OF NEW PWSS UNDER NORTH LAKHIMPUR CIRCLE TO BE EXECUTED UNDER JJM ASSAM",
+            "description": "PKG 05 FIXATION OF RATES FOR ADDITIONAL ITEMS OF NEW PWSS UNDER NORTH LAKHIMPUR CIRCLE TO BE EXECUTED UNDER JJM ASSAM",
+            "datePublished": "20-Jan-2024 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "0.0",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

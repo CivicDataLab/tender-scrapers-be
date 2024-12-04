@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36772_6",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Mar-2024 02:00 PM",
+    "tenderValueAmount": "3,90,33,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36772_6",
+            "title": "SOPD_ODS_23_24_98 (i) Construction of road from Amguri TE Club to Model High School from Ch. 0.00 m to Ch. 570.00 m, (L 0.570 Km), (ii) Construction of (1) Modi Nagar TE Line No. 1 from Ch. 0.00 m to Ch.475.00 m (L0.475 KM) (2) Modi Nagar TE Line",
+            "description": "SOPD_ODS_23_24_98 (i) Construction of road from Amguri TE Club to Model High School from Ch. 0.00 m to Ch. 570.00 m, (L 0.570 Km), (ii) Construction of (1) Modi Nagar TE Line No. 1 from Ch. 0.00 m to Ch.475.00 m (L0.475 KM) (2) Modi Nagar TE Line",
+            "datePublished": "29-Feb-2024 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,90,33,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

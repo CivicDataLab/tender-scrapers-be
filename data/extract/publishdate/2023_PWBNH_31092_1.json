@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_31092_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "16-Jun-2023 04:30 PM",
+    "tenderValueAmount": "96,18,836",
+    "tender": [
+        {
+            "id": "2023_PWBNH_31092_1",
+            "title": "Construction of Temporary Pandals, Barricades, Sheds, Temporary Offices and Camps etc. at location in connection with the Ambubachi Mela, 2023 at Guwahati (Civil Works) (Kamakhya Railway Station, Maligaon, Pandu Port and Naharbari Field Group-I",
+            "description": "Construction of Temporary Pandals, Barricades, Sheds, Temporary Offices and Camps etc. at location in connection with the Ambubachi Mela, 2023 at Guwahati (Civil Works) (Kamakhya Railway Station, Maligaon, Pandu Port and Naharbari Field Group-I",
+            "datePublished": "03-Jun-2023 06:30 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "96,18,836",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Jun-2023 04:30 PM"
+                }
+            ]
+        }
+    ]
+}

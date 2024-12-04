@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33170_5",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Nov-2023 02:00 PM",
+    "tenderValueAmount": "6,87,08,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33170_5",
+            "title": "MMUPPNA_RIDF_XXIX_23_24_14 Improvement of road from Bhawanipur to Chaparbari High School via Madhapur road under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD for the year 2023-24",
+            "description": "MMUPPNA_RIDF_XXIX_23_24_14 Improvement of road from Bhawanipur to Chaparbari High School via Madhapur road under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD for the year 2023-24",
+            "datePublished": "19-Oct-2023 03:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "6,87,08,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

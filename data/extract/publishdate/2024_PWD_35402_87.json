@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_87",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "5,18,20,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_87",
+            "title": "MMPPNA_23_24_218, Construction of Road from 20th Km of Kachugaon Sonkosh Road at Bollamjhora SSB Bazar to Balagaon via Jirampur (From Ch. 0.00m to Ch. 5960.00m) under Mukhya Mantrir Pakipath Nirman Achani for the year 2023-24",
+            "description": "MMPPNA_23_24_218, Construction of Road from 20th Km of Kachugaon Sonkosh Road at Bollamjhora SSB Bazar to Balagaon via Jirampur (From Ch. 0.00m to Ch. 5960.00m) under Mukhya Mantrir Pakipath Nirman Achani for the year 2023-24",
+            "datePublished": "17-Jan-2024 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "5,18,20,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

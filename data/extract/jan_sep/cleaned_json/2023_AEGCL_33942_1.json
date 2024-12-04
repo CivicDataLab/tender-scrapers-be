@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_AEGCL_33942_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "21-Dec-2023 02:00 PM",
+    "tenderValueAmount": "1,90,43,770",
+    "tender": [
+        {
+            "id": "2023_AEGCL_33942_1",
+            "title": "Turnkey construction of 33kV Feeder Bay along with associated works at 132kV Narengi GSS for power supply to OIL",
+            "description": "Turnkey construction of 33kV Feeder Bay along with associated works at 132kV Narengi GSS for power supply to OIL",
+            "datePublished": "14-Nov-2023 05:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,90,43,770",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

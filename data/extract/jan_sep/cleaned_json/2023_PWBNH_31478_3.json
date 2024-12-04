@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_31478_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Jul-2023 03:00 PM",
+    "tenderValueAmount": "1,40,73,143",
+    "tender": [
+        {
+            "id": "2023_PWBNH_31478_3",
+            "title": "(Pkg No. 3) Jagannath Community and Skill Centre at Tangni TE under Mangaldai LAC",
+            "description": "(Pkg No. 3) Jagannath Community and Skill Centre at Tangni TE under Mangaldai LAC",
+            "datePublished": "04-Jul-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,40,73,143",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Jul-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_36246_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Mar-2024 11:00 AM",
+    "tenderValueAmount": "47,48,133",
+    "tender": [
+        {
+            "id": "2024_BTC_36246_1",
+            "title": "Providing and Installation of C.C.T.V. Camera in the BTCLA Building, 4 Four Nos. of Parking, Waiting Shed and Gate No.1 and 2 at the BTC Secretariat Complex, Bodofa Nwgwr, Kokrajhar, BTR. TN No.74_04",
+            "description": "Providing and Installation of C.C.T.V. Camera in the BTCLA Building, 4 Four Nos. of Parking, Waiting Shed and Gate No.1 and 2 at the BTC Secretariat Complex, Bodofa Nwgwr, Kokrajhar, BTR. TN No.74_04",
+            "datePublished": "14-Feb-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "47,48,133",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Mar-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

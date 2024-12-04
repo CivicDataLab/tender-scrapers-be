@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33785_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "18-Nov-2023 03:00 PM",
+    "tenderValueAmount": "89,09,565",
+    "tender": [
+        {
+            "id": "2023_PWD_33785_1",
+            "title": "Improvement of Lakhipur-Fulertol-Hmarkuliene Road under SOPD-G for the year 2023-24 for Puja Special in Cachar District (Lakhipur LAC)",
+            "description": "Improvement of Lakhipur-Fulertol-Hmarkuliene Road under SOPD-G for the year 2023-24 for Puja Special in Cachar District (Lakhipur LAC)",
+            "datePublished": "09-Nov-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "89,09,565",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "18-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

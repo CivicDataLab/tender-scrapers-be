@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ICD_36281_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "27-Feb-2024 11:00 AM",
+    "tenderValueAmount": "21,29,676",
+    "tender": [
+        {
+            "id": "2024_ICD_36281_1",
+            "title": "Raw Methanol Pump Spares",
+            "description": "Raw Methanol Pump Spares",
+            "datePublished": "15-Feb-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Single",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "21,29,676",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Feb-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

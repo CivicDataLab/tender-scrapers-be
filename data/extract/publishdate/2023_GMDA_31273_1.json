@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_GMDA_31273_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Jul-2023 03:00 PM",
+    "tenderValueAmount": "36,33,036",
+    "tender": [
+        {
+            "id": "2023_GMDA_31273_1",
+            "title": "Thematic Painting on Walls from Sixmile to Khanapara",
+            "description": "Thematic Painting on Walls from Sixmile to Khanapara",
+            "datePublished": "19-Jun-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "36,33,036",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Jul-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

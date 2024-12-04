@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ID_38092_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Aug-2024 03:00 PM",
+    "tenderValueAmount": "24,50,000",
+    "tender": [
+        {
+            "id": "2024_ID_38092_1",
+            "title": "MODERNISATION OF BEHALI FIS UNDER SOPD(G) FOR THE YEAR 2023-24",
+            "description": "MODERNISATION OF BEHALI FIS UNDER SOPD(G) FOR THE YEAR 2023-24",
+            "datePublished": "19-Jul-2024 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,50,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Aug-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

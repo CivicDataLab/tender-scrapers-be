@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35381_12",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Jan-2024 02:00 PM",
+    "tenderValueAmount": "3,77,93,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35381_12",
+            "title": "SOPD_G_23_24_44 (i) Construction of Dahotia to Tekela Gaon Connecting road from Ch.0.00 KM to Ch.0.95 KM, (ii) Construction of Tingimora Kumar Gaon to Sugar Mill connecting road from Ch.0.10 KM to Ch.0.60 KM, (iii) Construction of Road Tekela Gaon",
+            "description": "SOPD_G_23_24_44 (i) Construction of Dahotia to Tekela Gaon Connecting road from Ch.0.00 KM to Ch.0.95 KM, (ii) Construction of Tingimora Kumar Gaon to Sugar Mill connecting road from Ch.0.10 KM to Ch.0.60 KM, (iii) Construction of Road Tekela Gaon",
+            "datePublished": "11-Jan-2024 05:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,77,93,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

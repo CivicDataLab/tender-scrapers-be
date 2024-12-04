@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PCCF_34752_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "09-Jan-2024 03:30 PM",
+    "tenderValueAmount": "20,76,250",
+    "tender": [
+        {
+            "id": "2023_PCCF_34752_1",
+            "title": "Construction and repairing of fencing for 5 Ha. Central Nursery",
+            "description": "Construction and repairing of fencing for 5 Ha. Central Nursery",
+            "datePublished": "18-Dec-2023 02:30 PM",
+            "contractType": "Percentage",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "20,76,250",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Jan-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_32822_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "09-Oct-2023 04:00 PM",
+    "tenderValueAmount": "30,27,661",
+    "tender": [
+        {
+            "id": "2023_PWBNH_32822_1",
+            "title": "Arrangement of Temporary Pandal, Dais, Barricading, Branding, Temporary VVIP VIP Toilets etc. in connection with the ceremonial distribution of benefits under Orunodoi 2.0,Micro Finance and Bicycle from 11th October to 15th October,2023 in Majuli",
+            "description": "Arrangement of Temporary Pandal, Dais, Barricading, Branding, Temporary VVIP VIP Toilets etc. in connection with the ceremonial distribution of benefits under Orunodoi 2.0,Micro Finance and Bicycle from 11th October to 15th October,2023 in Majuli",
+            "datePublished": "07-Oct-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "30,27,661",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Oct-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

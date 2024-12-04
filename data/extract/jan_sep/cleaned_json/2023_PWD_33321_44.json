@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33321_44",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Nov-2023 11:00 AM",
+    "tenderValueAmount": "90,71,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33321_44",
+            "title": "Package No. Morigaon/MMPNA/BUG/1 Repair/ Rehabilitation of Bridge proper, Approach Road_Protection work (1) Br. No. 18/1 on Boghara Domal Ahatguri Road, (2) Br. No. 19/1 on Boghara Domal Ahatguri Road, (3) Br. No. 2/1 on Nandini Koroimari Road",
+            "description": "Package No. Morigaon/MMPNA/BUG/1 Repair/ Rehabilitation of Bridge proper, Approach Road_Protection work (1) Br. No. 18/1 on Boghara Domal Ahatguri Road, (2) Br. No. 19/1 on Boghara Domal Ahatguri Road, (3) Br. No. 2/1 on Nandini Koroimari Road",
+            "datePublished": "28-Oct-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "90,71,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

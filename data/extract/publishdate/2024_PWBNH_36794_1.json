@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36794_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "09-Mar-2024 02:30 PM",
+    "tenderValueAmount": "31,24,379",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36794_1",
+            "title": "Renovation and Vertical extension of existing RCC two storied building at Office campus of the Deputy Commissioner Charaideo to provide2(two) nos of Court Ejlash for District Court Charaideo Sonari",
+            "description": "Renovation and Vertical extension of existing RCC two storied building at Office campus of the Deputy Commissioner Charaideo to provide2(two) nos of Court Ejlash for District Court Charaideo Sonari",
+            "datePublished": "01-Mar-2024 05:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "31,24,379",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Mar-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

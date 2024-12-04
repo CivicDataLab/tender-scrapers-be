@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_HFWD_31234_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "14-Jul-2023 04:30 PM",
+    "tenderValueAmount": "1,47,00,000",
+    "tender": [
+        {
+            "id": "2023_HFWD_31234_1",
+            "title": "SUPPLY OF PORTABLE EEG AND NERVE STIMULATOR",
+            "description": "SUPPLY OF PORTABLE EEG AND NERVE STIMULATOR",
+            "datePublished": "15-Jun-2023 05:00 PM",
+            "contractType": "Buy",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "1,47,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "14-Jul-2023 04:30 PM"
+                }
+            ]
+        }
+    ]
+}

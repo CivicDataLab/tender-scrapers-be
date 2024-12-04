@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36041_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "15-Feb-2024 02:00 PM",
+    "tenderValueAmount": "1,99,85,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36041_1",
+            "title": "MMPPNA_23_24_196 Improvement of (i) DK Collegiate High School to Katharbari to Naba-Katharbari RCC Bridge, (ii) Ghahigaon Sankardev Path to Kochukoibarta Dhakuakhana HS School Road, (iii) Kochukoibarta PWD to Gohainbari Near Gohainbari Namghar",
+            "description": "MMPPNA_23_24_196 Improvement of (i) DK Collegiate High School to Katharbari to Naba-Katharbari RCC Bridge, (ii) Ghahigaon Sankardev Path to Kochukoibarta Dhakuakhana HS School Road, (iii) Kochukoibarta PWD to Gohainbari Near Gohainbari Namghar",
+            "datePublished": "07-Feb-2024 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,99,85,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

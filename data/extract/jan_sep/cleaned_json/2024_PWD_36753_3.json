@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36753_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Mar-2024 02:00 PM",
+    "tenderValueAmount": "4,33,95,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36753_3",
+            "title": "MMPPNA_23_24_124 1.Construction of SDBC road from Padmapur Bazar to Ujangaon via Pachim Enkorbari village, 2.Construction of ICBP road from No. 1 Hulmagaon to Koilagaon (Silghagri) village road under Mukhya Mantrir Pakipath Nirman Achani for the",
+            "description": "MMPPNA_23_24_124 1.Construction of SDBC road from Padmapur Bazar to Ujangaon via Pachim Enkorbari village, 2.Construction of ICBP road from No. 1 Hulmagaon to Koilagaon (Silghagri) village road under Mukhya Mantrir Pakipath Nirman Achani for the",
+            "datePublished": "29-Feb-2024 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,33,95,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

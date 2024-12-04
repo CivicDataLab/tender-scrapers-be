@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34442_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Dec-2023 01:00 PM",
+    "tenderValueAmount": "47,99,805",
+    "tender": [
+        {
+            "id": "2023_PWD_34442_1",
+            "title": "Road Safety Measures on various roads under Teok LAC which meets NH-37 for the year 2023-24 under Teok and Mariani Territorial Road Division, Teok under 966-Road Safety Works",
+            "description": "Road Safety Measures on various roads under Teok LAC which meets NH-37 for the year 2023-24 under Teok and Mariani Territorial Road Division, Teok under 966-Road Safety Works",
+            "datePublished": "06-Dec-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "47,99,805",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Dec-2023 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_NHM_32427_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Sep-2023 03:30 PM",
+    "tenderValueAmount": "8,19,38,793",
+    "tender": [
+        {
+            "id": "2023_NHM_32427_1",
+            "title": "Construction of District Drug Warehouse at Sonari in Charaideo District under NHM Assam",
+            "description": "Construction of District Drug Warehouse at Sonari in Charaideo District under NHM Assam",
+            "datePublished": "09-Sep-2023 09:00 AM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "8,19,38,793",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Sep-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

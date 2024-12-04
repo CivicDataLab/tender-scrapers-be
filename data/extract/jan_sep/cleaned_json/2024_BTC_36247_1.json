@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_36247_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Mar-2024 11:00 AM",
+    "tenderValueAmount": "40,37,932",
+    "tender": [
+        {
+            "id": "2024_BTC_36247_1",
+            "title": "Model Estimate of size 16ft by 10ft. with MS Single frame and post including Flex printing under Land Revenue and D.M. Department BTC Kokrajhar for wide Publicity of Mission Bwiswmuthi-1.0. TN No.74_05",
+            "description": "Model Estimate of size 16ft by 10ft. with MS Single frame and post including Flex printing under Land Revenue and D.M. Department BTC Kokrajhar for wide Publicity of Mission Bwiswmuthi-1.0. TN No.74_05",
+            "datePublished": "14-Feb-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "40,37,932",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Mar-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

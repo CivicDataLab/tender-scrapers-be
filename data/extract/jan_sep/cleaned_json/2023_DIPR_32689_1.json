@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DIPR_32689_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "12-Oct-2023 01:00 PM",
+    "tenderValueAmount": "5,00,00,000",
+    "tender": [
+        {
+            "id": "2023_DIPR_32689_1",
+            "title": "SELECTION OF ADVERTISING AGENCIES TO HIGHLIGHT THE PLANS, POLICIES, ACHIEVEMENTS and ACTIVITIES OF ASSAM GOVERNMENT THROUGH PERMANENT STRUCTURE HOARDINGS / UNIPOLES",
+            "description": "SELECTION OF ADVERTISING AGENCIES TO HIGHLIGHT THE PLANS, POLICIES, ACHIEVEMENTS and ACTIVITIES OF ASSAM GOVERNMENT THROUGH PERMANENT STRUCTURE HOARDINGS / UNIPOLES",
+            "datePublished": "27-Sep-2023 05:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "5,00,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Oct-2023 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

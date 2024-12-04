@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_36132_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "16-Feb-2024 03:00 PM",
+    "tenderValueAmount": "5,31,40,127",
+    "tender": [
+        {
+            "id": "2024_DoWR_36132_1",
+            "title": "Anti-Erosion measures to protect B/Dyke from Desangmukh to Dikhowmukh at Desangmukh Ferryghat area from the river Brahmaputra.",
+            "description": "Anti-Erosion measures to protect B/Dyke from Desangmukh to Dikhowmukh at Desangmukh Ferryghat area from the river Brahmaputra.",
+            "datePublished": "09-Feb-2024 06:35 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "5,31,40,127",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

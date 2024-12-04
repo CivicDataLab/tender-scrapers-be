@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33890_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Dec-2023 02:00 PM",
+    "tenderValueAmount": "2,21,16,984",
+    "tender": [
+        {
+            "id": "2023_BTC_33890_1",
+            "title": "Construction of ICBP road from Ballamguri Bazar PWD road to Uttar Ballamguri via Batabari LP School to Kumarsali Bazar road in Chirang District, BTC, Assam for the year 2023-24. TN-26-94",
+            "description": "Construction of ICBP road from Ballamguri Bazar PWD road to Uttar Ballamguri via Batabari LP School to Kumarsali Bazar road in Chirang District, BTC, Assam for the year 2023-24. TN-26-94",
+            "datePublished": "11-Nov-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,21,16,984",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

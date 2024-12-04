@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_HFWD_36995_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "28-Mar-2024 04:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_HFWD_36995_1",
+            "title": "supply of Interventional Radiological Items (Diagnostic DSA and Peripheral DSA) under HMS, GMCH, Guwahati",
+            "description": "supply of Interventional Radiological Items (Diagnostic DSA and Peripheral DSA) under HMS, GMCH, Guwahati",
+            "datePublished": "07-Mar-2024 04:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Mar-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

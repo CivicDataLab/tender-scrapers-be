@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35744_66",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 02:00 PM",
+    "tenderValueAmount": "1,04,75,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35744_66",
+            "title": "SOPD_ODS_23_24_64 Construction of 1. Bokul TE Staff Line no. 4 road, 2. Bokul TE Staff Line no. 8 road, 3. Bokul TE Staff Line to Manthan School road (Total Length 1335.00m) under SOPD-ODS (Tea Garden Road) for the year 2023-24",
+            "description": "SOPD_ODS_23_24_64 Construction of 1. Bokul TE Staff Line no. 4 road, 2. Bokul TE Staff Line no. 8 road, 3. Bokul TE Staff Line to Manthan School road (Total Length 1335.00m) under SOPD-ODS (Tea Garden Road) for the year 2023-24",
+            "datePublished": "05-Feb-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,04,75,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

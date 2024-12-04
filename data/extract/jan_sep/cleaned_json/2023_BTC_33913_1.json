@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33913_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Dec-2023 02:00 PM",
+    "tenderValueAmount": "2,86,05,913",
+    "tender": [
+        {
+            "id": "2023_BTC_33913_1",
+            "title": "Construction of road from No.2 Soto-Lawgaon Pancha Basumatary to Bhatipara village in Chirang District, BTC, Assam for the year 2023-24.TN-26-116",
+            "description": "Construction of road from No.2 Soto-Lawgaon Pancha Basumatary to Bhatipara village in Chirang District, BTC, Assam for the year 2023-24.TN-26-116",
+            "datePublished": "13-Nov-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,86,05,913",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

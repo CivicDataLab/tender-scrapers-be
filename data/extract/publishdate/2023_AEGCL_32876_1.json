@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_AEGCL_32876_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Nov-2023 02:00 PM",
+    "tenderValueAmount": "32,45,782",
+    "tender": [
+        {
+            "id": "2023_AEGCL_32876_1",
+            "title": "Repairing, maintenance and construction of Type-III quarter at 132KV GSS, AEGCL, Dibrugarh colony used as office building of DGM, T and T Circle, AEGCL, Dibrugarh and construction of security booth at 132KV Behiating GSS",
+            "description": "Repairing, maintenance and construction of Type-III quarter at 132KV GSS, AEGCL, Dibrugarh colony used as office building of DGM, T and T Circle, AEGCL, Dibrugarh and construction of security booth at 132KV Behiating GSS",
+            "datePublished": "09-Oct-2023 12:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "32,45,782",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

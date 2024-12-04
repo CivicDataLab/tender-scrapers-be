@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ID_32902_4",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "31-Oct-2023 03:00 PM",
+    "tenderValueAmount": "1,10,75,467",
+    "tender": [
+        {
+            "id": "2023_ID_32902_4",
+            "title": "CONSTRUCTION OF SOLAR POWERED MEDIUM DEEP TUBE WELL SCHEME 3_THREE_ POINTS AT 27 BILASIPARA EAST LAC UNDER RIDF_XXIX _NABARD_ FOR THE YEAR 2023_24 UNDER ABHAYAPURI SOUTH-BILASIPARA EAST DIVISION I_ ABHAYAPURI Package No 4",
+            "description": "CONSTRUCTION OF SOLAR POWERED MEDIUM DEEP TUBE WELL SCHEME 3_THREE_ POINTS AT 27 BILASIPARA EAST LAC UNDER RIDF_XXIX _NABARD_ FOR THE YEAR 2023_24 UNDER ABHAYAPURI SOUTH-BILASIPARA EAST DIVISION I_ ABHAYAPURI Package No 4",
+            "datePublished": "10-Oct-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,10,75,467",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "31-Oct-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

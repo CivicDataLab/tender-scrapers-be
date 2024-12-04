@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34206_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Dec-2023 02:00 PM",
+    "tenderValueAmount": "23,81,016",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34206_1",
+            "title": "Construction of additional classroom and major repairing of Lakheswar Brahma Memorial ME and High School at Mazbat under the Tribal Affairs for the year 2022-23",
+            "description": "Construction of additional classroom and major repairing of Lakheswar Brahma Memorial ME and High School at Mazbat under the Tribal Affairs for the year 2022-23",
+            "datePublished": "24-Nov-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "23,81,016",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

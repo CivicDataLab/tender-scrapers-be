@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DHTSE_31728_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "29-Jul-2023 11:00 AM",
+    "tenderValueAmount": "29,00,000",
+    "tender": [
+        {
+            "id": "2023_DHTSE_31728_1",
+            "title": "Supply and Installation of (i) Wooden Improved Fly Shuttle Frame Loom with 120 Hooks Ball Bearing Jacquard Machine with accessories and (ii) 120 hooks Ball Bearing Jacquard Machine with accessories",
+            "description": "Supply and Installation of (i) Wooden Improved Fly Shuttle Frame Loom with 120 Hooks Ball Bearing Jacquard Machine with accessories and (ii) 120 hooks Ball Bearing Jacquard Machine with accessories",
+            "datePublished": "19-Jul-2023 03:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "29,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jul-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_30",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "4,07,71,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_30",
+            "title": "MMNPPNA_23_24_105 Improvement of road from Devdooth Point (Metro Bazar) to RRNMU Building point via Circuit House Police Parade Ground with both side RCC covered drain as Gaurab Path under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA)",
+            "description": "MMNPPNA_23_24_105 Improvement of road from Devdooth Point (Metro Bazar) to RRNMU Building point via Circuit House Police Parade Ground with both side RCC covered drain as Gaurab Path under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA)",
+            "datePublished": "30-Sep-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,07,71,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

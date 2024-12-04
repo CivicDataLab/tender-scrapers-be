@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33797_283",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Dec-2023 03:00 PM",
+    "tenderValueAmount": "1,29,37,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33797_283",
+            "title": "MMPNA/2023-24/183_Periodic Renewal of road from Dimow Raidingia road (Ng-M-2) from Ch 3.70km to Ch 4.70km and 5.20km to 9.50km under MUKHYA MANTRI PATH NABIKARAN AACHANI for the year 2023-24Under Nagaon Batadrava LAC.",
+            "description": "MMPNA/2023-24/183_Periodic Renewal of road from Dimow Raidingia road (Ng-M-2) from Ch 3.70km to Ch 4.70km and 5.20km to 9.50km under MUKHYA MANTRI PATH NABIKARAN AACHANI for the year 2023-24Under Nagaon Batadrava LAC.",
+            "datePublished": "15-Nov-2023 01:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,29,37,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

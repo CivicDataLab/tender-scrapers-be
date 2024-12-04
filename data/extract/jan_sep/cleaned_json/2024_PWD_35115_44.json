@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35115_44",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:30 PM",
+    "tenderValueAmount": "1,98,97,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35115_44",
+            "title": "MMPPNA_23_24_38 1. Construction of Development Area Roads (Bye Lane-1, Bye Lane-2 Bye Lane-3.Sub-Lane A,B,C,D,E,F), 2.Construction of Konwar Chuk to Orang Patty Road (from Ch. 0.00m to Ch. 630.00m), 3.Construction of road from Titadimoru to Phatowa",
+            "description": "MMPPNA_23_24_38 1. Construction of Development Area Roads (Bye Lane-1, Bye Lane-2 Bye Lane-3.Sub-Lane A,B,C,D,E,F), 2.Construction of Konwar Chuk to Orang Patty Road (from Ch. 0.00m to Ch. 630.00m), 3.Construction of road from Titadimoru to Phatowa",
+            "datePublished": "02-Jan-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,98,97,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

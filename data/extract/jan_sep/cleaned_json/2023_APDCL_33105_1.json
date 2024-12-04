@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_APDCL_33105_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Nov-2023 02:00 PM",
+    "tenderValueAmount": "4,51,44,180",
+    "tender": [
+        {
+            "id": "2023_APDCL_33105_1",
+            "title": "Supply installation and commissioning of 33kV and 11kV CTs and PTs indoor outdoor in all electrical circles of APDCL",
+            "description": "Supply installation and commissioning of 33kV and 11kV CTs and PTs indoor outdoor in all electrical circles of APDCL",
+            "datePublished": "16-Oct-2023 06:00 PM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,51,44,180",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

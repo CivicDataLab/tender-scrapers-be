@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_SCD_34933_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Jan-2024 11:00 AM",
+    "tenderValueAmount": "56,35,000",
+    "tender": [
+        {
+            "id": "2023_SCD_34933_1",
+            "title": "Water Distribution Brick Channel at Landangpara Lahuripara Village under RIDF- XXVIII, 2022-23",
+            "description": "Water Distribution Brick Channel at Landangpara Lahuripara Village under RIDF- XXVIII, 2022-23",
+            "datePublished": "22-Dec-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "56,35,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Jan-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

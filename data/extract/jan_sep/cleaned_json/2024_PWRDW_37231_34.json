@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWRDW_37231_34",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "09-Apr-2024 02:30 PM",
+    "tenderValueAmount": "2,37,49,000",
+    "tender": [
+        {
+            "id": "2024_PWRDW_37231_34",
+            "title": "Construction of Bridge in Udalguri district i. Br. No. 2/1 on 2 No. Rowmari to Banarghat Baksa Border",
+            "description": "Construction of Bridge in Udalguri district i. Br. No. 2/1 on 2 No. Rowmari to Banarghat Baksa Border",
+            "datePublished": "15-Mar-2024 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,37,49,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Apr-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

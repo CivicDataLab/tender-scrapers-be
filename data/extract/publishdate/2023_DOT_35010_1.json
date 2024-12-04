@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DOT_35010_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "20-Jan-2024 03:00 PM",
+    "tenderValueAmount": "75,00,000",
+    "tender": [
+        {
+            "id": "2023_DOT_35010_1",
+            "title": "Design and build basis for Interiors and furnishing works at Handicraft Exhibition Centre under Aranya Tourist Lodge, Kaziranga, Assam under Trunkey basis",
+            "description": "Design and build basis for Interiors and furnishing works at Handicraft Exhibition Centre under Aranya Tourist Lodge, Kaziranga, Assam under Trunkey basis",
+            "datePublished": "28-Dec-2023 04:00 PM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "75,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

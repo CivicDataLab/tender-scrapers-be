@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_36860_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Mar-2024 03:00 PM",
+    "tenderValueAmount": "42,17,942",
+    "tender": [
+        {
+            "id": "2024_DoWR_36860_1",
+            "title": "Breach closing works on L/B embankment of river Mora-Pagladia (DRDA Bund) at Sialmari area.",
+            "description": "Breach closing works on L/B embankment of river Mora-Pagladia (DRDA Bund) at Sialmari area.",
+            "datePublished": "02-Mar-2024 06:55 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "42,17,942",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

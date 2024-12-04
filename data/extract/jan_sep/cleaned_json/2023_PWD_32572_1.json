@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32572_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Sep-2023 02:00 PM",
+    "tenderValueAmount": "2,78,62,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32572_1",
+            "title": "SOPD_G_23_24_21 (A) Strengthening and Improvement of (i) Post Office Road (ii) Dak Bunglow Road (iii) Janiganj Road upto Nahata Point, (B) Strengthening and Improvement of Park Road in Silchar Town, (C) Strengthening and Improvement of Road from Poli",
+            "description": "SOPD_G_23_24_21 (A) Strengthening and Improvement of (i) Post Office Road (ii) Dak Bunglow Road (iii) Janiganj Road upto Nahata Point, (B) Strengthening and Improvement of Park Road in Silchar Town, (C) Strengthening and Improvement of Road from Poli",
+            "datePublished": "18-Sep-2023 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,78,62,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Sep-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

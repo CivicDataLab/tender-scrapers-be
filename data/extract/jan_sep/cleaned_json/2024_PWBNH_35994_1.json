@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35994_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Feb-2024 03:00 PM",
+    "tenderValueAmount": "19,82,491",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35994_1",
+            "title": "Construction of Security Barrack along with Toilet Block at District and Session Judge Court Complex Bajali in Bajali District Minutes Sl No 16",
+            "description": "Construction of Security Barrack along with Toilet Block at District and Session Judge Court Complex Bajali in Bajali District Minutes Sl No 16",
+            "datePublished": "06-Feb-2024 05:30 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "19,82,491",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

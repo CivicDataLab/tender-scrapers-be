@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_32922_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Nov-2023 11:00 AM",
+    "tenderValueAmount": "23,80,028",
+    "tender": [
+        {
+            "id": "2023_BTC_32922_1",
+            "title": "Construction of Santali Cultural research centre at Gossaigaon Habrubil. TN No.28_04",
+            "description": "Construction of Santali Cultural research centre at Gossaigaon Habrubil. TN No.28_04",
+            "datePublished": "11-Oct-2023 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "23,80,028",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

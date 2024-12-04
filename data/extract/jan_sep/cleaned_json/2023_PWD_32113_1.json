@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32113_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Sep-2023 02:00 PM",
+    "tenderValueAmount": "3,48,87,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32113_1",
+            "title": "NRL_PHASE_1_23_24_01 Widening and strengthening of road from Pragati Dwar to Assam Bio Refinery Pvt. Ltd. including culverts and drains along with uprooting, site grading of 50 Bighas of land acquired by Numaligarh under Sarupathar TRD",
+            "description": "NRL_PHASE_1_23_24_01 Widening and strengthening of road from Pragati Dwar to Assam Bio Refinery Pvt. Ltd. including culverts and drains along with uprooting, site grading of 50 Bighas of land acquired by Numaligarh under Sarupathar TRD",
+            "datePublished": "17-Aug-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,48,87,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Sep-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

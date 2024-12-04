@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37913_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "25-Jul-2024 02:30 PM",
+    "tenderValueAmount": "40,51,752",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37913_1",
+            "title": "Construction of Attendant Quarter (Grade-IV) twin type in RCC G 1 Judicial Quarter (4 unit) at Judicial Residential Complex at Hojai, for the year 2023-24 under SOPD",
+            "description": "Construction of Attendant Quarter (Grade-IV) twin type in RCC G 1 Judicial Quarter (4 unit) at Judicial Residential Complex at Hojai, for the year 2023-24 under SOPD",
+            "datePublished": "09-Jul-2024 12:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "40,51,752",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "25-Jul-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

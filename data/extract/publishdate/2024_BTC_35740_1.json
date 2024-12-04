@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_35740_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Feb-2024 03:00 PM",
+    "tenderValueAmount": "3,21,68,129",
+    "tender": [
+        {
+            "id": "2024_BTC_35740_1",
+            "title": "Construction of 300 Seater Auditorium cum Convention Centre in Kokrajhar District, BTR under Infrastructure Development fund for the financial year 2022-23. (TN_66_1)",
+            "description": "Construction of 300 Seater Auditorium cum Convention Centre in Kokrajhar District, BTR under Infrastructure Development fund for the financial year 2022-23. (TN_66_1)",
+            "datePublished": "27-Jan-2024 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,21,68,129",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

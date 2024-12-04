@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35763_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "20-Feb-2024 11:30 AM",
+    "tenderValueAmount": "1,19,36,163",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35763_1",
+            "title": "(1) Construction of Toilet, Bathroom and water Reservoir tank including the renovation of existing toilet at the P.G. hostel of Regional College of Nursing, Guwahati-32 (2) Extension, Renovation and Up-gradation of kitchen as Modular Kitchen at RCN",
+            "description": "(1) Construction of Toilet, Bathroom and water Reservoir tank including the renovation of existing toilet at the P.G. hostel of Regional College of Nursing, Guwahati-32 (2) Extension, Renovation and Up-gradation of kitchen as Modular Kitchen at RCN",
+            "datePublished": "29-Jan-2024 06:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,19,36,163",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Feb-2024 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32172_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Sep-2023 02:00 PM",
+    "tenderValueAmount": "6,27,77,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32172_2",
+            "title": "SOPD_G_23_24_11 Improvement of NH-37 to Hatibaruah Road via Mahavir Lachit Borphukan Maidam By Providing DBM BC ICBP paved shoulder from Ch.0.00Km to Ch. 3.65 Km under SOPD-G for the year 2023-24",
+            "description": "SOPD_G_23_24_11 Improvement of NH-37 to Hatibaruah Road via Mahavir Lachit Borphukan Maidam By Providing DBM BC ICBP paved shoulder from Ch.0.00Km to Ch. 3.65 Km under SOPD-G for the year 2023-24",
+            "datePublished": "22-Aug-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "6,27,77,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Sep-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

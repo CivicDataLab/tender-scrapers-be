@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37285_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "18-Mar-2024 03:00 PM",
+    "tenderValueAmount": "33,22,596",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37285_1",
+            "title": "Restoration of Superintendent Qtr. Professors Qtr. At Assam Medical College and Hospital, Dibrugarh in Storm Damage",
+            "description": "Restoration of Superintendent Qtr. Professors Qtr. At Assam Medical College and Hospital, Dibrugarh in Storm Damage",
+            "datePublished": "15-Mar-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "33,22,596",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "18-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

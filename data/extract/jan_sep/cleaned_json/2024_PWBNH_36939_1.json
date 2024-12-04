@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36939_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Mar-2024 12:30 PM",
+    "tenderValueAmount": "24,62,357",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36939_1",
+            "title": "Repairing Renovation at GNM School of Nursing, GMCH (Repairing Renovation of Assam type hostel rooms, GNM School of Nursing, GMCH, Guwahati)",
+            "description": "Repairing Renovation at GNM School of Nursing, GMCH (Repairing Renovation of Assam type hostel rooms, GNM School of Nursing, GMCH, Guwahati)",
+            "datePublished": "06-Mar-2024 12:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,62,357",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Mar-2024 12:30 PM"
+                }
+            ]
+        }
+    ]
+}

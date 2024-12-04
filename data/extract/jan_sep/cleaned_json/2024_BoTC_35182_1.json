@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_35182_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "19-Jan-2024 03:30 PM",
+    "tenderValueAmount": "49,99,962",
+    "tender": [
+        {
+            "id": "2024_BoTC_35182_1",
+            "title": "Organizing the Bodoland Sports Meet",
+            "description": "Organizing the Bodoland Sports Meet",
+            "datePublished": "04-Jan-2024 09:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "49,99,962",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Jan-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

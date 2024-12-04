@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_SCD_36257_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Mar-2024 12:00 PM",
+    "tenderValueAmount": "69,45,210",
+    "tender": [
+        {
+            "id": "2024_SCD_36257_3",
+            "title": "INTEGRATED LAND DEVELOPMENT AND WATER HARVESTING CUM WATER DISTRIBUTION PROJECT AT VILLAGE GHORAPUTA AMGURI SIHIRJORA GOALPARA UNDER RIDF-XXIX DURING2023-24",
+            "description": "INTEGRATED LAND DEVELOPMENT AND WATER HARVESTING CUM WATER DISTRIBUTION PROJECT AT VILLAGE GHORAPUTA AMGURI SIHIRJORA GOALPARA UNDER RIDF-XXIX DURING2023-24",
+            "datePublished": "14-Feb-2024 12:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "69,45,210",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Mar-2024 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

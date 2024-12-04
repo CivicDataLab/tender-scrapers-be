@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_35292_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Jan-2024 03:00 PM",
+    "tenderValueAmount": "11,10,35,125",
+    "tender": [
+        {
+            "id": "2024_DoWR_35292_1",
+            "title": "Rejuvenation of Tuni river in Majuli, PACKAGE 1",
+            "description": "Rejuvenation of Tuni river in Majuli, PACKAGE 1",
+            "datePublished": "06-Jan-2024 06:50 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "11,10,35,125",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35279_7",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Jan-2024 02:30 PM",
+    "tenderValueAmount": "72,15,11,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35279_7",
+            "title": "ASOM_MALA_2.0_23_24_07 Improvement upgradation of Road Nawghat bridge Chungajan Sarupathar from Ch. 0.000 to Ch. 22.000 of Golaghat District under Asom Mala 2.0 for the year 2023-24.",
+            "description": "ASOM_MALA_2.0_23_24_07 Improvement upgradation of Road Nawghat bridge Chungajan Sarupathar from Ch. 0.000 to Ch. 22.000 of Golaghat District under Asom Mala 2.0 for the year 2023-24.",
+            "datePublished": "08-Jan-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "72,15,11,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

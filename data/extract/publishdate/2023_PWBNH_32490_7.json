@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_32490_7",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Oct-2023 03:00 PM",
+    "tenderValueAmount": "2,81,46,286",
+    "tender": [
+        {
+            "id": "2023_PWBNH_32490_7",
+            "title": "Jagannath Community and Skill Centre at i) Itakhuli T.E. ii) Keyhung T.E. under Tinsukia LAC (Pkg. No.-12)",
+            "description": "Jagannath Community and Skill Centre at i) Itakhuli T.E. ii) Keyhung T.E. under Tinsukia LAC (Pkg. No.-12)",
+            "datePublished": "14-Sep-2023 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,81,46,286",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Oct-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

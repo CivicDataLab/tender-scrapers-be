@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_37749_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Jul-2024 02:00 PM",
+    "tenderValueAmount": "2,76,68,816",
+    "tender": [
+        {
+            "id": "2024_BTC_37749_1",
+            "title": "Construction of Elementary School Building at an estimated cost for Rs.25,15,500.00 per school at different places in Chirang District under the Head Grants to BTC for Infrastructure Development Fund for the year 2023-24, Phase-I. Package No.TN_91_01",
+            "description": "Construction of Elementary School Building at an estimated cost for Rs.25,15,500.00 per school at different places in Chirang District under the Head Grants to BTC for Infrastructure Development Fund for the year 2023-24, Phase-I. Package No.TN_91_01",
+            "datePublished": "26-Jun-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,76,68,816",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Jul-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

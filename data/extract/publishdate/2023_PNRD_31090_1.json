@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PNRD_31090_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "19-Jun-2023 02:00 PM",
+    "tenderValueAmount": "31,45,500",
+    "tender": [
+        {
+            "id": "2023_PNRD_31090_1",
+            "title": "SUPPLY AND INSTALLATION OF MACHINERIES AND EUIPMENTS IN A NEW BUILDING FOR EGG LAYER FARM AT KHERKATA",
+            "description": "SUPPLY AND INSTALLATION OF MACHINERIES AND EUIPMENTS IN A NEW BUILDING FOR EGG LAYER FARM AT KHERKATA",
+            "datePublished": "05-Jun-2023 10:00 AM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "31,45,500",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Jun-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

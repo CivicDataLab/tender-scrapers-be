@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DOT_34849_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Dec-2023 01:00 PM",
+    "tenderValueAmount": "39,37,466",
+    "tender": [
+        {
+            "id": "2023_DOT_34849_1",
+            "title": "Construction of Krishnaguru Sakha Sewashram, Nalbari",
+            "description": "Construction of Krishnaguru Sakha Sewashram, Nalbari",
+            "datePublished": "20-Dec-2023 01:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "39,37,466",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Dec-2023 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

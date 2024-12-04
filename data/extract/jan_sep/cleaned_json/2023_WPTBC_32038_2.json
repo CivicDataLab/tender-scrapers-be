@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_WPTBC_32038_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "26-Aug-2023 12:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_WPTBC_32038_2",
+            "title": "Supply of Cotton Yarn",
+            "description": "Supply of Cotton Yarn",
+            "datePublished": "11-Aug-2023 10:00 AM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Aug-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

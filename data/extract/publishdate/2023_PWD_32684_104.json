@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_104",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,96,48,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_104",
+            "title": "MMNPPNA_23_24_82 (i) Re- construction Deputy Commissioner Office to GCM Path (Ch 400.00 m to 930.00 m), (ii) Construction of Road from S.P Bunglow to old BSNL Office, (iii) Construction of Gurucharan Medhi Road, (iv) Construction of Nirmal Kalita",
+            "description": "MMNPPNA_23_24_82 (i) Re- construction Deputy Commissioner Office to GCM Path (Ch 400.00 m to 930.00 m), (ii) Construction of Road from S.P Bunglow to old BSNL Office, (iii) Construction of Gurucharan Medhi Road, (iv) Construction of Nirmal Kalita",
+            "datePublished": "04-Oct-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,96,48,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

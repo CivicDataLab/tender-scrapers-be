@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DHUA_36912_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Mar-2024 03:00 PM",
+    "tenderValueAmount": "2,32,35,000",
+    "tender": [
+        {
+            "id": "2024_DHUA_36912_1",
+            "title": "Gossaigaon Park at Gossaigaon under UIDF FY 23-24",
+            "description": "Gossaigaon Park at Gossaigaon under UIDF FY 23-24",
+            "datePublished": "05-Mar-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,32,35,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

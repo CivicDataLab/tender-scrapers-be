@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32932_6",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Nov-2023 11:00 AM",
+    "tenderValueAmount": "4,82,62,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32932_6",
+            "title": "Package No-RIDF-XXIX/Nalbari/02 Constr of RCC Bridge No-4/1 and 7/1 on Bartola-Barnibari Road under Mukhya Mantri Unnoto Pakipath Nirman Achoni (RIDF-XXIX) for the year 2023-24 in 60- Barkhetri LAC under Nalbari District Territorial RD",
+            "description": "Package No-RIDF-XXIX/Nalbari/02 Constr of RCC Bridge No-4/1 and 7/1 on Bartola-Barnibari Road under Mukhya Mantri Unnoto Pakipath Nirman Achoni (RIDF-XXIX) for the year 2023-24 in 60- Barkhetri LAC under Nalbari District Territorial RD",
+            "datePublished": "10-Oct-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,82,62,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

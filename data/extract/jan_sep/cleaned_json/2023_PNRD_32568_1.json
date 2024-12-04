@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PNRD_32568_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Oct-2023 02:00 PM",
+    "tenderValueAmount": "24,96,180",
+    "tender": [
+        {
+            "id": "2023_PNRD_32568_1",
+            "title": "Construction of Training Hall G Plus 2 Provision at EC SIPRD Biswanath Chariali Phase 1",
+            "description": "Construction of Training Hall G Plus 2 Provision at EC SIPRD Biswanath Chariali Phase 1",
+            "datePublished": "18-Sep-2023 05:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,96,180",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

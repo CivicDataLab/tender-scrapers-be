@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_35107_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "15-Jan-2024 03:30 PM",
+    "tenderValueAmount": "21,01,195",
+    "tender": [
+        {
+            "id": "2023_BoTC_35107_1",
+            "title": "Construction of C.C Block road from NCB Church to DDES office, Chirang",
+            "description": "Construction of C.C Block road from NCB Church to DDES office, Chirang",
+            "datePublished": "30-Dec-2023 05:40 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "21,01,195",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Jan-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

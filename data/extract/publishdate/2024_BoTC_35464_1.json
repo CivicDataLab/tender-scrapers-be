@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_35464_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Jan-2024 03:30 PM",
+    "tenderValueAmount": "1,02,06,508",
+    "tender": [
+        {
+            "id": "2024_BoTC_35464_1",
+            "title": "Installation, Erection and Commission of 5 line Solar fencing Naya Basti Baksa,",
+            "description": "Installation, Erection and Commission of 5 line Solar fencing Naya Basti Baksa,",
+            "datePublished": "13-Jan-2024 09:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,02,06,508",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Jan-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

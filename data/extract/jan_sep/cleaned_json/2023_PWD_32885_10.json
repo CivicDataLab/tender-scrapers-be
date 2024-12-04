@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32885_10",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,32,43,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32885_10",
+            "title": "MMNPPNA_23_24_154 (i)Construction of Drain from Shani Mandir to Biplab Saha House (from Ch. 0.00m to Ch. 400.00m) , (ii) Construction of Drain from Basudev Karmakar house to Narayan Ghosh House (from Ch. 0.00m to Ch. 540.00m), (iii) Construction of D",
+            "description": "MMNPPNA_23_24_154 (i)Construction of Drain from Shani Mandir to Biplab Saha House (from Ch. 0.00m to Ch. 400.00m) , (ii) Construction of Drain from Basudev Karmakar house to Narayan Ghosh House (from Ch. 0.00m to Ch. 540.00m), (iii) Construction of D",
+            "datePublished": "12-Oct-2023 03:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,32,43,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

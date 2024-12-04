@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33321_10",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Nov-2023 11:00 AM",
+    "tenderValueAmount": "61,29,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33321_10",
+            "title": "Package No. Cachar/MMPNA/BUG/06 Repair/Rehabilitation of i) BUG Bridge No.14/2 on Laisong Rajabazar Road ii) BUG Bridge No.17/3 on Laisong Rajabazar Road iii) BUG Bridge No.20/3 on Laisong Rajabazar Road iv) BUG Bridge No.22/1 on Laisong Rajabazar Ro",
+            "description": "Package No. Cachar/MMPNA/BUG/06 Repair/Rehabilitation of i) BUG Bridge No.14/2 on Laisong Rajabazar Road ii) BUG Bridge No.17/3 on Laisong Rajabazar Road iii) BUG Bridge No.20/3 on Laisong Rajabazar Road iv) BUG Bridge No.22/1 on Laisong Rajabazar Ro",
+            "datePublished": "28-Oct-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "61,29,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

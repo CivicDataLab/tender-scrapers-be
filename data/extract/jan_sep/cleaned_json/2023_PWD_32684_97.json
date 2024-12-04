@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_97",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,98,02,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_97",
+            "title": "MMNPPNA_23_24_63 Improvement of amlokhi kathiatoli kampur chaparmukh raha road ( Amoni Tiniali Roha College)( ch. 58600.00 m to Ch. 58975.00m ) as Gaurab Path under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA) for the year 2023-24, Kampur",
+            "description": "MMNPPNA_23_24_63 Improvement of amlokhi kathiatoli kampur chaparmukh raha road ( Amoni Tiniali Roha College)( ch. 58600.00 m to Ch. 58975.00m ) as Gaurab Path under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA) for the year 2023-24, Kampur",
+            "datePublished": "04-Oct-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,98,02,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

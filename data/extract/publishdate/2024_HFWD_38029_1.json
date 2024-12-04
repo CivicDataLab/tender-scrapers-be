@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_HFWD_38029_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "09-Aug-2024 12:30 PM",
+    "tenderValueAmount": "5,00,000",
+    "tender": [
+        {
+            "id": "2024_HFWD_38029_1",
+            "title": "Rate eTender for Supply of Laboratory Items for Culture and Sensitivity at Nagaon Medical College Nagaon Assam",
+            "description": "Rate eTender for Supply of Laboratory Items for Culture and Sensitivity at Nagaon Medical College Nagaon Assam",
+            "datePublished": "17-Jul-2024 10:00 AM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "5,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Aug-2024 12:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_33226_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Nov-2023 03:00 PM",
+    "tenderValueAmount": "6,47,50,622",
+    "tender": [
+        {
+            "id": "2023_DoWR_33226_1",
+            "title": "R/S to Gagra river Embankment on its R/B along with renovation of sluice gates.",
+            "description": "R/S to Gagra river Embankment on its R/B along with renovation of sluice gates.",
+            "datePublished": "20-Oct-2023 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "6,47,50,622",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

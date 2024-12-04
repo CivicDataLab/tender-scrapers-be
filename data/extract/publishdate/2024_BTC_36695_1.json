@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_36695_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Mar-2024 02:00 PM",
+    "tenderValueAmount": "2,32,08,925",
+    "tender": [
+        {
+            "id": "2024_BTC_36695_1",
+            "title": "Construction of road from Beltola Chowk to No. 1 Dangoargoan (Chitka Gaon) road under CMs Goodwill Mission Project for the year 2023-24. TN_26_53 (R-1)",
+            "description": "Construction of road from Beltola Chowk to No. 1 Dangoargoan (Chitka Gaon) road under CMs Goodwill Mission Project for the year 2023-24. TN_26_53 (R-1)",
+            "datePublished": "27-Feb-2024 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,32,08,925",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

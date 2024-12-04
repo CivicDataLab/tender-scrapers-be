@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ID_35541_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Feb-2024 03:00 PM",
+    "tenderValueAmount": "69,52,166",
+    "tender": [
+        {
+            "id": "2024_ID_35541_1",
+            "title": "CONSTRUCTION OF BISHNUPUR ELIS WITH UNDERGROUND DISTRIBUTION NETWORK IN HAJO LAC UNDER SOPD FOR THE YEAR 2023-24 (INNOVATION/CONSULTATION AND PILOT PROJECT)",
+            "description": "CONSTRUCTION OF BISHNUPUR ELIS WITH UNDERGROUND DISTRIBUTION NETWORK IN HAJO LAC UNDER SOPD FOR THE YEAR 2023-24 (INNOVATION/CONSULTATION AND PILOT PROJECT)",
+            "datePublished": "20-Jan-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "69,52,166",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

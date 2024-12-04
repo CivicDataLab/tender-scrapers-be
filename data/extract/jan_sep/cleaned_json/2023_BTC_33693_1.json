@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33693_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Nov-2023 12:00 PM",
+    "tenderValueAmount": "2,39,99,942",
+    "tender": [
+        {
+            "id": "2023_BTC_33693_1",
+            "title": "Construction of CC Block road from Uttar Bokrajhar Garubandha Gomtha road to Kalaigaon Khoirabari link road via Chengapathar (TN_26_138)",
+            "description": "Construction of CC Block road from Uttar Bokrajhar Garubandha Gomtha road to Kalaigaon Khoirabari link road via Chengapathar (TN_26_138)",
+            "datePublished": "08-Nov-2023 02:05 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,39,99,942",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

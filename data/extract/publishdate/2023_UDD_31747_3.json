@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_UDD_31747_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Jan-2024 03:00 PM",
+    "tenderValueAmount": "2,11,61,000",
+    "tender": [
+        {
+            "id": "2023_UDD_31747_3",
+            "title": "Execution of Balance Works for Bihpuria Town Water Supply Scheme",
+            "description": "Execution of Balance Works for Bihpuria Town Water Supply Scheme",
+            "datePublished": "20-Dec-2023 06:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,11,61,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

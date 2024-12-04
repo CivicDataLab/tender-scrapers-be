@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36924_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "18-Mar-2024 03:00 PM",
+    "tenderValueAmount": "1,41,72,627",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36924_1",
+            "title": "Repair Renovation and painting of old functional Adarsha Vidyalaya Building at Barkhetri in Nalbari District",
+            "description": "Repair Renovation and painting of old functional Adarsha Vidyalaya Building at Barkhetri in Nalbari District",
+            "datePublished": "05-Mar-2024 02:45 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,41,72,627",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "18-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

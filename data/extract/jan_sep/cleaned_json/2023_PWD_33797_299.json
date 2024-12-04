@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33797_299",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Dec-2023 03:00 PM",
+    "tenderValueAmount": "79,75,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33797_299",
+            "title": "MMPNA/2023-24/214_Periodic Renewal of Khairabari Village Road to Rangia-Goreswar Road via Milanpur (from Ch 0.00km to Ch 0.270km), 2nd km of Chepti-Bihdia Road to Maranjana Uttar Hahara Road via Pub-Rangia High School (From Ch 0.00km to Ch 2.620 Km),",
+            "description": "MMPNA/2023-24/214_Periodic Renewal of Khairabari Village Road to Rangia-Goreswar Road via Milanpur (from Ch 0.00km to Ch 0.270km), 2nd km of Chepti-Bihdia Road to Maranjana Uttar Hahara Road via Pub-Rangia High School (From Ch 0.00km to Ch 2.620 Km),",
+            "datePublished": "16-Nov-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "79,75,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

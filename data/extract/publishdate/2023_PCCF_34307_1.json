@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PCCF_34307_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Dec-2023 01:00 PM",
+    "tenderValueAmount": "35,86,099",
+    "tender": [
+        {
+            "id": "2023_PCCF_34307_1",
+            "title": "Construction of Boundary Fencing with R.C.C Post and chain linked fencing against Nursery at Pahartoli and Bhaoriapara Under Aie Valley Division",
+            "description": "Construction of Boundary Fencing with R.C.C Post and chain linked fencing against Nursery at Pahartoli and Bhaoriapara Under Aie Valley Division",
+            "datePublished": "30-Nov-2023 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "35,86,099",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Dec-2023 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

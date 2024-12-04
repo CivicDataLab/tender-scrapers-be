@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32364_9",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Sep-2023 02:00 PM",
+    "tenderValueAmount": "1,34,67,300",
+    "tender": [
+        {
+            "id": "2023_PWD_32364_9",
+            "title": "CRC-DTRD-183- Hatigaon to Bhetapara",
+            "description": "CRC-DTRD-183- Hatigaon to Bhetapara",
+            "datePublished": "05-Sep-2023 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,34,67,300",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Sep-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_CD_37223_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Mar-2024 11:00 AM",
+    "tenderValueAmount": "1,10,96,347",
+    "tender": [
+        {
+            "id": "2024_CD_37223_1",
+            "title": "New Construction of Library Building RCC Ground Floor (Three Storied Provision) at Ghanakanta Baruah College, Morigaon, Assam",
+            "description": "New Construction of Library Building RCC Ground Floor (Three Storied Provision) at Ghanakanta Baruah College, Morigaon, Assam",
+            "datePublished": "13-Mar-2024 05:30 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,10,96,347",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Mar-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33563_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "18-Nov-2023 01:00 PM",
+    "tenderValueAmount": "2,31,50,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33563_1",
+            "title": "DAR_RIDF_23_24_1 Construction of Road from MB Road (Bholabari Alimur) to Balipara via No.1 Amguri under RIDF-XXVII of NABARD for the year 2021-22.(Balance Work)",
+            "description": "DAR_RIDF_23_24_1 Construction of Road from MB Road (Bholabari Alimur) to Balipara via No.1 Amguri under RIDF-XXVII of NABARD for the year 2021-22.(Balance Work)",
+            "datePublished": "06-Nov-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,31,50,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "18-Nov-2023 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

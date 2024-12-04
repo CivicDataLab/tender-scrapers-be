@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32885_20",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 02:00 PM",
+    "tenderValueAmount": "1,50,00,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32885_20",
+            "title": "MMNPPNA_23_24_164 (i) Construction of Road N Drain from NH 36 to Multi Utility Market Complex at Bakalia Ward No 3, Length 0.081 Km, (ii) Construction of Road from NH 36 to New Fish Market at Bakalia Ward No 3, Length0.162 Km,(iii) Construction o",
+            "description": "MMNPPNA_23_24_164 (i) Construction of Road N Drain from NH 36 to Multi Utility Market Complex at Bakalia Ward No 3, Length 0.081 Km, (ii) Construction of Road from NH 36 to New Fish Market at Bakalia Ward No 3, Length0.162 Km,(iii) Construction o",
+            "datePublished": "10-Oct-2023 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,50,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

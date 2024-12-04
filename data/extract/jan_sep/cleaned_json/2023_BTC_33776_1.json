@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33776_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Nov-2023 12:00 PM",
+    "tenderValueAmount": "2,73,87,687",
+    "tender": [
+        {
+            "id": "2023_BTC_33776_1",
+            "title": "Construction of ICBP road from TD road to Rajen Rabha house via Khoirabari to Hagarikhuti village under CMs Goodwill Project for the year 2023-24. (TN_26_159)",
+            "description": "Construction of ICBP road from TD road to Rajen Rabha house via Khoirabari to Hagarikhuti village under CMs Goodwill Project for the year 2023-24. (TN_26_159)",
+            "datePublished": "09-Nov-2023 11:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,73,87,687",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

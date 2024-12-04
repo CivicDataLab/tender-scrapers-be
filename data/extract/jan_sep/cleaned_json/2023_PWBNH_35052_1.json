@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_35052_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Jan-2024 03:00 PM",
+    "tenderValueAmount": "23,95,950",
+    "tender": [
+        {
+            "id": "2023_PWBNH_35052_1",
+            "title": "Repairing and renovation of existing of offices of DEEOs BEEOs under the Directorate of Elementary Education Assam",
+            "description": "Repairing and renovation of existing of offices of DEEOs BEEOs under the Directorate of Elementary Education Assam",
+            "datePublished": "29-Dec-2023 03:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "23,95,950",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

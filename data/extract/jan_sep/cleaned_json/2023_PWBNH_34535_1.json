@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34535_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Dec-2023 10:00 AM",
+    "tenderValueAmount": "4,22,19,000",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34535_1",
+            "title": "Jagannath Community and Skill Centre under Chabua LAC at (i)Dikom T.E.,(ii) Nadua T.E. and (iii) Nahortoli T.E.(Group - 1)",
+            "description": "Jagannath Community and Skill Centre under Chabua LAC at (i)Dikom T.E.,(ii) Nadua T.E. and (iii) Nahortoli T.E.(Group - 1)",
+            "datePublished": "08-Dec-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,22,19,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Dec-2023 10:00 AM"
+                }
+            ]
+        }
+    ]
+}

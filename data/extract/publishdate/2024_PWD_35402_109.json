@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_109",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "2,06,17,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_109",
+            "title": "MMPPNA_23_24_305 (i) Construction of Road from Damalia to Manipuri basti via Venimadhav M.E.School, (ii) Construction of Road from Dakhin Mohanpur at Barukandi near Bridge to Fisherypar via Nebul Laskar s House under Mukhya Mantrir Pakipath Nirman",
+            "description": "MMPPNA_23_24_305 (i) Construction of Road from Damalia to Manipuri basti via Venimadhav M.E.School, (ii) Construction of Road from Dakhin Mohanpur at Barukandi near Bridge to Fisherypar via Nebul Laskar s House under Mukhya Mantrir Pakipath Nirman",
+            "datePublished": "18-Jan-2024 04:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,06,17,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

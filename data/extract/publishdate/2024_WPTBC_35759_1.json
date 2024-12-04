@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_WPTBC_35759_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Feb-2024 04:00 PM",
+    "tenderValueAmount": "1,64,23,000",
+    "tender": [
+        {
+            "id": "2024_WPTBC_35759_1",
+            "title": "Infrastructure Development purchase of books and furniture and digitization of Library of ST Girls Hostel at Guwahati at AIRTSC",
+            "description": "Infrastructure Development purchase of books and furniture and digitization of Library of ST Girls Hostel at Guwahati at AIRTSC",
+            "datePublished": "29-Jan-2024 02:25 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,64,23,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Feb-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

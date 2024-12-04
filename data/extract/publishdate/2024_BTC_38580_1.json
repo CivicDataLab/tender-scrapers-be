@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_38580_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Sep-2024 02:00 PM",
+    "tenderValueAmount": "23,75,131",
+    "tender": [
+        {
+            "id": "2024_BTC_38580_1",
+            "title": "Administrative Approval for an amount of Rs.24.94000 Lakh only for Modernization of Academic Building of Chirang Polytechnic, Bijni under SOPD during the year 2023-24. Pkg No.TN_07_1",
+            "description": "Administrative Approval for an amount of Rs.24.94000 Lakh only for Modernization of Academic Building of Chirang Polytechnic, Bijni under SOPD during the year 2023-24. Pkg No.TN_07_1",
+            "datePublished": "21-Aug-2024 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "23,75,131",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Sep-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

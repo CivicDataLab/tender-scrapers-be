@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_AEGCL_32321_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Oct-2023 04:00 PM",
+    "tenderValueAmount": "6,33,20,527",
+    "tender": [
+        {
+            "id": "2023_AEGCL_32321_1",
+            "title": "Turnkey Construction of a 132kV Railway Traction Bay and associated works at 132kV Gauripur GSS, AEGCL",
+            "description": "Turnkey Construction of a 132kV Railway Traction Bay and associated works at 132kV Gauripur GSS, AEGCL",
+            "datePublished": "31-Aug-2023 12:00 PM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "6,33,20,527",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Oct-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

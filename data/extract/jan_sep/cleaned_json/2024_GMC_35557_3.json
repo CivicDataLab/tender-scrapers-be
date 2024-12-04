@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_GMC_35557_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "10-Feb-2024 11:00 AM",
+    "tenderValueAmount": "67,45,760",
+    "tender": [
+        {
+            "id": "2024_GMC_35557_3",
+            "title": "Lease settlement of Adabari Bus Terminus Parking Area under Guwahati Municipal Corporation for the year 2024-25(w.e.f.01-04-2024 to 31-03-2025)",
+            "description": "Lease settlement of Adabari Bus Terminus Parking Area under Guwahati Municipal Corporation for the year 2024-25(w.e.f.01-04-2024 to 31-03-2025)",
+            "datePublished": "19-Jan-2024 02:40 PM",
+            "contractType": "Lump-sum",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "67,45,760",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Feb-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

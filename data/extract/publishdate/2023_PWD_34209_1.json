@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34209_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Dec-2023 11:00 AM",
+    "tenderValueAmount": "98,62,939",
+    "tender": [
+        {
+            "id": "2023_PWD_34209_1",
+            "title": "Road Safety Measures on Rural Roads connecting NH15 of Barchalla and Dhekiajuli LAC under Barchalla and Dhekiajuli Territorial Road Division for the year 2023 24 under 996 Road Safety Works",
+            "description": "Road Safety Measures on Rural Roads connecting NH15 of Barchalla and Dhekiajuli LAC under Barchalla and Dhekiajuli Territorial Road Division for the year 2023 24 under 996 Road Safety Works",
+            "datePublished": "25-Nov-2023 01:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "98,62,939",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Dec-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

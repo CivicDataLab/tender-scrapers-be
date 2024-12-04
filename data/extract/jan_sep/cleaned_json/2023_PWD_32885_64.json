@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32885_64",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,24,66,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32885_64",
+            "title": "MMNPPNA_23_24_217 Improvement of Naharkatia Feeder Road from Hanuman Mandir to PWD Office ( From Ch 0.00 m to 500.00 m) as Gaurab Path under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA) for the year 2023-24, Naharkatia MB",
+            "description": "MMNPPNA_23_24_217 Improvement of Naharkatia Feeder Road from Hanuman Mandir to PWD Office ( From Ch 0.00 m to 500.00 m) as Gaurab Path under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA) for the year 2023-24, Naharkatia MB",
+            "datePublished": "12-Oct-2023 12:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,24,66,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

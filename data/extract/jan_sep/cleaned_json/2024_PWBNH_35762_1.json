@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35762_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Feb-2024 03:30 PM",
+    "tenderValueAmount": "19,19,90,798",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35762_1",
+            "title": "Construction of G Plus 2 RCC Circuit House at Tinsukia, Assam, under Engineering, Procurement and Construction (EPC) Mode-I Basis",
+            "description": "Construction of G Plus 2 RCC Circuit House at Tinsukia, Assam, under Engineering, Procurement and Construction (EPC) Mode-I Basis",
+            "datePublished": "29-Jan-2024 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "19,19,90,798",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Feb-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

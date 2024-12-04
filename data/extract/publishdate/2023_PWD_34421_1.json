@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34421_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Dec-2023 02:00 PM",
+    "tenderValueAmount": "12,50,00,000",
+    "tender": [
+        {
+            "id": "2023_PWD_34421_1",
+            "title": "MMUPPNA_RIDF_XXIX_23_24_08 Improvement of (i) Barama to Tihu road from Ch. 0.00m to Ch. 6842.00m, (ii) NH- 127 E to Nikashi from Ch. 0.00m to Ch. 3740.00m under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD for the year 2023-",
+            "description": "MMUPPNA_RIDF_XXIX_23_24_08 Improvement of (i) Barama to Tihu road from Ch. 0.00m to Ch. 6842.00m, (ii) NH- 127 E to Nikashi from Ch. 0.00m to Ch. 3740.00m under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD for the year 2023-",
+            "datePublished": "05-Dec-2023 04:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "12,50,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

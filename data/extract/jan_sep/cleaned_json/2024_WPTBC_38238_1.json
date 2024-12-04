@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_WPTBC_38238_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Aug-2024 02:00 PM",
+    "tenderValueAmount": "1,00,00,000",
+    "tender": [
+        {
+            "id": "2024_WPTBC_38238_1",
+            "title": "Construction of Girls Hostel at Women University at Jorhat, Teok",
+            "description": "Construction of Girls Hostel at Women University at Jorhat, Teok",
+            "datePublished": "29-Jul-2024 06:15 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,00,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Aug-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

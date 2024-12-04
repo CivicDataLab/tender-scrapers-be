@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_NHM_28421_9",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2023 03:30 PM",
+    "tenderValueAmount": "52,03,000",
+    "tender": [
+        {
+            "id": "2022_NHM_28421_9",
+            "title": "Construction of Buildingless Sub Health Centre in DISANG RONGSWAL SC at Dibrugarh District for FY 2022 23 under PM ABHIM on Turnkey Basis",
+            "description": "Construction of Buildingless Sub Health Centre in DISANG RONGSWAL SC at Dibrugarh District for FY 2022 23 under PM ABHIM on Turnkey Basis",
+            "datePublished": "23-Dec-2022 06:55 PM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "52,03,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

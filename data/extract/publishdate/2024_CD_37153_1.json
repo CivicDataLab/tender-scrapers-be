@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_CD_37153_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Mar-2024 11:00 AM",
+    "tenderValueAmount": "1,12,99,953",
+    "tender": [
+        {
+            "id": "2024_CD_37153_1",
+            "title": "Construction of A-Type Classroom building for PDUAM, Dalgaon College, Darrang, Assam",
+            "description": "Construction of A-Type Classroom building for PDUAM, Dalgaon College, Darrang, Assam",
+            "datePublished": "12-Mar-2024 05:35 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,12,99,953",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Mar-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34387_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "21-Dec-2023 11:30 AM",
+    "tenderValueAmount": "23,68,210",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34387_1",
+            "title": "Construction of Isolation Room for Transgender (Female) having 10 (Ten) No. bed Capacity for the Sick prisoners at Central Jail, Guwahati",
+            "description": "Construction of Isolation Room for Transgender (Female) having 10 (Ten) No. bed Capacity for the Sick prisoners at Central Jail, Guwahati",
+            "datePublished": "04-Dec-2023 03:40 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "23,68,210",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Dec-2023 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36640_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Mar-2024 03:10 PM",
+    "tenderValueAmount": "64,80,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36640_1",
+            "title": "Construction of road from P.M.road to Paschim Defolala under Mukhya Mantrir Pakipath Nirman Achani(MMPPNA) for the year 2023-24",
+            "description": "Construction of road from P.M.road to Paschim Defolala under Mukhya Mantrir Pakipath Nirman Achani(MMPPNA) for the year 2023-24",
+            "datePublished": "26-Feb-2024 01:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "64,80,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Mar-2024 03:10 PM"
+                }
+            ]
+        }
+    ]
+}

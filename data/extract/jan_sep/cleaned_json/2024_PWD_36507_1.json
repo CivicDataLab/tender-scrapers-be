@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36507_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Feb-2024 02:30 PM",
+    "tenderValueAmount": "9,57,44,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36507_1",
+            "title": "MMUPPNA_RIDF_XXIX_23_24_03 Improvement of road from (i) North Narainpur Ferryghat to Katakhal NH Byepass, (ii) Boalipar Bazar to Trolleyline road under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD for the year 2023-24",
+            "description": "MMUPPNA_RIDF_XXIX_23_24_03 Improvement of road from (i) North Narainpur Ferryghat to Katakhal NH Byepass, (ii) Boalipar Bazar to Trolleyline road under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD for the year 2023-24",
+            "datePublished": "22-Feb-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "9,57,44,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Feb-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

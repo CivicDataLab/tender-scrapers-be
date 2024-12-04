@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34035_13",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Nov-2023 11:00 AM",
+    "tenderValueAmount": "1,04,94,300",
+    "tender": [
+        {
+            "id": "2023_PWD_34035_13",
+            "title": "Package No. Udalguri/MMPNA/R_R/02 Repair and Rehabilitation of the Bridge located at 1) Udalguri (Kahibari) Bhairabhkunda Road (Start Mission Chowk) at Ch.21.38 km and 2) Udalguri (Kahibari) Bhairabhkunda Road (Start Mission Chowk) at Ch.8.826 km un",
+            "description": "Package No. Udalguri/MMPNA/R_R/02 Repair and Rehabilitation of the Bridge located at 1) Udalguri (Kahibari) Bhairabhkunda Road (Start Mission Chowk) at Ch.21.38 km and 2) Udalguri (Kahibari) Bhairabhkunda Road (Start Mission Chowk) at Ch.8.826 km un",
+            "datePublished": "18-Nov-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,04,94,300",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

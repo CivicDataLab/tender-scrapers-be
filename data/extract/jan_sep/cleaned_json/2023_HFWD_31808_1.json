@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_HFWD_31808_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "04-Nov-2023 04:30 PM",
+    "tenderValueAmount": "6,40,75,000",
+    "tender": [
+        {
+            "id": "2023_HFWD_31808_1",
+            "title": "SUPPLY OF RESPIRATORY EQUIPMENTS",
+            "description": "SUPPLY OF RESPIRATORY EQUIPMENTS",
+            "datePublished": "27-Jul-2023 11:00 AM",
+            "contractType": "Buy",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "6,40,75,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Nov-2023 04:30 PM"
+                }
+            ]
+        }
+    ]
+}

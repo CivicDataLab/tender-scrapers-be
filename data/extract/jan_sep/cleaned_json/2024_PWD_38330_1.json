@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_38330_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "16-Aug-2024 02:30 PM",
+    "tenderValueAmount": "4,76,89,783",
+    "tender": [
+        {
+            "id": "2024_PWD_38330_1",
+            "title": "Construction of Model Village at Longkhor, Maibang, Dima Hasao under DHATC Package",
+            "description": "Construction of Model Village at Longkhor, Maibang, Dima Hasao under DHATC Package",
+            "datePublished": "05-Aug-2024 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,76,89,783",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Aug-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

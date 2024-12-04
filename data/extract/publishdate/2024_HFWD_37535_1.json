@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_HFWD_37535_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "21-Jun-2024 04:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_HFWD_37535_1",
+            "title": "Supply of Instruments for Paediatric Ophthalmology and Orthoptic evaluation",
+            "description": "Supply of Instruments for Paediatric Ophthalmology and Orthoptic evaluation",
+            "datePublished": "06-Jun-2024 06:15 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Jun-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

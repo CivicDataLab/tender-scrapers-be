@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_33380_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "21-Nov-2023 03:00 PM",
+    "tenderValueAmount": "1,97,39,606",
+    "tender": [
+        {
+            "id": "2023_DoWR_33380_1",
+            "title": "Protection of Maibang area from erosion caused by Mahur River (L/B).",
+            "description": "Protection of Maibang area from erosion caused by Mahur River (L/B).",
+            "datePublished": "31-Oct-2023 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,97,39,606",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

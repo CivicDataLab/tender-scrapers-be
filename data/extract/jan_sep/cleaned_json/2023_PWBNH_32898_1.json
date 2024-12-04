@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_32898_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Oct-2023 02:30 PM",
+    "tenderValueAmount": "63,41,500",
+    "tender": [
+        {
+            "id": "2023_PWBNH_32898_1",
+            "title": "Arrangement of Temporary Pandal, Dais, Barricading, Branding, Temporary VVIP ,VIP Toilets etc including electrical and sound system in connection with the programme from 10th October, 2023 to 15th October, 2023. At Lakhimpur Commerce College Field",
+            "description": "Arrangement of Temporary Pandal, Dais, Barricading, Branding, Temporary VVIP ,VIP Toilets etc including electrical and sound system in connection with the programme from 10th October, 2023 to 15th October, 2023. At Lakhimpur Commerce College Field",
+            "datePublished": "09-Oct-2023 02:05 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "63,41,500",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Oct-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

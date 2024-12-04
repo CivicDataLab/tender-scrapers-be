@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_30324_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "24-Apr-2023 11:30 AM",
+    "tenderValueAmount": "6,03,04,175",
+    "tender": [
+        {
+            "id": "2023_PWBNH_30324_1",
+            "title": "Construction of KGBV(Type-II) building at Baghmara in Biswanath district under Samagra Shiksha,Assam",
+            "description": "Construction of KGBV(Type-II) building at Baghmara in Biswanath district under Samagra Shiksha,Assam",
+            "datePublished": "03-Apr-2023 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "6,03,04,175",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "24-Apr-2023 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

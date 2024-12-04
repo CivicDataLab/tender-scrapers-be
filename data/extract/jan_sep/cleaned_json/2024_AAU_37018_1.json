@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_AAU_37018_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Apr-2024 02:15 PM",
+    "tenderValueAmount": "38,61,000",
+    "tender": [
+        {
+            "id": "2024_AAU_37018_1",
+            "title": "Renovation of old Administrative Building (partial) at HRS, Kahikuchi for setting up PHT Lab under RKVY",
+            "description": "Renovation of old Administrative Building (partial) at HRS, Kahikuchi for setting up PHT Lab under RKVY",
+            "datePublished": "08-Mar-2024 10:00 AM",
+            "contractType": "Percentage",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "38,61,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Apr-2024 02:15 PM"
+                }
+            ]
+        }
+    ]
+}

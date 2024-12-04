@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35475_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "22-Jan-2024 02:30 PM",
+    "tenderValueAmount": "3,43,64,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35475_2",
+            "title": "Jilika Path-Flood Mitigation",
+            "description": "Jilika Path-Flood Mitigation",
+            "datePublished": "15-Jan-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,43,64,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "22-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

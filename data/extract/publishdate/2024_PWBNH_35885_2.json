@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35885_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 03:30 PM",
+    "tenderValueAmount": "14,11,08,795",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35885_2",
+            "title": "Construction and upgradation of Pub-Bongsar College at Bongsar, Kamrup, Assam (Proposed Construction of Administrative cum Academic Building) on Engineering, Procurement and Construction (EPC) Mode-1 Basis",
+            "description": "Construction and upgradation of Pub-Bongsar College at Bongsar, Kamrup, Assam (Proposed Construction of Administrative cum Academic Building) on Engineering, Procurement and Construction (EPC) Mode-1 Basis",
+            "datePublished": "02-Feb-2024 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "14,11,08,795",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

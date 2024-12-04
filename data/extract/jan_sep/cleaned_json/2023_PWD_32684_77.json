@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_77",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "3,83,82,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_77",
+            "title": "MMNPPNA_23_24_101 (i) Strengthening Widening of Old NT road from Hardutta BirDutta Bhawan, Rangia to Rangia Circle Ofice (Ch. 1293.00m to Ch 1548.00m) and Ch. 1934.00m to Ch . 2144.00m, (ii) Construction of roads cum RCC drain from Rangia- Dhamdham",
+            "description": "MMNPPNA_23_24_101 (i) Strengthening Widening of Old NT road from Hardutta BirDutta Bhawan, Rangia to Rangia Circle Ofice (Ch. 1293.00m to Ch 1548.00m) and Ch. 1934.00m to Ch . 2144.00m, (ii) Construction of roads cum RCC drain from Rangia- Dhamdham",
+            "datePublished": "03-Oct-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,83,82,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

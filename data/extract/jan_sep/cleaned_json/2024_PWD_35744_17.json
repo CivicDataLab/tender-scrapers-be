@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35744_17",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 02:00 PM",
+    "tenderValueAmount": "1,15,00,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35744_17",
+            "title": "SOPD_ODS_23_24_91 Improvement of (i) Mazbat T.E. Road from playground to Deepa Line (from Ch. 0.00km to Ch. 0.43km) (Total Length 0.43km), (ii) Mazbat T.E. road from Rupa Road to Habigaon Grant Road (from Ch. 0.00km to Ch. 0.60km) (Total Length",
+            "description": "SOPD_ODS_23_24_91 Improvement of (i) Mazbat T.E. Road from playground to Deepa Line (from Ch. 0.00km to Ch. 0.43km) (Total Length 0.43km), (ii) Mazbat T.E. road from Rupa Road to Habigaon Grant Road (from Ch. 0.00km to Ch. 0.60km) (Total Length",
+            "datePublished": "03-Feb-2024 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,15,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DIPR_32030_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "22-Aug-2023 01:00 PM",
+    "tenderValueAmount": "1,67,00,000",
+    "tender": [
+        {
+            "id": "2023_DIPR_32030_1",
+            "title": "Printing and delivery of multi coloured and multi- lingual single fold folder on Orunodoi",
+            "description": "Printing and delivery of multi coloured and multi- lingual single fold folder on Orunodoi",
+            "datePublished": "10-Aug-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "1,67,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "22-Aug-2023 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

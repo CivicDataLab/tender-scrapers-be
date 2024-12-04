@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ID_37862_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "20-Jul-2024 03:00 PM",
+    "tenderValueAmount": "1,99,04,000",
+    "tender": [
+        {
+            "id": "2024_ID_37862_1",
+            "title": "Development of Departmental Digital Platform namely Integrated Irrigation Project Planning_ Monitoring System_IIPPMS_for the year 2023_24",
+            "description": "Development of Departmental Digital Platform namely Integrated Irrigation Project Planning_ Monitoring System_IIPPMS_for the year 2023_24",
+            "datePublished": "04-Jul-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "1,99,04,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Jul-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

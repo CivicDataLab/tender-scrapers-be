@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_GMDA_34522_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Dec-2023 03:00 PM",
+    "tenderValueAmount": "33,20,74,088",
+    "tender": [
+        {
+            "id": "2023_GMDA_34522_1",
+            "title": "Development of Old Commissioner of Police Bungalow Campus as an extension of Mahabahu River Heritage Centre Phase II",
+            "description": "Development of Old Commissioner of Police Bungalow Campus as an extension of Mahabahu River Heritage Centre Phase II",
+            "datePublished": "07-Dec-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "33,20,74,088",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

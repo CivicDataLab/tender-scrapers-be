@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_SWD_26588_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "12-Sep-2022 11:00 AM",
+    "tenderValueAmount": "7,33,47,000",
+    "tender": [
+        {
+            "id": "2022_SWD_26588_1",
+            "title": "Supply of Medicine Kits for Anganwadi Centres and Medicine Kits for Mini Anganwadi Centres",
+            "description": "Supply of Medicine Kits for Anganwadi Centres and Medicine Kits for Mini Anganwadi Centres",
+            "datePublished": "08-Aug-2022 05:00 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "7,33,47,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Sep-2022 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

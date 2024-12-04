@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PCCF_34173_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "14-Dec-2023 11:00 AM",
+    "tenderValueAmount": "36,85,874",
+    "tender": [
+        {
+            "id": "2023_PCCF_34173_1",
+            "title": "Construction of Ghoguwa Anti Poaching Camp at Amchang Wildlife Sanctuary",
+            "description": "Construction of Ghoguwa Anti Poaching Camp at Amchang Wildlife Sanctuary",
+            "datePublished": "23-Nov-2023 06:00 PM",
+            "contractType": "Percentage",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "36,85,874",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "14-Dec-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

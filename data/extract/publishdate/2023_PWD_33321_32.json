@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33321_32",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Nov-2023 11:00 AM",
+    "tenderValueAmount": "22,60,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33321_32",
+            "title": "Package No. Charaideo/MMPNA/BUG/1 Repair And Rehabilitation of BUG/ Steel Bridge No. 195/1 at Ch. 194.150 km on Dhodar Ali under Mukhya Mantrir Path Nabikaran Achani for the year 2023-24",
+            "description": "Package No. Charaideo/MMPNA/BUG/1 Repair And Rehabilitation of BUG/ Steel Bridge No. 195/1 at Ch. 194.150 km on Dhodar Ali under Mukhya Mantrir Path Nabikaran Achani for the year 2023-24",
+            "datePublished": "28-Oct-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "22,60,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_35007_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Jan-2024 03:00 PM",
+    "tenderValueAmount": "44,92,265",
+    "tender": [
+        {
+            "id": "2023_BTC_35007_1",
+            "title": "Repairing of 3 Nos. Wooden Bridge at Bongshijhora to Monglajhora road under Monglajhora VCDC of Kokrajhar District under SOPD (BTC) for the year 2023-24. (TN_50_2)",
+            "description": "Repairing of 3 Nos. Wooden Bridge at Bongshijhora to Monglajhora road under Monglajhora VCDC of Kokrajhar District under SOPD (BTC) for the year 2023-24. (TN_50_2)",
+            "datePublished": "28-Dec-2023 01:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "44,92,265",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_SSA_32174_62",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Sep-2023 03:00 PM",
+    "tenderValueAmount": "2,86,40,000",
+    "tender": [
+        {
+            "id": "2023_SSA_32174_62",
+            "title": "Group No. 25",
+            "description": "Group No. 25",
+            "datePublished": "31-Aug-2023 05:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,86,40,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Sep-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

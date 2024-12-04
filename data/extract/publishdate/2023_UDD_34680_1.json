@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_UDD_34680_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Jan-2024 02:00 PM",
+    "tenderValueAmount": "20,35,78,878",
+    "tender": [
+        {
+            "id": "2023_UDD_34680_1",
+            "title": "Construction of Lakhipur Cachar Town Water Supply Project under AMRUT 2",
+            "description": "Construction of Lakhipur Cachar Town Water Supply Project under AMRUT 2",
+            "datePublished": "13-Dec-2023 05:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "20,35,78,878",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

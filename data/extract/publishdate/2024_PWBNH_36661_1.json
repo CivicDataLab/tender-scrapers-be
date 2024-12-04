@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36661_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Mar-2024 12:30 PM",
+    "tenderValueAmount": "37,18,480",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36661_1",
+            "title": "Construction of Principal Quarter at Adarsha Vidyalaya Model School at Village Chenga Musalman Gaon in Chenga EB Block under Barpeta District",
+            "description": "Construction of Principal Quarter at Adarsha Vidyalaya Model School at Village Chenga Musalman Gaon in Chenga EB Block under Barpeta District",
+            "datePublished": "26-Feb-2024 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "37,18,480",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Mar-2024 12:30 PM"
+                }
+            ]
+        }
+    ]
+}

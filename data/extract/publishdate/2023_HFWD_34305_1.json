@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_HFWD_34305_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "22-Dec-2023 04:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_HFWD_34305_1",
+            "title": "Supply of Equipments, Apparatus and Consumables in the department of Microbiology, Gauhati Medical College Hospital, Guwahati",
+            "description": "Supply of Equipments, Apparatus and Consumables in the department of Microbiology, Gauhati Medical College Hospital, Guwahati",
+            "datePublished": "30-Nov-2023 05:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "22-Dec-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

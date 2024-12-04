@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33081_17",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Nov-2023 02:00 PM",
+    "tenderValueAmount": "1,86,45,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33081_17",
+            "title": "MMNPPNA_23_24_242 (i) Reconstruction of 2-3X3 Box Cell Culvert at Chandariya Pathar near LP School, (ii) Construction of Road from Gopal Malo house towards Sukumar Mandal house at Chandariapathar, (iii) Construction of road from Goalpara Agia road to",
+            "description": "MMNPPNA_23_24_242 (i) Reconstruction of 2-3X3 Box Cell Culvert at Chandariya Pathar near LP School, (ii) Construction of Road from Gopal Malo house towards Sukumar Mandal house at Chandariapathar, (iii) Construction of road from Goalpara Agia road to",
+            "datePublished": "17-Oct-2023 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,86,45,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

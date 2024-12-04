@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36654_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Mar-2024 11:30 AM",
+    "tenderValueAmount": "21,67,471",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36654_1",
+            "title": "Inside painting and some minor repairing of college building along with Auditorium Hall etc. portion of Govt. Ayurvedic College and Hospital, Guwahati-14",
+            "description": "Inside painting and some minor repairing of college building along with Auditorium Hall etc. portion of Govt. Ayurvedic College and Hospital, Guwahati-14",
+            "datePublished": "26-Feb-2024 02:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "21,67,471",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Mar-2024 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

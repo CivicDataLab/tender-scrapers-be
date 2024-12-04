@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35312_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 10:00 AM",
+    "tenderValueAmount": "1,00,06,946",
+    "tender": [
+        {
+            "id": "2024_PWD_35312_1",
+            "title": "Periodic Renewal of Road from (1) NH52 to Naharjan via Junkareng (PMGSY) (Junkareng Tiniali to Kathalbari), Dipa( T 0 1) to Dimow via Bukajan Tiniali Part 1 (Dimow to Bokajan Miri) (PMGSY) under Mukhya Mantrir path Nabikaran Achani under Jonai LAC",
+            "description": "Periodic Renewal of Road from (1) NH52 to Naharjan via Junkareng (PMGSY) (Junkareng Tiniali to Kathalbari), Dipa( T 0 1) to Dimow via Bukajan Tiniali Part 1 (Dimow to Bokajan Miri) (PMGSY) under Mukhya Mantrir path Nabikaran Achani under Jonai LAC",
+            "datePublished": "08-Jan-2024 03:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,00,06,946",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 10:00 AM"
+                }
+            ]
+        }
+    ]
+}

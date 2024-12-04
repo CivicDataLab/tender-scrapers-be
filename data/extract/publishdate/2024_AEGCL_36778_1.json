@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_AEGCL_36778_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "28-Mar-2024 02:00 PM",
+    "tenderValueAmount": "20,90,075",
+    "tender": [
+        {
+            "id": "2024_AEGCL_36778_1",
+            "title": "Procurement of 33kV and 132kV Current Transformer including ETC at 132kV Chandrapur GSS AEGCL",
+            "description": "Procurement of 33kV and 132kV Current Transformer including ETC at 132kV Chandrapur GSS AEGCL",
+            "datePublished": "01-Mar-2024 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "20,90,075",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

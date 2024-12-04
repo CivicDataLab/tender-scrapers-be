@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_33261_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "16-Nov-2023 03:00 PM",
+    "tenderValueAmount": "3,24,44,212",
+    "tender": [
+        {
+            "id": "2023_DoWR_33261_1",
+            "title": "Protection of Pachim Tetelisora area under Kampur Revenue Circle from the avulsion of river Haria on its left bank.",
+            "description": "Protection of Pachim Tetelisora area under Kampur Revenue Circle from the avulsion of river Haria on its left bank.",
+            "datePublished": "25-Oct-2023 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,24,44,212",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

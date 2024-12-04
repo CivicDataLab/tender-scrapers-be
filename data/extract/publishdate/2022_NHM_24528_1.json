@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_NHM_24528_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2021-2022",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Mar-2022 03:30 PM",
+    "tenderValueAmount": "37,74,463",
+    "tender": [
+        {
+            "id": "2022_NHM_24528_1",
+            "title": "Reparning and renovation of 592 nos. of SC to upgrade them as HNWC and various place of Assam, Gr23, 6 nos. SC in Golaghat district",
+            "description": "Reparning and renovation of 592 nos. of SC to upgrade them as HNWC and various place of Assam, Gr23, 6 nos. SC in Golaghat district",
+            "datePublished": "04-Mar-2022 12:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "37,74,463",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Mar-2022 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

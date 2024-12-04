@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2021_PWBNH_23137_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2021-2022",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Oct-2021 03:30 PM",
+    "tenderValueAmount": "1,86,68,021",
+    "tender": [
+        {
+            "id": "2021_PWBNH_23137_2",
+            "title": "GROUP-B Construction of Mother and Child Hospital (500 bedded) at Gauhati Medical College and Hospital, Guwahati Under SOPD-ODS for the FY 2019-2020. (Providing 1600 KVA Transformer along with allied accessories etc.), GROUP-B",
+            "description": "GROUP-B Construction of Mother and Child Hospital (500 bedded) at Gauhati Medical College and Hospital, Guwahati Under SOPD-ODS for the FY 2019-2020. (Providing 1600 KVA Transformer along with allied accessories etc.), GROUP-B",
+            "datePublished": "08-Oct-2021 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,86,68,021",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Oct-2021 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

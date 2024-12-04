@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_37657_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jul-2024 01:30 PM",
+    "tenderValueAmount": "1,48,32,452",
+    "tender": [
+        {
+            "id": "2024_BoTC_37657_1",
+            "title": "Construction of Model Cinema Hall (100 Seater) at Gossaigaonin Kokrajhar District. Pkg No.536-1",
+            "description": "Construction of Model Cinema Hall (100 Seater) at Gossaigaonin Kokrajhar District. Pkg No.536-1",
+            "datePublished": "20-Jun-2024 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,48,32,452",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jul-2024 01:30 PM"
+                }
+            ]
+        }
+    ]
+}

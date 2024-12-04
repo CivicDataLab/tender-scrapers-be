@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35736_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Jan-2024 11:30 AM",
+    "tenderValueAmount": "1,75,50,027",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35736_1",
+            "title": "Arrangement for Temporary Pandal, Dias, Barricading, Branding etc. for the State Level Competitions of Assam Sanskritik Mahasangram scheduled to be held from 28th Jan to 6th Feb, 2024 at 6(six) different venues at Guwahati, Assam",
+            "description": "Arrangement for Temporary Pandal, Dias, Barricading, Branding etc. for the State Level Competitions of Assam Sanskritik Mahasangram scheduled to be held from 28th Jan to 6th Feb, 2024 at 6(six) different venues at Guwahati, Assam",
+            "datePublished": "26-Jan-2024 11:00 AM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,75,50,027",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jan-2024 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

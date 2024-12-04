@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35115_56",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:30 PM",
+    "tenderValueAmount": "3,60,93,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35115_56",
+            "title": "MMPPNA_23_24_52, Construction of Road From Amguri to Kokila Centre from Ch. 0.00 m to 1650.00 m, 2. Construction of Road From Kothaichuk PWD to Kothaichuk LP School Road, 3. Construction of Road from NH 15 to Milan Nagar near SBI ATM (Ward No.5),...",
+            "description": "MMPPNA_23_24_52, Construction of Road From Amguri to Kokila Centre from Ch. 0.00 m to 1650.00 m, 2. Construction of Road From Kothaichuk PWD to Kothaichuk LP School Road, 3. Construction of Road from NH 15 to Milan Nagar near SBI ATM (Ward No.5),...",
+            "datePublished": "03-Jan-2024 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,60,93,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

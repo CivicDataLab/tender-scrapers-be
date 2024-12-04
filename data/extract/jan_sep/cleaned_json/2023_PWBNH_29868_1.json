@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_29868_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "20-Mar-2023 03:00 PM",
+    "tenderValueAmount": "46,93,507",
+    "tender": [
+        {
+            "id": "2023_PWBNH_29868_1",
+            "title": "Construction of Office cum Hostel Building at Bodousa Sports Club Phase Iunder One Time Special Grant for Development of Moran Community for the year 21-22 Gr 30",
+            "description": "Construction of Office cum Hostel Building at Bodousa Sports Club Phase Iunder One Time Special Grant for Development of Moran Community for the year 21-22 Gr 30",
+            "datePublished": "14-Mar-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "46,93,507",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Mar-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

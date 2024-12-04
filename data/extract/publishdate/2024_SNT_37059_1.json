@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_SNT_37059_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Apr-2024 03:00 PM",
+    "tenderValueAmount": "71,78,960",
+    "tender": [
+        {
+            "id": "2024_SNT_37059_1",
+            "title": "Design, Supply, Installation,Testing, Commissioning and CMC for 5 years of aggregate capacity of 150 kWp (75 kWp X 2 nos.) Grid Connected Solar Rooftop Plants in District Hospital Hojai",
+            "description": "Design, Supply, Installation,Testing, Commissioning and CMC for 5 years of aggregate capacity of 150 kWp (75 kWp X 2 nos.) Grid Connected Solar Rooftop Plants in District Hospital Hojai",
+            "datePublished": "08-Mar-2024 06:30 PM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "71,78,960",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Apr-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34265_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Jan-2024 02:00 PM",
+    "tenderValueAmount": "5,24,29,65,300",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34265_1",
+            "title": "Establishment of New Medical College and Hospital at R.K. Nagar, Karimganj, Assam on Engineering, Procurement and Construction (EPC) Mode-1 Basis",
+            "description": "Establishment of New Medical College and Hospital at R.K. Nagar, Karimganj, Assam on Engineering, Procurement and Construction (EPC) Mode-1 Basis",
+            "datePublished": "29-Nov-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "5,24,29,65,300",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

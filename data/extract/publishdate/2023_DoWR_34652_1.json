@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_34652_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Dec-2023 03:00 PM",
+    "tenderValueAmount": "8,91,41,762",
+    "tender": [
+        {
+            "id": "2023_DoWR_34652_1",
+            "title": "Construction of new embankment from Dokmoka bridge to Cherakani bridge including anti-erosion measures along R/B of river Dikrut in karbi anglong district.Package No-I",
+            "description": "Construction of new embankment from Dokmoka bridge to Cherakani bridge including anti-erosion measures along R/B of river Dikrut in karbi anglong district.Package No-I",
+            "datePublished": "12-Dec-2023 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "8,91,41,762",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

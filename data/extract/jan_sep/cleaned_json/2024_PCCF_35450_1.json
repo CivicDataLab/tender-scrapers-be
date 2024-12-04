@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PCCF_35450_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Feb-2024 01:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_PCCF_35450_1",
+            "title": "Construction of RCC Check Dam at Kamarpur under Pobitora Wildlife Sanctuary",
+            "description": "Construction of RCC Check Dam at Kamarpur under Pobitora Wildlife Sanctuary",
+            "datePublished": "12-Jan-2024 05:00 PM",
+            "contractType": "Percentage",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Feb-2024 01:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35887_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 11:00 AM",
+    "tenderValueAmount": "56,36,496",
+    "tender": [
+        {
+            "id": "2024_PWD_35887_1",
+            "title": "Relocation of old Assam Type Office building of the Superintending Engineer, PWD, Dibrugarh Road Circle at PWD Office campus Phoolbagan, Dibrugarh under SOPD-G for the year 2023-24",
+            "description": "Relocation of old Assam Type Office building of the Superintending Engineer, PWD, Dibrugarh Road Circle at PWD Office campus Phoolbagan, Dibrugarh under SOPD-G for the year 2023-24",
+            "datePublished": "05-Feb-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "56,36,496",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

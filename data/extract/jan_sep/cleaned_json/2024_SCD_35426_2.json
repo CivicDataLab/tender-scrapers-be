@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_SCD_35426_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 12:00 PM",
+    "tenderValueAmount": "45,00,000",
+    "tender": [
+        {
+            "id": "2024_SCD_35426_2",
+            "title": "INFRASTRUCTURE DEVELOPMENT CUM BEAUTIFICATION AT MAHA BISHNU JAGGYO MANDIR",
+            "description": "INFRASTRUCTURE DEVELOPMENT CUM BEAUTIFICATION AT MAHA BISHNU JAGGYO MANDIR",
+            "datePublished": "12-Jan-2024 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "45,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

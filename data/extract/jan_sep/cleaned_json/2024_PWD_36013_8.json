@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36013_8",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "23-Feb-2024 04:00 PM",
+    "tenderValueAmount": "52,90,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36013_8",
+            "title": "ROB/QC/GOLAGHAT/FM-5 Construction of ROB in Replacement of Railway Level Crossing Gate No. FM-5 at Golaghat on Golaghat-Numaligarh Road under Construction of ROBs on 50_50 Cost Sharing Basis",
+            "description": "ROB/QC/GOLAGHAT/FM-5 Construction of ROB in Replacement of Railway Level Crossing Gate No. FM-5 at Golaghat on Golaghat-Numaligarh Road under Construction of ROBs on 50_50 Cost Sharing Basis",
+            "datePublished": "07-Feb-2024 01:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "52,90,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "23-Feb-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

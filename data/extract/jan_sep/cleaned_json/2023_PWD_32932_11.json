@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32932_11",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Nov-2023 11:00 AM",
+    "tenderValueAmount": "4,06,61,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32932_11",
+            "title": "Package No. RIDF-XXIX/Dhemaji/01 Construction of RCC Br No-2/2 at Hachulipam to Dihingia Block (Nalamukh to Dihingia Block) under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD for the year 2023-24, Dhemaji LAC",
+            "description": "Package No. RIDF-XXIX/Dhemaji/01 Construction of RCC Br No-2/2 at Hachulipam to Dihingia Block (Nalamukh to Dihingia Block) under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD for the year 2023-24, Dhemaji LAC",
+            "datePublished": "10-Oct-2023 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,06,61,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

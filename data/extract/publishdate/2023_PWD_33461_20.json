@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33461_20",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Nov-2023 02:00 PM",
+    "tenderValueAmount": "1,38,05,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33461_20",
+            "title": "MMNPPNA_23_24_219 (i) Construction of Rampur Gaon Byelane, Ward no 8 (Ch. 0.00m to 110.00m), (ii) Construction of New Colony Byelane No 1, Ward no 3 ( from Ch. 0.00 to 75.00m), (iii) Construction of RadhaKrishna Mandir Path ( From Ch 0.00 m to 100.0",
+            "description": "MMNPPNA_23_24_219 (i) Construction of Rampur Gaon Byelane, Ward no 8 (Ch. 0.00m to 110.00m), (ii) Construction of New Colony Byelane No 1, Ward no 3 ( from Ch. 0.00 to 75.00m), (iii) Construction of RadhaKrishna Mandir Path ( From Ch 0.00 m to 100.0",
+            "datePublished": "02-Nov-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,38,05,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

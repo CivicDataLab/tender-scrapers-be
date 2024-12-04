@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PCCF_32396_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Sep-2023 11:00 AM",
+    "tenderValueAmount": "47,98,923",
+    "tender": [
+        {
+            "id": "2023_PCCF_32396_3",
+            "title": "A.2nd yearMaintenance forInstitutional Single Planting 4985 Nos. B. 2nd yearMaintenance forRural Roadside Single Planting 1688Nos. C. 2nd yearMaintenance for1.5 ha. Nursery2 Nos. Under Hajo Range",
+            "description": "A.2nd yearMaintenance forInstitutional Single Planting 4985 Nos. B. 2nd yearMaintenance forRural Roadside Single Planting 1688Nos. C. 2nd yearMaintenance for1.5 ha. Nursery2 Nos. Under Hajo Range",
+            "datePublished": "07-Sep-2023 01:00 PM",
+            "contractType": "Percentage",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "47,98,923",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Sep-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

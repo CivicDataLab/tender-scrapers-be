@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ID_35134_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "25-Jan-2024 04:00 PM",
+    "tenderValueAmount": "39,08,445",
+    "tender": [
+        {
+            "id": "2024_ID_35134_1",
+            "title": "Improvement of Branch Canal No. 01 of Longa Flow Irrigation Scheme under SOPD(G) for the year 2023-2024",
+            "description": "Improvement of Branch Canal No. 01 of Longa Flow Irrigation Scheme under SOPD(G) for the year 2023-2024",
+            "datePublished": "02-Jan-2024 09:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "39,08,445",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "25-Jan-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

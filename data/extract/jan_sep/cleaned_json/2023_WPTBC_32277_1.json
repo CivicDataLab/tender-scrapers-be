@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_WPTBC_32277_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "04-Sep-2023 11:00 AM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_WPTBC_32277_1",
+            "title": "Barbed wire fence",
+            "description": "Barbed wire fence",
+            "datePublished": "29-Aug-2023 10:00 AM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Sep-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

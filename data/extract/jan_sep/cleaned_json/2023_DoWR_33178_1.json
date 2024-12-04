@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_33178_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "09-Nov-2023 03:00 PM",
+    "tenderValueAmount": "10,13,60,513",
+    "tender": [
+        {
+            "id": "2023_DoWR_33178_1",
+            "title": "Construction of Pagladia L/B embankment from Dhamdhama Tamulpur road to Polokata (Opposite of Jartaluk area).",
+            "description": "Construction of Pagladia L/B embankment from Dhamdhama Tamulpur road to Polokata (Opposite of Jartaluk area).",
+            "datePublished": "19-Oct-2023 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "10,13,60,513",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

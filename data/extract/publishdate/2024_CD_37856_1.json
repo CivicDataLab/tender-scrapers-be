@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_CD_37856_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Jul-2024 11:00 AM",
+    "tenderValueAmount": "22,93,500",
+    "tender": [
+        {
+            "id": "2024_CD_37856_1",
+            "title": "Renovation of A-Type office Building of the office of the Asstt. Registrar of Coop Societies, Tinsukia, Assam",
+            "description": "Renovation of A-Type office Building of the office of the Asstt. Registrar of Coop Societies, Tinsukia, Assam",
+            "datePublished": "03-Jul-2024 12:35 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "22,93,500",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Jul-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

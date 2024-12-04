@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_UDD_35433_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Feb-2024 02:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_UDD_35433_1",
+            "title": "Management and Processing of Legacy Waste and Fresh Municipal Solid Waste MSW at SWM Plant at Lekai, Ghoramora, Dibrugarh",
+            "description": "Management and Processing of Legacy Waste and Fresh Municipal Solid Waste MSW at SWM Plant at Lekai, Ghoramora, Dibrugarh",
+            "datePublished": "12-Jan-2024 06:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Feb-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

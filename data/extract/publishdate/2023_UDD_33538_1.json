@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_UDD_33538_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Nov-2023 02:00 PM",
+    "tenderValueAmount": "59,62,000",
+    "tender": [
+        {
+            "id": "2023_UDD_33538_1",
+            "title": "Rejuvenation of Saapnala with O and M ffor 1 year",
+            "description": "Rejuvenation of Saapnala with O and M ffor 1 year",
+            "datePublished": "04-Nov-2023 01:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "59,62,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

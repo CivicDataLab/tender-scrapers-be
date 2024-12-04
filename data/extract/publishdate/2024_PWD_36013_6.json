@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36013_6",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "23-Feb-2024 04:00 PM",
+    "tenderValueAmount": "56,66,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36013_6",
+            "title": "ROB/QC/RAHA/ST-34 Construction of ROB at Kakati Gaon in Replacement of Railway LC Gate No. ST-34 at Rly KM 104/7-8 on Raha Kampur Road under Construction of ROBs on 50_50 Cost Sharing Basis",
+            "description": "ROB/QC/RAHA/ST-34 Construction of ROB at Kakati Gaon in Replacement of Railway LC Gate No. ST-34 at Rly KM 104/7-8 on Raha Kampur Road under Construction of ROBs on 50_50 Cost Sharing Basis",
+            "datePublished": "07-Feb-2024 01:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "56,66,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "23-Feb-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

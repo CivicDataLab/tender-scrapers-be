@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_NHM_28018_16",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Dec-2022 03:30 PM",
+    "tenderValueAmount": "57,99,785",
+    "tender": [
+        {
+            "id": "2022_NHM_28018_16",
+            "title": "Establishment of Proposed 6 bedded ward at various SHCs n PHCs of Assam under ECRP II NHM Assam Group 16 5 nos scheme in Barpeta district",
+            "description": "Establishment of Proposed 6 bedded ward at various SHCs n PHCs of Assam under ECRP II NHM Assam Group 16 5 nos scheme in Barpeta district",
+            "datePublished": "05-Dec-2022 09:00 AM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "57,99,785",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Dec-2022 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

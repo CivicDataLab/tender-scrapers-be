@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33664_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Nov-2023 12:00 PM",
+    "tenderValueAmount": "2,18,94,561",
+    "tender": [
+        {
+            "id": "2023_BTC_33664_1",
+            "title": "Construction of Haluadal PHC to SAI Stadium Complex Road by providing ICBP including C.D. Works under SOPD CMs Goodwill Project for the year 2023-24. TN_26_34",
+            "description": "Construction of Haluadal PHC to SAI Stadium Complex Road by providing ICBP including C.D. Works under SOPD CMs Goodwill Project for the year 2023-24. TN_26_34",
+            "datePublished": "09-Nov-2023 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,18,94,561",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_37273_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Mar-2024 02:00 PM",
+    "tenderValueAmount": "58,61,000",
+    "tender": [
+        {
+            "id": "2024_BTC_37273_1",
+            "title": "Construction of 10 m Span Slab Culvert at Baraliapar near Ramila Rice Mill under Grants to BTC for Infrastructure Dev. Fund for the financial year 2023-24. TN_90_24",
+            "description": "Construction of 10 m Span Slab Culvert at Baraliapar near Ramila Rice Mill under Grants to BTC for Infrastructure Dev. Fund for the financial year 2023-24. TN_90_24",
+            "datePublished": "15-Mar-2024 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "58,61,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

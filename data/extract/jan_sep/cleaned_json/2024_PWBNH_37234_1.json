@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37234_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Apr-2024 12:30 PM",
+    "tenderValueAmount": "37,45,785",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37234_1",
+            "title": "Repairing of leakage water seepage inside the Auditorium of Rabindra Bhawan at Ambari, Guwahati-01",
+            "description": "Repairing of leakage water seepage inside the Auditorium of Rabindra Bhawan at Ambari, Guwahati-01",
+            "datePublished": "14-Mar-2024 12:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "37,45,785",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Apr-2024 12:30 PM"
+                }
+            ]
+        }
+    ]
+}

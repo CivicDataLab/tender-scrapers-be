@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32885_9",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,91,97,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32885_9",
+            "title": "MMNPPNA_23_24_153 (i)Improvement of Road from Ambedkar Bhawan to Satsanga Mandir (Gaurav Path) in Bilasipara Town ( from Ch. 0.00m to Ch. 650.00m), (ii) Construction of Road from Manik Chand Agarwala House to Pratap House (from Ch. 0.00m to Ch. 340.0",
+            "description": "MMNPPNA_23_24_153 (i)Improvement of Road from Ambedkar Bhawan to Satsanga Mandir (Gaurav Path) in Bilasipara Town ( from Ch. 0.00m to Ch. 650.00m), (ii) Construction of Road from Manik Chand Agarwala House to Pratap House (from Ch. 0.00m to Ch. 340.0",
+            "datePublished": "13-Oct-2023 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,91,97,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

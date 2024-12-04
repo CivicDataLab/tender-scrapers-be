@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2020_ASPIR_19080_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2020-2021",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "05-Nov-2020 03:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2020_ASPIR_19080_1",
+            "title": "Request for Expressions of Interest for Engagement of Communications Agency for AS-CFMS",
+            "description": "Request for Expressions of Interest for Engagement of Communications Agency for AS-CFMS",
+            "datePublished": "23-Oct-2020 01:50 PM",
+            "contractType": "EOI",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Nov-2020 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

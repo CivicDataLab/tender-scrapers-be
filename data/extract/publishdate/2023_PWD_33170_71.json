@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33170_71",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Nov-2023 02:00 PM",
+    "tenderValueAmount": "12,49,05,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33170_71",
+            "title": "MMUPPNA_RIDF_XXIX_23_24_94 Improvement of (i) road from 8th Km of Bor Ali to 116th Km of Dhodar Ali (Bahgarh Road) (Bahgarh to Bogidol) (from Ch. 0.00 m to Ch. 4830.00 m, L 4.830 km), (ii) Kharikatia Ali (from Ch. 9700.00 m to Ch. 14870.00m, L 5.17",
+            "description": "MMUPPNA_RIDF_XXIX_23_24_94 Improvement of (i) road from 8th Km of Bor Ali to 116th Km of Dhodar Ali (Bahgarh Road) (Bahgarh to Bogidol) (from Ch. 0.00 m to Ch. 4830.00 m, L 4.830 km), (ii) Kharikatia Ali (from Ch. 9700.00 m to Ch. 14870.00m, L 5.17",
+            "datePublished": "25-Oct-2023 12:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "12,49,05,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35992_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Feb-2024 02:00 PM",
+    "tenderValueAmount": "32,25,033",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35992_2",
+            "title": "Construction of Two Unit of Staff Quarter at Naokata MPHC in Baksa District under Health_FW Deptt. BTC",
+            "description": "Construction of Two Unit of Staff Quarter at Naokata MPHC in Baksa District under Health_FW Deptt. BTC",
+            "datePublished": "07-Feb-2024 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "32,25,033",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

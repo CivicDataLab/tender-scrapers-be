@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoIT_36433_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Mar-2024 02:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_DoIT_36433_1",
+            "title": "Supply and Installation of Data Center Components",
+            "description": "Supply and Installation of Data Center Components",
+            "datePublished": "19-Feb-2024 05:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

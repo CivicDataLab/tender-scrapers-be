@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_31187_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Jul-2023 02:00 PM",
+    "tenderValueAmount": "5,05,90,798",
+    "tender": [
+        {
+            "id": "2023_PWBNH_31187_1",
+            "title": "Renovation of Brahmaputra State Guest House, Kharghuli, Guwahati-01 , Assam",
+            "description": "Renovation of Brahmaputra State Guest House, Kharghuli, Guwahati-01 , Assam",
+            "datePublished": "14-Jun-2023 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "5,05,90,798",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Jul-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

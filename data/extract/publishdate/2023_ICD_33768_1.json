@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ICD_33768_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "07-Dec-2023 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_ICD_33768_1",
+            "title": "ANNUAL MAINTENANCE CONTRACT FOR ROCKWELL AUTOMATION MAKE PROGRAMMABLE LOGIC CONTROLLERS (PLCs)",
+            "description": "ANNUAL MAINTENANCE CONTRACT FOR ROCKWELL AUTOMATION MAKE PROGRAMMABLE LOGIC CONTROLLERS (PLCs)",
+            "datePublished": "09-Nov-2023 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

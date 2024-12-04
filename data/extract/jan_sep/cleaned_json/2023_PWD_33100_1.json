@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33100_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Nov-2023 02:00 PM",
+    "tenderValueAmount": "24,04,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33100_1",
+            "title": "SOPD_G_23_24_19 Widening strengthening of Gohain Ali from NH-37 at Badulipar to starting point of approach road for anchillary project of NRL expansion at Dabidubi Govt. Land via Atmaram Gogoi Ali under Bokakhat Territorial Road Division, Bokakhat",
+            "description": "SOPD_G_23_24_19 Widening strengthening of Gohain Ali from NH-37 at Badulipar to starting point of approach road for anchillary project of NRL expansion at Dabidubi Govt. Land via Atmaram Gogoi Ali under Bokakhat Territorial Road Division, Bokakhat",
+            "datePublished": "16-Oct-2023 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,04,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

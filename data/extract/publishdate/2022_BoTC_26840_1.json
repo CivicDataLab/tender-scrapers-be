@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_BoTC_26840_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Sep-2022 02:30 PM",
+    "tenderValueAmount": "49,01,470",
+    "tender": [
+        {
+            "id": "2022_BoTC_26840_1",
+            "title": "DPRD/BTC/15FC/UT/Udl-20/2022/9",
+            "description": "DPRD/BTC/15FC/UT/Udl-20/2022/9",
+            "datePublished": "05-Sep-2022 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "49,01,470",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Sep-2022 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

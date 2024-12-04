@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_FCS_25775_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "21-Jun-2022 01:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2022_FCS_25775_1",
+            "title": "Handling and Transport Contractor and Fixation of Rate of food grains i.e. Rice under NFSA 2013 in respect of Golaghat District for the year 2022-23",
+            "description": "Handling and Transport Contractor and Fixation of Rate of food grains i.e. Rice under NFSA 2013 in respect of Golaghat District for the year 2022-23",
+            "datePublished": "30-May-2022 02:00 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Jun-2022 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

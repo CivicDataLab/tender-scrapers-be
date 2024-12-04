@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34730_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "20-Dec-2023 02:00 PM",
+    "tenderValueAmount": "82,87,000",
+    "tender": [
+        {
+            "id": "2023_PWD_34730_1",
+            "title": "CRC-DDTRD-188- Nizara Path and Jyotigiri Path",
+            "description": "CRC-DDTRD-188- Nizara Path and Jyotigiri Path",
+            "datePublished": "16-Dec-2023 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "82,87,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

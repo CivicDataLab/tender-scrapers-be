@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_37696_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Jul-2024 02:00 PM",
+    "tenderValueAmount": "44,03,000",
+    "tender": [
+        {
+            "id": "2024_BTC_37696_1",
+            "title": "Construction of Main Gate and Boundary Wall old North East Military School, Bijni under the Head Grants to BTC for Infrastructure Development Fund for the year 2023-24 (TN_90_18_R)",
+            "description": "Construction of Main Gate and Boundary Wall old North East Military School, Bijni under the Head Grants to BTC for Infrastructure Development Fund for the year 2023-24 (TN_90_18_R)",
+            "datePublished": "21-Jun-2024 03:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "44,03,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Jul-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

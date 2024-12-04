@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_ASPIR_23982_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2021-2022",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "07-Feb-2022 03:30 PM",
+    "tenderValueAmount": "0.0",
+    "tender": [
+        {
+            "id": "2022_ASPIR_23982_1",
+            "title": "Engagement of Consultant for Security Audit for FMIS and DIDS Systems",
+            "description": "Engagement of Consultant for Security Audit for FMIS and DIDS Systems",
+            "datePublished": "06-Jan-2022 06:30 PM",
+            "contractType": "Lump-sum",
+            "procurementMethod": "Single",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "0.0",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Feb-2022 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

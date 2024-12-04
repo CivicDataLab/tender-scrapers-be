@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_125",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "6,40,95,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_125",
+            "title": "MMNPPNA_23_24_86 (i) Construction of RCC drain at Paruj Bora road(Sechabat), (ii) Construction of Choukat Ali road including both side drain (Ch-0.00 m to Ch-140.00 m), (iii) Construction of drain by the side of R.D.M. road including culvert, (iv)",
+            "description": "MMNPPNA_23_24_86 (i) Construction of RCC drain at Paruj Bora road(Sechabat), (ii) Construction of Choukat Ali road including both side drain (Ch-0.00 m to Ch-140.00 m), (iii) Construction of drain by the side of R.D.M. road including culvert, (iv)",
+            "datePublished": "07-Oct-2023 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "6,40,95,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

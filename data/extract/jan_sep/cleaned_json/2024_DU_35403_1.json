@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DU_35403_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Feb-2024 02:00 PM",
+    "tenderValueAmount": "2,60,26,610",
+    "tender": [
+        {
+            "id": "2024_DU_35403_1",
+            "title": "Vertical Extension in the Building of Department of Sociology, D.U. (Civil, Sanitary and Water Supply and Electrification Works)",
+            "description": "Vertical Extension in the Building of Department of Sociology, D.U. (Civil, Sanitary and Water Supply and Electrification Works)",
+            "datePublished": "11-Jan-2024 05:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,60,26,610",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

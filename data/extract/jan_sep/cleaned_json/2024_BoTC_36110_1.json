@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_36110_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Feb-2024 03:00 PM",
+    "tenderValueAmount": "3,54,11,681",
+    "tender": [
+        {
+            "id": "2024_BoTC_36110_1",
+            "title": "Construction of New School Building for upgradation of Secondary Schools under Samagra Shiksha, Assam at Mothambil High School,Kokrajhar district, Assam",
+            "description": "Construction of New School Building for upgradation of Secondary Schools under Samagra Shiksha, Assam at Mothambil High School,Kokrajhar district, Assam",
+            "datePublished": "09-Feb-2024 11:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,54,11,681",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

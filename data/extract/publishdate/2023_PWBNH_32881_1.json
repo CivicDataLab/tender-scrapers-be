@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_32881_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Oct-2023 03:30 PM",
+    "tenderValueAmount": "2,88,24,127",
+    "tender": [
+        {
+            "id": "2023_PWBNH_32881_1",
+            "title": "TGR-29 Construction of Model Secondary Schools in the Tea Garden Areas, Assam at Kaber T.E. Dist Dibrugarh",
+            "description": "TGR-29 Construction of Model Secondary Schools in the Tea Garden Areas, Assam at Kaber T.E. Dist Dibrugarh",
+            "datePublished": "07-Oct-2023 06:05 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,88,24,127",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Oct-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

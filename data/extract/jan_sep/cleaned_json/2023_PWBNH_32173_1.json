@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_32173_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "18-Sep-2023 02:00 PM",
+    "tenderValueAmount": "41,73,19,586",
+    "tender": [
+        {
+            "id": "2023_PWBNH_32173_1",
+            "title": "R.C.C. multistoried (Basement_GR_8) residential building at senior officers colony, Khanapara, Guwahati-781022",
+            "description": "R.C.C. multistoried (Basement_GR_8) residential building at senior officers colony, Khanapara, Guwahati-781022",
+            "datePublished": "22-Aug-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "41,73,19,586",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "18-Sep-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

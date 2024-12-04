@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_38627_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Sep-2024 01:30 PM",
+    "tenderValueAmount": "45,75,635",
+    "tender": [
+        {
+            "id": "2024_BoTC_38627_1",
+            "title": "Repairing Renovation of (Main Building Main Building, Labour Room, Immunization Room Office), Staff Quarter and Site development at Gossaigaon BPHC under Kokrajhar District. Pkg No.538-1",
+            "description": "Repairing Renovation of (Main Building Main Building, Labour Room, Immunization Room Office), Staff Quarter and Site development at Gossaigaon BPHC under Kokrajhar District. Pkg No.538-1",
+            "datePublished": "23-Aug-2024 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "45,75,635",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Sep-2024 01:30 PM"
+                }
+            ]
+        }
+    ]
+}

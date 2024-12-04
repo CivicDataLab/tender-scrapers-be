@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_DHTS_28381_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2023 02:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2022_DHTS_28381_1",
+            "title": "Construction and establishment of Vermicompost Production Unit under World Bank Project APART",
+            "description": "Construction and establishment of Vermicompost Production Unit under World Bank Project APART",
+            "datePublished": "22-Dec-2022 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

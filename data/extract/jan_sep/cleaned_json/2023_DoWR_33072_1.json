@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_33072_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Nov-2023 03:00 PM",
+    "tenderValueAmount": "8,99,99,935",
+    "tender": [
+        {
+            "id": "2023_DoWR_33072_1",
+            "title": "Widening of L/B embankment of River Noona from 0.00 Km to 17.00 Km at Different reaches.",
+            "description": "Widening of L/B embankment of River Noona from 0.00 Km to 17.00 Km at Different reaches.",
+            "datePublished": "14-Oct-2023 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "8,99,99,935",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

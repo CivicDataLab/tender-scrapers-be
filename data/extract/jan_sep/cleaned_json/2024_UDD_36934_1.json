@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_UDD_36934_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Mar-2024 12:30 PM",
+    "tenderValueAmount": "30,70,006",
+    "tender": [
+        {
+            "id": "2024_UDD_36934_1",
+            "title": "Items and equipements for Solid Waste Management.",
+            "description": "Items and equipements for Solid Waste Management.",
+            "datePublished": "05-Mar-2024 06:10 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "30,70,006",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Mar-2024 12:30 PM"
+                }
+            ]
+        }
+    ]
+}

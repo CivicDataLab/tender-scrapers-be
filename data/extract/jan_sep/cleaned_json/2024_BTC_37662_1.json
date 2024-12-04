@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_37662_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Jul-2024 02:00 PM",
+    "tenderValueAmount": "29,99,997",
+    "tender": [
+        {
+            "id": "2024_BTC_37662_1",
+            "title": "Construction of Souraguri Namghar under SOPD (BTC) Fund for the financial year of 2023-24. TN_79_1",
+            "description": "Construction of Souraguri Namghar under SOPD (BTC) Fund for the financial year of 2023-24. TN_79_1",
+            "datePublished": "20-Jun-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "29,99,997",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Jul-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

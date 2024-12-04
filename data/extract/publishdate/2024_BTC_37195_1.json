@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_37195_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Apr-2024 02:00 PM",
+    "tenderValueAmount": "2,96,81,792",
+    "tender": [
+        {
+            "id": "2024_BTC_37195_1",
+            "title": "Supplying with Installation of 14 Mtrs. Solar High Mast Light and 30 Watt Solar Street, Campus Light to the Bodoland Territorial Council Secretariat Campus and Green Field, Bodofa Nwgwr, Kokrajhar. TN No.93_01",
+            "description": "Supplying with Installation of 14 Mtrs. Solar High Mast Light and 30 Watt Solar Street, Campus Light to the Bodoland Territorial Council Secretariat Campus and Green Field, Bodofa Nwgwr, Kokrajhar. TN No.93_01",
+            "datePublished": "14-Mar-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,96,81,792",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Apr-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

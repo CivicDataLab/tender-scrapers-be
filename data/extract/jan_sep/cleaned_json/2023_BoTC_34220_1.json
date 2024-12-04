@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_34220_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Dec-2023 02:30 PM",
+    "tenderValueAmount": "55,96,917",
+    "tender": [
+        {
+            "id": "2023_BoTC_34220_1",
+            "title": "Const of road with CC Block from Kangkali Chowk to Soshanghat under SOPD for the year 2023-24.",
+            "description": "Const of road with CC Block from Kangkali Chowk to Soshanghat under SOPD for the year 2023-24.",
+            "datePublished": "27-Nov-2023 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "55,96,917",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Dec-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

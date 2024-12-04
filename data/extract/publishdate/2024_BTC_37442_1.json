@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_37442_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Mar-2024 02:00 PM",
+    "tenderValueAmount": "50,96,700",
+    "tender": [
+        {
+            "id": "2024_BTC_37442_1",
+            "title": "Construction of Administrative Building (RCC, Ground Floor only) at K.B. Deulkuchi HS School under Grants to BTC for Infrastructure Development for the year 2023-24. TN_90_25",
+            "description": "Construction of Administrative Building (RCC, Ground Floor only) at K.B. Deulkuchi HS School under Grants to BTC for Infrastructure Development for the year 2023-24. TN_90_25",
+            "datePublished": "22-Mar-2024 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "50,96,700",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

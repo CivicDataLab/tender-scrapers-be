@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_35262_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Jan-2024 04:00 PM",
+    "tenderValueAmount": "23,37,35,900",
+    "tender": [
+        {
+            "id": "2024_BTC_35262_1",
+            "title": "Construction of Polytechnic and Vocational Training Institute at Parbatjhora, District Kokrajhar, Assam. (TN_52_2)",
+            "description": "Construction of Polytechnic and Vocational Training Institute at Parbatjhora, District Kokrajhar, Assam. (TN_52_2)",
+            "datePublished": "06-Jan-2024 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "23,37,35,900",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jan-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

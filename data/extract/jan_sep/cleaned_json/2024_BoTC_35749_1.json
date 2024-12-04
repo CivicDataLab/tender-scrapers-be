@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_35749_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "06-Feb-2024 03:30 PM",
+    "tenderValueAmount": "1,00,00,000",
+    "tender": [
+        {
+            "id": "2024_BoTC_35749_1",
+            "title": "Supply of 471 Nos of Bicycle with a pair of Milk Can-Cap. 20 ltr.",
+            "description": "Supply of 471 Nos of Bicycle with a pair of Milk Can-Cap. 20 ltr.",
+            "datePublished": "27-Jan-2024 05:50 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "1,00,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Feb-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_UDD_35342_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "24-Jan-2024 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_UDD_35342_1",
+            "title": "Empanelment of RSETI, NIESBUD, Ni-MSME, EDI, NCVET recognized institutions/bodies for conducting Entrepreneurship Development Program (EDP) training for 3 days, targeting individual and group entrepreneurs, SHG/ALF/CLF members under DAY-NULM, Assam",
+            "description": "Empanelment of RSETI, NIESBUD, Ni-MSME, EDI, NCVET recognized institutions/bodies for conducting Entrepreneurship Development Program (EDP) training for 3 days, targeting individual and group entrepreneurs, SHG/ALF/CLF members under DAY-NULM, Assam",
+            "datePublished": "10-Jan-2024 10:00 AM",
+            "contractType": "EOI",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "24-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

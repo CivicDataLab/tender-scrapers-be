@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35434_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "18-Jan-2024 02:00 PM",
+    "tenderValueAmount": "37,55,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35434_2",
+            "title": "CRC-GCTRD -131- Kanaklata Road",
+            "description": "CRC-GCTRD -131- Kanaklata Road",
+            "datePublished": "12-Jan-2024 02:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "37,55,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "18-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

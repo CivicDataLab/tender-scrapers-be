@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_CD_33174_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "31-Oct-2023 03:30 PM",
+    "tenderValueAmount": "64,47,000",
+    "tender": [
+        {
+            "id": "2023_CD_33174_2",
+            "title": "Renovation / Up-gradation and New Creation of Warehousing Facilities under Scheme of NABARDs RIDF phase-II for ICD, Amingaon",
+            "description": "Renovation / Up-gradation and New Creation of Warehousing Facilities under Scheme of NABARDs RIDF phase-II for ICD, Amingaon",
+            "datePublished": "20-Oct-2023 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "64,47,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "31-Oct-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

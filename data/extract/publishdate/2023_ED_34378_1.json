@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ED_34378_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "11-Jan-2024 10:00 AM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_ED_34378_1",
+            "title": "Grant of IMFL OFF License for the Shop No HOJ 2 at Hojai District",
+            "description": "Grant of IMFL OFF License for the Shop No HOJ 2 at Hojai District",
+            "datePublished": "11-Dec-2023 10:00 AM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Jan-2024 10:00 AM"
+                }
+            ]
+        }
+    ]
+}

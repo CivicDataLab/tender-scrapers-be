@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33461_15",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Nov-2023 02:00 PM",
+    "tenderValueAmount": "3,07,92,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33461_15",
+            "title": "MMNPPNA_23_24_183 (i) Construction of Dr. Zakir Hussain Road in Dhubri town( Ch 0.00 m to 1020.00m), (ii)Construction of I. G. Road Ward No-13 in Dhubri Town , (iii)Improvement of Ghosh Para Road in Dhubri Town( Ch 0.00 m to 505.00m), (iv)Construc",
+            "description": "MMNPPNA_23_24_183 (i) Construction of Dr. Zakir Hussain Road in Dhubri town( Ch 0.00 m to 1020.00m), (ii)Construction of I. G. Road Ward No-13 in Dhubri Town , (iii)Improvement of Ghosh Para Road in Dhubri Town( Ch 0.00 m to 505.00m), (iv)Construc",
+            "datePublished": "02-Nov-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,07,92,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

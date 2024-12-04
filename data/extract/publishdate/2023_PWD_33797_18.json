@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33797_18",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Dec-2023 03:00 PM",
+    "tenderValueAmount": "51,35,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33797_18",
+            "title": "MMPNA/2023-24/101_Periodic Renewal of road from Abandoned NH-37 FCI Godown to Moilapathar SH46 , ASTC Point to Holywood Club , AB NH to Kismatpur Kabasthan PWD road backside of Solace Hospital , Nayapara to SH 46 via Idgah , AB NH To Kismatpur Bar",
+            "description": "MMPNA/2023-24/101_Periodic Renewal of road from Abandoned NH-37 FCI Godown to Moilapathar SH46 , ASTC Point to Holywood Club , AB NH to Kismatpur Kabasthan PWD road backside of Solace Hospital , Nayapara to SH 46 via Idgah , AB NH To Kismatpur Bar",
+            "datePublished": "10-Nov-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "51,35,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

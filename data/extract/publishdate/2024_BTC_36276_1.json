@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_36276_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Feb-2024 03:00 PM",
+    "tenderValueAmount": "3,11,36,942",
+    "tender": [
+        {
+            "id": "2024_BTC_36276_1",
+            "title": "Construction of CC Block road from 2 No. Uttar Dimakuchi (Soni Mandir) to Dimakuchi Gadhuli Via 3 No. Uttar Dimakuchi Kalahandi Chuba under CMs Goodwill Mission Project for the financial year 2023-24 of District Udalguri. (TN_26_128_R)",
+            "description": "Construction of CC Block road from 2 No. Uttar Dimakuchi (Soni Mandir) to Dimakuchi Gadhuli Via 3 No. Uttar Dimakuchi Kalahandi Chuba under CMs Goodwill Mission Project for the financial year 2023-24 of District Udalguri. (TN_26_128_R)",
+            "datePublished": "15-Feb-2024 10:30 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,11,36,942",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

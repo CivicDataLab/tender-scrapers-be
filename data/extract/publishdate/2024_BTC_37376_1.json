@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_37376_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Mar-2024 02:00 PM",
+    "tenderValueAmount": "68,96,000",
+    "tender": [
+        {
+            "id": "2024_BTC_37376_1",
+            "title": "Construction of Statue of Nileswar Brahma and Kamini Narzary with Boundary Wall and iron gate at Binnakhata in Kokrajhar District under the Head Grants to BC for infrastructure Dev. fund for the year 2023-24 TN_90_9",
+            "description": "Construction of Statue of Nileswar Brahma and Kamini Narzary with Boundary Wall and iron gate at Binnakhata in Kokrajhar District under the Head Grants to BC for infrastructure Dev. fund for the year 2023-24 TN_90_9",
+            "datePublished": "16-Mar-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "68,96,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

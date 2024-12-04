@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33797_267",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Dec-2023 03:00 PM",
+    "tenderValueAmount": "41,25,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33797_267",
+            "title": "MMPNA/2023-24/128_Periodic Renewal of road from road Jonai Bazar to Tinmile Ghat road under MUKHYA MANTRI PATH NABIKARAN AACHANI for the year 2023-24 under Jonai LAC",
+            "description": "MMPNA/2023-24/128_Periodic Renewal of road from road Jonai Bazar to Tinmile Ghat road under MUKHYA MANTRI PATH NABIKARAN AACHANI for the year 2023-24 under Jonai LAC",
+            "datePublished": "14-Nov-2023 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "41,25,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

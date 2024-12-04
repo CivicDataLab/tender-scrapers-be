@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_SE_34410_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Dec-2023 02:00 PM",
+    "tenderValueAmount": "44,74,000",
+    "tender": [
+        {
+            "id": "2023_SE_34410_1",
+            "title": "Changing of Roofing Sheet over Existing Roof Truss of Godown Building (A-Type) of Board of Secondary Education",
+            "description": "Changing of Roofing Sheet over Existing Roof Truss of Godown Building (A-Type) of Board of Secondary Education",
+            "datePublished": "05-Dec-2023 01:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "44,74,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

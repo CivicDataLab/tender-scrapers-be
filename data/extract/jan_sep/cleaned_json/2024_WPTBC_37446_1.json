@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_WPTBC_37446_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Apr-2024 03:30 PM",
+    "tenderValueAmount": "24,99,038",
+    "tender": [
+        {
+            "id": "2024_WPTBC_37446_1",
+            "title": "Construction of boundary wall at Pub Dikharu LP school, Pub Dikharu gaon under Howraghat LAC, Dist- Karbi Anglong.",
+            "description": "Construction of boundary wall at Pub Dikharu LP school, Pub Dikharu gaon under Howraghat LAC, Dist- Karbi Anglong.",
+            "datePublished": "22-Mar-2024 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,99,038",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Apr-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

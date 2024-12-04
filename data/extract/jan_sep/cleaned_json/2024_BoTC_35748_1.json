@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_35748_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "06-Feb-2024 03:30 PM",
+    "tenderValueAmount": "1,50,00,000",
+    "tender": [
+        {
+            "id": "2024_BoTC_35748_1",
+            "title": "Supply of 750 Nos pig unit of 4to5 months age including transportation and Insurance cost",
+            "description": "Supply of 750 Nos pig unit of 4to5 months age including transportation and Insurance cost",
+            "datePublished": "27-Jan-2024 05:30 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "1,50,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Feb-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

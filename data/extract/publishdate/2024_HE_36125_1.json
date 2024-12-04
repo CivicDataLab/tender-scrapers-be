@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_HE_36125_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "02-Mar-2024 11:30 AM",
+    "tenderValueAmount": "29,54,800",
+    "tender": [
+        {
+            "id": "2024_HE_36125_1",
+            "title": "Supply and Installation of Fluorescence Microscope in laboratory of Swahid Smriti Mahavidyalaya Belsor Nalbari",
+            "description": "Supply and Installation of Fluorescence Microscope in laboratory of Swahid Smriti Mahavidyalaya Belsor Nalbari",
+            "datePublished": "09-Feb-2024 03:10 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "29,54,800",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Mar-2024 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

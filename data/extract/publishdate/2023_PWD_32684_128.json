@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_128",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "3,07,22,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_128",
+            "title": "MMNPPNA_23_24_89 (i) Construction of RCC drain outlet from RRB road to Kollong, (ii) Reconstruction and widening of Rabin Bordoloi road (Ch-0.00 m to Ch-330.00 m), (iii) Construction of Namghar Road bye-lane I (Ch-0.00 m to Ch-65.00 m),Bye lane 2 (Ch",
+            "description": "MMNPPNA_23_24_89 (i) Construction of RCC drain outlet from RRB road to Kollong, (ii) Reconstruction and widening of Rabin Bordoloi road (Ch-0.00 m to Ch-330.00 m), (iii) Construction of Namghar Road bye-lane I (Ch-0.00 m to Ch-65.00 m),Bye lane 2 (Ch",
+            "datePublished": "07-Oct-2023 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,07,22,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

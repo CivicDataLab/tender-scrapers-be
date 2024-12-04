@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ID_33483_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Nov-2023 03:00 PM",
+    "tenderValueAmount": "1,47,73,454",
+    "tender": [
+        {
+            "id": "2023_ID_33483_2",
+            "title": "CONSTRUCTION OF SOLAR POWERED MDTW I_S AT BISWANATH LAC 4 POINTS UNDER RIDF_XXIX_NABARD_ FOR THE YEAR 2023_24 UNDER BISWANATH BEHALI DIVISION I BISWANATH Package No 2",
+            "description": "CONSTRUCTION OF SOLAR POWERED MDTW I_S AT BISWANATH LAC 4 POINTS UNDER RIDF_XXIX_NABARD_ FOR THE YEAR 2023_24 UNDER BISWANATH BEHALI DIVISION I BISWANATH Package No 2",
+            "datePublished": "04-Nov-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,47,73,454",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

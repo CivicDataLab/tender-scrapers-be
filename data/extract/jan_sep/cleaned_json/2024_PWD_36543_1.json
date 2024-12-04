@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36543_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Mar-2024 02:00 PM",
+    "tenderValueAmount": "2,41,70,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36543_1",
+            "title": "MMPPNA_23_24_335 (i) Construction of Road from Kakmarapar PWD Road to Rongpur Pt-II ,(ii) Construction of Road from Dholai PWD Road to Dholai Molai Pt-III ,(iii) Construction of Road from NH-06 near Falaha Brick Industry to Rongpur Pt-VI, (iv)",
+            "description": "MMPPNA_23_24_335 (i) Construction of Road from Kakmarapar PWD Road to Rongpur Pt-II ,(ii) Construction of Road from Dholai PWD Road to Dholai Molai Pt-III ,(iii) Construction of Road from NH-06 near Falaha Brick Industry to Rongpur Pt-VI, (iv)",
+            "datePublished": "23-Feb-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,41,70,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34395_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Dec-2023 02:00 PM",
+    "tenderValueAmount": "8,45,87,000",
+    "tender": [
+        {
+            "id": "2023_PWD_34395_1",
+            "title": "RIDF_XXIX_23_24_71 Construction of road from (i) BLJC road near Mahipalkuchi rest house to Balikuchi Mahajanpara Road (near Masjid) connecting Dhulara, 1 no Hassang Dalma Suburi, (ii) Baihata Goreswar PWD near Gasbari Bhagawat Namghar to Mahajanpara",
+            "description": "RIDF_XXIX_23_24_71 Construction of road from (i) BLJC road near Mahipalkuchi rest house to Balikuchi Mahajanpara Road (near Masjid) connecting Dhulara, 1 no Hassang Dalma Suburi, (ii) Baihata Goreswar PWD near Gasbari Bhagawat Namghar to Mahajanpara",
+            "datePublished": "04-Dec-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "8,45,87,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ASTC_37241_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Apr-2024 03:00 PM",
+    "tenderValueAmount": "17,66,92,870",
+    "tender": [
+        {
+            "id": "2024_ASTC_37241_1",
+            "title": "CONSTRUCTION OF EV CHARCING STATION AT ASTC RUPNAGAR CAMPUS,GUWAHATI UNDER PM-E BUS SEWA SCHEME",
+            "description": "CONSTRUCTION OF EV CHARCING STATION AT ASTC RUPNAGAR CAMPUS,GUWAHATI UNDER PM-E BUS SEWA SCHEME",
+            "datePublished": "14-Mar-2024 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "17,66,92,870",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Apr-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

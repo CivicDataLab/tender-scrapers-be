@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_35500_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:00 PM",
+    "tenderValueAmount": "49,49,959",
+    "tender": [
+        {
+            "id": "2024_BTC_35500_1",
+            "title": "Construction of DTO Office building Tamulpur (vertical extension 1st floor) Iron Gate, Land Development etc. at Tamulpur Distict under AOP for the financial year 2023-24.TN-59-5",
+            "description": "Construction of DTO Office building Tamulpur (vertical extension 1st floor) Iron Gate, Land Development etc. at Tamulpur Distict under AOP for the financial year 2023-24.TN-59-5",
+            "datePublished": "16-Jan-2024 01:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "49,49,959",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_35207_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "24-Jan-2024 03:30 PM",
+    "tenderValueAmount": "20,77,348",
+    "tender": [
+        {
+            "id": "2024_BoTC_35207_1",
+            "title": "Construction of RCC covered drain from BMB Office to Irrigation Road in Ward No -03 under Bijni Municipal Board, Bijni",
+            "description": "Construction of RCC covered drain from BMB Office to Irrigation Road in Ward No -03 under Bijni Municipal Board, Bijni",
+            "datePublished": "04-Jan-2024 06:40 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "20,77,348",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "24-Jan-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

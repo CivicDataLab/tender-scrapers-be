@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DHUA_29489_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Mar-2023 03:00 PM",
+    "tenderValueAmount": "21,09,35,000",
+    "tender": [
+        {
+            "id": "2023_DHUA_29489_1",
+            "title": "Reconstruction of Guard Wall along the Banks of Bharalu River from Rajgarh Road Bridge to G.S Road Bridge",
+            "description": "Reconstruction of Guard Wall along the Banks of Bharalu River from Rajgarh Road Bridge to G.S Road Bridge",
+            "datePublished": "22-Feb-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "21,09,35,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Mar-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

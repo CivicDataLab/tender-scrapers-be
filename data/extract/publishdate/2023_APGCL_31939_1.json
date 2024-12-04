@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_APGCL_31939_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "31-Aug-2023 03:00 PM",
+    "tenderValueAmount": "1,33,67,040",
+    "tender": [
+        {
+            "id": "2023_APGCL_31939_1",
+            "title": "Slope protection at left bank KLHEP",
+            "description": "Slope protection at left bank KLHEP",
+            "datePublished": "05-Aug-2023 09:00 AM",
+            "contractType": "Tender cum Auction",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "1,33,67,040",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "31-Aug-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DLRAR_35653_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "21-Feb-2024 03:30 PM",
+    "tenderValueAmount": "36,63,00,000",
+    "tender": [
+        {
+            "id": "2024_DLRAR_35653_1",
+            "title": "Engagement of Firm for outsourcing of Human Resources for conducting Survey works for DLRS Assam",
+            "description": "Engagement of Firm for outsourcing of Human Resources for conducting Survey works for DLRS Assam",
+            "datePublished": "22-Jan-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "36,63,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Feb-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35816_7",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Feb-2024 02:00 PM",
+    "tenderValueAmount": "69,65,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35816_7",
+            "title": "MMNPPNA_23_24_280 (i)Strengthening of Digboi Pengeree road to Muliabari Basti Ward No 8 (ii) Strengthening of Lachit Nagar Road near Sani Mandir (iii) Strengthening of Khanikar Path (iv) Strengthening of Manohabori Road Back Side Muliabari Bazar road",
+            "description": "MMNPPNA_23_24_280 (i)Strengthening of Digboi Pengeree road to Muliabari Basti Ward No 8 (ii) Strengthening of Lachit Nagar Road near Sani Mandir (iii) Strengthening of Khanikar Path (iv) Strengthening of Manohabori Road Back Side Muliabari Bazar road",
+            "datePublished": "31-Jan-2024 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "69,65,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

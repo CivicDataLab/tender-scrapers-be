@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_GMDA_33885_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Dec-2023 03:00 PM",
+    "tenderValueAmount": "50,98,263",
+    "tender": [
+        {
+            "id": "2023_GMDA_33885_1",
+            "title": "Face lifting of Bhangagarh Flyover",
+            "description": "Face lifting of Bhangagarh Flyover",
+            "datePublished": "11-Nov-2023 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "50,98,263",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

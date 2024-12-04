@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_GMC_36062_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Feb-2024 03:00 PM",
+    "tenderValueAmount": "21,00,000",
+    "tender": [
+        {
+            "id": "2024_GMC_36062_1",
+            "title": "Construction of silt Chamber at ASEB Road Narengi",
+            "description": "Construction of silt Chamber at ASEB Road Narengi",
+            "datePublished": "08-Feb-2024 02:00 PM",
+            "contractType": "Lump-sum",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "21,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

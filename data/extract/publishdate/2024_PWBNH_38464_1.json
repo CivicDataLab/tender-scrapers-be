@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_38464_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Aug-2024 02:00 PM",
+    "tenderValueAmount": "31,15,390",
+    "tender": [
+        {
+            "id": "2024_PWBNH_38464_1",
+            "title": "Construction of New school Building for upgradation of Secondary to Higher Secondary School under Samagra Shiksha Assam at Rampur High School in Lakhimpur District (FURNITURE)",
+            "description": "Construction of New school Building for upgradation of Secondary to Higher Secondary School under Samagra Shiksha Assam at Rampur High School in Lakhimpur District (FURNITURE)",
+            "datePublished": "12-Aug-2024 05:15 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "31,15,390",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Aug-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

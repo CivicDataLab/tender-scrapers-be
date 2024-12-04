@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_33572_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Nov-2023 11:30 AM",
+    "tenderValueAmount": "1,80,87,441",
+    "tender": [
+        {
+            "id": "2023_PWBNH_33572_1",
+            "title": "Redevelopment of Secretariat Complex at Dispur, Guwahati-06 (Package 1 - Construction of Playground and Road along with Horticulture work and Parking facilities)",
+            "description": "Redevelopment of Secretariat Complex at Dispur, Guwahati-06 (Package 1 - Construction of Playground and Road along with Horticulture work and Parking facilities)",
+            "datePublished": "08-Nov-2023 01:40 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,80,87,441",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Nov-2023 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

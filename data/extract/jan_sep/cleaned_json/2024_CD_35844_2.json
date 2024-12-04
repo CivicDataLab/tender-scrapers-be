@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_CD_35844_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "09-Feb-2024 01:30 PM",
+    "tenderValueAmount": "2,00,00,000",
+    "tender": [
+        {
+            "id": "2024_CD_35844_2",
+            "title": "Handling of Foodgrains at Haibargaon",
+            "description": "Handling of Foodgrains at Haibargaon",
+            "datePublished": "01-Feb-2024 06:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "2,00,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Feb-2024 01:30 PM"
+                }
+            ]
+        }
+    ]
+}

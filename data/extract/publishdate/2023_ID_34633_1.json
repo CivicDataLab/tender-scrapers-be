@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ID_34633_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Jan-2024 03:00 PM",
+    "tenderValueAmount": "1,42,91,418",
+    "tender": [
+        {
+            "id": "2023_ID_34633_1",
+            "title": "L.I.S FROM RIVER DESANG AT JALUKONI VILLAGE OF NONGOLAMORA GP UNDER THOWRA LAC UNDER NABARD _RIDF_XXIX FOR THE YEAR 2023_24 UNDER SIVASAGAR_THOWRA DIVISION_I_SIVASAGAR",
+            "description": "L.I.S FROM RIVER DESANG AT JALUKONI VILLAGE OF NONGOLAMORA GP UNDER THOWRA LAC UNDER NABARD _RIDF_XXIX FOR THE YEAR 2023_24 UNDER SIVASAGAR_THOWRA DIVISION_I_SIVASAGAR",
+            "datePublished": "12-Dec-2023 02:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,42,91,418",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_NHM_31911_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "21-Aug-2023 03:00 PM",
+    "tenderValueAmount": "18,53,48,106",
+    "tender": [
+        {
+            "id": "2023_NHM_31911_1",
+            "title": "Construction of Maternal and Child Health Wing at S K Roy Civil Hospital in Hailakandi district under NHM Assam",
+            "description": "Construction of Maternal and Child Health Wing at S K Roy Civil Hospital in Hailakandi district under NHM Assam",
+            "datePublished": "03-Aug-2023 09:00 AM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "18,53,48,106",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Aug-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

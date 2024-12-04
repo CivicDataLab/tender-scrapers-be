@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37772_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Aug-2024 02:30 PM",
+    "tenderValueAmount": "1,91,82,599",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37772_1",
+            "title": "Dev. of (A/T First Floor) and Construction of RCC G 2 utility block near O/o the All-Assam Judicial Officers Association at Chandmari, Guwahati-3 by Assam Judicial Service Association under United Fund (State Specific Scheme) for the year 2023-24",
+            "description": "Dev. of (A/T First Floor) and Construction of RCC G 2 utility block near O/o the All-Assam Judicial Officers Association at Chandmari, Guwahati-3 by Assam Judicial Service Association under United Fund (State Specific Scheme) for the year 2023-24",
+            "datePublished": "28-Jun-2024 12:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,91,82,599",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Aug-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

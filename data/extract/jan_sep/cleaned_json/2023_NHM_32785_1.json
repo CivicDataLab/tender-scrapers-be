@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_NHM_32785_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Oct-2023 03:00 PM",
+    "tenderValueAmount": "49,99,064",
+    "tender": [
+        {
+            "id": "2023_NHM_32785_1",
+            "title": "Construction of 100 bedded MCH wing with accommodation for staff at existing Sivasagar Civil Hospital in Sivasagar district Addl work for covering the open to sky portion in hospital building",
+            "description": "Construction of 100 bedded MCH wing with accommodation for staff at existing Sivasagar Civil Hospital in Sivasagar district Addl work for covering the open to sky portion in hospital building",
+            "datePublished": "06-Oct-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "49,99,064",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Oct-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

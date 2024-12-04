@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33170_114",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Nov-2023 02:00 PM",
+    "tenderValueAmount": "12,49,06,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33170_114",
+            "title": "MMUPPNA_RIDF_XXIX_23_24_60 Improvement of (i) road from Sabajpur to Nilbagan Murajhar road at 8th km (Kapashbari to Murajhar road) from Ch. 2150.00m to Ch. 7800.00m, (ii) Doboka Market to Jamunamukh (Doboka market to Kathkutia gaon) (from Ch. 0.00m t",
+            "description": "MMUPPNA_RIDF_XXIX_23_24_60 Improvement of (i) road from Sabajpur to Nilbagan Murajhar road at 8th km (Kapashbari to Murajhar road) from Ch. 2150.00m to Ch. 7800.00m, (ii) Doboka Market to Jamunamukh (Doboka market to Kathkutia gaon) (from Ch. 0.00m t",
+            "datePublished": "27-Oct-2023 11:55 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "12,49,06,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

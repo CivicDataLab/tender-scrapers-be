@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34478_5",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "18-Dec-2023 03:10 PM",
+    "tenderValueAmount": "33,99,000",
+    "tender": [
+        {
+            "id": "2023_PWD_34478_5",
+            "title": "Periodic Renewal of road from Vetarbond Bazar to Muneswarpur road under Mukhya Mantrir Path Nabikaran Achani for the year 2023-24 under Ramkrishna Nagar LAC",
+            "description": "Periodic Renewal of road from Vetarbond Bazar to Muneswarpur road under Mukhya Mantrir Path Nabikaran Achani for the year 2023-24 under Ramkrishna Nagar LAC",
+            "datePublished": "08-Dec-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "33,99,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "18-Dec-2023 03:10 PM"
+                }
+            ]
+        }
+    ]
+}

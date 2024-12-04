@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33726_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Dec-2023 02:00 PM",
+    "tenderValueAmount": "2,66,38,633",
+    "tender": [
+        {
+            "id": "2023_BTC_33726_1",
+            "title": "Construction of road from Kalpani Bazar to Salam Chowk Raghobil via Paka Masjid with 2 nos box type culvert approximately 3.5 Km under Chunbari VCDC, Salbari, Baksa under CMs Goodwill Mission Project for the year 2023-24. TN_26_63",
+            "description": "Construction of road from Kalpani Bazar to Salam Chowk Raghobil via Paka Masjid with 2 nos box type culvert approximately 3.5 Km under Chunbari VCDC, Salbari, Baksa under CMs Goodwill Mission Project for the year 2023-24. TN_26_63",
+            "datePublished": "09-Nov-2023 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,66,38,633",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35897_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Feb-2024 12:30 PM",
+    "tenderValueAmount": "38,09,609",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35897_1",
+            "title": "Development and Construction of Main Gate of Pragjyotish University, Kamrup (Metro) at Hajongbari, Chandrapur under Untied Fund scheme for the year 2022-23",
+            "description": "Development and Construction of Main Gate of Pragjyotish University, Kamrup (Metro) at Hajongbari, Chandrapur under Untied Fund scheme for the year 2022-23",
+            "datePublished": "06-Feb-2024 12:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "38,09,609",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Feb-2024 12:30 PM"
+                }
+            ]
+        }
+    ]
+}

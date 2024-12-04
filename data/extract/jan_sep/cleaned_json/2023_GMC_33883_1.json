@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_GMC_33883_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Dec-2023 02:30 PM",
+    "tenderValueAmount": "42,33,600",
+    "tender": [
+        {
+            "id": "2023_GMC_33883_1",
+            "title": "Construction of Boundary wall at Adabari under GMC",
+            "description": "Construction of Boundary wall at Adabari under GMC",
+            "datePublished": "11-Nov-2023 11:00 AM",
+            "contractType": "Lump-sum",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "42,33,600",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Dec-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

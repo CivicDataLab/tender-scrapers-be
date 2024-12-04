@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_NHM_31176_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Jun-2023 02:00 PM",
+    "tenderValueAmount": "37,71,153",
+    "tender": [
+        {
+            "id": "2023_NHM_31176_1",
+            "title": "Repairing Renovation of 120 Nos of Sub Centers to upgrade them as Health and Wellness Centers at various places of Assam from RoP 2021-22 GROUP 20 5 nos scheme in Tinsukia District",
+            "description": "Repairing Renovation of 120 Nos of Sub Centers to upgrade them as Health and Wellness Centers at various places of Assam from RoP 2021-22 GROUP 20 5 nos scheme in Tinsukia District",
+            "datePublished": "13-Jun-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "37,71,153",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jun-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32885_47",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 02:00 PM",
+    "tenderValueAmount": "1,00,00,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32885_47",
+            "title": "MMNPPNA_23_24_235 (i) Improvement of road from Tihu Circle office to Tihu FRU ( Gaurab Path), (ii) Construction of Road from Tihu Bidyanaagar road to Singrabari road via Kid Veda, Ward no-1, (iii) Construction of Road from Tihu feeder road Fire Stati",
+            "description": "MMNPPNA_23_24_235 (i) Improvement of road from Tihu Circle office to Tihu FRU ( Gaurab Path), (ii) Construction of Road from Tihu Bidyanaagar road to Singrabari road via Kid Veda, Ward no-1, (iii) Construction of Road from Tihu feeder road Fire Stati",
+            "datePublished": "11-Oct-2023 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,00,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

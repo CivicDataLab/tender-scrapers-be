@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PCCF_34390_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Jan-2024 01:00 PM",
+    "tenderValueAmount": "31,55,900",
+    "tender": [
+        {
+            "id": "2023_PCCF_34390_1",
+            "title": "Construction of Boundary Fencing with RCC post and chain linked fencing (Perimeter of fencing will vary as per the shape of the plot)",
+            "description": "Construction of Boundary Fencing with RCC post and chain linked fencing (Perimeter of fencing will vary as per the shape of the plot)",
+            "datePublished": "04-Dec-2023 05:00 PM",
+            "contractType": "Percentage",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "31,55,900",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Jan-2024 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

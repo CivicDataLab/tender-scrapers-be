@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_37437_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Apr-2024 11:00 AM",
+    "tenderValueAmount": "3,29,04,934",
+    "tender": [
+        {
+            "id": "2024_PWD_37437_1",
+            "title": "Ex post facto approval for Construction of Four numbers of temporary Helipads including Barricades and Approaches Road from Helipad to Dais including Car parking for VVIP for the visit of Honble Central Transport Minister ...",
+            "description": "Ex post facto approval for Construction of Four numbers of temporary Helipads including Barricades and Approaches Road from Helipad to Dais including Car parking for VVIP for the visit of Honble Central Transport Minister ...",
+            "datePublished": "21-Mar-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,29,04,934",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Apr-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

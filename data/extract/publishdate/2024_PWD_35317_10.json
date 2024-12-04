@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35317_10",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Jan-2024 02:30 PM",
+    "tenderValueAmount": "45,07,40,100",
+    "tender": [
+        {
+            "id": "2024_PWD_35317_10",
+            "title": "AsomMala2.0/ Nagaon/01",
+            "description": "AsomMala2.0/ Nagaon/01",
+            "datePublished": "09-Jan-2024 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "45,07,40,100",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_35625_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Feb-2024 03:00 PM",
+    "tenderValueAmount": "88,42,400",
+    "tender": [
+        {
+            "id": "2024_BTC_35625_1",
+            "title": "Construction of Executive Engineer Quarter for E.E., PWD (R and B) Division and E.E., PWD (B NH) Udalguri and Baksa District Territorial Building Division, Udalguri (G plus1) under SOPD for the year 2023-24 (TN_63_2)",
+            "description": "Construction of Executive Engineer Quarter for E.E., PWD (R and B) Division and E.E., PWD (B NH) Udalguri and Baksa District Territorial Building Division, Udalguri (G plus1) under SOPD for the year 2023-24 (TN_63_2)",
+            "datePublished": "20-Jan-2024 05:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "88,42,400",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

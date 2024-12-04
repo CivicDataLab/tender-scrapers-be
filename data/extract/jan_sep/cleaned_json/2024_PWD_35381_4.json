@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35381_4",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Jan-2024 02:00 PM",
+    "tenderValueAmount": "2,39,60,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35381_4",
+            "title": "SOPD_G_23_24_50 (i) Construction of Road from Bahguri Gaon to Soguri Dhemaji Mirigaon Connecting Road from Ch. 470.00 m to 2350.00 m, (ii) Construction of Naharani Sukura Ali Part to Bhakatiya Dighala Chuk Road from Ch. 0.00 m to 800.00 m,....",
+            "description": "SOPD_G_23_24_50 (i) Construction of Road from Bahguri Gaon to Soguri Dhemaji Mirigaon Connecting Road from Ch. 470.00 m to 2350.00 m, (ii) Construction of Naharani Sukura Ali Part to Bhakatiya Dighala Chuk Road from Ch. 0.00 m to 800.00 m,....",
+            "datePublished": "10-Jan-2024 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,39,60,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

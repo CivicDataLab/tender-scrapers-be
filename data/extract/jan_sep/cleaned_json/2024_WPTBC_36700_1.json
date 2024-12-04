@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_WPTBC_36700_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Mar-2024 04:00 PM",
+    "tenderValueAmount": "3,11,88,100",
+    "tender": [
+        {
+            "id": "2024_WPTBC_36700_1",
+            "title": "Renovation and Extension Including Interior Works Furniture Works Provision of DG SeT,Site Development Works etc of Guest House at Gogamukh Dist Dhemaji",
+            "description": "Renovation and Extension Including Interior Works Furniture Works Provision of DG SeT,Site Development Works etc of Guest House at Gogamukh Dist Dhemaji",
+            "datePublished": "28-Feb-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,11,88,100",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Mar-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

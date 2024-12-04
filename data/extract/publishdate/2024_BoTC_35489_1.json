@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_35489_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Feb-2024 03:00 PM",
+    "tenderValueAmount": "3,54,24,994",
+    "tender": [
+        {
+            "id": "2024_BoTC_35489_1",
+            "title": "Construction of new school building for upgradation from secondary to higher secondary school under Samagra Shiksha, Assam at Dholmara High School, Kokrajhar District",
+            "description": "Construction of new school building for upgradation from secondary to higher secondary school under Samagra Shiksha, Assam at Dholmara High School, Kokrajhar District",
+            "datePublished": "15-Jan-2024 02:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,54,24,994",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

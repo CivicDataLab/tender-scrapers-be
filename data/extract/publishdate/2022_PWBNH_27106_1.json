@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_PWBNH_27106_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "14-Oct-2022 03:00 PM",
+    "tenderValueAmount": "58,15,613",
+    "tender": [
+        {
+            "id": "2022_PWBNH_27106_1",
+            "title": "117 Tea Garden schools and the dev of their infr Addl infrastructure like Addl Classrooms Laboratories etc at various places of Assam 18 Nos at DIB Dist and 23 Nos at TSK Dist at Dilli TE NHK DIB Dist GrNo TG Addl-12",
+            "description": "117 Tea Garden schools and the dev of their infr Addl infrastructure like Addl Classrooms Laboratories etc at various places of Assam 18 Nos at DIB Dist and 23 Nos at TSK Dist at Dilli TE NHK DIB Dist GrNo TG Addl-12",
+            "datePublished": "22-Sep-2022 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "58,15,613",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "14-Oct-2022 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

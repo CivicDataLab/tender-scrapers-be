@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34068_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Dec-2023 03:30 PM",
+    "tenderValueAmount": "52,74,90,624",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34068_2",
+            "title": "Infrastructure development of 126 Secondary Schools LAC wise under RIDF-XXIX(2023-24) in Assam for Package No.-II",
+            "description": "Infrastructure development of 126 Secondary Schools LAC wise under RIDF-XXIX(2023-24) in Assam for Package No.-II",
+            "datePublished": "20-Nov-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "52,74,90,624",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Dec-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

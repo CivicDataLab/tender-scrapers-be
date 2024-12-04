@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ITFCD_35076_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Jan-2024 10:00 AM",
+    "tenderValueAmount": "29,24,507",
+    "tender": [
+        {
+            "id": "2023_ITFCD_35076_1",
+            "title": "Badarpur Fort Archaeological Site (Group-A)",
+            "description": "Badarpur Fort Archaeological Site (Group-A)",
+            "datePublished": "30-Dec-2023 10:00 AM",
+            "contractType": "Percentage",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "29,24,507",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Jan-2024 10:00 AM"
+                }
+            ]
+        }
+    ]
+}

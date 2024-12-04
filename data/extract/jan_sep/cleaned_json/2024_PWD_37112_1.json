@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_37112_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Mar-2024 02:00 PM",
+    "tenderValueAmount": "1,50,14,000",
+    "tender": [
+        {
+            "id": "2024_PWD_37112_1",
+            "title": "SOPD_G_23_24_67 Construction of (i) SPT Br No 10/1 on Nowagaon Rangapani Road (ii) SPT Br No-1/1 on Bashbari to Salabila Road under SOPD-G for the year 2023-24.",
+            "description": "SOPD_G_23_24_67 Construction of (i) SPT Br No 10/1 on Nowagaon Rangapani Road (ii) SPT Br No-1/1 on Bashbari to Salabila Road under SOPD-G for the year 2023-24.",
+            "datePublished": "11-Mar-2024 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,50,14,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35285_6",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Jan-2024 11:00 AM",
+    "tenderValueAmount": "1,60,37,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35285_6",
+            "title": "MMPNA/2023-24/200",
+            "description": "MMPNA/2023-24/200",
+            "datePublished": "06-Jan-2024 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,60,37,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Jan-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

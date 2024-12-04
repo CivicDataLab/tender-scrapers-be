@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_HFWD_30039_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "05-Apr-2023 04:00 PM",
+    "tenderValueAmount": "7,31,850",
+    "tender": [
+        {
+            "id": "2023_HFWD_30039_1",
+            "title": "Supply of Panchakarma Equipment",
+            "description": "Supply of Panchakarma Equipment",
+            "datePublished": "22-Mar-2023 10:00 AM",
+            "contractType": "Buy",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "7,31,850",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Apr-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

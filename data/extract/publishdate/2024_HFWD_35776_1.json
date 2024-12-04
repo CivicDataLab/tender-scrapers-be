@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_HFWD_35776_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "22-Feb-2024 04:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_HFWD_35776_1",
+            "title": "supply of IHC Section and Chemical Items required in the Department of Pathology and CMS, HMS, GMCH, Guwahati-32",
+            "description": "supply of IHC Section and Chemical Items required in the Department of Pathology and CMS, HMS, GMCH, Guwahati-32",
+            "datePublished": "29-Jan-2024 05:30 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "22-Feb-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

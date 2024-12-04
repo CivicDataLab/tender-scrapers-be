@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_NHM_32212_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "14-Sep-2023 11:00 AM",
+    "tenderValueAmount": "33,22,000",
+    "tender": [
+        {
+            "id": "2023_NHM_32212_1",
+            "title": "IGRA testing Services in NTEP Biswanath",
+            "description": "IGRA testing Services in NTEP Biswanath",
+            "datePublished": "24-Aug-2023 06:35 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "33,22,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "14-Sep-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

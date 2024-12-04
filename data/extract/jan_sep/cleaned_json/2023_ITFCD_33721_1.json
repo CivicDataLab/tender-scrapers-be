@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ITFCD_33721_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Nov-2023 10:00 AM",
+    "tenderValueAmount": "59,08,237",
+    "tender": [
+        {
+            "id": "2023_ITFCD_33721_1",
+            "title": "Infrastructure Development and Conservation of Archaeological Site, Under SOPD-G for the year 2022-23",
+            "description": "Infrastructure Development and Conservation of Archaeological Site, Under SOPD-G for the year 2022-23",
+            "datePublished": "09-Nov-2023 10:00 AM",
+            "contractType": "Percentage",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "59,08,237",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Nov-2023 10:00 AM"
+                }
+            ]
+        }
+    ]
+}

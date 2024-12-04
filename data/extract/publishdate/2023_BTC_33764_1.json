@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33764_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Nov-2023 12:00 PM",
+    "tenderValueAmount": "2,51,72,000",
+    "tender": [
+        {
+            "id": "2023_BTC_33764_1",
+            "title": "Construction of road from Hangma Chowk to Hoguma Village under CMs Goodwill Mission Project for the financial year 2023-24. (TN_26_150)",
+            "description": "Construction of road from Hangma Chowk to Hoguma Village under CMs Goodwill Mission Project for the financial year 2023-24. (TN_26_150)",
+            "datePublished": "09-Nov-2023 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,51,72,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

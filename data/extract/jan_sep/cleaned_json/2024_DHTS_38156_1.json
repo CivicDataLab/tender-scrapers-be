@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DHTS_38156_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "12-Aug-2024 01:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_DHTS_38156_1",
+            "title": "Supply of Rearing equipments for Som beneficiaries",
+            "description": "Supply of Rearing equipments for Som beneficiaries",
+            "datePublished": "24-Jul-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Aug-2024 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

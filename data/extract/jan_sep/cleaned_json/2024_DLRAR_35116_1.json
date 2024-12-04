@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DLRAR_35116_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "20-Jan-2024 03:30 PM",
+    "tenderValueAmount": "10,00,00,000",
+    "tender": [
+        {
+            "id": "2024_DLRAR_35116_1",
+            "title": "PROVISION OF INTERNET LEASED LINE ILL CONNECTIVITY FROM INTERNET SERVICE PROVIDERS FOR OFFICES UNDER DLRS ASSAM",
+            "description": "PROVISION OF INTERNET LEASED LINE ILL CONNECTIVITY FROM INTERNET SERVICE PROVIDERS FOR OFFICES UNDER DLRS ASSAM",
+            "datePublished": "01-Jan-2024 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "10,00,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Jan-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

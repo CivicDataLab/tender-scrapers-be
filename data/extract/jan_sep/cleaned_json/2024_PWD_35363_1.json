@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35363_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Jan-2024 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_PWD_35363_1",
+            "title": "KAM/KRC/SOPD(G)/2023-24/15 Ex Post Facto approval for Const. of RCC Drain cum Footpath and Guard Wall at chowkigate to kalipahar via stone crusher Road including shifting of 33 KV Kamalpur/11 KV Changsari/LT feeder under SOPDG for the year 23.24",
+            "description": "KAM/KRC/SOPD(G)/2023-24/15 Ex Post Facto approval for Const. of RCC Drain cum Footpath and Guard Wall at chowkigate to kalipahar via stone crusher Road including shifting of 33 KV Kamalpur/11 KV Changsari/LT feeder under SOPDG for the year 23.24",
+            "datePublished": "11-Jan-2024 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

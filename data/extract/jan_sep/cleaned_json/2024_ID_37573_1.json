@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ID_37573_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Jul-2024 02:00 PM",
+    "tenderValueAmount": "89,11,765",
+    "tender": [
+        {
+            "id": "2024_ID_37573_1",
+            "title": "RENOVATION OF LIS (MEDIUM)",
+            "description": "RENOVATION OF LIS (MEDIUM)",
+            "datePublished": "12-Jun-2024 03:30 PM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "89,11,765",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Jul-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

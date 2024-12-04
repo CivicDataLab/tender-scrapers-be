@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ID_32974_6",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Nov-2023 03:00 PM",
+    "tenderValueAmount": "11,39,66,201",
+    "tender": [
+        {
+            "id": "2023_ID_32974_6",
+            "title": "Construction of 4 Nos of SMI Schemes under PMKSY _HKKP_SMI for the year 2022_23 Package No 6 Electric Lift Irrigation Scheme in Dholai and Sonai LAC 8 Pts under PMKSY_HKKP _SMI for the year 2022_23 Dholai LAC",
+            "description": "Construction of 4 Nos of SMI Schemes under PMKSY _HKKP_SMI for the year 2022_23 Package No 6 Electric Lift Irrigation Scheme in Dholai and Sonai LAC 8 Pts under PMKSY_HKKP _SMI for the year 2022_23 Dholai LAC",
+            "datePublished": "12-Oct-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "11,39,66,201",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

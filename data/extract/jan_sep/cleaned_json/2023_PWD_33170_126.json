@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33170_126",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Nov-2023 02:00 PM",
+    "tenderValueAmount": "12,47,72,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33170_126",
+            "title": "MMUPPNA_RIDF_XXIX_23_24_105 Improvement of road from (i) Sonaribali to Sivasthan via Kanuwamari (Ch. 0.00m to Ch. 7160.00m, (ii) Samaguri to Salpara via Lailuri (SSL Road) (Ch. 5875.00m to Ch. 6844.00m and Ch. 6881.00m to Ch. 8812.00m) under Mukhya",
+            "description": "MMUPPNA_RIDF_XXIX_23_24_105 Improvement of road from (i) Sonaribali to Sivasthan via Kanuwamari (Ch. 0.00m to Ch. 7160.00m, (ii) Samaguri to Salpara via Lailuri (SSL Road) (Ch. 5875.00m to Ch. 6844.00m and Ch. 6881.00m to Ch. 8812.00m) under Mukhya",
+            "datePublished": "27-Oct-2023 11:55 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "12,47,72,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

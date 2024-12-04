@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ICD_32301_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "09-Oct-2023 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_ICD_32301_1",
+            "title": "FABRICATION SUPPLY AND TRANSPORTATION OF STEEL UNDERGROUND TANKS FOR RETAIL OUTLETS IN ASSAM AND NEARBY STATES WITH FRAME WORK AGREEMENT FOR 2 YEARS",
+            "description": "FABRICATION SUPPLY AND TRANSPORTATION OF STEEL UNDERGROUND TANKS FOR RETAIL OUTLETS IN ASSAM AND NEARBY STATES WITH FRAME WORK AGREEMENT FOR 2 YEARS",
+            "datePublished": "29-Aug-2023 05:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Oct-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

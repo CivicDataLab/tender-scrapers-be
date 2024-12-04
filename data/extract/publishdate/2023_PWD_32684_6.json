@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_6",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "3,48,08,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_6",
+            "title": "MMNPPNA_23_24_07 (i) Construction of R.C.C strom water box type drain with culvert at west North side of P.W.D road leading from Swapan Kr Roy house towards Star Club at ward No-1. (Ch-0.00 m to Ch-380.00 m) (ii) Construction of road from",
+            "description": "MMNPPNA_23_24_07 (i) Construction of R.C.C strom water box type drain with culvert at west North side of P.W.D road leading from Swapan Kr Roy house towards Star Club at ward No-1. (Ch-0.00 m to Ch-380.00 m) (ii) Construction of road from",
+            "datePublished": "27-Sep-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,48,08,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

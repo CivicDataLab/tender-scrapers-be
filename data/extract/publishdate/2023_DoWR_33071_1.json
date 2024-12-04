@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_33071_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Nov-2023 03:00 PM",
+    "tenderValueAmount": "1,49,99,983",
+    "tender": [
+        {
+            "id": "2023_DoWR_33071_1",
+            "title": "Anti Erosion measures to protect D/S of Chamaria Satra area on R/B from the erosion of river Jaljali.",
+            "description": "Anti Erosion measures to protect D/S of Chamaria Satra area on R/B from the erosion of river Jaljali.",
+            "datePublished": "14-Oct-2023 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,49,99,983",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

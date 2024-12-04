@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ICD_30283_5",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "24-Apr-2023 03:00 PM",
+    "tenderValueAmount": "72,06,641",
+    "tender": [
+        {
+            "id": "2023_ICD_30283_5",
+            "title": "Construction of 50,000 liters capacity RCC Over Head Water Tank 200mm Dia Deep Tube Well including Distribution Network for Proposed Industrial Park at Mechaki Tongani Sisiborgaon Dist Dhemaji",
+            "description": "Construction of 50,000 liters capacity RCC Over Head Water Tank 200mm Dia Deep Tube Well including Distribution Network for Proposed Industrial Park at Mechaki Tongani Sisiborgaon Dist Dhemaji",
+            "datePublished": "01-Apr-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "72,06,641",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "24-Apr-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

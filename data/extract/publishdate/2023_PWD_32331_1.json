@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32331_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "14-Sep-2023 02:30 PM",
+    "tenderValueAmount": "5,94,24,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32331_1",
+            "title": "MMPPNA_22_23_65 Construction of (i) Borjuri to Dolamara road (Ch. 8000.00m to 8900.00m) (ii) Rongbonghat to Gudam Singnar (Ch. 0.00m to 8000.00m) including routine maintenance for 4 (four) years under Mukhya Mantrir Paki Path Nirman Achani for the",
+            "description": "MMPPNA_22_23_65 Construction of (i) Borjuri to Dolamara road (Ch. 8000.00m to 8900.00m) (ii) Rongbonghat to Gudam Singnar (Ch. 0.00m to 8000.00m) including routine maintenance for 4 (four) years under Mukhya Mantrir Paki Path Nirman Achani for the",
+            "datePublished": "31-Aug-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "5,94,24,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "14-Sep-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

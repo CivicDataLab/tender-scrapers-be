@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33912_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Dec-2023 02:00 PM",
+    "tenderValueAmount": "4,87,40,578",
+    "tender": [
+        {
+            "id": "2023_BTC_33912_1",
+            "title": "Construction road from No.1 Bogidwara to Amlaiguri village via Dimajuli village in Chirang District, BTC, Assam for the year 2023-24 TN-26-115",
+            "description": "Construction road from No.1 Bogidwara to Amlaiguri village via Dimajuli village in Chirang District, BTC, Assam for the year 2023-24 TN-26-115",
+            "datePublished": "13-Nov-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,87,40,578",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

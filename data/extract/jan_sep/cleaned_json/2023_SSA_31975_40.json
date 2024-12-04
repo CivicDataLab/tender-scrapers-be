@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_SSA_31975_40",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Aug-2023 03:00 PM",
+    "tenderValueAmount": "72,28,000",
+    "tender": [
+        {
+            "id": "2023_SSA_31975_40",
+            "title": "Construction of teachers residential quarter in existing Adarsha Vidyalayas under Samagra Shiksha, Assam at Adarsha Vidyalaya, Ganakkuchi under Barpeta block in Barpeta district",
+            "description": "Construction of teachers residential quarter in existing Adarsha Vidyalayas under Samagra Shiksha, Assam at Adarsha Vidyalaya, Ganakkuchi under Barpeta block in Barpeta district",
+            "datePublished": "09-Aug-2023 04:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "72,28,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Aug-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

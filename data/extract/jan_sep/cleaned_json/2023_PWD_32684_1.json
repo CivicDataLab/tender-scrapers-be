@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,69,02,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_1",
+            "title": "MMNPPNA_23_24_02 Strengthening of Kamalakanta Das Road (Road Start from Barpeta Vidyapith School to Barpeta Satra)( Ch-0.00 m to Ch-1655.00 M) as Gaurab Path under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA) for the year 2023-24,",
+            "description": "MMNPPNA_23_24_02 Strengthening of Kamalakanta Das Road (Road Start from Barpeta Vidyapith School to Barpeta Satra)( Ch-0.00 m to Ch-1655.00 M) as Gaurab Path under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA) for the year 2023-24,",
+            "datePublished": "27-Sep-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,69,02,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

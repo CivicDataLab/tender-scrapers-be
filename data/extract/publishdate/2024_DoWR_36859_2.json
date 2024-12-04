@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_36859_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "25-Jun-2024 03:00 PM",
+    "tenderValueAmount": "35,58,500",
+    "tender": [
+        {
+            "id": "2024_DoWR_36859_2",
+            "title": "Breach closing works on R/B embankment of river Mora-Pagladia(DRDA Bund) at Bhojkuchi-Barpit area RETENDER.",
+            "description": "Breach closing works on R/B embankment of river Mora-Pagladia(DRDA Bund) at Bhojkuchi-Barpit area RETENDER.",
+            "datePublished": "11-Jun-2024 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "35,58,500",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "25-Jun-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

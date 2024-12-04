@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_36856_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Mar-2024 03:00 PM",
+    "tenderValueAmount": "1,65,99,705",
+    "tender": [
+        {
+            "id": "2024_DoWR_36856_1",
+            "title": "Protection of Xariah Shakla area of Patacharkuchi from the erosion of river Kaldia by Bank Protection and Anti-Erosion measures along with recoupment of the existing marginal bundh for the year 2023-24.",
+            "description": "Protection of Xariah Shakla area of Patacharkuchi from the erosion of river Kaldia by Bank Protection and Anti-Erosion measures along with recoupment of the existing marginal bundh for the year 2023-24.",
+            "datePublished": "02-Mar-2024 06:55 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,65,99,705",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

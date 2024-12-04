@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36204_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Feb-2024 02:00 PM",
+    "tenderValueAmount": "64,34,494",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36204_1",
+            "title": "Construction of Clock Tower at Goalpara under 14th F.C for the year 2019-20 during the year 2023-24",
+            "description": "Construction of Clock Tower at Goalpara under 14th F.C for the year 2019-20 during the year 2023-24",
+            "datePublished": "13-Feb-2024 02:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "64,34,494",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35961_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Feb-2024 11:30 AM",
+    "tenderValueAmount": "93,32,594",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35961_1",
+            "title": "Strengthening, Renovation and Upgradation works in the Government Residential Quarter No.- M-17 at Minister Colony, Dispur, Guwahati-6",
+            "description": "Strengthening, Renovation and Upgradation works in the Government Residential Quarter No.- M-17 at Minister Colony, Dispur, Guwahati-6",
+            "datePublished": "06-Feb-2024 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "93,32,594",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Feb-2024 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

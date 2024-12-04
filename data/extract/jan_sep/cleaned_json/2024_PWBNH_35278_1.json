@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35278_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Jan-2024 03:00 PM",
+    "tenderValueAmount": "1,21,91,542",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35278_1",
+            "title": "Setting up of Jyoti Bishnu Sanskritik Prakalpa at Majuli. Dist- Majuli, Assam",
+            "description": "Setting up of Jyoti Bishnu Sanskritik Prakalpa at Majuli. Dist- Majuli, Assam",
+            "datePublished": "06-Jan-2024 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,21,91,542",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

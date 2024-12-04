@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_GU_34080_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Dec-2023 02:30 PM",
+    "tenderValueAmount": "3,68,51,664",
+    "tender": [
+        {
+            "id": "2023_GU_34080_1",
+            "title": "Construction of Boundary Wall along the northern side (from Jalukbari Girls School to near APDCL compound) and the southern side of the Gauhati University NH Bypass",
+            "description": "Construction of Boundary Wall along the northern side (from Jalukbari Girls School to near APDCL compound) and the southern side of the Gauhati University NH Bypass",
+            "datePublished": "20-Nov-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,68,51,664",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Dec-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

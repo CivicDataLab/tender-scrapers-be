@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_FESA_36898_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Mar-2024 05:00 PM",
+    "tenderValueAmount": "2,88,00,682",
+    "tender": [
+        {
+            "id": "2024_FESA_36898_1",
+            "title": "Construction of RCC 3(three) storied Fire Station Building, Under Ground Water Reservoir (1.00 Lakh Ltr. Capacity), Boundary Wall and Security Fencing with Heavy Duty Iron Gate etc. at Sonapur in Kamrup(M) District, Assam",
+            "description": "Construction of RCC 3(three) storied Fire Station Building, Under Ground Water Reservoir (1.00 Lakh Ltr. Capacity), Boundary Wall and Security Fencing with Heavy Duty Iron Gate etc. at Sonapur in Kamrup(M) District, Assam",
+            "datePublished": "04-Mar-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,88,00,682",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Mar-2024 05:00 PM"
+                }
+            ]
+        }
+    ]
+}

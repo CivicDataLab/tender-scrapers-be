@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DHA_31382_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Aug-2023 11:30 AM",
+    "tenderValueAmount": "16,00,00,000",
+    "tender": [
+        {
+            "id": "2023_DHA_31382_1",
+            "title": "Engagement of an Agency/Firm for Development of an Orchid Farm at Kaziranga, Assam",
+            "description": "Engagement of an Agency/Firm for Development of an Orchid Farm at Kaziranga, Assam",
+            "datePublished": "27-Jun-2023 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "16,00,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Aug-2023 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

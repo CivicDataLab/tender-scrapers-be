@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_GMC_32305_36",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Nov-2023 02:00 PM",
+    "tenderValueAmount": "18,20,000",
+    "tender": [
+        {
+            "id": "2023_GMC_32305_36",
+            "title": "Road No-11, Beharbari ( near Cambridge International School)",
+            "description": "Road No-11, Beharbari ( near Cambridge International School)",
+            "datePublished": "09-Nov-2023 02:00 PM",
+            "contractType": "Lump-sum",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "18,20,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

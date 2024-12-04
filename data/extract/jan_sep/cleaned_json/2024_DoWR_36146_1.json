@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_36146_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "16-Feb-2024 03:00 PM",
+    "tenderValueAmount": "18,00,83,932",
+    "tender": [
+        {
+            "id": "2024_DoWR_36146_1",
+            "title": "Protection of Panikhaiti area at Chandrapur from river Brahmaputra, PACKAGE 1",
+            "description": "Protection of Panikhaiti area at Chandrapur from river Brahmaputra, PACKAGE 1",
+            "datePublished": "09-Feb-2024 06:35 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "18,00,83,932",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

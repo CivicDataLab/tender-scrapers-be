@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ITFCD_32421_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Sep-2023 12:00 PM",
+    "tenderValueAmount": "42,44,000",
+    "tender": [
+        {
+            "id": "2023_ITFCD_32421_1",
+            "title": "Nrisingha Devalaya Archaeological Site (Group-A)",
+            "description": "Nrisingha Devalaya Archaeological Site (Group-A)",
+            "datePublished": "08-Sep-2023 06:00 PM",
+            "contractType": "Percentage",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "42,44,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Sep-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

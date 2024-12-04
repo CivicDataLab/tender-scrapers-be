@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35326_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Jan-2024 03:00 PM",
+    "tenderValueAmount": "29,64,600",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35326_1",
+            "title": "Earth filling and fitting of Paver Block in the Courtyard of the District and Session Judge Complex Bajali in Bajali District",
+            "description": "Earth filling and fitting of Paver Block in the Courtyard of the District and Session Judge Complex Bajali in Bajali District",
+            "datePublished": "08-Jan-2024 05:20 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "29,64,600",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

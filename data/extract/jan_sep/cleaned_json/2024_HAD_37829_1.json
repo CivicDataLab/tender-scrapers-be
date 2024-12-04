@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_HAD_37829_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "15-Jul-2024 03:00 PM",
+    "tenderValueAmount": "1,49,35,000",
+    "tender": [
+        {
+            "id": "2024_HAD_37829_1",
+            "title": "Construction of RCC Drainage system at Manja Industrial Complex under AHSIDC Ltd., Manja, Karbi Anglong.",
+            "description": "Construction of RCC Drainage system at Manja Industrial Complex under AHSIDC Ltd., Manja, Karbi Anglong.",
+            "datePublished": "01-Jul-2024 06:50 PM",
+            "contractType": "Percentage",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,49,35,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Jul-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

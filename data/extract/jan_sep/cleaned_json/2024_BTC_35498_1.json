@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_35498_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:00 PM",
+    "tenderValueAmount": "49,99,834",
+    "tender": [
+        {
+            "id": "2024_BTC_35498_1",
+            "title": "Construction of RCC Slab Culvert No.1/3 L- 8.00 M Span No.NH 127 A to Singlimari road under SOPD for the year 2023-24.TN-59-4",
+            "description": "Construction of RCC Slab Culvert No.1/3 L- 8.00 M Span No.NH 127 A to Singlimari road under SOPD for the year 2023-24.TN-59-4",
+            "datePublished": "16-Jan-2024 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "49,99,834",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

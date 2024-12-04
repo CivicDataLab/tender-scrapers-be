@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35744_117",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 02:00 PM",
+    "tenderValueAmount": "1,26,48,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35744_117",
+            "title": "SOPD_ODS_23_24_83 Construction of road from Dirok TE Khagoripather Road under SOPD-ODS (Tea Garden Road) for the year 2023-24",
+            "description": "SOPD_ODS_23_24_83 Construction of road from Dirok TE Khagoripather Road under SOPD-ODS (Tea Garden Road) for the year 2023-24",
+            "datePublished": "07-Feb-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,26,48,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

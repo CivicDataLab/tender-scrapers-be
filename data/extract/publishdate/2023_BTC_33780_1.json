@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33780_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Nov-2023 12:00 PM",
+    "tenderValueAmount": "3,11,23,961",
+    "tender": [
+        {
+            "id": "2023_BTC_33780_1",
+            "title": "Construction of RCC Bridge No. 2/1 on NH 15 to Benghanabari Jungle Road under CMs Goodwill Mission Project for the year 2023-24 of District Udalguri (40 Rowta (ST). (TN_26_162)",
+            "description": "Construction of RCC Bridge No. 2/1 on NH 15 to Benghanabari Jungle Road under CMs Goodwill Mission Project for the year 2023-24 of District Udalguri (40 Rowta (ST). (TN_26_162)",
+            "datePublished": "09-Nov-2023 12:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,11,23,961",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

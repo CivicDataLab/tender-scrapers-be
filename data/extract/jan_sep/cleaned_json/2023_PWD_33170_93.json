@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33170_93",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Nov-2023 02:00 PM",
+    "tenderValueAmount": "12,48,70,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33170_93",
+            "title": "MMUPPNA_RIDF_XXIX_23_24_52 Improvement of (i) Hajo Ukhura road from Satdola Chowk to Simaluatol chowk from Ch. 0.00 to Ch. 4.86 km, (ii) Kamalpur Morruwa road from Ch. 11.00 to Ch. 16.25 km under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RID",
+            "description": "MMUPPNA_RIDF_XXIX_23_24_52 Improvement of (i) Hajo Ukhura road from Satdola Chowk to Simaluatol chowk from Ch. 0.00 to Ch. 4.86 km, (ii) Kamalpur Morruwa road from Ch. 11.00 to Ch. 16.25 km under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RID",
+            "datePublished": "26-Oct-2023 11:55 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "12,48,70,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

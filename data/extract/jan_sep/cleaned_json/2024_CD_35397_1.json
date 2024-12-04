@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_CD_35397_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Jan-2024 11:00 AM",
+    "tenderValueAmount": "2,41,08,597",
+    "tender": [
+        {
+            "id": "2024_CD_35397_1",
+            "title": "Renovation of Ground floor, Roof top etc. of the Old Building of RCS, Guwahati",
+            "description": "Renovation of Ground floor, Roof top etc. of the Old Building of RCS, Guwahati",
+            "datePublished": "11-Jan-2024 01:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,41,08,597",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jan-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

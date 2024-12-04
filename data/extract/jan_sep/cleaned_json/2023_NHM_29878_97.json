@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_NHM_29878_97",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "23-Mar-2023 03:30 PM",
+    "tenderValueAmount": "81,19,699",
+    "tender": [
+        {
+            "id": "2023_NHM_29878_97",
+            "title": "Establishment of Proposed 6 bedded ward at various SHCs and PHCs of Assam under ECRP II NHM Assam Group 137 7 nos scheme in Kamrup R district",
+            "description": "Establishment of Proposed 6 bedded ward at various SHCs and PHCs of Assam under ECRP II NHM Assam Group 137 7 nos scheme in Kamrup R district",
+            "datePublished": "17-Mar-2023 02:00 PM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "81,19,699",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "23-Mar-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35115_98",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:30 PM",
+    "tenderValueAmount": "1,91,95,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35115_98",
+            "title": "MMPPNA_23_24_105, Construction of Jamuguri Gerubari road Sonali Chowk to Phuhurabari from Ch 0.00 m to 1000.00 m, 2.Construction of Bogoribari to Anthaibari Road from Ch 0.00 m to 1580.00 m, 3.Construction of Slab Culvert at West Adarsha gaon to N",
+            "description": "MMPPNA_23_24_105, Construction of Jamuguri Gerubari road Sonali Chowk to Phuhurabari from Ch 0.00 m to 1000.00 m, 2.Construction of Bogoribari to Anthaibari Road from Ch 0.00 m to 1580.00 m, 3.Construction of Slab Culvert at West Adarsha gaon to N",
+            "datePublished": "03-Jan-2024 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,91,95,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

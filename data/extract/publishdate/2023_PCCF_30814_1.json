@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PCCF_30814_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Jun-2023 11:00 AM",
+    "tenderValueAmount": "1,88,93,133",
+    "tender": [
+        {
+            "id": "2023_PCCF_30814_1",
+            "title": "Supplying , fitting and Erection of Fencing under CAMPA Scheme in kakopather range, sadiya range, doomdooma range and khatangpani range",
+            "description": "Supplying , fitting and Erection of Fencing under CAMPA Scheme in kakopather range, sadiya range, doomdooma range and khatangpani range",
+            "datePublished": "13-May-2023 02:00 PM",
+            "contractType": "Percentage",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,88,93,133",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Jun-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

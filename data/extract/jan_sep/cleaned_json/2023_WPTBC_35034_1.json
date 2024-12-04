@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_WPTBC_35034_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Jan-2024 04:00 PM",
+    "tenderValueAmount": "25,00,000",
+    "tender": [
+        {
+            "id": "2023_WPTBC_35034_1",
+            "title": "Infrastructure Developemnt of Chalichuk ME School, Dist Lakhimpur",
+            "description": "Infrastructure Developemnt of Chalichuk ME School, Dist Lakhimpur",
+            "datePublished": "29-Dec-2023 10:35 AM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "25,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Jan-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

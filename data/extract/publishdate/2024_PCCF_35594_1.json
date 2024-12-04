@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PCCF_35594_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Feb-2024 11:00 AM",
+    "tenderValueAmount": "2,00,00,000",
+    "tender": [
+        {
+            "id": "2024_PCCF_35594_1",
+            "title": "SOPD Building for General Areas",
+            "description": "SOPD Building for General Areas",
+            "datePublished": "20-Jan-2024 05:45 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,00,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Feb-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

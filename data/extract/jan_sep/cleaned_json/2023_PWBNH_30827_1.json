@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_30827_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "31-May-2023 04:00 PM",
+    "tenderValueAmount": "88,19,000",
+    "tender": [
+        {
+            "id": "2023_PWBNH_30827_1",
+            "title": "PMC services for Construction of District Sports Stadium Complex at Jorhat District of Assam",
+            "description": "PMC services for Construction of District Sports Stadium Complex at Jorhat District of Assam",
+            "datePublished": "15-May-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "88,19,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "31-May-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

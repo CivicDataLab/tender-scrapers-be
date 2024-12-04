@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33321_19",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Nov-2023 11:00 AM",
+    "tenderValueAmount": "2,35,92,500",
+    "tender": [
+        {
+            "id": "2023_PWD_33321_19",
+            "title": "Package No.Dima-Hasao/ MMPNA / BUG/02 Repair and Rehabilitation of BUG Bridge No.10/1, 28/1 and 31/1 on Dehangi Diyungmukh road and Bridge No. 109/1 and 118/1 on Passi Garampani Haflong Jatinga road under Mukhya Mantrir Path Nirman Achani (MMPNA) for",
+            "description": "Package No.Dima-Hasao/ MMPNA / BUG/02 Repair and Rehabilitation of BUG Bridge No.10/1, 28/1 and 31/1 on Dehangi Diyungmukh road and Bridge No. 109/1 and 118/1 on Passi Garampani Haflong Jatinga road under Mukhya Mantrir Path Nirman Achani (MMPNA) for",
+            "datePublished": "28-Oct-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,35,92,500",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

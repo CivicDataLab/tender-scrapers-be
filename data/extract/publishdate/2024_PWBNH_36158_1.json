@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36158_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Mar-2024 12:30 PM",
+    "tenderValueAmount": "36,39,509",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36158_1",
+            "title": "Up-gradation and Renovation of Existing staff Canteen, Roof Grading, Gauhati Medical College and Hospital, Guwahati",
+            "description": "Up-gradation and Renovation of Existing staff Canteen, Roof Grading, Gauhati Medical College and Hospital, Guwahati",
+            "datePublished": "10-Feb-2024 09:00 AM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "36,39,509",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Mar-2024 12:30 PM"
+                }
+            ]
+        }
+    ]
+}

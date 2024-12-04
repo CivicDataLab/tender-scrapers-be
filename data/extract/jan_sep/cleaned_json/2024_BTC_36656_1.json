@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_36656_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Mar-2024 02:00 PM",
+    "tenderValueAmount": "42,13,000",
+    "tender": [
+        {
+            "id": "2024_BTC_36656_1",
+            "title": "Repair and Renovation of Old Civil Hospital at Kajalgaon (Near to JSB Hospital, Kajalgaon) including sufficient water and power supply facility and Earth Filling in Chirang District. TN_68_1 (R-1)",
+            "description": "Repair and Renovation of Old Civil Hospital at Kajalgaon (Near to JSB Hospital, Kajalgaon) including sufficient water and power supply facility and Earth Filling in Chirang District. TN_68_1 (R-1)",
+            "datePublished": "26-Feb-2024 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "42,13,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

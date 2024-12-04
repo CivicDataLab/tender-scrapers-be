@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_36680_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Mar-2024 02:30 PM",
+    "tenderValueAmount": "24,00,000",
+    "tender": [
+        {
+            "id": "2024_BoTC_36680_1",
+            "title": "Const of road from Jahirul Mandal House",
+            "description": "Const of road from Jahirul Mandal House",
+            "datePublished": "27-Feb-2024 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Mar-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_GMC_32305_15",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "14-Sep-2023 02:30 PM",
+    "tenderValueAmount": "40,00,000",
+    "tender": [
+        {
+            "id": "2023_GMC_32305_15",
+            "title": "B.K. Kakati Road bye lane-2 near Raj apartment upto APRO",
+            "description": "B.K. Kakati Road bye lane-2 near Raj apartment upto APRO",
+            "datePublished": "30-Aug-2023 02:00 PM",
+            "contractType": "Lump-sum",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "40,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "14-Sep-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

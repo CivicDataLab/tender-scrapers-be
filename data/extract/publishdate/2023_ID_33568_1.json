@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ID_33568_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "23-Nov-2023 03:00 PM",
+    "tenderValueAmount": "36,52,291",
+    "tender": [
+        {
+            "id": "2023_ID_33568_1",
+            "title": "Solar Powered MDTW Scheme at Dhalpukhuri and Pub Bhalukmari (1 Point)",
+            "description": "Solar Powered MDTW Scheme at Dhalpukhuri and Pub Bhalukmari (1 Point)",
+            "datePublished": "06-Nov-2023 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "36,52,291",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "23-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

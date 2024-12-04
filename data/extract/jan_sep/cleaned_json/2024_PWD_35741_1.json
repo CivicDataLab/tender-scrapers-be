@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35741_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "14-Feb-2024 02:00 PM",
+    "tenderValueAmount": "28,79,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35741_1",
+            "title": "SOPD_ODS_23_24_01 Reconstruction of SPT Bridge No. 1/1 on Hutar to Kankha Chapori road including it approaches under SOPD-ODS for the year 2023-24 under Majuli District Territorial Road Division, Majuli LAC",
+            "description": "SOPD_ODS_23_24_01 Reconstruction of SPT Bridge No. 1/1 on Hutar to Kankha Chapori road including it approaches under SOPD-ODS for the year 2023-24 under Majuli District Territorial Road Division, Majuli LAC",
+            "datePublished": "26-Jan-2024 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "28,79,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "14-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

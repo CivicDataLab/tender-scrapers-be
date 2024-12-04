@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33682_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Nov-2023 12:00 PM",
+    "tenderValueAmount": "2,47,03,930",
+    "tender": [
+        {
+            "id": "2023_BTC_33682_1",
+            "title": "Construction of ICBP road from Kokrajhar-Ramfalbil road Belguri to Tengaigaon village from Ch. 0.00Km to 2.15Km under CMs Goodwill Project in BTC Area for the year 2023-24. TN_26_46",
+            "description": "Construction of ICBP road from Kokrajhar-Ramfalbil road Belguri to Tengaigaon village from Ch. 0.00Km to 2.15Km under CMs Goodwill Project in BTC Area for the year 2023-24. TN_26_46",
+            "datePublished": "09-Nov-2023 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,47,03,930",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

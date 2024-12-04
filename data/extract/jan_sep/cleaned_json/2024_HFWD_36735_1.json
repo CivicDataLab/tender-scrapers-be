@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_HFWD_36735_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "12-Mar-2024 01:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_HFWD_36735_1",
+            "title": "SUPPLY AND INSTALLATION OF EQUIPMENTS AT JORHAT MEDICAL COLLEGE AND HOSPITAL, JORHAT-ASSAM",
+            "description": "SUPPLY AND INSTALLATION OF EQUIPMENTS AT JORHAT MEDICAL COLLEGE AND HOSPITAL, JORHAT-ASSAM",
+            "datePublished": "28-Feb-2024 05:45 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Mar-2024 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

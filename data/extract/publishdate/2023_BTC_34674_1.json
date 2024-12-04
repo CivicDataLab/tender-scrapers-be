@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_34674_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Dec-2023 02:00 PM",
+    "tenderValueAmount": "3,67,87,819",
+    "tender": [
+        {
+            "id": "2023_BTC_34674_1",
+            "title": "Construction of road from Kungkrajhora BT road to pillon house via Kumarsali SSB camp to faras SSB Camp in Chirang District for the year 2023-24 under CMs Goodwill Project. TN-26-113 (R-1)",
+            "description": "Construction of road from Kungkrajhora BT road to pillon house via Kumarsali SSB camp to faras SSB Camp in Chirang District for the year 2023-24 under CMs Goodwill Project. TN-26-113 (R-1)",
+            "datePublished": "13-Dec-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,67,87,819",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

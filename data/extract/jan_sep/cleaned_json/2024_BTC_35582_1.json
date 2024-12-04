@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_35582_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 11:00 AM",
+    "tenderValueAmount": "43,46,000",
+    "tender": [
+        {
+            "id": "2024_BTC_35582_1",
+            "title": "Repairing and Renovation of Staff quarter Gr.IV Twin quarter 5 nos. and Gr.III quarter 1 no. Main gate with front Boundary wall, Gr.III quarter 2 nos. etc. at Balajan BPHC cum CHC 30 Bedded Hospital in Kokrajhar District. TN No.64_01",
+            "description": "Repairing and Renovation of Staff quarter Gr.IV Twin quarter 5 nos. and Gr.III quarter 1 no. Main gate with front Boundary wall, Gr.III quarter 2 nos. etc. at Balajan BPHC cum CHC 30 Bedded Hospital in Kokrajhar District. TN No.64_01",
+            "datePublished": "20-Jan-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "43,46,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

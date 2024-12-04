@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_36565_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Mar-2024 02:30 PM",
+    "tenderValueAmount": "20,95,250",
+    "tender": [
+        {
+            "id": "2024_BoTC_36565_1",
+            "title": "Construction Of Koklabari Anchalik Bathou Thansali,Wpt and BcDepartment Under Sopd (Btc) For The Year 2023-24 Under Jalah Dev Block In Baksa District",
+            "description": "Construction Of Koklabari Anchalik Bathou Thansali,Wpt and BcDepartment Under Sopd (Btc) For The Year 2023-24 Under Jalah Dev Block In Baksa District",
+            "datePublished": "23-Feb-2024 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "20,95,250",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Mar-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

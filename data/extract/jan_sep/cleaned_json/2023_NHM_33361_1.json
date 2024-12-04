@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_NHM_33361_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "20-Nov-2023 03:00 PM",
+    "tenderValueAmount": "3,84,09,987",
+    "tender": [
+        {
+            "id": "2023_NHM_33361_1",
+            "title": "Strengthening Renovation of Hajo FRU CHC in Kamrup Rural district under NHM Assam",
+            "description": "Strengthening Renovation of Hajo FRU CHC in Kamrup Rural district under NHM Assam",
+            "datePublished": "01-Nov-2023 09:00 AM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,84,09,987",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

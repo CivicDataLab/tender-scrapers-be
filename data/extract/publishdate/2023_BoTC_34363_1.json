@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_34363_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "26-Dec-2023 03:00 PM",
+    "tenderValueAmount": "3,99,63,000",
+    "tender": [
+        {
+            "id": "2023_BoTC_34363_1",
+            "title": "Agri Pro 3 HP 4 in 1 Combined Rice Mill with Motor APCRM6N9FC PROMAX to the different Self Help Groups under BTC area under BTC area under SOPD 2023-24.",
+            "description": "Agri Pro 3 HP 4 in 1 Combined Rice Mill with Motor APCRM6N9FC PROMAX to the different Self Help Groups under BTC area under BTC area under SOPD 2023-24.",
+            "datePublished": "04-Dec-2023 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "3,99,63,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

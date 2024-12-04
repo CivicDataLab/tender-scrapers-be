@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_29482_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Mar-2023 03:00 PM",
+    "tenderValueAmount": "41,16,000",
+    "tender": [
+        {
+            "id": "2023_BoTC_29482_1",
+            "title": "Construction of Tamulpur Primary Bodo Sahitya Sabha Office (RCC Gr. Floor only) at Barengaon Tamulpur Development Block, Goreswar, Tamulpur.",
+            "description": "Construction of Tamulpur Primary Bodo Sahitya Sabha Office (RCC Gr. Floor only) at Barengaon Tamulpur Development Block, Goreswar, Tamulpur.",
+            "datePublished": "22-Feb-2023 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "41,16,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Mar-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

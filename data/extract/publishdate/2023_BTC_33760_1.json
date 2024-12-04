@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33760_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Nov-2023 12:00 PM",
+    "tenderValueAmount": "2,35,85,996",
+    "tender": [
+        {
+            "id": "2023_BTC_33760_1",
+            "title": "Construction of road from Bwgi Chowk to Kunderbil Santipur PWD connecting road via Gorhbasti and Dhonibasti including Slab culvert under Adola VCDC under CMs Goodwill Mission Project for the financial year 2023-24. (TN_26_148)",
+            "description": "Construction of road from Bwgi Chowk to Kunderbil Santipur PWD connecting road via Gorhbasti and Dhonibasti including Slab culvert under Adola VCDC under CMs Goodwill Mission Project for the financial year 2023-24. (TN_26_148)",
+            "datePublished": "09-Nov-2023 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,35,85,996",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

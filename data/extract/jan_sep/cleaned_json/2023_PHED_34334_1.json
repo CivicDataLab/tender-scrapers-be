@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PHED_34334_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "20-Dec-2023 11:30 AM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_PHED_34334_1",
+            "title": "Repairing and Renovation of Hatsingimari (PHE) Sub Division Office Building at Hatsingimari under South Salmara Mankachar (PHE) Division for the year 2022-23 under SOPD-G",
+            "description": "Repairing and Renovation of Hatsingimari (PHE) Sub Division Office Building at Hatsingimari under South Salmara Mankachar (PHE) Division for the year 2022-23 under SOPD-G",
+            "datePublished": "04-Dec-2023 12:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Dec-2023 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

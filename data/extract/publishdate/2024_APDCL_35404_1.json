@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_APDCL_35404_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Jan-2024 10:00 AM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_APDCL_35404_1",
+            "title": "CGM (D and S)/UAR/APDCL/Rangamati Agro Industries/2024/T-6",
+            "description": "CGM (D and S)/UAR/APDCL/Rangamati Agro Industries/2024/T-6",
+            "datePublished": "12-Jan-2024 09:00 AM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Jan-2024 10:00 AM"
+                }
+            ]
+        }
+    ]
+}

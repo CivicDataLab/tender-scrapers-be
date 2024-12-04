@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ED_34086_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "27-Dec-2023 11:00 AM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_ED_34086_1",
+            "title": "GRANT OF IMFL RETAIL OFF SHOP NO. DRG 7 AT WARD NO 8, MANGALDAI MB, DARRANG",
+            "description": "GRANT OF IMFL RETAIL OFF SHOP NO. DRG 7 AT WARD NO 8, MANGALDAI MB, DARRANG",
+            "datePublished": "22-Nov-2023 11:00 AM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Dec-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

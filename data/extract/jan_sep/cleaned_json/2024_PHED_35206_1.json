@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PHED_35206_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Feb-2024 03:00 PM",
+    "tenderValueAmount": "16,54,85,000",
+    "tender": [
+        {
+            "id": "2024_PHED_35206_1",
+            "title": "Implementation of Pandu Adarsa PWSS of Guwahati-I PHE Div under SOPD-G",
+            "description": "Implementation of Pandu Adarsa PWSS of Guwahati-I PHE Div under SOPD-G",
+            "datePublished": "05-Jan-2024 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "16,54,85,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

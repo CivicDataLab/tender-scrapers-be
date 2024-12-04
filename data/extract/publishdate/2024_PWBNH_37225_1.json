@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37225_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Mar-2024 04:00 PM",
+    "tenderValueAmount": "23,75,259",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37225_1",
+            "title": "Construction of Internal Approach Road from College Gate to Canteen Building and State Ayurvedic Pharmacy with Parking area of Govt. Ayurvedic College, Jalukbari, Guwahati-14",
+            "description": "Construction of Internal Approach Road from College Gate to Canteen Building and State Ayurvedic Pharmacy with Parking area of Govt. Ayurvedic College, Jalukbari, Guwahati-14",
+            "datePublished": "13-Mar-2024 06:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "23,75,259",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Mar-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

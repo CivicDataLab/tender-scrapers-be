@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33461_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Nov-2023 02:00 PM",
+    "tenderValueAmount": "3,05,88,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33461_2",
+            "title": "MMNPPNA_23_24_53 (i) Construction of FCI Road from Pachali Masjid Road to FCI Campus Gate No.2 (From Ch. 0.00 m to Ch. 500.00 m) with Both Side RCC Covered Drain (ii) Widening of Sati Joymoti Road from Hojai Circle Office to Gopal Nagar Culvert with",
+            "description": "MMNPPNA_23_24_53 (i) Construction of FCI Road from Pachali Masjid Road to FCI Campus Gate No.2 (From Ch. 0.00 m to Ch. 500.00 m) with Both Side RCC Covered Drain (ii) Widening of Sati Joymoti Road from Hojai Circle Office to Gopal Nagar Culvert with",
+            "datePublished": "02-Nov-2023 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,05,88,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

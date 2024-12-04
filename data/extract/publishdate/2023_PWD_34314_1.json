@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34314_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Dec-2023 11:00 AM",
+    "tenderValueAmount": "2,75,76,000",
+    "tender": [
+        {
+            "id": "2023_PWD_34314_1",
+            "title": "Improvement of SH-3 (from Basnaghat to Barapujia)",
+            "description": "Improvement of SH-3 (from Basnaghat to Barapujia)",
+            "datePublished": "01-Dec-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,75,76,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Dec-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

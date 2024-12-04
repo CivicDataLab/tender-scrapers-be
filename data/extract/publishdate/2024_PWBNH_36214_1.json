@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36214_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Mar-2024 11:00 AM",
+    "tenderValueAmount": "99,93,927",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36214_1",
+            "title": "Repairing / Renovation and Painting of old functional Adarsha Vidyalaya (Adarsha Vidyalaya Dokuchi) at Dokuchi in Kamrup District",
+            "description": "Repairing / Renovation and Painting of old functional Adarsha Vidyalaya (Adarsha Vidyalaya Dokuchi) at Dokuchi in Kamrup District",
+            "datePublished": "13-Feb-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "99,93,927",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Mar-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

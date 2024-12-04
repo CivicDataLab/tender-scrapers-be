@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33170_104",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Nov-2023 02:00 PM",
+    "tenderValueAmount": "12,20,77,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33170_104",
+            "title": "MMUPPNA_RIDF_XXIX_23_24_04 Improvement of (i) Kharikatia Ali from Ch. 4400.00m to 9700.00m, (ii) Improvement of Naga Ali from Ch. 10750.00m to 15400.00m under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD for the year 2023-24",
+            "description": "MMUPPNA_RIDF_XXIX_23_24_04 Improvement of (i) Kharikatia Ali from Ch. 4400.00m to 9700.00m, (ii) Improvement of Naga Ali from Ch. 10750.00m to 15400.00m under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD for the year 2023-24",
+            "datePublished": "26-Oct-2023 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "12,20,77,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

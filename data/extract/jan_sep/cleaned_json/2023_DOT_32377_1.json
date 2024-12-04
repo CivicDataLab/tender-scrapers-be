@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DOT_32377_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "20-Sep-2023 01:00 PM",
+    "tenderValueAmount": "34,65,032",
+    "tender": [
+        {
+            "id": "2023_DOT_32377_1",
+            "title": "Proposed Kharghuli Tourist Lodge (Ancillary works) Retaining wall boundary wall etc.",
+            "description": "Proposed Kharghuli Tourist Lodge (Ancillary works) Retaining wall boundary wall etc.",
+            "datePublished": "05-Sep-2023 12:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "34,65,032",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Sep-2023 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

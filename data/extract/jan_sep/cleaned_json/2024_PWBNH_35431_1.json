@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35431_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Feb-2024 01:00 PM",
+    "tenderValueAmount": "65,38,022",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35431_1",
+            "title": "Construction of Battalion Barracks with Cook shed at Central Jail Tezpur under Sonitpur District (Assam)",
+            "description": "Construction of Battalion Barracks with Cook shed at Central Jail Tezpur under Sonitpur District (Assam)",
+            "datePublished": "12-Jan-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "65,38,022",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Feb-2024 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

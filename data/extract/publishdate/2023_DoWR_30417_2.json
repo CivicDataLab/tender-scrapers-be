@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_30417_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Feb-2024 03:00 PM",
+    "tenderValueAmount": "1,49,99,664",
+    "tender": [
+        {
+            "id": "2023_DoWR_30417_2",
+            "title": "Restoration of breach like damages at Chiripuria on the dyke Dikhow bund right bank from NH-37 Bridge to Dikhowmukh. RETENDER",
+            "description": "Restoration of breach like damages at Chiripuria on the dyke Dikhow bund right bank from NH-37 Bridge to Dikhowmukh. RETENDER",
+            "datePublished": "27-Jan-2024 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,49,99,664",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

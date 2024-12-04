@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_AHVD_36288_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Mar-2024 04:00 PM",
+    "tenderValueAmount": "1,00,77,565",
+    "tender": [
+        {
+            "id": "2024_AHVD_36288_1",
+            "title": "Electrical Works",
+            "description": "Electrical Works",
+            "datePublished": "15-Feb-2024 01:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,00,77,565",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Mar-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

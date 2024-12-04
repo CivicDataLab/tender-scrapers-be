@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_35553_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Feb-2024 03:00 PM",
+    "tenderValueAmount": "70,69,993",
+    "tender": [
+        {
+            "id": "2024_BoTC_35553_1",
+            "title": "Construction of 3 Nos. of ACR and 1 No. Art and Craft Room (G 1) at Salbari College Junior, Baksa under BTC, funded by Samagra Siksha, Assam for the year 2023-24. (TN_06_6)",
+            "description": "Construction of 3 Nos. of ACR and 1 No. Art and Craft Room (G 1) at Salbari College Junior, Baksa under BTC, funded by Samagra Siksha, Assam for the year 2023-24. (TN_06_6)",
+            "datePublished": "19-Jan-2024 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "70,69,993",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34949_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Dec-2023 11:00 AM",
+    "tenderValueAmount": "19,43,000",
+    "tender": [
+        {
+            "id": "2023_PWD_34949_2",
+            "title": "Package No. Sivasagar/MMPNA/BUG/1 Maintenance And Repirs of 1) Steel Br. No. 1/1 on Bamunpikhuri TE Road, 2) Steel Br. No. 1/1 on Bura Ali, 3) Steel Br. No. 1/1 on Chakimukh Chimraline Ali, 4) Steel Br. No. 1/1 and Br. No. 1/5 on Chattai Ali to La",
+            "description": "Package No. Sivasagar/MMPNA/BUG/1 Maintenance And Repirs of 1) Steel Br. No. 1/1 on Bamunpikhuri TE Road, 2) Steel Br. No. 1/1 on Bura Ali, 3) Steel Br. No. 1/1 on Chakimukh Chimraline Ali, 4) Steel Br. No. 1/1 and Br. No. 1/5 on Chattai Ali to La",
+            "datePublished": "23-Dec-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "19,43,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Dec-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

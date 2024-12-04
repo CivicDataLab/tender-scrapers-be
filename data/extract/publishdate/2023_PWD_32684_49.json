@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_49",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "1,99,99,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_49",
+            "title": "MMNPPNA_23_24_01 (i) Construction of KK Baruah Ali from Ch.0.00m to CH. 500.00m as Gaurab Path, (ii) Construction of Pengera gaon Road (Amguri CHC Appr. And Pengera Gaon) from Ch 0.00m to CH.292.00m and Ch. 256.00m to 646.00m, under Mukhya Mantrir Na",
+            "description": "MMNPPNA_23_24_01 (i) Construction of KK Baruah Ali from Ch.0.00m to CH. 500.00m as Gaurab Path, (ii) Construction of Pengera gaon Road (Amguri CHC Appr. And Pengera Gaon) from Ch 0.00m to CH.292.00m and Ch. 256.00m to 646.00m, under Mukhya Mantrir Na",
+            "datePublished": "02-Oct-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,99,99,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

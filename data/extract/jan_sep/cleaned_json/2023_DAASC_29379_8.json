@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DAASC_29379_8",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "20-Mar-2023 01:00 PM",
+    "tenderValueAmount": "72,19,558",
+    "tender": [
+        {
+            "id": "2023_DAASC_29379_8",
+            "title": "Construction of 1000 MT capacity Godown at Karimganj (Mohakal FTS) under ASCL",
+            "description": "Construction of 1000 MT capacity Godown at Karimganj (Mohakal FTS) under ASCL",
+            "datePublished": "17-Feb-2023 03:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "72,19,558",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Mar-2023 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

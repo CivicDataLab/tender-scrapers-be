@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_52",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "1,72,47,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_52",
+            "title": "MMNPPNA_23_24_13 (i) Construction of 11th APBN Helipad Road (Ch. 0.00 m to 100.00 m) (ii) Construction of Road from NH-37 to LN Phukan Road via Ambedkar Bhawan (Ch. 0.00 m to 720.00 m) (iii) Construction of Royal Academy Road (Ch. 0.00 m to 160.00",
+            "description": "MMNPPNA_23_24_13 (i) Construction of 11th APBN Helipad Road (Ch. 0.00 m to 100.00 m) (ii) Construction of Road from NH-37 to LN Phukan Road via Ambedkar Bhawan (Ch. 0.00 m to 720.00 m) (iii) Construction of Royal Academy Road (Ch. 0.00 m to 160.00",
+            "datePublished": "02-Oct-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,72,47,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

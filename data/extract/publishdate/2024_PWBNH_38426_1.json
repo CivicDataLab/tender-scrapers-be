@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_38426_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "31-Aug-2024 04:30 PM",
+    "tenderValueAmount": "1,81,82,802",
+    "tender": [
+        {
+            "id": "2024_PWBNH_38426_1",
+            "title": "New construction of complete firefighting system at Senior Officers Colony premises, Khanapara, Guwahati-22 (considering required RCC Reservoir of capacity 50K litres, pumps, ring, pipe line, dist. points, fire extinguishers and elect. work)",
+            "description": "New construction of complete firefighting system at Senior Officers Colony premises, Khanapara, Guwahati-22 (considering required RCC Reservoir of capacity 50K litres, pumps, ring, pipe line, dist. points, fire extinguishers and elect. work)",
+            "datePublished": "10-Aug-2024 12:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,81,82,802",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "31-Aug-2024 04:30 PM"
+                }
+            ]
+        }
+    ]
+}

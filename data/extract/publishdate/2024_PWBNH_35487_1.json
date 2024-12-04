@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35487_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Jan-2024 03:00 PM",
+    "tenderValueAmount": "77,56,387",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35487_1",
+            "title": "Demolishing of existing Eye OT Mandir Water tank Parking rest area house existing road canteen and dustbin etc Group C in the campus of SMKCH Nalbari and disposal of Debries and salvage materials inside the SMKCH campus for constrn of Cancer Hospital",
+            "description": "Demolishing of existing Eye OT Mandir Water tank Parking rest area house existing road canteen and dustbin etc Group C in the campus of SMKCH Nalbari and disposal of Debries and salvage materials inside the SMKCH campus for constrn of Cancer Hospital",
+            "datePublished": "13-Jan-2024 06:10 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "77,56,387",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_PWBNH_26698_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Aug-2022 02:00 PM",
+    "tenderValueAmount": "46,29,673",
+    "tender": [
+        {
+            "id": "2022_PWBNH_26698_1",
+            "title": "Construction of 2 two storey building Sub Divisional Library cum Sahitya Sora Bhawan at Margherita Dist Tinsukia Assam for implementation of PMKKY under District Mineral Foundation Trust",
+            "description": "Construction of 2 two storey building Sub Divisional Library cum Sahitya Sora Bhawan at Margherita Dist Tinsukia Assam for implementation of PMKKY under District Mineral Foundation Trust",
+            "datePublished": "22-Aug-2022 12:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "46,29,673",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Aug-2022 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_35802_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "14-Feb-2024 03:30 PM",
+    "tenderValueAmount": "33,37,000",
+    "tender": [
+        {
+            "id": "2024_BoTC_35802_1",
+            "title": "Construction of Assam Type Dormitory for CoE Students-reg at JNV Ranchaidham",
+            "description": "Construction of Assam Type Dormitory for CoE Students-reg at JNV Ranchaidham",
+            "datePublished": "30-Jan-2024 03:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "33,37,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "14-Feb-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

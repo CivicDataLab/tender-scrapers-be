@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35115_37",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:30 PM",
+    "tenderValueAmount": "1,76,86,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35115_37",
+            "title": "MMPPNA_23_24_31 1.Construction of road from Nikashi to Daragaon Picnic Spot, 2.Construction of road from 2 No. Kataligaon (Thakurchupa) to Santipur L.P School (From Ch. 0.00 m to Ch. 1100.00m) under Mukhya Mantrir Pakipath Nirman Achani for the year",
+            "description": "MMPPNA_23_24_31 1.Construction of road from Nikashi to Daragaon Picnic Spot, 2.Construction of road from 2 No. Kataligaon (Thakurchupa) to Santipur L.P School (From Ch. 0.00 m to Ch. 1100.00m) under Mukhya Mantrir Pakipath Nirman Achani for the year",
+            "datePublished": "02-Jan-2024 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,76,86,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

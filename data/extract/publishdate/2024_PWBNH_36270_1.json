@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36270_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Mar-2024 12:30 PM",
+    "tenderValueAmount": "44,33,219",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36270_1",
+            "title": "Repair Renovation Blockage of Septic tank, Inspection Chamber, Toilet Block, Drain etc. at various places of Hospital Building Inner and outer, FAAMCH, Barpeta.",
+            "description": "Repair Renovation Blockage of Septic tank, Inspection Chamber, Toilet Block, Drain etc. at various places of Hospital Building Inner and outer, FAAMCH, Barpeta.",
+            "datePublished": "14-Feb-2024 04:45 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "44,33,219",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Mar-2024 12:30 PM"
+                }
+            ]
+        }
+    ]
+}

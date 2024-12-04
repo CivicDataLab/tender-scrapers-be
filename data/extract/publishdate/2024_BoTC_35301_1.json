@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_35301_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "19-Jan-2024 05:00 PM",
+    "tenderValueAmount": "16,33,000",
+    "tender": [
+        {
+            "id": "2024_BoTC_35301_1",
+            "title": "Supply of Manpower 7 Nos of Field Transportation Assistants cum Drivers under the Save the Pigs initiative of the Bodoland Pig Mission",
+            "description": "Supply of Manpower 7 Nos of Field Transportation Assistants cum Drivers under the Save the Pigs initiative of the Bodoland Pig Mission",
+            "datePublished": "11-Jan-2024 10:00 AM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "16,33,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Jan-2024 05:00 PM"
+                }
+            ]
+        }
+    ]
+}

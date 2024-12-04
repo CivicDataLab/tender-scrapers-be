@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35381_11",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Jan-2024 02:00 PM",
+    "tenderValueAmount": "4,18,58,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35381_11",
+            "title": "SOPD_G_23_24_43 (i) Construction of Balama Pathar to Budhubari connecting road from CH 0.00 KM to 2.85 KM, (ii) Construction of Teok Bagan to Namsisu Road from CH 0.00 KM to 0.50 KM, (iii) Construction of Tipomia to Morabasti from CH 0.00 KM to",
+            "description": "SOPD_G_23_24_43 (i) Construction of Balama Pathar to Budhubari connecting road from CH 0.00 KM to 2.85 KM, (ii) Construction of Teok Bagan to Namsisu Road from CH 0.00 KM to 0.50 KM, (iii) Construction of Tipomia to Morabasti from CH 0.00 KM to",
+            "datePublished": "11-Jan-2024 05:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,18,58,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

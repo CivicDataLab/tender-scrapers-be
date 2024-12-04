@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_NHM_32905_21",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "31-Oct-2023 03:30 PM",
+    "tenderValueAmount": "24,49,149",
+    "tender": [
+        {
+            "id": "2023_NHM_32905_21",
+            "title": "Construction of AYUSH Health and Wellness centres for FY 2022-23 under NAM, Assam, at various places of Assam Group.22 (7 nos. of scheme in Bongaigaon District).",
+            "description": "Construction of AYUSH Health and Wellness centres for FY 2022-23 under NAM, Assam, at various places of Assam Group.22 (7 nos. of scheme in Bongaigaon District).",
+            "datePublished": "16-Oct-2023 04:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,49,149",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "31-Oct-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

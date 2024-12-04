@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_35920_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Feb-2024 11:00 AM",
+    "tenderValueAmount": "23,79,000",
+    "tender": [
+        {
+            "id": "2024_BTC_35920_1",
+            "title": "Repairing and Renovation of Staff quarters Gr.III Qtr. 1 No. and Gr. IV Qtr. 1 No., Boundary Wall, Site Development and Construction of internal approach road at Gongia PHC under Kokrajhar District. TN No.70_01.",
+            "description": "Repairing and Renovation of Staff quarters Gr.III Qtr. 1 No. and Gr. IV Qtr. 1 No., Boundary Wall, Site Development and Construction of internal approach road at Gongia PHC under Kokrajhar District. TN No.70_01.",
+            "datePublished": "05-Feb-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "23,79,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Feb-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

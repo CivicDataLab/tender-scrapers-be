@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_36097_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "15-Feb-2024 03:00 PM",
+    "tenderValueAmount": "5,37,64,430",
+    "tender": [
+        {
+            "id": "2024_DoWR_36097_1",
+            "title": "Bank protection measures to protect Tamarhat Bazar and its adjoining areas from the erosion of river Gangadhar on its L/B (Ch. 0.00 m to 725.00 m).",
+            "description": "Bank protection measures to protect Tamarhat Bazar and its adjoining areas from the erosion of river Gangadhar on its L/B (Ch. 0.00 m to 725.00 m).",
+            "datePublished": "08-Feb-2024 06:35 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "5,37,64,430",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

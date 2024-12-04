@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_131",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,02,66,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_131",
+            "title": "MMNPPNA_23_24_127 (i) Construction of tangla(Tangla Chariali) to station feeder road from Km 0.00 to Km 0.640) as Gaurab Path, (ii) Construction of ICBP Road of Naoram Das path at Subhash Palli Ward no 3 under Mukhya Mantrir Nagariya Pakipath Nirman",
+            "description": "MMNPPNA_23_24_127 (i) Construction of tangla(Tangla Chariali) to station feeder road from Km 0.00 to Km 0.640) as Gaurab Path, (ii) Construction of ICBP Road of Naoram Das path at Subhash Palli Ward no 3 under Mukhya Mantrir Nagariya Pakipath Nirman",
+            "datePublished": "07-Oct-2023 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,02,66,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

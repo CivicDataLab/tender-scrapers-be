@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_WPTBC_35725_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 04:00 PM",
+    "tenderValueAmount": "1,00,00,000",
+    "tender": [
+        {
+            "id": "2024_WPTBC_35725_1",
+            "title": "Construction of St Girls Hostel at Bijni College, Bijni LAC, Dist Chirang",
+            "description": "Construction of St Girls Hostel at Bijni College, Bijni LAC, Dist Chirang",
+            "datePublished": "25-Jan-2024 05:55 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,00,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

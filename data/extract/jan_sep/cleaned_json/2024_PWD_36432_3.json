@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36432_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Feb-2024 02:00 PM",
+    "tenderValueAmount": "2,78,89,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36432_3",
+            "title": "SOPD_ODS_23_24_52 Construction of road from (i) SA (Salna Anjukpani) road to Chamtoly (L 1.023km) (ii) SA (Salna Anjukpani) road to Chamtoly Pt.-A (L-0.95km), (iii) Amguri village road (L-0.515km), (iv) Church approach road (L 0.085km)",
+            "description": "SOPD_ODS_23_24_52 Construction of road from (i) SA (Salna Anjukpani) road to Chamtoly (L 1.023km) (ii) SA (Salna Anjukpani) road to Chamtoly Pt.-A (L-0.95km), (iii) Amguri village road (L-0.515km), (iv) Church approach road (L 0.085km)",
+            "datePublished": "19-Feb-2024 05:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,78,89,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

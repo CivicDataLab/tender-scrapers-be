@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_UDD_36741_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Mar-2024 03:00 PM",
+    "tenderValueAmount": "2,90,00,000",
+    "tender": [
+        {
+            "id": "2024_UDD_36741_1",
+            "title": "ESTABLISHMENT, CONSTRUCTION, SUPPLY and PROCUREMENT, FABRICATION, ERECTION OF MACHINERIES, TRIAL RUN and COMMISSIONING OF MATERIAL RECOVERY FACILITY (MRF) AND WASTE TO COMPOST (W2C) PLANT",
+            "description": "ESTABLISHMENT, CONSTRUCTION, SUPPLY and PROCUREMENT, FABRICATION, ERECTION OF MACHINERIES, TRIAL RUN and COMMISSIONING OF MATERIAL RECOVERY FACILITY (MRF) AND WASTE TO COMPOST (W2C) PLANT",
+            "datePublished": "28-Feb-2024 06:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,90,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

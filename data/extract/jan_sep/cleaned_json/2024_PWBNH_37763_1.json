@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37763_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "20-Jul-2024 02:00 PM",
+    "tenderValueAmount": "97,73,955",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37763_1",
+            "title": "Construction of brick boundary wall alongwith construction of Inspector quarter,two nos of staff quarter,motor garage, ring well at Baithalangso Hamren etc",
+            "description": "Construction of brick boundary wall alongwith construction of Inspector quarter,two nos of staff quarter,motor garage, ring well at Baithalangso Hamren etc",
+            "datePublished": "26-Jun-2024 03:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "97,73,955",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Jul-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33602_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Nov-2023 12:00 PM",
+    "tenderValueAmount": "3,32,87,277",
+    "tender": [
+        {
+            "id": "2023_BTC_33602_1",
+            "title": "Construction of road from Bhomrabil Bazar to Bhomrabil No.2 road by providing SDBC under CMs Goodwill Project for the year 2023-24. TN_26_6",
+            "description": "Construction of road from Bhomrabil Bazar to Bhomrabil No.2 road by providing SDBC under CMs Goodwill Project for the year 2023-24. TN_26_6",
+            "datePublished": "09-Nov-2023 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,32,87,277",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

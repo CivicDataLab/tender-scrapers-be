@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_34473_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Dec-2023 03:00 PM",
+    "tenderValueAmount": "89,30,177",
+    "tender": [
+        {
+            "id": "2023_BTC_34473_1",
+            "title": "Construction of Martyr Sujit Narzary Memorial Auditorium at Bhairabkunda Constituency in Udalguri District. (TN_42_38)",
+            "description": "Construction of Martyr Sujit Narzary Memorial Auditorium at Bhairabkunda Constituency in Udalguri District. (TN_42_38)",
+            "datePublished": "06-Dec-2023 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "89,30,177",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

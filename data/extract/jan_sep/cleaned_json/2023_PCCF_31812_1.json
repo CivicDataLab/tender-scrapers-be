@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PCCF_31812_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "16-Aug-2023 05:00 PM",
+    "tenderValueAmount": "18,00,000",
+    "tender": [
+        {
+            "id": "2023_PCCF_31812_1",
+            "title": "Repairing of Norlong Forest Beat in Garbhanga RF of South Guwahati Range and Repairing of Assam Type Building (Sukurberia Beat and Battalion Barrack) of Rani Range",
+            "description": "Repairing of Norlong Forest Beat in Garbhanga RF of South Guwahati Range and Repairing of Assam Type Building (Sukurberia Beat and Battalion Barrack) of Rani Range",
+            "datePublished": "27-Jul-2023 05:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "18,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Aug-2023 05:00 PM"
+                }
+            ]
+        }
+    ]
+}

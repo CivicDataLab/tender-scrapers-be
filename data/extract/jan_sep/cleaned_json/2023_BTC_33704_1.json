@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33704_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Nov-2023 12:00 PM",
+    "tenderValueAmount": "2,91,28,417",
+    "tender": [
+        {
+            "id": "2023_BTC_33704_1",
+            "title": "Construction of R.C.C. bridge no. 1/1 over Lakhsmi River at Niz Harisingha Road under CMs Goodwill Mission Project for the year 2023-24 of District Udalguri (36. Horisinga (ST). (TN_26_142)",
+            "description": "Construction of R.C.C. bridge no. 1/1 over Lakhsmi River at Niz Harisingha Road under CMs Goodwill Mission Project for the year 2023-24 of District Udalguri (36. Horisinga (ST). (TN_26_142)",
+            "datePublished": "08-Nov-2023 05:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,91,28,417",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37214_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Apr-2024 02:00 PM",
+    "tenderValueAmount": "25,13,874",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37214_1",
+            "title": "Construction of Kitchen, Dining and Toilet at Special School for the Hearing and Visually Impaired at Chinatolia, Lakhimpur",
+            "description": "Construction of Kitchen, Dining and Toilet at Special School for the Hearing and Visually Impaired at Chinatolia, Lakhimpur",
+            "datePublished": "13-Mar-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "25,13,874",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Apr-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

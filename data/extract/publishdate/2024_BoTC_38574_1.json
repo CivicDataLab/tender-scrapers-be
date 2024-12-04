@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_38574_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "09-Sep-2024 05:00 PM",
+    "tenderValueAmount": "1,00,31,189",
+    "tender": [
+        {
+            "id": "2024_BoTC_38574_1",
+            "title": "Installation, Erection and commission of 5 line Solar fencing at Batabari Range of Baksa Forest Division, Mushalpur for a length 10 (ten) Km., Pkg No. BTC/Forest/CHD/01/2024_01",
+            "description": "Installation, Erection and commission of 5 line Solar fencing at Batabari Range of Baksa Forest Division, Mushalpur for a length 10 (ten) Km., Pkg No. BTC/Forest/CHD/01/2024_01",
+            "datePublished": "21-Aug-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,00,31,189",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Sep-2024 05:00 PM"
+                }
+            ]
+        }
+    ]
+}

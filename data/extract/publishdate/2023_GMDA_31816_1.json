@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_GMDA_31816_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Aug-2023 03:00 PM",
+    "tenderValueAmount": "3,25,88,000",
+    "tender": [
+        {
+            "id": "2023_GMDA_31816_1",
+            "title": "Soil stabilisation and creation of Pilot Urban Forest at Borbari Hillock, Guwahati",
+            "description": "Soil stabilisation and creation of Pilot Urban Forest at Borbari Hillock, Guwahati",
+            "datePublished": "27-Jul-2023 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,25,88,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Aug-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

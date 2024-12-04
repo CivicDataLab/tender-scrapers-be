@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33321_9",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Nov-2023 11:00 AM",
+    "tenderValueAmount": "1,08,56,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33321_9",
+            "title": "Package No.Cachar/MMPNA/BUG/05 Repair/ Rehabilitation of BUG Br. No. (1) 4/1 near Amjur to Jaragul Bazar, (2) 1/1 SMD Road to Dakhin Mohanpur, (3) 1/1 NH 54 to Bariknagar , (4) 4/1 SMD Road, (5) 2/1 SMD Road at Swadin Bazar to Dubrikandi, (6) 4",
+            "description": "Package No.Cachar/MMPNA/BUG/05 Repair/ Rehabilitation of BUG Br. No. (1) 4/1 near Amjur to Jaragul Bazar, (2) 1/1 SMD Road to Dakhin Mohanpur, (3) 1/1 NH 54 to Bariknagar , (4) 4/1 SMD Road, (5) 2/1 SMD Road at Swadin Bazar to Dubrikandi, (6) 4",
+            "datePublished": "28-Oct-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,08,56,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_31651_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Aug-2023 03:00 PM",
+    "tenderValueAmount": "82,22,130",
+    "tender": [
+        {
+            "id": "2023_PWBNH_31651_2",
+            "title": "PMC services for Construction of Integrated Deputy Commissioner Office for Cachar at Silchar, Assam",
+            "description": "PMC services for Construction of Integrated Deputy Commissioner Office for Cachar at Silchar, Assam",
+            "datePublished": "14-Jul-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "82,22,130",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Aug-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

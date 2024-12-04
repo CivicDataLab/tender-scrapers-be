@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_31310_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Jul-2023 03:00 PM",
+    "tenderValueAmount": "24,36,340",
+    "tender": [
+        {
+            "id": "2023_PWBNH_31310_1",
+            "title": "Construction of Outside Toilet at Court Campus of District and Session Judge of Bongaigaon District Assam",
+            "description": "Construction of Outside Toilet at Court Campus of District and Session Judge of Bongaigaon District Assam",
+            "datePublished": "21-Jun-2023 03:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,36,340",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Jul-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

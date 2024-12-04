@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ID_35027_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "18-Jan-2024 03:00 PM",
+    "tenderValueAmount": "1,89,64,244",
+    "tender": [
+        {
+            "id": "2023_ID_35027_1",
+            "title": "LIS from River Sessa at Bordoibam area and Kolakhuwa area _2Pts_ under SOPD for the year 2023_24 under Moran Tingkhong Division Irrigation Moran",
+            "description": "LIS from River Sessa at Bordoibam area and Kolakhuwa area _2Pts_ under SOPD for the year 2023_24 under Moran Tingkhong Division Irrigation Moran",
+            "datePublished": "29-Dec-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,89,64,244",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "18-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

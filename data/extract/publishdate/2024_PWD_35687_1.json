@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35687_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Feb-2024 11:00 AM",
+    "tenderValueAmount": "28,00,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35687_1",
+            "title": "Re construction of Juripar guard wall with repairing of cattle trap under MMPPNA for 2023-24 .",
+            "description": "Re construction of Juripar guard wall with repairing of cattle trap under MMPPNA for 2023-24 .",
+            "datePublished": "25-Jan-2024 09:00 AM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "28,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Feb-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

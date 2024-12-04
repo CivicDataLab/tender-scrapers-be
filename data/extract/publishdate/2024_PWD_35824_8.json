@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35824_8",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "14-Feb-2024 02:00 PM",
+    "tenderValueAmount": "1,85,11,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35824_8",
+            "title": "MMPPNA_23_24_332 1. Construction of Japihojia Road from Ch. 0.00m to Ch. 1000.00m (L 1.00 km), 2. Construction of Namdongia Kiroi Gaon Road from Ch. 0.00m to Ch. 850.00m (L 0.850 km), 3. Construction of Tingiripam Abhaipuria Road from Ch. 0.00m to",
+            "description": "MMPPNA_23_24_332 1. Construction of Japihojia Road from Ch. 0.00m to Ch. 1000.00m (L 1.00 km), 2. Construction of Namdongia Kiroi Gaon Road from Ch. 0.00m to Ch. 850.00m (L 0.850 km), 3. Construction of Tingiripam Abhaipuria Road from Ch. 0.00m to",
+            "datePublished": "02-Feb-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,85,11,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "14-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

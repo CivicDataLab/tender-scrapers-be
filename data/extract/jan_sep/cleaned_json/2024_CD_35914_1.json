@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_CD_35914_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "20-Feb-2024 11:00 AM",
+    "tenderValueAmount": "2,42,95,033",
+    "tender": [
+        {
+            "id": "2024_CD_35914_1",
+            "title": "Construction of Ground plus 2 R.C.C. office building for office of the Assistant Registrar of Cooperative Societies at Garmur, Majuli, Assam",
+            "description": "Construction of Ground plus 2 R.C.C. office building for office of the Assistant Registrar of Cooperative Societies at Garmur, Majuli, Assam",
+            "datePublished": "05-Feb-2024 11:00 AM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,42,95,033",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Feb-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

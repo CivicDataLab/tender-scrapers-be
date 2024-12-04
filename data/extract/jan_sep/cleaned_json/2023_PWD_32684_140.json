@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_140",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "1,51,96,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_140",
+            "title": "MMNPPNA_23_24_31 (i) Construction of RCC covered drain at Kartic Para Bye Lane 1 (One side) (ii) Construction of RCC covered drain at Khalihamari Bye Lane 3 (Ohely Furniture) (One side) (iii) Construction of RCC covered drain at Borpukhuri Par (One",
+            "description": "MMNPPNA_23_24_31 (i) Construction of RCC covered drain at Kartic Para Bye Lane 1 (One side) (ii) Construction of RCC covered drain at Khalihamari Bye Lane 3 (Ohely Furniture) (One side) (iii) Construction of RCC covered drain at Borpukhuri Par (One",
+            "datePublished": "07-Oct-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,51,96,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

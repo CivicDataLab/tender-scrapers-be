@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_38470_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Sep-2024 04:30 PM",
+    "tenderValueAmount": "49,50,000",
+    "tender": [
+        {
+            "id": "2024_PWBNH_38470_1",
+            "title": "Civil work for Renovation/ Re-Construction of abandoned Boxing Shed for upgraded to Boxing Hall at SAI NCoE Guwahati under SAI Regional Centre, Guwahati for Fy 2024-25",
+            "description": "Civil work for Renovation/ Re-Construction of abandoned Boxing Shed for upgraded to Boxing Hall at SAI NCoE Guwahati under SAI Regional Centre, Guwahati for Fy 2024-25",
+            "datePublished": "13-Aug-2024 02:45 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "49,50,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Sep-2024 04:30 PM"
+                }
+            ]
+        }
+    ]
+}

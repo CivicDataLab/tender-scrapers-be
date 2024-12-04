@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_37061_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "14-Mar-2024 03:00 PM",
+    "tenderValueAmount": "89,99,822",
+    "tender": [
+        {
+            "id": "2024_DoWR_37061_1",
+            "title": "M and R to recoupment of breach like damaged section of agricultural bund at Boha-Nabahatiya area on the right bank of river Kopilli for the year 2023-24.",
+            "description": "M and R to recoupment of breach like damaged section of agricultural bund at Boha-Nabahatiya area on the right bank of river Kopilli for the year 2023-24.",
+            "datePublished": "08-Mar-2024 06:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "89,99,822",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "14-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

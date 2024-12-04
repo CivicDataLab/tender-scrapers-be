@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35744_72",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 02:00 PM",
+    "tenderValueAmount": "48,27,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35744_72",
+            "title": "SOPD_ODS_23_24_74 Construction of Bungalow Line 1 from (Ch. 0.00m to Ch. 630.00m), Bungalow Line 2 from (Ch.0.00m to 130.00m) Total Length 0.760 Km in Timon T.E",
+            "description": "SOPD_ODS_23_24_74 Construction of Bungalow Line 1 from (Ch. 0.00m to Ch. 630.00m), Bungalow Line 2 from (Ch.0.00m to 130.00m) Total Length 0.760 Km in Timon T.E",
+            "datePublished": "05-Feb-2024 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "48,27,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32885_23",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,76,83,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32885_23",
+            "title": "MMNPPNA_23_24_178 (i)Re-Construction of road from PNGB Road (Shiv mandir to Gohaingaon)(Ch-0.00 m to Ch-1120.00 M), (ii)Re-Construction of road from Karichuk to Nimatichuk road in Dhemaji (Ch-0.00 m to Ch-2000.00 M), (iii)Construction of road from",
+            "description": "MMNPPNA_23_24_178 (i)Re-Construction of road from PNGB Road (Shiv mandir to Gohaingaon)(Ch-0.00 m to Ch-1120.00 M), (ii)Re-Construction of road from Karichuk to Nimatichuk road in Dhemaji (Ch-0.00 m to Ch-2000.00 M), (iii)Construction of road from",
+            "datePublished": "11-Oct-2023 12:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,76,83,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

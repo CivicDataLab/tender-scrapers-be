@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33797_13",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Dec-2023 03:00 PM",
+    "tenderValueAmount": "1,35,92,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33797_13",
+            "title": "MMPNA/2023-24/97_Periodic Renewal of road from 3rd km of BS road to Jogirmahal -II, NH31 to Pasuarkhal Pt-II, NH31 at Rangamati to Chautara and 6th km of BS road to Soulmari under MUKHYA MANTRI PATH NABIKARAN AACHANI for the year 2023-24 under Gaur",
+            "description": "MMPNA/2023-24/97_Periodic Renewal of road from 3rd km of BS road to Jogirmahal -II, NH31 to Pasuarkhal Pt-II, NH31 at Rangamati to Chautara and 6th km of BS road to Soulmari under MUKHYA MANTRI PATH NABIKARAN AACHANI for the year 2023-24 under Gaur",
+            "datePublished": "10-Nov-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,35,92,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

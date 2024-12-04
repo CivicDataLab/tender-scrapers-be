@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWRDW_32940_9",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Nov-2023 02:30 PM",
+    "tenderValueAmount": "3,47,02,000",
+    "tender": [
+        {
+            "id": "2023_PWRDW_32940_9",
+            "title": "Construction of Bridges in Darrang district i.Br. No. 1/1 on Gomthapra LP School to Jhargaon connecting Road",
+            "description": "Construction of Bridges in Darrang district i.Br. No. 1/1 on Gomthapra LP School to Jhargaon connecting Road",
+            "datePublished": "11-Oct-2023 06:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,47,02,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Nov-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

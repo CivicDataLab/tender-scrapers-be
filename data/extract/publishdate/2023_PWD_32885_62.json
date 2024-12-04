@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32885_62",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 02:00 PM",
+    "tenderValueAmount": "4,28,24,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32885_62",
+            "title": "MMNPPNA_23_24_215 Widening Improvement of NH 38 to Margherita Mirikia Majuli tiniali Road ( Ch 0.00 m to 0.84 m) (GAURAV PATH) under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA) for the year 2023-24, Margherita MB",
+            "description": "MMNPPNA_23_24_215 Widening Improvement of NH 38 to Margherita Mirikia Majuli tiniali Road ( Ch 0.00 m to 0.84 m) (GAURAV PATH) under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA) for the year 2023-24, Margherita MB",
+            "datePublished": "12-Oct-2023 12:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,28,24,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

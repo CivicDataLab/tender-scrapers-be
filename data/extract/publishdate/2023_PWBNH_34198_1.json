@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34198_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Dec-2023 04:00 PM",
+    "tenderValueAmount": "86,53,720",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34198_1",
+            "title": "Construction of Moran National Skill Development Generation Institute at Moran Jatiya Karmachari Sainik Bikash Mancha Office Rupai Siding Phase II",
+            "description": "Construction of Moran National Skill Development Generation Institute at Moran Jatiya Karmachari Sainik Bikash Mancha Office Rupai Siding Phase II",
+            "datePublished": "25-Nov-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "86,53,720",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Dec-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

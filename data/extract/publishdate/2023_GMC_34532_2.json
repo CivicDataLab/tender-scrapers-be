@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_GMC_34532_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:30 PM",
+    "tenderValueAmount": "32,42,000",
+    "tender": [
+        {
+            "id": "2023_GMC_34532_2",
+            "title": "Construction of Pragati Nagar 1 no. Bye lane, Satgaon, Guwahati, ward no. 58",
+            "description": "Construction of Pragati Nagar 1 no. Bye lane, Satgaon, Guwahati, ward no. 58",
+            "datePublished": "06-Jan-2024 05:00 PM",
+            "contractType": "Lump-sum",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "32,42,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

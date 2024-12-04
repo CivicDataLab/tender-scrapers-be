@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35400_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 11:30 AM",
+    "tenderValueAmount": "24,83,839",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35400_1",
+            "title": "Extension of Jalukbari Territorial Building Sub-Division for accommodation of Jalukbari and Guwahati West Territorial Building Division, Jalukbari, Guwahati-13",
+            "description": "Extension of Jalukbari Territorial Building Sub-Division for accommodation of Jalukbari and Guwahati West Territorial Building Division, Jalukbari, Guwahati-13",
+            "datePublished": "11-Jan-2024 02:30 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,83,839",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

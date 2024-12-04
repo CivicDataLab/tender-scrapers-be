@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_32646_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Sep-2023 02:00 PM",
+    "tenderValueAmount": "3,31,13,000",
+    "tender": [
+        {
+            "id": "2023_PWBNH_32646_1",
+            "title": "Special repair to NH-15 from Km. 13.00 (Narikali) to km 49.00 (Kharupetiya) (Total Length 26 Km) under SOPD for the year 2023-24, under PWD Rangia NH Division, Rangia in the state of Assam. (Providing Filling Pot Holes by 50 mm thick DBM and Patch Re",
+            "description": "Special repair to NH-15 from Km. 13.00 (Narikali) to km 49.00 (Kharupetiya) (Total Length 26 Km) under SOPD for the year 2023-24, under PWD Rangia NH Division, Rangia in the state of Assam. (Providing Filling Pot Holes by 50 mm thick DBM and Patch Re",
+            "datePublished": "23-Sep-2023 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,31,13,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Sep-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

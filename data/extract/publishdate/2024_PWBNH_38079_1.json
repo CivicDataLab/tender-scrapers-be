@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_38079_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "24-Jul-2024 03:00 PM",
+    "tenderValueAmount": "1,83,62,991",
+    "tender": [
+        {
+            "id": "2024_PWBNH_38079_1",
+            "title": "Additional Estimate for Setting up of Regional Forensic Science Laboratory at the erstwhile Medical Record Department Building of Assam Medical College and Hospital Dibrugarh",
+            "description": "Additional Estimate for Setting up of Regional Forensic Science Laboratory at the erstwhile Medical Record Department Building of Assam Medical College and Hospital Dibrugarh",
+            "datePublished": "18-Jul-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,83,62,991",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "24-Jul-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

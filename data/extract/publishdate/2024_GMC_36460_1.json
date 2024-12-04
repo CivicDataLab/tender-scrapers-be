@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_GMC_36460_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "11-Mar-2024 02:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_GMC_36460_1",
+            "title": "Selection of a Technical Support Unit (TSU) for Swachh Bharat Mission (Urban) 2.0 and National Clean Air Program (NCAP) in Guwahati",
+            "description": "Selection of a Technical Support Unit (TSU) for Swachh Bharat Mission (Urban) 2.0 and National Clean Air Program (NCAP) in Guwahati",
+            "datePublished": "20-Feb-2024 04:15 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Mar-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

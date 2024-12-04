@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PCCF_31118_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Jun-2023 05:00 PM",
+    "tenderValueAmount": "7,48,800",
+    "tender": [
+        {
+            "id": "2023_PCCF_31118_1",
+            "title": "Construction of Boundary Pillar and Iron Stick with Flag mentioning GPS coordinates",
+            "description": "Construction of Boundary Pillar and Iron Stick with Flag mentioning GPS coordinates",
+            "datePublished": "08-Jun-2023 01:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "7,48,800",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Jun-2023 05:00 PM"
+                }
+            ]
+        }
+    ]
+}

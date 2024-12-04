@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_NHM_35419_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "02-Feb-2024 02:00 PM",
+    "tenderValueAmount": "1,00,000",
+    "tender": [
+        {
+            "id": "2024_NHM_35419_1",
+            "title": "Tender for Procurement of Bulk Text SMS Services for National Health Mission, Assam",
+            "description": "Tender for Procurement of Bulk Text SMS Services for National Health Mission, Assam",
+            "datePublished": "12-Jan-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "1,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

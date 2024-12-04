@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_ICD_24373_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2021-2022",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "23-Feb-2022 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2022_ICD_24373_1",
+            "title": "CNG CASCADE",
+            "description": "CNG CASCADE",
+            "datePublished": "16-Feb-2022 05:30 PM",
+            "contractType": "Buy",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "23-Feb-2022 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

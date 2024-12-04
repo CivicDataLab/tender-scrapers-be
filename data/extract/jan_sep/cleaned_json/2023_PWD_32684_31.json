@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_31",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,95,08,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_31",
+            "title": "MMNPPNA_23_24_106 (i) Construction of RCC Covered Drain deom Ch.0.00M to Ch.239.00M at Park Road, (ii) Construction of drain alongwith cover slab in front of Court of District Sessions Judge, Cachar, Silchar, (iii) Construction / Improvement of",
+            "description": "MMNPPNA_23_24_106 (i) Construction of RCC Covered Drain deom Ch.0.00M to Ch.239.00M at Park Road, (ii) Construction of drain alongwith cover slab in front of Court of District Sessions Judge, Cachar, Silchar, (iii) Construction / Improvement of",
+            "datePublished": "30-Sep-2023 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,95,08,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

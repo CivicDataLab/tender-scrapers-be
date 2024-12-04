@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_UDD_36931_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Mar-2024 12:30 PM",
+    "tenderValueAmount": "47,10,340",
+    "tender": [
+        {
+            "id": "2024_UDD_36931_1",
+            "title": "Details Proposal for Supply, Installation of Street Lighting Project under North Guwahati Municipal Board .(Phase -1)",
+            "description": "Details Proposal for Supply, Installation of Street Lighting Project under North Guwahati Municipal Board .(Phase -1)",
+            "datePublished": "05-Mar-2024 06:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "47,10,340",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Mar-2024 12:30 PM"
+                }
+            ]
+        }
+    ]
+}

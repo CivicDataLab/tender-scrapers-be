@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_34621_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Dec-2023 03:00 PM",
+    "tenderValueAmount": "19,80,77,104",
+    "tender": [
+        {
+            "id": "2023_DoWR_34621_1",
+            "title": "Construction of flood wall to save Gohpur area from flood inundation of River Chatrang from Railway Line to NH-15 including extension at Madhya Chatrang.",
+            "description": "Construction of flood wall to save Gohpur area from flood inundation of River Chatrang from Railway Line to NH-15 including extension at Madhya Chatrang.",
+            "datePublished": "12-Dec-2023 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "19,80,77,104",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

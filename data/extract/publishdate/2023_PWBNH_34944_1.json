@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34944_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "16-Jan-2024 11:00 AM",
+    "tenderValueAmount": "41,44,614",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34944_1",
+            "title": "Construction of garage for Car parking at Notboma Housefed Complex Notboma Guwiahati38 For 16 Nos South side of block M I and M II Ph III",
+            "description": "Construction of garage for Car parking at Notboma Housefed Complex Notboma Guwiahati38 For 16 Nos South side of block M I and M II Ph III",
+            "datePublished": "22-Dec-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "41,44,614",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Jan-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

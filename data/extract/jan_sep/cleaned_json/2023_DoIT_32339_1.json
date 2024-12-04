@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoIT_32339_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "13-Sep-2023 04:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_DoIT_32339_1",
+            "title": "Providing 500Mbps Internet Leased Line Service",
+            "description": "Providing 500Mbps Internet Leased Line Service",
+            "datePublished": "01-Sep-2023 05:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Sep-2023 04:30 PM"
+                }
+            ]
+        }
+    ]
+}

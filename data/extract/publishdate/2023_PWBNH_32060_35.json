@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_32060_35",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Sep-2023 03:30 PM",
+    "tenderValueAmount": "2,88,24,127",
+    "tender": [
+        {
+            "id": "2023_PWBNH_32060_35",
+            "title": "TGR-66 Construction of Model Secondary Schools in the Tea Garden Areas, Assam at Lalamukh TGMS, Dist Hailakandi",
+            "description": "TGR-66 Construction of Model Secondary Schools in the Tea Garden Areas, Assam at Lalamukh TGMS, Dist Hailakandi",
+            "datePublished": "16-Aug-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,88,24,127",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Sep-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

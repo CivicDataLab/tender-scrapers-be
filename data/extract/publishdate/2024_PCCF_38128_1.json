@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PCCF_38128_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "13-Aug-2024 01:00 PM",
+    "tenderValueAmount": "35,40,318",
+    "tender": [
+        {
+            "id": "2024_PCCF_38128_1",
+            "title": "Supply of Elephant Feed for departmental captive Elephant",
+            "description": "Supply of Elephant Feed for departmental captive Elephant",
+            "datePublished": "22-Jul-2024 05:00 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "35,40,318",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Aug-2024 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

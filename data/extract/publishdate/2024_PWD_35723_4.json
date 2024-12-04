@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35723_4",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Feb-2024 02:00 PM",
+    "tenderValueAmount": "57,26,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35723_4",
+            "title": "NGTRD-MMPPNA-01- Raghunath Choudhury Nagar",
+            "description": "NGTRD-MMPPNA-01- Raghunath Choudhury Nagar",
+            "datePublished": "29-Jan-2024 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "57,26,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

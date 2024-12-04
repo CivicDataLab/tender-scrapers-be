@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36753_5",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Mar-2024 02:00 PM",
+    "tenderValueAmount": "3,24,52,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36753_5",
+            "title": "MMPPNA_23_24_142 1. Construction of 4th km Tinmile Bhitorsuti PMGSY road to 6th KM via Gotlong Phultola, 2. Construction of NH-715 Dolabari Chariali to Bhojkhowa PWD Road (Ch. 0.00m to Ch. 1600.00m), 3. Construction of Borjhar Gaon Bye Lane",
+            "description": "MMPPNA_23_24_142 1. Construction of 4th km Tinmile Bhitorsuti PMGSY road to 6th KM via Gotlong Phultola, 2. Construction of NH-715 Dolabari Chariali to Bhojkhowa PWD Road (Ch. 0.00m to Ch. 1600.00m), 3. Construction of Borjhar Gaon Bye Lane",
+            "datePublished": "29-Feb-2024 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,24,52,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

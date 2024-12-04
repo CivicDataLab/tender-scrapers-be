@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36543_4",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Mar-2024 02:00 PM",
+    "tenderValueAmount": "2,92,86,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36543_4",
+            "title": "MMPPNA_23_24_338 (i) Construction of road from Ata Nagar to South Ata Nagar ,(ii)Construction of road from Ashonala to Ghulcherra,(iii) Construction of road from Khalopar to Alinagar,(iv)Construction of road from Singaria PWD road to Batoiya",
+            "description": "MMPPNA_23_24_338 (i) Construction of road from Ata Nagar to South Ata Nagar ,(ii)Construction of road from Ashonala to Ghulcherra,(iii) Construction of road from Khalopar to Alinagar,(iv)Construction of road from Singaria PWD road to Batoiya",
+            "datePublished": "23-Feb-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,92,86,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_APDCL_27794_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "15-Dec-2022 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2022_APDCL_27794_1",
+            "title": "Supply of 5MVA and 10 MVA PTR as per relevant IS IEC standard under SOPD 2022 23 scheme",
+            "description": "Supply of 5MVA and 10 MVA PTR as per relevant IS IEC standard under SOPD 2022 23 scheme",
+            "datePublished": "17-Nov-2022 09:00 AM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Dec-2022 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

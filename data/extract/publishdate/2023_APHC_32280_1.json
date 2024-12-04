@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_APHC_32280_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Oct-2023 12:30 PM",
+    "tenderValueAmount": "7,02,02,550",
+    "tender": [
+        {
+            "id": "2023_APHC_32280_1",
+            "title": "Construction of RCC S 4 L/S qtr 16 unit/bldg - Civil, Sanitary and water supply, Site development etc at Jorhat PR under the scheme for Special Assistance to the States for Capital Investment 23 - 24 on EPC Mode.",
+            "description": "Construction of RCC S 4 L/S qtr 16 unit/bldg - Civil, Sanitary and water supply, Site development etc at Jorhat PR under the scheme for Special Assistance to the States for Capital Investment 23 - 24 on EPC Mode.",
+            "datePublished": "30-Aug-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "7,02,02,550",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Oct-2023 12:30 PM"
+                }
+            ]
+        }
+    ]
+}

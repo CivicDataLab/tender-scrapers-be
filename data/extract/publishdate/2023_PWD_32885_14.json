@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32885_14",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 02:00 PM",
+    "tenderValueAmount": "1,80,93,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32885_14",
+            "title": "MMNPPNA_23_24_158 (i) Improvement of Biswanath Chariali Police Point to Pavoi Road Biswanath Chariali (Ch. 230.00 m to 1690.00m), (ii)Improvement of Biswanath Chariali Police Point to Biswanath Ghat Road (Ch. 0.00 m to 1500.00m), (iii)Improvement",
+            "description": "MMNPPNA_23_24_158 (i) Improvement of Biswanath Chariali Police Point to Pavoi Road Biswanath Chariali (Ch. 230.00 m to 1690.00m), (ii)Improvement of Biswanath Chariali Police Point to Biswanath Ghat Road (Ch. 0.00 m to 1500.00m), (iii)Improvement",
+            "datePublished": "10-Oct-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,80,93,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

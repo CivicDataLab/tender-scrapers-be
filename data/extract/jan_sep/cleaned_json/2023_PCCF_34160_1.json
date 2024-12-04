@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PCCF_34160_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Dec-2023 04:30 PM",
+    "tenderValueAmount": "16,54,356",
+    "tender": [
+        {
+            "id": "2023_PCCF_34160_1",
+            "title": "Construction of Chain Link Fencing",
+            "description": "Construction of Chain Link Fencing",
+            "datePublished": "23-Nov-2023 02:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "16,54,356",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Dec-2023 04:30 PM"
+                }
+            ]
+        }
+    ]
+}

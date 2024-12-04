@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36323_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Feb-2024 02:00 PM",
+    "tenderValueAmount": "22,00,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36323_1",
+            "title": "Construction of Gothoibari Road at Katabazar North Guwahati under SOPD G for the year 2023 24",
+            "description": "Construction of Gothoibari Road at Katabazar North Guwahati under SOPD G for the year 2023 24",
+            "datePublished": "16-Feb-2024 02:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "22,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

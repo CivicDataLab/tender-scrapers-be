@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_AHVD_32743_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 02:30 PM",
+    "tenderValueAmount": "33,71,000",
+    "tender": [
+        {
+            "id": "2023_AHVD_32743_2",
+            "title": "CONSTRUCTION OF ASSAM TYPE SUB-CENTRE BUILDING WITH ELECTRIFICATION, WATER SUPPLY AND SANITARY WORKS ETC. AT DAULASAL IN NALBARI DISTRICT",
+            "description": "CONSTRUCTION OF ASSAM TYPE SUB-CENTRE BUILDING WITH ELECTRIFICATION, WATER SUPPLY AND SANITARY WORKS ETC. AT DAULASAL IN NALBARI DISTRICT",
+            "datePublished": "03-Oct-2023 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "33,71,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

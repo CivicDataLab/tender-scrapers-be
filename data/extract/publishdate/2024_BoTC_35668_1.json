@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_35668_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "15-Feb-2024 02:30 PM",
+    "tenderValueAmount": "49,99,977",
+    "tender": [
+        {
+            "id": "2024_BoTC_35668_1",
+            "title": "Procurement of Office Equipments Viz Stationery Articles, Furniture etc., to be supplied in the office of the 29 Nos of the Block Dev Offices under BTR area under SOPD for the year 2023-24.",
+            "description": "Procurement of Office Equipments Viz Stationery Articles, Furniture etc., to be supplied in the office of the 29 Nos of the Block Dev Offices under BTR area under SOPD for the year 2023-24.",
+            "datePublished": "24-Jan-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "49,99,977",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Feb-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

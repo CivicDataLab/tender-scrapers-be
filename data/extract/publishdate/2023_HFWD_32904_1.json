@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_HFWD_32904_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 01:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_HFWD_32904_1",
+            "title": "40 KL Liquid Medical Oxygen",
+            "description": "40 KL Liquid Medical Oxygen",
+            "datePublished": "09-Oct-2023 03:00 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

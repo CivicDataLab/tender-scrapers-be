@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34395_85",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Dec-2023 02:00 PM",
+    "tenderValueAmount": "5,13,01,000",
+    "tender": [
+        {
+            "id": "2023_PWD_34395_85",
+            "title": "RIDF_XXIX_23_24_62 Construction of road from Deori Englang Serlongchor Arsong Hamren (DESAH) Road (Ch. 5450m to Ch. 10950m) under RIDF XXIX of NABARD for the year 2023-24",
+            "description": "RIDF_XXIX_23_24_62 Construction of road from Deori Englang Serlongchor Arsong Hamren (DESAH) Road (Ch. 5450m to Ch. 10950m) under RIDF XXIX of NABARD for the year 2023-24",
+            "datePublished": "11-Dec-2023 12:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "5,13,01,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

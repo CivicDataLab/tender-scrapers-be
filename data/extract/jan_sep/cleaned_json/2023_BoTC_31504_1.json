@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_31504_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "20-Jul-2023 03:00 PM",
+    "tenderValueAmount": "43,88,400",
+    "tender": [
+        {
+            "id": "2023_BoTC_31504_1",
+            "title": "Supply of Direct Seeded Rice/Rice/SRI/Line Transplanting Paddy Seed under Krishannati Yojana, FNS-Rice, NFSM for the year 2023-24.",
+            "description": "Supply of Direct Seeded Rice/Rice/SRI/Line Transplanting Paddy Seed under Krishannati Yojana, FNS-Rice, NFSM for the year 2023-24.",
+            "datePublished": "05-Jul-2023 10:00 AM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "43,88,400",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Jul-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

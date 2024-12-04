@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_36164_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "16-Feb-2024 03:00 PM",
+    "tenderValueAmount": "16,70,24,131",
+    "tender": [
+        {
+            "id": "2024_DoWR_36164_1",
+            "title": "Protection of DTP Dyke from Stone Spur No. IV to VIII and Aithan bund from the erosion of River Brahmaputra- Ph-I, PACKAGE 4",
+            "description": "Protection of DTP Dyke from Stone Spur No. IV to VIII and Aithan bund from the erosion of River Brahmaputra- Ph-I, PACKAGE 4",
+            "datePublished": "10-Feb-2024 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "16,70,24,131",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

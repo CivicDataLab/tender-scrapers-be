@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_UDD_36199_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Feb-2024 11:30 AM",
+    "tenderValueAmount": "2,53,00,000",
+    "tender": [
+        {
+            "id": "2024_UDD_36199_1",
+            "title": "ESTABLISHMENT CONSTRUCTION SUPPLY PROCUREMENT FABRICATION ERECTION OF MACHINERIES TRIAL RUN AND COMMISSIONING OF MRF AND WASTE TO COMPOST PLANT AT DOOMDOOMA AS PER SWM RULES 2016 UNDER SBM U ON ENGINEERING ON EPC MODE",
+            "description": "ESTABLISHMENT CONSTRUCTION SUPPLY PROCUREMENT FABRICATION ERECTION OF MACHINERIES TRIAL RUN AND COMMISSIONING OF MRF AND WASTE TO COMPOST PLANT AT DOOMDOOMA AS PER SWM RULES 2016 UNDER SBM U ON ENGINEERING ON EPC MODE",
+            "datePublished": "13-Feb-2024 09:00 AM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,53,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Feb-2024 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

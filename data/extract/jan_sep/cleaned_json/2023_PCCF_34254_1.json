@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PCCF_34254_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Dec-2023 12:30 PM",
+    "tenderValueAmount": "39,75,000",
+    "tender": [
+        {
+            "id": "2023_PCCF_34254_1",
+            "title": "Construction of Iron Mechanized Boat",
+            "description": "Construction of Iron Mechanized Boat",
+            "datePublished": "29-Nov-2023 09:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "39,75,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Dec-2023 12:30 PM"
+                }
+            ]
+        }
+    ]
+}

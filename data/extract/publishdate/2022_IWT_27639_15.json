@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_IWT_27639_15",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "28-Nov-2022 03:00 PM",
+    "tenderValueAmount": "4,53,000",
+    "tender": [
+        {
+            "id": "2022_IWT_27639_15",
+            "title": "LEASING OF SUNARI-PAGLABABA THAN DUDHNATH FERRY SERVICES",
+            "description": "LEASING OF SUNARI-PAGLABABA THAN DUDHNATH FERRY SERVICES",
+            "datePublished": "07-Nov-2022 03:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "4,53,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Nov-2022 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36507_4",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Feb-2024 02:30 PM",
+    "tenderValueAmount": "12,48,55,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36507_4",
+            "title": "MMUPPNA_RIDF_XXIX_23_24_69 Improvement of road from Tallain Rajnagar Katigorah road (TRK) (Ch. 10300.00m to Ch. 21500.00m) under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD for the year 2023-24",
+            "description": "MMUPPNA_RIDF_XXIX_23_24_69 Improvement of road from Tallain Rajnagar Katigorah road (TRK) (Ch. 10300.00m to Ch. 21500.00m) under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD for the year 2023-24",
+            "datePublished": "22-Feb-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "12,48,55,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Feb-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

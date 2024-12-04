@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DHUA_36913_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Mar-2024 03:00 PM",
+    "tenderValueAmount": "94,65,600",
+    "tender": [
+        {
+            "id": "2024_DHUA_36913_1",
+            "title": "Kharupetia Park at Kharupetia under UIDF FY 23-24",
+            "description": "Kharupetia Park at Kharupetia under UIDF FY 23-24",
+            "datePublished": "05-Mar-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "94,65,600",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

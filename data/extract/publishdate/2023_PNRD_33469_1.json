@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PNRD_33469_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "23-Nov-2023 02:00 PM",
+    "tenderValueAmount": "17,07,522",
+    "tender": [
+        {
+            "id": "2023_PNRD_33469_1",
+            "title": "Supply of Highbred Pig and other Equipments for Pigsty cum breeding Centre at Matmara, Pub-Dhakuakhana and Kherkata GP",
+            "description": "Supply of Highbred Pig and other Equipments for Pigsty cum breeding Centre at Matmara, Pub-Dhakuakhana and Kherkata GP",
+            "datePublished": "04-Nov-2023 10:00 AM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "17,07,522",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "23-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36774_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Mar-2024 03:00 PM",
+    "tenderValueAmount": "1,46,54,410",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36774_1",
+            "title": "Construction of Teachers Quarter of Model School at Dahalapara under Rupsi Pt. EB Block Barpeta District",
+            "description": "Construction of Teachers Quarter of Model School at Dahalapara under Rupsi Pt. EB Block Barpeta District",
+            "datePublished": "29-Feb-2024 04:30 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,46,54,410",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

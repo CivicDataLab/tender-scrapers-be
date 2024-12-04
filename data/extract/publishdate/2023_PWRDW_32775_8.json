@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWRDW_32775_8",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Nov-2023 02:30 PM",
+    "tenderValueAmount": "4,90,64,000",
+    "tender": [
+        {
+            "id": "2023_PWRDW_32775_8",
+            "title": "Construction of Bridges in Kamrup District i.Br.1/2 on Kalajal Balahati Road to BLIC Road to Barkuriha Village ii.Br.6/1 on Dagaon Barlessakona Road",
+            "description": "Construction of Bridges in Kamrup District i.Br.1/2 on Kalajal Balahati Road to BLIC Road to Barkuriha Village ii.Br.6/1 on Dagaon Barlessakona Road",
+            "datePublished": "04-Oct-2023 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,90,64,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Nov-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

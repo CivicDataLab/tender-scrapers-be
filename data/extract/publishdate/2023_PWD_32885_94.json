@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32885_94",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,99,89,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32885_94",
+            "title": "MMNPPNA_23_24_231 (i) Improvement and Upgrading of road from Nayahat to Sapatgram Road in Sapatgram Town (Ch 16.744 Km to 17.294 Km), (ii) Improvement of Road from Sapatgram to Madhusen Road in sapatgram Town ( Ch 0.00 Km to 0.55 Km), (iii) Improve",
+            "description": "MMNPPNA_23_24_231 (i) Improvement and Upgrading of road from Nayahat to Sapatgram Road in Sapatgram Town (Ch 16.744 Km to 17.294 Km), (ii) Improvement of Road from Sapatgram to Madhusen Road in sapatgram Town ( Ch 0.00 Km to 0.55 Km), (iii) Improve",
+            "datePublished": "14-Oct-2023 12:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,99,89,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

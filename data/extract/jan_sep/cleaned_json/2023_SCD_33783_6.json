@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_SCD_33783_6",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Nov-2023 11:00 AM",
+    "tenderValueAmount": "97,04,900",
+    "tender": [
+        {
+            "id": "2023_SCD_33783_6",
+            "title": "Water Harvesting and Water Distribution Project at Tetulguri, Kaliabor, Nagaon.",
+            "description": "Water Harvesting and Water Distribution Project at Tetulguri, Kaliabor, Nagaon.",
+            "datePublished": "09-Nov-2023 01:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "97,04,900",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

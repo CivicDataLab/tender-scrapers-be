@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_UDD_36224_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Feb-2024 12:00 PM",
+    "tenderValueAmount": "36,62,000",
+    "tender": [
+        {
+            "id": "2024_UDD_36224_1",
+            "title": "Construction of RCC market Building (Ground floor) at Gakul Pathak Bus Terminus under the Untied Grant for the year 2021-22 (2nd Instl)",
+            "description": "Construction of RCC market Building (Ground floor) at Gakul Pathak Bus Terminus under the Untied Grant for the year 2021-22 (2nd Instl)",
+            "datePublished": "13-Feb-2024 03:15 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "36,62,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Feb-2024 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

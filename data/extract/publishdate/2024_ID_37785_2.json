@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ID_37785_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "20-Jul-2024 11:00 AM",
+    "tenderValueAmount": "23,60,348",
+    "tender": [
+        {
+            "id": "2024_ID_37785_2",
+            "title": "Renovation of Keotpara Pump Centre 1_2_3 ) for Maloibari ELIS under SCSP during the year 2023_24 _Package No. 2",
+            "description": "Renovation of Keotpara Pump Centre 1_2_3 ) for Maloibari ELIS under SCSP during the year 2023_24 _Package No. 2",
+            "datePublished": "28-Jun-2024 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "23,60,348",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Jul-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

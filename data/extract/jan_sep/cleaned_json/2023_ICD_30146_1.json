@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ICD_30146_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "18-Apr-2023 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_ICD_30146_1",
+            "title": "BIENNIAL CONTRACT FOR SUPPLY OF CHEMICALS, DOSING AND MAINTENANCE OF COOLING TOWER WATER SYSTEM NON-CHROMATE BASE ON 500 TPD METHANOL UNIT AT APL",
+            "description": "BIENNIAL CONTRACT FOR SUPPLY OF CHEMICALS, DOSING AND MAINTENANCE OF COOLING TOWER WATER SYSTEM NON-CHROMATE BASE ON 500 TPD METHANOL UNIT AT APL",
+            "datePublished": "27-Mar-2023 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Limited",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "18-Apr-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32885_16",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 02:00 PM",
+    "tenderValueAmount": "1,15,02,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32885_16",
+            "title": "MMNPPNA_23_24_160 (i)Upgradation Road from Circle Office,Biswanath to Biswanath College, Biswanath Chariali (Ch. 0.00 m to 620.00m) (ii) Improvement of Road from NT Road (Old SBI) to Little Star School Road. (Ch. 0.00 m to 545.00m) (iii) Constructio",
+            "description": "MMNPPNA_23_24_160 (i)Upgradation Road from Circle Office,Biswanath to Biswanath College, Biswanath Chariali (Ch. 0.00 m to 620.00m) (ii) Improvement of Road from NT Road (Old SBI) to Little Star School Road. (Ch. 0.00 m to 545.00m) (iii) Constructio",
+            "datePublished": "10-Oct-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,15,02,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

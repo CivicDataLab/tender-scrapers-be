@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33662_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Nov-2023 12:00 PM",
+    "tenderValueAmount": "2,33,00,000",
+    "tender": [
+        {
+            "id": "2023_BTC_33662_1",
+            "title": "Construction of CC Block from Mahaliapara Namghar to Bhairaguri L.P School via Karaibari Mwitha Center (Part 1 From Ch. 0.00 Km to Ch.2.20 Km and Part 2 Ch. 0.00 Km to 0.80 Km) (Total Length 3.00 Km) under PWD, Udalguri (RB) Division (TN_26_126)",
+            "description": "Construction of CC Block from Mahaliapara Namghar to Bhairaguri L.P School via Karaibari Mwitha Center (Part 1 From Ch. 0.00 Km to Ch.2.20 Km and Part 2 Ch. 0.00 Km to 0.80 Km) (Total Length 3.00 Km) under PWD, Udalguri (RB) Division (TN_26_126)",
+            "datePublished": "08-Nov-2023 10:30 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,33,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_UDD_32204_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Sep-2023 11:00 AM",
+    "tenderValueAmount": "21,28,200",
+    "tender": [
+        {
+            "id": "2023_UDD_32204_1",
+            "title": "Improvement by widening of road side upto footpath cum drain of Arunudoy Road from Lachit Park Chariali upto K P M Hall Chariali at Ward no VIII of Sivasagar Municipal Board",
+            "description": "Improvement by widening of road side upto footpath cum drain of Arunudoy Road from Lachit Park Chariali upto K P M Hall Chariali at Ward no VIII of Sivasagar Municipal Board",
+            "datePublished": "25-Aug-2023 09:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "21,28,200",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Sep-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

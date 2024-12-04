@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35115_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:30 PM",
+    "tenderValueAmount": "3,85,08,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35115_2",
+            "title": "MMPPNA_23_24_05 1.Construction of Adamkhaki Road to Netaji Polly via Chirurpar, 2. Construction of Mission Road (Padrighat Road), 3.Construction of Bagua PWD Road to Bijaynagar Road, 4.Construction of BB Road to Hasanpur Rangapara road via Mahakal",
+            "description": "MMPPNA_23_24_05 1.Construction of Adamkhaki Road to Netaji Polly via Chirurpar, 2. Construction of Mission Road (Padrighat Road), 3.Construction of Bagua PWD Road to Bijaynagar Road, 4.Construction of BB Road to Hasanpur Rangapara road via Mahakal",
+            "datePublished": "01-Jan-2024 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,85,08,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

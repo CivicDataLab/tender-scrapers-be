@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_NHM_30110_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "10-Apr-2023 04:00 PM",
+    "tenderValueAmount": "25,00,000",
+    "tender": [
+        {
+            "id": "2023_NHM_30110_1",
+            "title": "TENDER FOR SELECTION OF AGENCY FOR PROVIDING SERVICES",
+            "description": "TENDER FOR SELECTION OF AGENCY FOR PROVIDING SERVICES",
+            "datePublished": "24-Mar-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "25,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Apr-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

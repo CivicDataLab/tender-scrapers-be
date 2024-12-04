@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_WREAP_32450_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 04:15 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_WREAP_32450_1",
+            "title": "Morigaon subproject underwater riverbank protection works (Section 1) and above water riverbank protection works and upgrade of 1.15 km of flood embankment (Section 2) Lot 1",
+            "description": "Morigaon subproject underwater riverbank protection works (Section 1) and above water riverbank protection works and upgrade of 1.15 km of flood embankment (Section 2) Lot 1",
+            "datePublished": "13-Sep-2023 09:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 04:15 PM"
+                }
+            ]
+        }
+    ]
+}

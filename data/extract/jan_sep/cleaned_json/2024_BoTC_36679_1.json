@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_36679_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "01-Mar-2024 01:30 PM",
+    "tenderValueAmount": "22,94,817",
+    "tender": [
+        {
+            "id": "2024_BoTC_36679_1",
+            "title": "Set up Solar Lighttotal 49 (Forty Nine) Nos. in the Tourist Sports under BTR area under SOPD for the year 2023-24.",
+            "description": "Set up Solar Lighttotal 49 (Forty Nine) Nos. in the Tourist Sports under BTR area under SOPD for the year 2023-24.",
+            "datePublished": "27-Feb-2024 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "22,94,817",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Mar-2024 01:30 PM"
+                }
+            ]
+        }
+    ]
+}

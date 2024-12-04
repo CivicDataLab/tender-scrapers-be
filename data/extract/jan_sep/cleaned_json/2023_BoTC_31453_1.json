@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_31453_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "17-Jul-2023 03:00 PM",
+    "tenderValueAmount": "2,51,93,100",
+    "tender": [
+        {
+            "id": "2023_BoTC_31453_1",
+            "title": "Supply of Dragon Fruit Cuttings (Planting Material) with Concrete post against Cultivation of High Value Crop (Dragon Fruit) under RKVY-RAFTAAR for the year 2023-24.",
+            "description": "Supply of Dragon Fruit Cuttings (Planting Material) with Concrete post against Cultivation of High Value Crop (Dragon Fruit) under RKVY-RAFTAAR for the year 2023-24.",
+            "datePublished": "03-Jul-2023 10:00 AM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "2,51,93,100",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Jul-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

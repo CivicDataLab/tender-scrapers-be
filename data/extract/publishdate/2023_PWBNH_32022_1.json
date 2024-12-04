@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_32022_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "31-Aug-2023 02:00 PM",
+    "tenderValueAmount": "1,74,79,000",
+    "tender": [
+        {
+            "id": "2023_PWBNH_32022_1",
+            "title": "Maintenance and repair works on NH-715 from Km.357/000 to Km. 402/500 under Golaghat NH Division,Golaghat ,Assam under SOPD for the year 2023-24.PACKAGE NO PWD-NH(BR )/GOLA/SOPD/2023-24/01",
+            "description": "Maintenance and repair works on NH-715 from Km.357/000 to Km. 402/500 under Golaghat NH Division,Golaghat ,Assam under SOPD for the year 2023-24.PACKAGE NO PWD-NH(BR )/GOLA/SOPD/2023-24/01",
+            "datePublished": "10-Aug-2023 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,74,79,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "31-Aug-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

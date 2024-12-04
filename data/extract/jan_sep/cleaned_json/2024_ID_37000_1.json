@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ID_37000_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Mar-2024 02:00 PM",
+    "tenderValueAmount": "34,41,251",
+    "tender": [
+        {
+            "id": "2024_ID_37000_1",
+            "title": "Aithan Dighala Gaon Solar Powered MDTW Irrigation Scheme (1 Point) under SOPD-G for the year 2023-24",
+            "description": "Aithan Dighala Gaon Solar Powered MDTW Irrigation Scheme (1 Point) under SOPD-G for the year 2023-24",
+            "datePublished": "07-Mar-2024 02:00 PM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "34,41,251",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_WPTBC_37896_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "23-Jul-2024 03:30 PM",
+    "tenderValueAmount": "50,00,000",
+    "tender": [
+        {
+            "id": "2024_WPTBC_37896_1",
+            "title": "Construction of boundary wall and Approach road along with RCC (HP) culvert at Taburam Taid Lotta under Dhakuakhana LAC, Dist- Lakhimpur under infrastructure Development in ITDP and ITDP areas of Assam during the year 2023-24",
+            "description": "Construction of boundary wall and Approach road along with RCC (HP) culvert at Taburam Taid Lotta under Dhakuakhana LAC, Dist- Lakhimpur under infrastructure Development in ITDP and ITDP areas of Assam during the year 2023-24",
+            "datePublished": "06-Jul-2024 01:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "50,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "23-Jul-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

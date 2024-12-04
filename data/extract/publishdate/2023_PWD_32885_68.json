@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32885_68",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 02:00 PM",
+    "tenderValueAmount": "1,44,99,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32885_68",
+            "title": "MMNPPNA_23_24_221 (i) Construction of Dilli Gaon Road (Sharma Tiniali to Dilli Gaon) Ward No-2 ( From Ch 0.00 m to 830.00 Km) , (ii) Construction of Muhini Road, Basatype to Kali Mondir ( From Ch 0.00m to 640.00 m), (iii) Construction of Nahar Path",
+            "description": "MMNPPNA_23_24_221 (i) Construction of Dilli Gaon Road (Sharma Tiniali to Dilli Gaon) Ward No-2 ( From Ch 0.00 m to 830.00 Km) , (ii) Construction of Muhini Road, Basatype to Kali Mondir ( From Ch 0.00m to 640.00 m), (iii) Construction of Nahar Path",
+            "datePublished": "13-Oct-2023 05:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,44,99,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

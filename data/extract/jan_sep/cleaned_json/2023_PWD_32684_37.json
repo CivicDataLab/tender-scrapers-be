@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_37",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,80,00,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_37",
+            "title": "MMNPPNA_23_24_125 (i) Improvement of Road from Saraijonia to Railway Line via Hospital Road (ii) Construction of Gaurav Path from Sootea PWD IB to NH 15 via Sootea old Centre to NH 15 (Ch.0.00m to Ch. 205.00m (iii) Improvement and Widening of Road",
+            "description": "MMNPPNA_23_24_125 (i) Improvement of Road from Saraijonia to Railway Line via Hospital Road (ii) Construction of Gaurav Path from Sootea PWD IB to NH 15 via Sootea old Centre to NH 15 (Ch.0.00m to Ch. 205.00m (iii) Improvement and Widening of Road",
+            "datePublished": "02-Oct-2023 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,80,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ID_32902_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "31-Oct-2023 03:00 PM",
+    "tenderValueAmount": "1,10,86,188",
+    "tender": [
+        {
+            "id": "2023_ID_32902_1",
+            "title": "CONSTRUCTION OF SOLAR POWERED MEDIUM DEEP TUBE WELL _MDTW_ SCHEME _3 POINTS_ UNDER RIDF_XXIX_NABARD_ FOR THE YEAR 2023_24 UNDER TAMULPUR DIVISION _I_ TAMULPUR _Package No_1",
+            "description": "CONSTRUCTION OF SOLAR POWERED MEDIUM DEEP TUBE WELL _MDTW_ SCHEME _3 POINTS_ UNDER RIDF_XXIX_NABARD_ FOR THE YEAR 2023_24 UNDER TAMULPUR DIVISION _I_ TAMULPUR _Package No_1",
+            "datePublished": "10-Oct-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,10,86,188",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "31-Oct-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35412_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "24-Jan-2024 03:00 PM",
+    "tenderValueAmount": "35,13,029",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35412_1",
+            "title": "Consultancy services of Construction of 400 M Running Trach Indoor Stadium Pavilion Gallery and Earth Filling of raising low site at Sorbhog under Sorbhog LAC in Barpeta District for the year 2023-24 Phase I",
+            "description": "Consultancy services of Construction of 400 M Running Trach Indoor Stadium Pavilion Gallery and Earth Filling of raising low site at Sorbhog under Sorbhog LAC in Barpeta District for the year 2023-24 Phase I",
+            "datePublished": "11-Jan-2024 05:55 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "35,13,029",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "24-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

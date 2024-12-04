@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33260_5",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Nov-2023 02:00 PM",
+    "tenderValueAmount": "8,38,00,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33260_5",
+            "title": "MMUPPNA_SOPD_G_23_24_05 Reconstruction of Moran Naharkatia road (from Ch. 49.65km to 56.90km, Length 7.25km) under Mukhya Mantrir Unnoto Pakipath Nirman Achani under SOPD-G for the year 2023-24",
+            "description": "MMUPPNA_SOPD_G_23_24_05 Reconstruction of Moran Naharkatia road (from Ch. 49.65km to 56.90km, Length 7.25km) under Mukhya Mantrir Unnoto Pakipath Nirman Achani under SOPD-G for the year 2023-24",
+            "datePublished": "26-Oct-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "8,38,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

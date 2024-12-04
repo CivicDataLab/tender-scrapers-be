@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_18",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,75,00,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_18",
+            "title": "MMNPPNA_23_24_54 Construction and widening of Road from NH-31 to NH-427, Barpeta Howly road (Old NT Road) (Ch-0.00 m to Ch-430.00 m) as Gaurab Path under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA) for the year 2023-24, Howly MB",
+            "description": "MMNPPNA_23_24_54 Construction and widening of Road from NH-31 to NH-427, Barpeta Howly road (Old NT Road) (Ch-0.00 m to Ch-430.00 m) as Gaurab Path under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA) for the year 2023-24, Howly MB",
+            "datePublished": "29-Sep-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,75,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

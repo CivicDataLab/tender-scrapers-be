@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34395_134",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Dec-2023 02:00 PM",
+    "tenderValueAmount": "4,43,09,000",
+    "tender": [
+        {
+            "id": "2023_PWD_34395_134",
+            "title": "RIDF_XXIX_23_24_138 Construction of road from (i) 2nd Km of Kashiabari to Jambuguri PWD Road to Sindri via Gaditola Village from Ch. 0.00 m to Ch. 2015.00 m (Length- 2.015 Km), (ii) Gakulkata II to Simaltapu via Gakulkata Block under RIDF XXIX of NAB",
+            "description": "RIDF_XXIX_23_24_138 Construction of road from (i) 2nd Km of Kashiabari to Jambuguri PWD Road to Sindri via Gaditola Village from Ch. 0.00 m to Ch. 2015.00 m (Length- 2.015 Km), (ii) Gakulkata II to Simaltapu via Gakulkata Block under RIDF XXIX of NAB",
+            "datePublished": "11-Dec-2023 04:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,43,09,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

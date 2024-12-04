@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36432_7",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Feb-2024 02:00 PM",
+    "tenderValueAmount": "1,23,08,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36432_7",
+            "title": "SOPD_ODS_23_24_126 Improvement of Tea Garden Road at (i) Bahadur T.E. (Tin Line) Road, (ii) Choto Tingrai T.E. (Factory Line) Road, (iii) Hatimora T.E. (5 No. Line) Road, (iv) Monkhushi T.E. (8 No. Line) Road, (v) Moud T.E. (10 No. Line) Road under",
+            "description": "SOPD_ODS_23_24_126 Improvement of Tea Garden Road at (i) Bahadur T.E. (Tin Line) Road, (ii) Choto Tingrai T.E. (Factory Line) Road, (iii) Hatimora T.E. (5 No. Line) Road, (iv) Monkhushi T.E. (8 No. Line) Road, (v) Moud T.E. (10 No. Line) Road under",
+            "datePublished": "19-Feb-2024 05:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,23,08,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

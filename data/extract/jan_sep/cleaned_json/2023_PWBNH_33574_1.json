@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_33574_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Nov-2023 11:30 AM",
+    "tenderValueAmount": "1,78,16,217",
+    "tender": [
+        {
+            "id": "2023_PWBNH_33574_1",
+            "title": "Construction of 4 (four) storied RCC Building for the Office of the Drugs Controller, Assam and for two other section of Director of Health Services, Assam at Hengerabari (Vertical extension of Fourth Floor) for the financial year 2018-2019",
+            "description": "Construction of 4 (four) storied RCC Building for the Office of the Drugs Controller, Assam and for two other section of Director of Health Services, Assam at Hengerabari (Vertical extension of Fourth Floor) for the financial year 2018-2019",
+            "datePublished": "09-Nov-2023 12:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,78,16,217",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Nov-2023 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

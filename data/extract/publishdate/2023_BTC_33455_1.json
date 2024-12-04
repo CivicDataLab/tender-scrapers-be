@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33455_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "22-Nov-2023 02:00 PM",
+    "tenderValueAmount": "9,52,714",
+    "tender": [
+        {
+            "id": "2023_BTC_33455_1",
+            "title": "Construction of Baby Feeding Room at Mazbat Revenue Circle, Udalguri, TN_25_4 (R-1)",
+            "description": "Construction of Baby Feeding Room at Mazbat Revenue Circle, Udalguri, TN_25_4 (R-1)",
+            "datePublished": "02-Nov-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "9,52,714",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "22-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

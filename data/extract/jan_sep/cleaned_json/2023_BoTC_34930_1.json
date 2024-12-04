@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_34930_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Jan-2024 03:30 PM",
+    "tenderValueAmount": "25,35,600",
+    "tender": [
+        {
+            "id": "2023_BoTC_34930_1",
+            "title": "Construction of Passage was with ICBP within the weekly market at Ward No 05 of Udalguri Municipal Board",
+            "description": "Construction of Passage was with ICBP within the weekly market at Ward No 05 of Udalguri Municipal Board",
+            "datePublished": "22-Dec-2023 03:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "25,35,600",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Jan-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

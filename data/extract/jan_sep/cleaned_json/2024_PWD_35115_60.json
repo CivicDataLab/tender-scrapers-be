@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35115_60",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:30 PM",
+    "tenderValueAmount": "4,55,49,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35115_60",
+            "title": "MMPPNA_23_24_59, Const. of ICBP road from NH-36-Kasojan road at Sabasi Kro to Buragohain Than via Adarsho Vidyalaya, 2. Const. of Road from Balok Teron to Mahamaya Tiniali Sing Teron Gaon Via Kajesora-Basateplong gaon, 3.Const. of Road from Upper Do",
+            "description": "MMPPNA_23_24_59, Const. of ICBP road from NH-36-Kasojan road at Sabasi Kro to Buragohain Than via Adarsho Vidyalaya, 2. Const. of Road from Balok Teron to Mahamaya Tiniali Sing Teron Gaon Via Kajesora-Basateplong gaon, 3.Const. of Road from Upper Do",
+            "datePublished": "03-Jan-2024 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,55,49,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

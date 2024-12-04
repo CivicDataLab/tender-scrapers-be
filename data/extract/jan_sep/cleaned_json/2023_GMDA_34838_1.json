@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_GMDA_34838_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "19-Jan-2024 03:00 PM",
+    "tenderValueAmount": "0.0",
+    "tender": [
+        {
+            "id": "2023_GMDA_34838_1",
+            "title": "Consultancy service for Preparation of GIS based comprehensive drainage master plan and detailed project report for Guwahati city, Assam, India",
+            "description": "Consultancy service for Preparation of GIS based comprehensive drainage master plan and detailed project report for Guwahati city, Assam, India",
+            "datePublished": "19-Dec-2023 05:30 PM",
+            "contractType": "EOI",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "0.0",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_35516_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Feb-2024 01:00 PM",
+    "tenderValueAmount": "1,84,59,395",
+    "tender": [
+        {
+            "id": "2024_BoTC_35516_1",
+            "title": "Construction of Tribal Emporium and Food Court in Chirang District TN_611.",
+            "description": "Construction of Tribal Emporium and Food Court in Chirang District TN_611.",
+            "datePublished": "17-Jan-2024 02:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,84,59,395",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Feb-2024 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

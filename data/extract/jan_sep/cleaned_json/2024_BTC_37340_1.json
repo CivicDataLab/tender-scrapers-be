@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_37340_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Mar-2024 02:00 PM",
+    "tenderValueAmount": "44,32,000",
+    "tender": [
+        {
+            "id": "2024_BTC_37340_1",
+            "title": "Infrastructure Development of Bholajhar Higher Secondary School, Uparkhuti under the Head Grants to BTC for Infrastructure Development Fund for the year 2023-24. (TN_90_17)",
+            "description": "Infrastructure Development of Bholajhar Higher Secondary School, Uparkhuti under the Head Grants to BTC for Infrastructure Development Fund for the year 2023-24. (TN_90_17)",
+            "datePublished": "16-Mar-2024 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "44,32,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

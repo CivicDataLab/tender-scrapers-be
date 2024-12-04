@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_34482_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "16-Dec-2023 02:00 PM",
+    "tenderValueAmount": "3,86,60,998",
+    "tender": [
+        {
+            "id": "2023_BTC_34482_1",
+            "title": "Widening and strengthening of road with DBM a BC from Dangtalgaon village road to Nichinapara Tinali (From Ch.0.00 M to 3650.00 M) (Length-3.65 Km) in Chirang District, BTC under CMs Goodwill Project in BTC area for the year 2023-24, TN-26-104 R-1",
+            "description": "Widening and strengthening of road with DBM a BC from Dangtalgaon village road to Nichinapara Tinali (From Ch.0.00 M to 3650.00 M) (Length-3.65 Km) in Chirang District, BTC under CMs Goodwill Project in BTC area for the year 2023-24, TN-26-104 R-1",
+            "datePublished": "06-Dec-2023 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,86,60,998",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

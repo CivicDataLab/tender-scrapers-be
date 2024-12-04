@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_38191_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Aug-2024 02:30 PM",
+    "tenderValueAmount": "1,40,73,143",
+    "tender": [
+        {
+            "id": "2024_PWBNH_38191_1",
+            "title": "Jagannath Community and Skill Centre at Jiajuri T.E",
+            "description": "Jagannath Community and Skill Centre at Jiajuri T.E",
+            "datePublished": "25-Jul-2024 02:30 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,40,73,143",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Aug-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

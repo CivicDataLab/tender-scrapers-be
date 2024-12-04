@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_AAU_32948_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "14-Nov-2023 03:00 PM",
+    "tenderValueAmount": "4,08,22,639",
+    "tender": [
+        {
+            "id": "2023_AAU_32948_1",
+            "title": "CONSTRUCTION OF IVF LABORATORY AND TRAINING HALL under Rastriya Gokul Mission at College of Veterinary Science,Khanapara,Guwahati, Assam Agricultural University",
+            "description": "CONSTRUCTION OF IVF LABORATORY AND TRAINING HALL under Rastriya Gokul Mission at College of Veterinary Science,Khanapara,Guwahati, Assam Agricultural University",
+            "datePublished": "10-Oct-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,08,22,639",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "14-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

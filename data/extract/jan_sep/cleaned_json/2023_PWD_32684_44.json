@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_44",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "3,44,32,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_44",
+            "title": "MMNPPNA_23_24_134 (i) Improvement of NH-715(37A) to Mazgaon via Nikamul Satra Road (Ch- 0.00 m to Ch 800.00 M), (ii) Improvement of Nabapur (Mazgaon) Bye Lanes, (iii) Improvement of Bam-Parbatia Saikia Chuburi Road (Ch- 0.00 m to Ch 370.00 M),",
+            "description": "MMNPPNA_23_24_134 (i) Improvement of NH-715(37A) to Mazgaon via Nikamul Satra Road (Ch- 0.00 m to Ch 800.00 M), (ii) Improvement of Nabapur (Mazgaon) Bye Lanes, (iii) Improvement of Bam-Parbatia Saikia Chuburi Road (Ch- 0.00 m to Ch 370.00 M),",
+            "datePublished": "02-Oct-2023 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,44,32,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

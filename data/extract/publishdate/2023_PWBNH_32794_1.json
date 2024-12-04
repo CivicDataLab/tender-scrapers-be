@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_32794_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "09-Oct-2023 11:30 AM",
+    "tenderValueAmount": "79,99,561",
+    "tender": [
+        {
+            "id": "2023_PWBNH_32794_1",
+            "title": "Arrangement of Temporary Pandal, Dais, Barricading, Branding, Temporary VVIP VIP Toilets etc. in connection with the programme from 10th Oct, 2023 to 15th Oct, 2023 at Veterinary Playground, Khanapara in presence of Honble Chief Minister of Assam",
+            "description": "Arrangement of Temporary Pandal, Dais, Barricading, Branding, Temporary VVIP VIP Toilets etc. in connection with the programme from 10th Oct, 2023 to 15th Oct, 2023 at Veterinary Playground, Khanapara in presence of Honble Chief Minister of Assam",
+            "datePublished": "06-Oct-2023 11:20 AM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "79,99,561",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Oct-2023 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

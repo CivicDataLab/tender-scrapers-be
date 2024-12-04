@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35115_43",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:30 PM",
+    "tenderValueAmount": "2,70,47,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35115_43",
+            "title": "MMPPNA_23_24_37 1.Construction of Convoy Road to Dr. Lila Gogol Road (new Alignment), Jayanagar Path, Jail Road, Red Cross Road, Shri Krihna Nagar Lane-2 Lane-3, Enajari Path, Mili Juli Path, 2.Construction of Road Connecting TRP Road AT Road at",
+            "description": "MMPPNA_23_24_37 1.Construction of Convoy Road to Dr. Lila Gogol Road (new Alignment), Jayanagar Path, Jail Road, Red Cross Road, Shri Krihna Nagar Lane-2 Lane-3, Enajari Path, Mili Juli Path, 2.Construction of Road Connecting TRP Road AT Road at",
+            "datePublished": "02-Jan-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,70,47,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ID_37027_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Mar-2024 01:30 PM",
+    "tenderValueAmount": "80,19,595",
+    "tender": [
+        {
+            "id": "2024_ID_37027_1",
+            "title": "Installation of Solar Operated Tube Well Scheme under Digboi LAC in Tinsukia District under SOPD-G for the year 2023-24",
+            "description": "Installation of Solar Operated Tube Well Scheme under Digboi LAC in Tinsukia District under SOPD-G for the year 2023-24",
+            "datePublished": "07-Mar-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "80,19,595",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Mar-2024 01:30 PM"
+                }
+            ]
+        }
+    ]
+}

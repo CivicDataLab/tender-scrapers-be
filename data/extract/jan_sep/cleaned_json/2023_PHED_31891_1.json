@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PHED_31891_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "24-Aug-2023 03:00 PM",
+    "tenderValueAmount": "0.0",
+    "tender": [
+        {
+            "id": "2023_PHED_31891_1",
+            "title": "Empanelment of Chartered Accountant Firms for Carrying out Statutory Audit for JJM Assam",
+            "description": "Empanelment of Chartered Accountant Firms for Carrying out Statutory Audit for JJM Assam",
+            "datePublished": "02-Aug-2023 12:00 PM",
+            "contractType": "Empanelment",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "0.0",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "24-Aug-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

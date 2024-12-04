@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33596_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Nov-2023 12:00 PM",
+    "tenderValueAmount": "4,42,71,967",
+    "tender": [
+        {
+            "id": "2023_BTC_33596_1",
+            "title": "Improvement of Satyapur to Singimari road along with 1 No 4by 1 Box Culvert and 1 No 4 by 2 RCC Box Culvert by providing SDBC under CMs Goodwill Project for the year 2023-24. TN_26_4",
+            "description": "Improvement of Satyapur to Singimari road along with 1 No 4by 1 Box Culvert and 1 No 4 by 2 RCC Box Culvert by providing SDBC under CMs Goodwill Project for the year 2023-24. TN_26_4",
+            "datePublished": "09-Nov-2023 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,42,71,967",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

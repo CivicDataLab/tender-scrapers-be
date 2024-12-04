@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ID_32716_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 11:00 AM",
+    "tenderValueAmount": "48,41,311",
+    "tender": [
+        {
+            "id": "2023_ID_32716_1",
+            "title": "Improvement of canal system at Amguri FIS under SOPD-G for the year 2022-23",
+            "description": "Improvement of canal system at Amguri FIS under SOPD-G for the year 2022-23",
+            "datePublished": "30-Sep-2023 09:30 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "48,41,311",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36772_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Mar-2024 02:00 PM",
+    "tenderValueAmount": "2,47,31,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36772_3",
+            "title": "SOPD_ODS_23_24_32 Construction of road in (i) Bokpara Tea Estate (Line no-13), (ii) Green Wood Kandulimari Tea Estate, (iii) Mancotta Tea Estate, (iv) Manohari Tea Estate (v) Mohanbari T.E. 7 no Line under SOPD-ODS (Tea Garden Road) for the year",
+            "description": "SOPD_ODS_23_24_32 Construction of road in (i) Bokpara Tea Estate (Line no-13), (ii) Green Wood Kandulimari Tea Estate, (iii) Mancotta Tea Estate, (iv) Manohari Tea Estate (v) Mohanbari T.E. 7 no Line under SOPD-ODS (Tea Garden Road) for the year",
+            "datePublished": "29-Feb-2024 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,47,31,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

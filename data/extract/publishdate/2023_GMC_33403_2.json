@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_GMC_33403_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "24-Nov-2023 02:30 PM",
+    "tenderValueAmount": "21,50,000",
+    "tender": [
+        {
+            "id": "2023_GMC_33403_2",
+            "title": "Improvement of Anamika Path, Byelane of Jarna Path, Ghoramara, W No. 43",
+            "description": "Improvement of Anamika Path, Byelane of Jarna Path, Ghoramara, W No. 43",
+            "datePublished": "02-Nov-2023 11:00 AM",
+            "contractType": "Lump-sum",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "21,50,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "24-Nov-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35744_85",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 02:00 PM",
+    "tenderValueAmount": "2,07,10,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35744_85",
+            "title": "SOPD_ODS_23_24_99 (i) Construction of Ting Bosti Path under Baghjan TE from Ch. 0.00 m to Ch. 190.00 m and Ch. 235.00 m to Ch. 1030.00 m, (L 0.985 Km), (ii) Construction of Road from Nimonagarh Tiniali to Bogibasti Ali (Ch.0.00 m to Ch.500.00 m)",
+            "description": "SOPD_ODS_23_24_99 (i) Construction of Ting Bosti Path under Baghjan TE from Ch. 0.00 m to Ch. 190.00 m and Ch. 235.00 m to Ch. 1030.00 m, (L 0.985 Km), (ii) Construction of Road from Nimonagarh Tiniali to Bogibasti Ali (Ch.0.00 m to Ch.500.00 m)",
+            "datePublished": "06-Feb-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,07,10,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

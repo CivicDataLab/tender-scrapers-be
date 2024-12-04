@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_APDCL_25495_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "29-Jun-2022 04:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2022_APDCL_25495_1",
+            "title": "Supply of EHV Grade Transformer Oil",
+            "description": "Supply of EHV Grade Transformer Oil",
+            "datePublished": "10-May-2022 05:00 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jun-2022 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

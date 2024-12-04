@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_155",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "2,10,34,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_155",
+            "title": "MMPPNA_23_24_261, Construction of Bihubor Rangajan Ali (Owgurijan to Romani ali) from Ch. 0.00m to Ch. 2600.00m)...",
+            "description": "MMPPNA_23_24_261, Construction of Bihubor Rangajan Ali (Owgurijan to Romani ali) from Ch. 0.00m to Ch. 2600.00m)...",
+            "datePublished": "19-Jan-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,10,34,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

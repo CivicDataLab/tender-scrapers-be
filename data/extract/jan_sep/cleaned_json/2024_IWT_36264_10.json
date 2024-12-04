@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_IWT_36264_10",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "06-Mar-2024 03:00 PM",
+    "tenderValueAmount": "4,27,000",
+    "tender": [
+        {
+            "id": "2024_IWT_36264_10",
+            "title": "Leasing out of IWT ferry service at Rajnagar under IWT Silchar Division",
+            "description": "Leasing out of IWT ferry service at Rajnagar under IWT Silchar Division",
+            "datePublished": "14-Feb-2024 06:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "4,27,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWRDW_37426_17",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Apr-2024 02:30 PM",
+    "tenderValueAmount": "9,97,43,000",
+    "tender": [
+        {
+            "id": "2024_PWRDW_37426_17",
+            "title": "Construction of Bridge in Lakhimpur district i) Br. No. 9/1 on 8th Km of Dijoo kimin road to NH-15 (hurmutty) via Phulbari dhekiajuli and Santipur",
+            "description": "Construction of Bridge in Lakhimpur district i) Br. No. 9/1 on 8th Km of Dijoo kimin road to NH-15 (hurmutty) via Phulbari dhekiajuli and Santipur",
+            "datePublished": "20-Mar-2024 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "9,97,43,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Apr-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

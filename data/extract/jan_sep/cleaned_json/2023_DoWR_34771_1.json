@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_34771_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Dec-2023 03:00 PM",
+    "tenderValueAmount": "1,99,92,917",
+    "tender": [
+        {
+            "id": "2023_DoWR_34771_1",
+            "title": "Procurement of flood fighting materials (Geo-textile Bag of Type-B and PSC Porcupine) for Water Resources Department for the year 2023-24.",
+            "description": "Procurement of flood fighting materials (Geo-textile Bag of Type-B and PSC Porcupine) for Water Resources Department for the year 2023-24.",
+            "datePublished": "18-Dec-2023 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,99,92,917",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_34721_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Jan-2024 02:30 PM",
+    "tenderValueAmount": "23,76,516",
+    "tender": [
+        {
+            "id": "2023_BoTC_34721_1",
+            "title": "Const of road with EF and SG from Santipur village to No.2 Botabari village including 2 Nos HPC under 15th FC Fund for the financial year 2022-23.",
+            "description": "Const of road with EF and SG from Santipur village to No.2 Botabari village including 2 Nos HPC under 15th FC Fund for the financial year 2022-23.",
+            "datePublished": "15-Dec-2023 11:25 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "23,76,516",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

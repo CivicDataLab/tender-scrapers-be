@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_NHM_34253_6",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Dec-2023 03:30 PM",
+    "tenderValueAmount": "14,00,000",
+    "tender": [
+        {
+            "id": "2023_NHM_34253_6",
+            "title": "Construction of AYUSH Health and Wellness centres for FY 2022-23 under NAM, Assam, at various places of Assam . Group.11 (4 nos. of scheme in Karbi Anglong District)",
+            "description": "Construction of AYUSH Health and Wellness centres for FY 2022-23 under NAM, Assam, at various places of Assam . Group.11 (4 nos. of scheme in Karbi Anglong District)",
+            "datePublished": "29-Nov-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "14,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Dec-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

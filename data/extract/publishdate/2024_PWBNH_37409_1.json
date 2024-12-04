@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37409_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Mar-2024 03:30 PM",
+    "tenderValueAmount": "1,47,81,643",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37409_1",
+            "title": "Supply and Installation of HVAC System at the Indoor Stadium at Jorhat Engineering College Jorhat under SOPD ODS during the year 2023-2024",
+            "description": "Supply and Installation of HVAC System at the Indoor Stadium at Jorhat Engineering College Jorhat under SOPD ODS during the year 2023-2024",
+            "datePublished": "19-Mar-2024 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,47,81,643",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Mar-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

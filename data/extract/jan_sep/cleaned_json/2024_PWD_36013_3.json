@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36013_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "23-Feb-2024 04:00 PM",
+    "tenderValueAmount": "49,32,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36013_3",
+            "title": "ROB/QC/SORBHUG/SK-38 Construction of ROB in Replacement of Rly LC Gate No. SK-38 at (RLY KM 288/5-6) at Sorbhog, Barpeta District, Assam under Construction of ROBs on 50_50 Cost Sharing Basis",
+            "description": "ROB/QC/SORBHUG/SK-38 Construction of ROB in Replacement of Rly LC Gate No. SK-38 at (RLY KM 288/5-6) at Sorbhog, Barpeta District, Assam under Construction of ROBs on 50_50 Cost Sharing Basis",
+            "datePublished": "07-Feb-2024 01:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "49,32,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "23-Feb-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

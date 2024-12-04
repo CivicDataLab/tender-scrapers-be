@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35195_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Jan-2024 03:00 PM",
+    "tenderValueAmount": "4,73,32,243",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35195_1",
+            "title": "Construction of Proposed Swahid Smarak Khetra at Pachim Boragaon (Separable items)",
+            "description": "Construction of Proposed Swahid Smarak Khetra at Pachim Boragaon (Separable items)",
+            "datePublished": "04-Jan-2024 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,73,32,243",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

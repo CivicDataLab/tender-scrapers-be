@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34063_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Dec-2023 02:00 PM",
+    "tenderValueAmount": "9,68,33,299",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34063_1",
+            "title": "Redevelopment of Secretariat Complex at Dispur, Guwahati-06 (Package-3-Construction of Two Parks, a water body, Approach Road along with Entrance Gate, Pass Office and Guard Room)",
+            "description": "Redevelopment of Secretariat Complex at Dispur, Guwahati-06 (Package-3-Construction of Two Parks, a water body, Approach Road along with Entrance Gate, Pass Office and Guard Room)",
+            "datePublished": "20-Nov-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "9,68,33,299",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

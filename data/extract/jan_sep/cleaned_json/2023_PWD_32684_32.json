@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_32",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "4,99,73,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_32",
+            "title": "MMNPPNA_23_24_107 (i) Construction of RCC drain with cover slab at Silchar Kathal Road (Right side), (ii) Widening of Trunk Road from Cachar College to All India Radio with both side RCC cover drain ornament grill C.C. divider under Mukhya Mantrir",
+            "description": "MMNPPNA_23_24_107 (i) Construction of RCC drain with cover slab at Silchar Kathal Road (Right side), (ii) Widening of Trunk Road from Cachar College to All India Radio with both side RCC cover drain ornament grill C.C. divider under Mukhya Mantrir",
+            "datePublished": "30-Sep-2023 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,99,73,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

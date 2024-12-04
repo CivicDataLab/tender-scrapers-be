@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ITFCD_30924_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Jun-2023 12:00 PM",
+    "tenderValueAmount": "50,73,162",
+    "tender": [
+        {
+            "id": "2023_ITFCD_30924_3",
+            "title": "Kamakhya Temple Archaeological Site, Silghat, Kaliabor, Nagaon District, Assam, Group C",
+            "description": "Kamakhya Temple Archaeological Site, Silghat, Kaliabor, Nagaon District, Assam, Group C",
+            "datePublished": "22-May-2023 05:00 PM",
+            "contractType": "Percentage",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "50,73,162",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Jun-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

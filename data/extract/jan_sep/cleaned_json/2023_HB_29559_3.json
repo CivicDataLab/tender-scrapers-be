@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_HB_29559_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "16-Mar-2023 02:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_HB_29559_3",
+            "title": "Supply of dietary articles under Group D for Dist Jail North Lakhimpur for the FY 2023-24",
+            "description": "Supply of dietary articles under Group D for Dist Jail North Lakhimpur for the FY 2023-24",
+            "datePublished": "27-Feb-2023 10:00 AM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Mar-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

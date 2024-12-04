@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_HFWD_35374_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "07-Feb-2024 04:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_HFWD_35374_1",
+            "title": "For providing Annual Job Contract of Security Services in the premises of Gauhati Medical College Hospital, Guwahati, Assam",
+            "description": "For providing Annual Job Contract of Security Services in the premises of Gauhati Medical College Hospital, Guwahati, Assam",
+            "datePublished": "10-Jan-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Feb-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

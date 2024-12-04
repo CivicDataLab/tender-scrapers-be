@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33781_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Nov-2023 12:00 PM",
+    "tenderValueAmount": "2,35,63,000",
+    "tender": [
+        {
+            "id": "2023_BTC_33781_1",
+            "title": "Construction of ICBP Road from Sonajuli No. 1 (Hatimara) to Kalbari Road under CMs Goodwill Project for the year 2023-24 of District Udalguri. (TN_26_163)",
+            "description": "Construction of ICBP Road from Sonajuli No. 1 (Hatimara) to Kalbari Road under CMs Goodwill Project for the year 2023-24 of District Udalguri. (TN_26_163)",
+            "datePublished": "09-Nov-2023 12:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,35,63,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

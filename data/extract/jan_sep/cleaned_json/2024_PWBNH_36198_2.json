@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36198_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "15-Feb-2024 02:00 PM",
+    "tenderValueAmount": "29,99,842",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36198_2",
+            "title": "Construction of (G Plus 1) Community Hall at Udalguri Bathou Anchalic for the year 2023-24",
+            "description": "Construction of (G Plus 1) Community Hall at Udalguri Bathou Anchalic for the year 2023-24",
+            "datePublished": "13-Feb-2024 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "29,99,842",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

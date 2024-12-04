@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_37822_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Jul-2024 11:00 AM",
+    "tenderValueAmount": "99,96,630",
+    "tender": [
+        {
+            "id": "2024_PWD_37822_1",
+            "title": "Construction of Moamoria Gana Bidruhor Smarak, ( Memorials of Moamoria Rebellion) at Mohanbari, Near Airport, Dibrugarh",
+            "description": "Construction of Moamoria Gana Bidruhor Smarak, ( Memorials of Moamoria Rebellion) at Mohanbari, Near Airport, Dibrugarh",
+            "datePublished": "02-Jul-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "99,96,630",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Jul-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

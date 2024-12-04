@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ED_33981_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "22-Dec-2023 04:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_ED_33981_1",
+            "title": "GRANT OF IMFL OFF LICENCE AT JAIL ROAD, JORHAT(FOR THE SHOP JRT 3)",
+            "description": "GRANT OF IMFL OFF LICENCE AT JAIL ROAD, JORHAT(FOR THE SHOP JRT 3)",
+            "datePublished": "20-Nov-2023 09:30 AM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "22-Dec-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

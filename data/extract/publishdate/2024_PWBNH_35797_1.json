@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35797_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "21-Feb-2024 11:30 AM",
+    "tenderValueAmount": "22,24,350",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35797_1",
+            "title": "Exterior painting of office building at EPFO, Regional Office, Guwahati",
+            "description": "Exterior painting of office building at EPFO, Regional Office, Guwahati",
+            "datePublished": "30-Jan-2024 06:55 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "22,24,350",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Feb-2024 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

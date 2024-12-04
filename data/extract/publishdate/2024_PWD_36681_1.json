@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36681_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Mar-2024 04:00 PM",
+    "tenderValueAmount": "43,01,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36681_1",
+            "title": "ROB/QC/NAKARI/RM-257 3rd Party Monitoring_Quality Control for the Work Construction of ROB at LC gate No.- RM-257 at Nakari on Rangajan Road under Construction of ROBs on 50_50 Cost Sharing Basis",
+            "description": "ROB/QC/NAKARI/RM-257 3rd Party Monitoring_Quality Control for the Work Construction of ROB at LC gate No.- RM-257 at Nakari on Rangajan Road under Construction of ROBs on 50_50 Cost Sharing Basis",
+            "datePublished": "27-Feb-2024 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "43,01,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Mar-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_SNT_31445_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "16-Aug-2023 03:00 PM",
+    "tenderValueAmount": "2,06,000",
+    "tender": [
+        {
+            "id": "2023_SNT_31445_1",
+            "title": "Design, Supply, and Installation and Commissioning including 5 years Comprehensive Maintenance of a 2 kWp off-Grid SPV Power Plant at Tekelangjun Health and Wellness Centre, Karbi Anglong, Assam",
+            "description": "Design, Supply, and Installation and Commissioning including 5 years Comprehensive Maintenance of a 2 kWp off-Grid SPV Power Plant at Tekelangjun Health and Wellness Centre, Karbi Anglong, Assam",
+            "datePublished": "07-Jul-2023 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,06,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Aug-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

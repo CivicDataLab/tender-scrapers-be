@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DOT_34816_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Dec-2023 01:00 PM",
+    "tenderValueAmount": "1,43,97,788",
+    "tender": [
+        {
+            "id": "2023_DOT_34816_1",
+            "title": "Destination Development and Beautification of Historical Place at Habung Construction of RCC Guest House, Bore Well, RCC Slab for Water Tank",
+            "description": "Destination Development and Beautification of Historical Place at Habung Construction of RCC Guest House, Bore Well, RCC Slab for Water Tank",
+            "datePublished": "19-Dec-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,43,97,788",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Dec-2023 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

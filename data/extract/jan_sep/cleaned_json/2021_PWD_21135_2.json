@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2021_PWD_21135_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2020-2021",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "18-Feb-2021 01:00 PM",
+    "tenderValueAmount": "74,04,778",
+    "tender": [
+        {
+            "id": "2021_PWD_21135_2",
+            "title": "Construction of Kohonor Ali under SOPD-G for the year 2020-21 in PWD Sivasagar and Thowra Territorial Road Division (Length-0.875 Km) Sivasagar LAC .Pkg.No. SOPD-G/20-21/STTRD/Siv/02",
+            "description": "Construction of Kohonor Ali under SOPD-G for the year 2020-21 in PWD Sivasagar and Thowra Territorial Road Division (Length-0.875 Km) Sivasagar LAC .Pkg.No. SOPD-G/20-21/STTRD/Siv/02",
+            "datePublished": "11-Feb-2021 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "74,04,778",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "18-Feb-2021 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35115_105",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:30 PM",
+    "tenderValueAmount": "3,87,62,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35115_105",
+            "title": "MMPPNA_23_24_112, Construction of Hajuwa Pathar road from Ch- 0.00 m to ch- 380.00 m, 2. Construction of Nagaon Dhadumia Road, 3.Construction of Joypur Ali, 4.Construction of Komar Gaon Morankari Road Ch 0.00 m to Ch 800.00 m , 5.Construction of Al",
+            "description": "MMPPNA_23_24_112, Construction of Hajuwa Pathar road from Ch- 0.00 m to ch- 380.00 m, 2. Construction of Nagaon Dhadumia Road, 3.Construction of Joypur Ali, 4.Construction of Komar Gaon Morankari Road Ch 0.00 m to Ch 800.00 m , 5.Construction of Al",
+            "datePublished": "03-Jan-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,87,62,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34395_57",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Dec-2023 02:00 PM",
+    "tenderValueAmount": "3,12,45,000",
+    "tender": [
+        {
+            "id": "2023_PWD_34395_57",
+            "title": "RIDF_XXIX_23_24_118 Construction of Deopani Rongagora road (from Ch. 0.00km to Ch. 5.00km), L 5.00km under RIDF XXIX of NABARD for the year 2023-24",
+            "description": "RIDF_XXIX_23_24_118 Construction of Deopani Rongagora road (from Ch. 0.00km to Ch. 5.00km), L 5.00km under RIDF XXIX of NABARD for the year 2023-24",
+            "datePublished": "09-Dec-2023 04:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,12,45,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

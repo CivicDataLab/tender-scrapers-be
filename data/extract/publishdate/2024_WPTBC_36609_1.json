@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_WPTBC_36609_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Mar-2024 04:00 PM",
+    "tenderValueAmount": "1,60,91,000",
+    "tender": [
+        {
+            "id": "2024_WPTBC_36609_1",
+            "title": "Construction of outdoor stadium at Labac TE Play Ground Lakhipur LAC Dist Cachar",
+            "description": "Construction of outdoor stadium at Labac TE Play Ground Lakhipur LAC Dist Cachar",
+            "datePublished": "24-Feb-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,60,91,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Mar-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

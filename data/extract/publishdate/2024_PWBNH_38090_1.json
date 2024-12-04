@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_38090_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "09-Aug-2024 12:00 PM",
+    "tenderValueAmount": "30,16,018",
+    "tender": [
+        {
+            "id": "2024_PWBNH_38090_1",
+            "title": "Construction of Security Barrack for APBN at Morigaon District Jail in Morigaon District",
+            "description": "Construction of Security Barrack for APBN at Morigaon District Jail in Morigaon District",
+            "datePublished": "19-Jul-2024 12:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "30,16,018",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Aug-2024 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

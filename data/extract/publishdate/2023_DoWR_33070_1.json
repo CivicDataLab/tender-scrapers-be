@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_33070_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Nov-2023 03:00 PM",
+    "tenderValueAmount": "1,49,98,244",
+    "tender": [
+        {
+            "id": "2023_DoWR_33070_1",
+            "title": "A/E measures to protect Baniapara area from the erosion of river Kulsi (D/S of existing protection works).",
+            "description": "A/E measures to protect Baniapara area from the erosion of river Kulsi (D/S of existing protection works).",
+            "datePublished": "14-Oct-2023 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,49,98,244",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

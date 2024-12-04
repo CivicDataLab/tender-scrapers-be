@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_33585_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Dec-2023 12:00 PM",
+    "tenderValueAmount": "21,77,829",
+    "tender": [
+        {
+            "id": "2023_PWBNH_33585_1",
+            "title": "Repairing of existing R.C.C. Government Building, Chowkider quarter and construction of new office garage inside the Office of the Asstt. Commissioner of State Tax Campus in Morigaon District",
+            "description": "Repairing of existing R.C.C. Government Building, Chowkider quarter and construction of new office garage inside the Office of the Asstt. Commissioner of State Tax Campus in Morigaon District",
+            "datePublished": "09-Nov-2023 12:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "21,77,829",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Dec-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

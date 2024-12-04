@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33688_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Nov-2023 12:00 PM",
+    "tenderValueAmount": "2,03,14,000",
+    "tender": [
+        {
+            "id": "2023_BTC_33688_1",
+            "title": "Construction of CC block road from Kacharital to Gohaikhat Makelikanda link road under CMs Goodwill Mission Project for the financial year 2023-24 of District Udalguri. (TN_26_134)",
+            "description": "Construction of CC block road from Kacharital to Gohaikhat Makelikanda link road under CMs Goodwill Mission Project for the financial year 2023-24 of District Udalguri. (TN_26_134)",
+            "datePublished": "08-Nov-2023 02:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,03,14,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

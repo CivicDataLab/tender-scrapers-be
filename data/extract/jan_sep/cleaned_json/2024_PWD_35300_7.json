@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35300_7",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Jan-2024 02:30 PM",
+    "tenderValueAmount": "93,65,75,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35300_7",
+            "title": "ASOM_MALA_2.0_23_24_16 Improvement and Upgradation of Road Inter District Ferrighat (Dikhowmukh) Nazira Town (ONGC Tiniali) from ch 0.00 km (Inter District Ferrighat) (Dikhowmukh) to ch 28.100 km Nazira Town (ONGC Tiniali) under Asom Mala.....",
+            "description": "ASOM_MALA_2.0_23_24_16 Improvement and Upgradation of Road Inter District Ferrighat (Dikhowmukh) Nazira Town (ONGC Tiniali) from ch 0.00 km (Inter District Ferrighat) (Dikhowmukh) to ch 28.100 km Nazira Town (ONGC Tiniali) under Asom Mala.....",
+            "datePublished": "08-Jan-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "93,65,75,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

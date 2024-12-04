@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37203_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Apr-2024 03:00 PM",
+    "tenderValueAmount": "59,24,438",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37203_1",
+            "title": "Earth filling at JMFC Court Building complex at village Ratanpur under Tihu Mouza in Nalbari District",
+            "description": "Earth filling at JMFC Court Building complex at village Ratanpur under Tihu Mouza in Nalbari District",
+            "datePublished": "13-Mar-2024 04:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "59,24,438",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Apr-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

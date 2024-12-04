@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_ASPIR_26321_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "11-Aug-2022 02:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2022_ASPIR_26321_1",
+            "title": "Engagement of Consultant for Security Auditor of Assam Tax Revenue Management System",
+            "description": "Engagement of Consultant for Security Auditor of Assam Tax Revenue Management System",
+            "datePublished": "15-Jul-2022 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Single",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Aug-2022 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

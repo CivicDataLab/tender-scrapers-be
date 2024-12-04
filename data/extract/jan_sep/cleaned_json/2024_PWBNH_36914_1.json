@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36914_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Mar-2024 02:00 PM",
+    "tenderValueAmount": "13,62,47,124",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36914_1",
+            "title": "Improvement of riding quality of the existing flexible pavement From km(38 to 67 23.00 km (Mangaldoi to Madhapur)on stretches of the NH-15 (Old NH-52) by providing overlay with a 30mm thick bituminous concrete and road furniture under SOPD for the ye",
+            "description": "Improvement of riding quality of the existing flexible pavement From km(38 to 67 23.00 km (Mangaldoi to Madhapur)on stretches of the NH-15 (Old NH-52) by providing overlay with a 30mm thick bituminous concrete and road furniture under SOPD for the ye",
+            "datePublished": "05-Mar-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "13,62,47,124",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

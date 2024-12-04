@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_UDD_33617_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Nov-2023 12:00 PM",
+    "tenderValueAmount": "1,98,02,000",
+    "tender": [
+        {
+            "id": "2023_UDD_33617_1",
+            "title": "Supply and Installation of Water Meter",
+            "description": "Supply and Installation of Water Meter",
+            "datePublished": "07-Nov-2023 06:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,98,02,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

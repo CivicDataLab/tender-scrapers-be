@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_31093_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "16-Jun-2023 04:30 PM",
+    "tenderValueAmount": "93,34,197",
+    "tender": [
+        {
+            "id": "2023_PWBNH_31093_1",
+            "title": "Construction of Temporary Pandals, Barricades, Sheds, Temporary Offices and Camps etc. at locations in connection with the Ambubachi Mela,23(Sonaram H.S. Field and Bongshi Bagan and other temporary struc. at diff. location, Kamakhya Temple), Group-II",
+            "description": "Construction of Temporary Pandals, Barricades, Sheds, Temporary Offices and Camps etc. at locations in connection with the Ambubachi Mela,23(Sonaram H.S. Field and Bongshi Bagan and other temporary struc. at diff. location, Kamakhya Temple), Group-II",
+            "datePublished": "03-Jun-2023 06:45 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "93,34,197",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Jun-2023 04:30 PM"
+                }
+            ]
+        }
+    ]
+}

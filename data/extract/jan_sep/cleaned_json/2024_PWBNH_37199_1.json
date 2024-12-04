@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37199_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Apr-2024 03:00 PM",
+    "tenderValueAmount": "67,66,325",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37199_1",
+            "title": "Construction of Brick Boundary wall at newly allocated Govt land 11 bigha for constn of JMFC court Bldg at Ratanpur under Tihu Mouza in Nalbari District",
+            "description": "Construction of Brick Boundary wall at newly allocated Govt land 11 bigha for constn of JMFC court Bldg at Ratanpur under Tihu Mouza in Nalbari District",
+            "datePublished": "13-Mar-2024 03:30 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "67,66,325",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Apr-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

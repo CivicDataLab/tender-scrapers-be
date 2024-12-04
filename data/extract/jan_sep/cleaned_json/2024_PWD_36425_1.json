@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36425_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Feb-2024 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_PWD_36425_1",
+            "title": "KAM/KRC/SOPD(G)/2023-24/27 Improvement of Poolarbat including Brick Masonry Covered Drain under SOPD-G for the year 2023-24",
+            "description": "KAM/KRC/SOPD(G)/2023-24/27 Improvement of Poolarbat including Brick Masonry Covered Drain under SOPD-G for the year 2023-24",
+            "datePublished": "20-Feb-2024 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

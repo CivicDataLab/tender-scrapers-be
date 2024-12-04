@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33624_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Nov-2023 12:00 PM",
+    "tenderValueAmount": "2,71,82,713",
+    "tender": [
+        {
+            "id": "2023_BTC_33624_1",
+            "title": "Construction of NH 31C to Hudumkhata No.2 Road from CH 0.00 Km to CH 2.732 Km Total Length 3.50Km under CMs Goodwill Project for the year 2023-24 of District - Kokrajhar 29 Kokrajhar West LAC. TN_26_13",
+            "description": "Construction of NH 31C to Hudumkhata No.2 Road from CH 0.00 Km to CH 2.732 Km Total Length 3.50Km under CMs Goodwill Project for the year 2023-24 of District - Kokrajhar 29 Kokrajhar West LAC. TN_26_13",
+            "datePublished": "09-Nov-2023 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,71,82,713",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

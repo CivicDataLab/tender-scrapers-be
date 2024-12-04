@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35744_97",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 02:00 PM",
+    "tenderValueAmount": "2,57,62,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35744_97",
+            "title": "SOPD_ODS_23_24_09 Construction of Road from (i) Barjarani Mikir Water Supply Scheme to Pankha Line Lakhi Mandir Road (ii) Samarbasti to Monabari TE water supply scheme via Kishori Kanaklata LP School under SOPD-ODS (Tea Garden Road) for the year",
+            "description": "SOPD_ODS_23_24_09 Construction of Road from (i) Barjarani Mikir Water Supply Scheme to Pankha Line Lakhi Mandir Road (ii) Samarbasti to Monabari TE water supply scheme via Kishori Kanaklata LP School under SOPD-ODS (Tea Garden Road) for the year",
+            "datePublished": "06-Feb-2024 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,57,62,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

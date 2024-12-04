@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37570_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Jul-2024 02:00 PM",
+    "tenderValueAmount": "49,45,143",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37570_1",
+            "title": "Revised Estimate for Construction of proposed G plus 1 storied Duplex Type Residential Quarter M19 at Minister Colony Dispur Guwahati 6 Additional Scope of Work",
+            "description": "Revised Estimate for Construction of proposed G plus 1 storied Duplex Type Residential Quarter M19 at Minister Colony Dispur Guwahati 6 Additional Scope of Work",
+            "datePublished": "12-Jun-2024 02:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "49,45,143",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Jul-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

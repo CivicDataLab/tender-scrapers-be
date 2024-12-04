@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_SYWA_34961_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "10-Jan-2024 02:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_SYWA_34961_1",
+            "title": "PROVIDING FOOD AND ACCOMMODATION AT STATE LEVEL IN CONNECTION WITH HOLDING OF KHEL MAHARAN, 2023-24",
+            "description": "PROVIDING FOOD AND ACCOMMODATION AT STATE LEVEL IN CONNECTION WITH HOLDING OF KHEL MAHARAN, 2023-24",
+            "datePublished": "25-Dec-2023 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

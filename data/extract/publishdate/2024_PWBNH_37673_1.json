@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37673_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jul-2024 03:00 PM",
+    "tenderValueAmount": "2,81,46,286",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37673_1",
+            "title": "Jagannath Community and Skill Centre at (i) Kakojan TE (ii) Rajoi TE under Teok LAC (Pkg. No.112)",
+            "description": "Jagannath Community and Skill Centre at (i) Kakojan TE (ii) Rajoi TE under Teok LAC (Pkg. No.112)",
+            "datePublished": "20-Jun-2024 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,81,46,286",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jul-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

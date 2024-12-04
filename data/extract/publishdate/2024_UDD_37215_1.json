@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_UDD_37215_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Apr-2024 11:00 AM",
+    "tenderValueAmount": "6,90,00,000",
+    "tender": [
+        {
+            "id": "2024_UDD_37215_1",
+            "title": "ESTABLISHMENT CONSTRUCTION SUPPLY AND PROCUREMENT FABRICATION ERECTION OF MACHINERIES TRIAL RUN AND COMMISSIONING OF MATERIAL RECOVERY FACILITY MRF AND WASTE TO COMPOST W2C PLANT AT SIVASAGAR UNDER SBM U ON EPC MODE UNDER 15TH FC",
+            "description": "ESTABLISHMENT CONSTRUCTION SUPPLY AND PROCUREMENT FABRICATION ERECTION OF MACHINERIES TRIAL RUN AND COMMISSIONING OF MATERIAL RECOVERY FACILITY MRF AND WASTE TO COMPOST W2C PLANT AT SIVASAGAR UNDER SBM U ON EPC MODE UNDER 15TH FC",
+            "datePublished": "13-Mar-2024 05:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "6,90,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Apr-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

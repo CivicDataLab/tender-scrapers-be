@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33321_4",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Nov-2023 11:00 AM",
+    "tenderValueAmount": "26,83,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33321_4",
+            "title": "Package No.Barpeta/MMPNA/BUG/02 Repairing of (i) RCC Br. No. 1/3 (BUG) and approach on Tihu College road (ii) RCC Br.No.1/1 (BUG) and approaches on Rupdiga Jalkhana road Under Mukhaya Mantrir Path Nabikaran Achani for the year 2023-24 in Patacharkuch",
+            "description": "Package No.Barpeta/MMPNA/BUG/02 Repairing of (i) RCC Br. No. 1/3 (BUG) and approach on Tihu College road (ii) RCC Br.No.1/1 (BUG) and approaches on Rupdiga Jalkhana road Under Mukhaya Mantrir Path Nabikaran Achani for the year 2023-24 in Patacharkuch",
+            "datePublished": "28-Oct-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "26,83,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

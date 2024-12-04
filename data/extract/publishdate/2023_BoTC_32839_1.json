@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_32839_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Oct-2023 11:30 AM",
+    "tenderValueAmount": "1,96,68,879",
+    "tender": [
+        {
+            "id": "2023_BoTC_32839_1",
+            "title": "Arrangement of Temporary Pandal, Dias, Barricading, Branding, Temporary VVIP, VIP Toilets and Electrical Works etc. in connection with the programme from 10th October, 2023 to 15th October,2023 at various districts (Kokrajhar District) in presence of",
+            "description": "Arrangement of Temporary Pandal, Dias, Barricading, Branding, Temporary VVIP, VIP Toilets and Electrical Works etc. in connection with the programme from 10th October, 2023 to 15th October,2023 at various districts (Kokrajhar District) in presence of",
+            "datePublished": "07-Oct-2023 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,96,68,879",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Oct-2023 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

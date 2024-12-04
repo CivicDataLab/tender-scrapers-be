@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_35501_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:00 PM",
+    "tenderValueAmount": "27,58,086",
+    "tender": [
+        {
+            "id": "2024_BTC_35501_1",
+            "title": "Construction of Open Pendal Gerua-Jhargaon Ancholik Eidgah Maidan for the year 2022-23, TN-59-6",
+            "description": "Construction of Open Pendal Gerua-Jhargaon Ancholik Eidgah Maidan for the year 2022-23, TN-59-6",
+            "datePublished": "16-Jan-2024 01:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "27,58,086",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

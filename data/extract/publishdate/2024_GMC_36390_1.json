@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_GMC_36390_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Mar-2024 03:00 PM",
+    "tenderValueAmount": "96,41,200",
+    "tender": [
+        {
+            "id": "2024_GMC_36390_1",
+            "title": "Construction of Vending Zone along with the bank of River Bharalu at B. K. Kakati Road, Ulubari",
+            "description": "Construction of Vending Zone along with the bank of River Bharalu at B. K. Kakati Road, Ulubari",
+            "datePublished": "19-Feb-2024 02:00 PM",
+            "contractType": "Lump-sum",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "96,41,200",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

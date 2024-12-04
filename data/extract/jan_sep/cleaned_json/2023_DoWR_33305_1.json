@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_33305_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Nov-2023 03:00 PM",
+    "tenderValueAmount": "19,94,41,619",
+    "tender": [
+        {
+            "id": "2023_DoWR_33305_1",
+            "title": "Protection of Auniati Satra and its adjoining area from the erosion of river Brahmaputra along with construction of flood wall (Ph-I)",
+            "description": "Protection of Auniati Satra and its adjoining area from the erosion of river Brahmaputra along with construction of flood wall (Ph-I)",
+            "datePublished": "27-Oct-2023 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "19,94,41,619",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

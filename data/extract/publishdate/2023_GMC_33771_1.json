@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_GMC_33771_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Nov-2023 02:30 PM",
+    "tenderValueAmount": "47,00,000",
+    "tender": [
+        {
+            "id": "2023_GMC_33771_1",
+            "title": "Improvement of Tribeni Path bye labe-1 and Improvement of Lakhimi Path Sub Lane.",
+            "description": "Improvement of Tribeni Path bye labe-1 and Improvement of Lakhimi Path Sub Lane.",
+            "datePublished": "09-Nov-2023 11:00 AM",
+            "contractType": "Lump-sum",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "47,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Nov-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

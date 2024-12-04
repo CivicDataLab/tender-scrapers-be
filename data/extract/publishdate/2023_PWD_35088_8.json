@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_35088_8",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Jan-2024 02:00 PM",
+    "tenderValueAmount": "88,59,000",
+    "tender": [
+        {
+            "id": "2023_PWD_35088_8",
+            "title": "RIDF_XXIX_23_24_136 Improvemnet of road starting from Tegore Public School to Borthal Karatigram via NH- 37(Rongpur) ADC Lane of Udharbond under RIDF-XXIX of NABARD for the year 2023-24",
+            "description": "RIDF_XXIX_23_24_136 Improvemnet of road starting from Tegore Public School to Borthal Karatigram via NH- 37(Rongpur) ADC Lane of Udharbond under RIDF-XXIX of NABARD for the year 2023-24",
+            "datePublished": "30-Dec-2023 03:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "88,59,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

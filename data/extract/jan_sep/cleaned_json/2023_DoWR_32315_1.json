@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_32315_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "07-Sep-2023 03:00 PM",
+    "tenderValueAmount": "1,99,95,806",
+    "tender": [
+        {
+            "id": "2023_DoWR_32315_1",
+            "title": "Procurement of flood fighting materials (PSC Porcupine) for Water Resources Department for the year 2023-24 (Zone-5)",
+            "description": "Procurement of flood fighting materials (PSC Porcupine) for Water Resources Department for the year 2023-24 (Zone-5)",
+            "datePublished": "30-Aug-2023 06:30 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "1,99,95,806",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Sep-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

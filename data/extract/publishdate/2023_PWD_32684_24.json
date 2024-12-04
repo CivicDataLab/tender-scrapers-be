@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_24",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,78,94,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_24",
+            "title": "MMNPPNA_23_24_79 (i) Construction of road from Kalibari to JMM road from CH 0.00 Km to CH 0.60 Km, (ii) Construction of Sankerdev Colony road from CH 0.00 Km to CH 0.60 Km, (iii) Reconstruction of Road from 60th to 70th Km of Dhodar Ali (SH-I)",
+            "description": "MMNPPNA_23_24_79 (i) Construction of road from Kalibari to JMM road from CH 0.00 Km to CH 0.60 Km, (ii) Construction of Sankerdev Colony road from CH 0.00 Km to CH 0.60 Km, (iii) Reconstruction of Road from 60th to 70th Km of Dhodar Ali (SH-I)",
+            "datePublished": "30-Sep-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,78,94,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

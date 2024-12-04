@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_UDD_36951_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Mar-2024 01:00 PM",
+    "tenderValueAmount": "88,14,400",
+    "tender": [
+        {
+            "id": "2024_UDD_36951_1",
+            "title": "Construction of new Tea Tribes and Adivasi Girls Hostel at THB College Jamugurihat",
+            "description": "Construction of new Tea Tribes and Adivasi Girls Hostel at THB College Jamugurihat",
+            "datePublished": "06-Mar-2024 06:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "88,14,400",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Mar-2024 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

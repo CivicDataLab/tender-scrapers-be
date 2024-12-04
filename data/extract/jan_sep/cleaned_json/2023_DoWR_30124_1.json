@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_30124_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Apr-2023 03:00 PM",
+    "tenderValueAmount": "89,64,219",
+    "tender": [
+        {
+            "id": "2023_DoWR_30124_1",
+            "title": "Construction of single shutter sluice gate at Keotpara to prevent back flow of river Brahmaputra.",
+            "description": "Construction of single shutter sluice gate at Keotpara to prevent back flow of river Brahmaputra.",
+            "datePublished": "24-Mar-2023 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "89,64,219",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Apr-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

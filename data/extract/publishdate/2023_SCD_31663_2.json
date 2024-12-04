@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_SCD_31663_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "25-Jul-2023 11:30 AM",
+    "tenderValueAmount": "1,39,52,497",
+    "tender": [
+        {
+            "id": "2023_SCD_31663_2",
+            "title": "Sankosh River Training Project 2022-23 at village Surendrapur under RIDF-XXVIII DURING 2022-23",
+            "description": "Sankosh River Training Project 2022-23 at village Surendrapur under RIDF-XXVIII DURING 2022-23",
+            "datePublished": "14-Jul-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,39,52,497",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "25-Jul-2023 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

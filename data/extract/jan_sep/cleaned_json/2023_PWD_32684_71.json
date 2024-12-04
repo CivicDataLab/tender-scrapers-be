@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_71",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,99,46,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_71",
+            "title": "MMNPPNA_23_24_76 (i)Construction of Bhebarghat Smashan Approach Road, Ward No.10 ( ch. 0.00 m to Ch. 205.00m ), (ii) Construction of Denial Path at Ward No.2 including one side drain ( ch. 0.00 m to Ch. 306.00m ), (iii) Construction of Bye lane from",
+            "description": "MMNPPNA_23_24_76 (i)Construction of Bhebarghat Smashan Approach Road, Ward No.10 ( ch. 0.00 m to Ch. 205.00m ), (ii) Construction of Denial Path at Ward No.2 including one side drain ( ch. 0.00 m to Ch. 306.00m ), (iii) Construction of Bye lane from",
+            "datePublished": "03-Oct-2023 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,99,46,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

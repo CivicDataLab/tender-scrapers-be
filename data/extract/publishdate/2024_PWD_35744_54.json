@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35744_54",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 02:00 PM",
+    "tenderValueAmount": "1,47,69,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35744_54",
+            "title": "SOPD_ODS_23_24_50 Construction of Naginijan Bagan Road from (L 2.15km, Ch 0.00 m to 2150.00 m) under SOPD-ODS (Tea Garden Road) for the year 2023-24",
+            "description": "SOPD_ODS_23_24_50 Construction of Naginijan Bagan Road from (L 2.15km, Ch 0.00 m to 2150.00 m) under SOPD-ODS (Tea Garden Road) for the year 2023-24",
+            "datePublished": "05-Feb-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,47,69,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

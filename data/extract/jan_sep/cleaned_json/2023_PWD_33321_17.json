@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33321_17",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Nov-2023 11:00 AM",
+    "tenderValueAmount": "35,55,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33321_17",
+            "title": "Package No.Dhubri/MMPNA/BUG/04 Repair/Rehabilitation of (1) Br. No 2/1 at Ch 1600.00m (2) Br. No. 4/1 at Ch 3600.00m at NH31 Halakura Boterhat Bazar to Chagolia Road under Mukhya Mantrir Path Nabikaran Achani for the year 2023-24",
+            "description": "Package No.Dhubri/MMPNA/BUG/04 Repair/Rehabilitation of (1) Br. No 2/1 at Ch 1600.00m (2) Br. No. 4/1 at Ch 3600.00m at NH31 Halakura Boterhat Bazar to Chagolia Road under Mukhya Mantrir Path Nabikaran Achani for the year 2023-24",
+            "datePublished": "28-Oct-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "35,55,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

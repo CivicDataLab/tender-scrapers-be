@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2021_ASPIR_22265_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2021-2022",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "17-Aug-2021 03:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2021_ASPIR_22265_1",
+            "title": "Engagement of Kerala Institute of Local Administration (KILA) for Capacity Building of Directorate of Audit (Local Fund), Assam (DALF)",
+            "description": "Engagement of Kerala Institute of Local Administration (KILA) for Capacity Building of Directorate of Audit (Local Fund), Assam (DALF)",
+            "datePublished": "27-Jul-2021 03:00 PM",
+            "contractType": "Lump-sum",
+            "procurementMethod": "Single",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Aug-2021 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36481_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "21-Mar-2024 03:00 PM",
+    "tenderValueAmount": "16,11,62,695",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36481_1",
+            "title": "Construction of VVIP Guest House, Kaziranga",
+            "description": "Construction of VVIP Guest House, Kaziranga",
+            "datePublished": "21-Feb-2024 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "16,11,62,695",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

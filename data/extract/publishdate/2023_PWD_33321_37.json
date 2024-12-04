@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33321_37",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Nov-2023 11:00 AM",
+    "tenderValueAmount": "1,26,66,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33321_37",
+            "title": "Package No. Darrang/MMPNA/BUG/2 Repair/ Rehabilation of BUG Bridge No 1) 3/1 on Janasewa Kathamara Road 2) Bridge No 9/1 on Bhuktabari Sonapur Road 3) Bridge No 1/3 on MPK Road to MM Road 4)Bridge No 4/3 on Andherighat Jayantipur to Hussain Chuburi",
+            "description": "Package No. Darrang/MMPNA/BUG/2 Repair/ Rehabilation of BUG Bridge No 1) 3/1 on Janasewa Kathamara Road 2) Bridge No 9/1 on Bhuktabari Sonapur Road 3) Bridge No 1/3 on MPK Road to MM Road 4)Bridge No 4/3 on Andherighat Jayantipur to Hussain Chuburi",
+            "datePublished": "28-Oct-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,26,66,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

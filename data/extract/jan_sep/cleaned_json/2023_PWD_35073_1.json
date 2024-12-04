@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_35073_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "18-Jan-2024 02:00 PM",
+    "tenderValueAmount": "91,14,69,000",
+    "tender": [
+        {
+            "id": "2023_PWD_35073_1",
+            "title": "SOPD_G_23_24_33 (1) Improvement of Goroimari to Kalatoli PWD Road (2) PWD Road to Kalatoli Pathar (3) Construction of RCC drain and Improvement of Internal roads of Mirza Town Shipment (4) Improvement of Road from Barihat Barpratima Road to Saru Here",
+            "description": "SOPD_G_23_24_33 (1) Improvement of Goroimari to Kalatoli PWD Road (2) PWD Road to Kalatoli Pathar (3) Construction of RCC drain and Improvement of Internal roads of Mirza Town Shipment (4) Improvement of Road from Barihat Barpratima Road to Saru Here",
+            "datePublished": "29-Dec-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "91,14,69,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "18-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

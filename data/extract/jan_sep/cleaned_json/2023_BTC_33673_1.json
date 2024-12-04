@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33673_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Nov-2023 12:00 PM",
+    "tenderValueAmount": "5,28,76,939",
+    "tender": [
+        {
+            "id": "2023_BTC_33673_1",
+            "title": "Construction of ICBP road with 9 nos. RCC Culvert from Gossaigaon Bashbari road near Dingdinga Hospital via Sluice gate, Maudarkuti, Tungsi and Santipur Bazar to Matijhora Part-I Hatikhal under CMs Goodwill Project. TN_26_39",
+            "description": "Construction of ICBP road with 9 nos. RCC Culvert from Gossaigaon Bashbari road near Dingdinga Hospital via Sluice gate, Maudarkuti, Tungsi and Santipur Bazar to Matijhora Part-I Hatikhal under CMs Goodwill Project. TN_26_39",
+            "datePublished": "09-Nov-2023 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "5,28,76,939",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

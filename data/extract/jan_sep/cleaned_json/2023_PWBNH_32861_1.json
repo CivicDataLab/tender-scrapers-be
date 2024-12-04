@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_32861_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Oct-2023 03:00 PM",
+    "tenderValueAmount": "80,00,000",
+    "tender": [
+        {
+            "id": "2023_PWBNH_32861_1",
+            "title": "Arrangement of Temporary Pandal, Dais, Barricading Branding, Temporary VVIP andVIP Toilets etc. In connection with the programme from 10th October 2023 to 15th October 2023 at various districts Nagaon Neherubali Field in presence of Hon ble Chie",
+            "description": "Arrangement of Temporary Pandal, Dais, Barricading Branding, Temporary VVIP andVIP Toilets etc. In connection with the programme from 10th October 2023 to 15th October 2023 at various districts Nagaon Neherubali Field in presence of Hon ble Chie",
+            "datePublished": "07-Oct-2023 03:30 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "80,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Oct-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

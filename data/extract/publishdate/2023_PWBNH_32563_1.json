@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_32563_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Oct-2023 02:00 PM",
+    "tenderValueAmount": "14,65,45,000",
+    "tender": [
+        {
+            "id": "2023_PWBNH_32563_1",
+            "title": "Improvement of Riding Qualityof existing flexible pavementfrom Km 377/000 (Panbari) toKm 402/500(Numaligarh)(L 22.76Km) in stretchesincluding Thin White Toppingand Rigid pavement in vulnerable stretches of NH-37(New N.H-715)",
+            "description": "Improvement of Riding Qualityof existing flexible pavementfrom Km 377/000 (Panbari) toKm 402/500(Numaligarh)(L 22.76Km) in stretchesincluding Thin White Toppingand Rigid pavement in vulnerable stretches of NH-37(New N.H-715)",
+            "datePublished": "16-Sep-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "14,65,45,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

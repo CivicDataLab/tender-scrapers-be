@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_34192_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "15-Dec-2023 03:30 PM",
+    "tenderValueAmount": "30,00,000",
+    "tender": [
+        {
+            "id": "2023_BoTC_34192_1",
+            "title": "Procurement of Laptop and DSLR Camera with lens under Bodoland Handloom Mission",
+            "description": "Procurement of Laptop and DSLR Camera with lens under Bodoland Handloom Mission",
+            "datePublished": "24-Nov-2023 09:00 AM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "30,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Dec-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

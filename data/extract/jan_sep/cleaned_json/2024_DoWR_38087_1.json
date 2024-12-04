@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_38087_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "25-Jul-2024 03:00 PM",
+    "tenderValueAmount": "54,44,828",
+    "tender": [
+        {
+            "id": "2024_DoWR_38087_1",
+            "title": "M AND R to Re-channelization of river Kundil by dredging at different reaches under Sadiya Civil Sub-Division for 2023-24",
+            "description": "M AND R to Re-channelization of river Kundil by dredging at different reaches under Sadiya Civil Sub-Division for 2023-24",
+            "datePublished": "18-Jul-2024 06:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "54,44,828",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "25-Jul-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

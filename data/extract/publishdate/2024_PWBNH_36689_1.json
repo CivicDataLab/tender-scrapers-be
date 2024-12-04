@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36689_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Mar-2024 03:00 PM",
+    "tenderValueAmount": "24,25,600",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36689_1",
+            "title": "Construction of Kitchen and Dining Hall for outer security personnel of District Jail, Dhemaji",
+            "description": "Construction of Kitchen and Dining Hall for outer security personnel of District Jail, Dhemaji",
+            "datePublished": "27-Feb-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,25,600",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

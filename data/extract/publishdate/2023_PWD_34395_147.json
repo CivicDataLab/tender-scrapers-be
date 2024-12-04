@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34395_147",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Dec-2023 02:00 PM",
+    "tenderValueAmount": "1,98,01,000",
+    "tender": [
+        {
+            "id": "2023_PWD_34395_147",
+            "title": "RIDF_XXIX_23_24_125 Construction of road from Ramesh Das house via Chandi Rabha house via Bharat Rabha house to Tara Rabha house at Chowdhurikhat village, No.2 Jamguri under RIDF XXIX of NABARD for the year 2023-24",
+            "description": "RIDF_XXIX_23_24_125 Construction of road from Ramesh Das house via Chandi Rabha house via Bharat Rabha house to Tara Rabha house at Chowdhurikhat village, No.2 Jamguri under RIDF XXIX of NABARD for the year 2023-24",
+            "datePublished": "11-Dec-2023 06:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,98,01,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

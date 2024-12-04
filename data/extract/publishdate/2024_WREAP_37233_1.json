@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_WREAP_37233_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "29-Apr-2024 04:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_WREAP_37233_1",
+            "title": "Engagement of Internal Auditor for FY 2023-24",
+            "description": "Engagement of Internal Auditor for FY 2023-24",
+            "datePublished": "14-Mar-2024 11:30 AM",
+            "contractType": "Lump-sum",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Apr-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

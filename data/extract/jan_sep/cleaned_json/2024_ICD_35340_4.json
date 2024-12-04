@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ICD_35340_4",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_ICD_35340_4",
+            "title": "Construction of Approach and Internal Road with CC Pavement for Setting up of a New Industrial Estate at no two Dhemajibari Dist Biswanath",
+            "description": "Construction of Approach and Internal Road with CC Pavement for Setting up of a New Industrial Estate at no two Dhemajibari Dist Biswanath",
+            "datePublished": "09-Jan-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

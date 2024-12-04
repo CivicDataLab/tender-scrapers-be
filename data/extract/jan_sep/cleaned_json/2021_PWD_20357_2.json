@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2021_PWD_20357_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2020-2021",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Feb-2021 02:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2021_PWD_20357_2",
+            "title": "Construction of Road from Chalantapara Pt-III to Silkhatari Road (Ch. 0.00 m to 900.00 m) under SOPD for the year 2020-21, Abhayapuri South LAC. Package No.SOPD(G)_WAC_144",
+            "description": "Construction of Road from Chalantapara Pt-III to Silkhatari Road (Ch. 0.00 m to 900.00 m) under SOPD for the year 2020-21, Abhayapuri South LAC. Package No.SOPD(G)_WAC_144",
+            "datePublished": "23-Jan-2021 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Feb-2021 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

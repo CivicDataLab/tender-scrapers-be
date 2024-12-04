@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35303_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 01:00 PM",
+    "tenderValueAmount": "94,49,105",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35303_2",
+            "title": "Repair/Renovation of Model School at Moinajuli in Sonitpur District under RMSA, Assam",
+            "description": "Repair/Renovation of Model School at Moinajuli in Sonitpur District under RMSA, Assam",
+            "datePublished": "08-Jan-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "94,49,105",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

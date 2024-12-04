@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_32434_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Sep-2023 03:00 PM",
+    "tenderValueAmount": "50,00,000",
+    "tender": [
+        {
+            "id": "2023_BoTC_32434_1",
+            "title": "Farmers Data Collection and online entry in all VCDCs of Baksa District and 5 VCDCs each in 3 other Districts of BTC Viz.- Kokrajhar, Chirang and Udalguri under SOPD for the year 2023-24.",
+            "description": "Farmers Data Collection and online entry in all VCDCs of Baksa District and 5 VCDCs each in 3 other Districts of BTC Viz.- Kokrajhar, Chirang and Udalguri under SOPD for the year 2023-24.",
+            "datePublished": "11-Sep-2023 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "50,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Sep-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

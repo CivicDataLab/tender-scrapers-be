@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_33191_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Jan-2024 03:00 PM",
+    "tenderValueAmount": "1,94,99,759",
+    "tender": [
+        {
+            "id": "2023_DoWR_33191_2",
+            "title": "Pro-siltation measures to protect Boramari area from the erosion of river Brahmaputra. RETENDER",
+            "description": "Pro-siltation measures to protect Boramari area from the erosion of river Brahmaputra. RETENDER",
+            "datePublished": "06-Jan-2024 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,94,99,759",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

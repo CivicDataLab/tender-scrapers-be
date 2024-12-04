@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_NHM_31428_6",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "15-Jul-2023 02:00 PM",
+    "tenderValueAmount": "57,99,785",
+    "tender": [
+        {
+            "id": "2023_NHM_31428_6",
+            "title": "Establishment of Proposed 6 bedded ward at various SHCs n PHCs of Assam under ECRP II NHM Assam Group 42 5 nos schemes in Cachar district",
+            "description": "Establishment of Proposed 6 bedded ward at various SHCs n PHCs of Assam under ECRP II NHM Assam Group 42 5 nos schemes in Cachar district",
+            "datePublished": "29-Jun-2023 09:00 AM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "57,99,785",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Jul-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

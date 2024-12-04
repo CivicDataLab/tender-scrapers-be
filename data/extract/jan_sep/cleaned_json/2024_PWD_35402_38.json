@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_38",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "1,88,99,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_38",
+            "title": "MMPPNA_23_24_179 (1)Construction of Gorukhunda Gaon Road (Balance Portion) from Ch. 1750.00m to 2280.00m (L 530.00m), (2)Construction of Dibrual Gaon road an Dibrual Changmai Gaon Road (Balance portion) (Total Length 0.940m), (3)Construction...",
+            "description": "MMPPNA_23_24_179 (1)Construction of Gorukhunda Gaon Road (Balance Portion) from Ch. 1750.00m to 2280.00m (L 530.00m), (2)Construction of Dibrual Gaon road an Dibrual Changmai Gaon Road (Balance portion) (Total Length 0.940m), (3)Construction...",
+            "datePublished": "16-Jan-2024 03:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,88,99,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33461_12",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Nov-2023 02:00 PM",
+    "tenderValueAmount": "1,96,22,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33461_12",
+            "title": "MMNPPNA_23_24_116 (i) Construction of RCC Drain at Sadarghat Bridge Point to Angarjur (Ward No.05), (ii) Construction of Narsing Akhra Road with RCC Drain under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA) for the year 2023-24, Silchar MB",
+            "description": "MMNPPNA_23_24_116 (i) Construction of RCC Drain at Sadarghat Bridge Point to Angarjur (Ward No.05), (ii) Construction of Narsing Akhra Road with RCC Drain under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA) for the year 2023-24, Silchar MB",
+            "datePublished": "02-Nov-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,96,22,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33654_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Nov-2023 12:00 PM",
+    "tenderValueAmount": "3,14,90,895",
+    "tender": [
+        {
+            "id": "2023_BTC_33654_1",
+            "title": "Construction of road from Sonapur Village to Bhauraguri Village via Sananbari Dolarpara Village road by providing SDBC including 9 nos. of RCC Box Culvert from Ch. 0.00km to Ch. 3.33km under CMs Goodwill Project. TN_26_27",
+            "description": "Construction of road from Sonapur Village to Bhauraguri Village via Sananbari Dolarpara Village road by providing SDBC including 9 nos. of RCC Box Culvert from Ch. 0.00km to Ch. 3.33km under CMs Goodwill Project. TN_26_27",
+            "datePublished": "09-Nov-2023 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,14,90,895",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

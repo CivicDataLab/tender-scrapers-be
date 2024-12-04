@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_36566_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Mar-2024 04:30 PM",
+    "tenderValueAmount": "1,44,57,272",
+    "tender": [
+        {
+            "id": "2024_BoTC_36566_1",
+            "title": "Canal Lining (BC 2 from ch.0.00. 750.00m ) at Jambrijhora FIS under PMKSY-HKKP for the year 2021-22.",
+            "description": "Canal Lining (BC 2 from ch.0.00. 750.00m ) at Jambrijhora FIS under PMKSY-HKKP for the year 2021-22.",
+            "datePublished": "23-Feb-2024 06:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,44,57,272",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Mar-2024 04:30 PM"
+                }
+            ]
+        }
+    ]
+}

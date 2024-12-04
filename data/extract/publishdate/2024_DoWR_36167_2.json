@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_36167_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "16-Mar-2024 03:35 PM",
+    "tenderValueAmount": "2,45,09,811",
+    "tender": [
+        {
+            "id": "2024_DoWR_36167_2",
+            "title": "Protection of Langteng Village at Dengaon from the erosion of river Harina in East Karbi Anglong District.",
+            "description": "Protection of Langteng Village at Dengaon from the erosion of river Harina in East Karbi Anglong District.",
+            "datePublished": "09-Mar-2024 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,45,09,811",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Mar-2024 03:35 PM"
+                }
+            ]
+        }
+    ]
+}

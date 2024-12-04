@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36063_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Feb-2024 01:00 PM",
+    "tenderValueAmount": "1,70,34,346",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36063_1",
+            "title": "Additional Estimate for Upgradation of District Library cum Auditorium at Tezpur",
+            "description": "Additional Estimate for Upgradation of District Library cum Auditorium at Tezpur",
+            "datePublished": "08-Feb-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,70,34,346",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Feb-2024 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35697_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Feb-2024 02:00 PM",
+    "tenderValueAmount": "5,86,30,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35697_2",
+            "title": "RIDF_XXIX_23_24_55 (i) Construction of Dugharia to Pathorichuk Road (L 2.70 Km), (ii) Construction of road from Borghuli to Malapindha (L-3.00 KM) under RIDF-XXIX of NABARD for the year 2023-24.",
+            "description": "RIDF_XXIX_23_24_55 (i) Construction of Dugharia to Pathorichuk Road (L 2.70 Km), (ii) Construction of road from Borghuli to Malapindha (L-3.00 KM) under RIDF-XXIX of NABARD for the year 2023-24.",
+            "datePublished": "25-Jan-2024 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "5,86,30,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

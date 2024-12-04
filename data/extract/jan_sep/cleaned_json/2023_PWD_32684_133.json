@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_133",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "4,00,00,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_133",
+            "title": "MMNPPNA_23_24_142 (i) Construction of Mission Chowk to Udalguri railway gate (gaurav Path) (Ch-0.00 m to Ch-600.00 m), (ii) Construction of CC Block road with RCC cover drain from Soni mandir to rampur chowk udalguri tamulpur (UT road) connecting roa",
+            "description": "MMNPPNA_23_24_142 (i) Construction of Mission Chowk to Udalguri railway gate (gaurav Path) (Ch-0.00 m to Ch-600.00 m), (ii) Construction of CC Block road with RCC cover drain from Soni mandir to rampur chowk udalguri tamulpur (UT road) connecting roa",
+            "datePublished": "07-Oct-2023 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,00,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

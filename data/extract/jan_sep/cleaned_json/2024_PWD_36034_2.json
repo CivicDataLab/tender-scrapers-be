@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36034_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 02:00 PM",
+    "tenderValueAmount": "2,24,19,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36034_2",
+            "title": "RIDF_XXIX_23_24_127 Construction of Mout Gaon to Waksung Road from Ch.0.00m to Ch.2500.00m (L 2.50Km), under RIDF-XXIX of NABARD for the year 2023-24",
+            "description": "RIDF_XXIX_23_24_127 Construction of Mout Gaon to Waksung Road from Ch.0.00m to Ch.2500.00m (L 2.50Km), under RIDF-XXIX of NABARD for the year 2023-24",
+            "datePublished": "07-Feb-2024 06:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,24,19,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

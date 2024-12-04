@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_32561_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Oct-2023 02:00 PM",
+    "tenderValueAmount": "14,63,63,000",
+    "tender": [
+        {
+            "id": "2023_PWBNH_32561_1",
+            "title": "Improvement of Riding Quality of existing flexible pavement from Km 357/000 (Bagori) to Km 377/000 (Panbari) (L 17.647Km) in stretches including Thin White Topping and Rigid pavement in vulnerable stretches",
+            "description": "Improvement of Riding Quality of existing flexible pavement from Km 357/000 (Bagori) to Km 377/000 (Panbari) (L 17.647Km) in stretches including Thin White Topping and Rigid pavement in vulnerable stretches",
+            "datePublished": "16-Sep-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "14,63,63,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

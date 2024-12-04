@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_32148_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Sep-2023 02:00 PM",
+    "tenderValueAmount": "5,09,50,000",
+    "tender": [
+        {
+            "id": "2023_PWBNH_32148_1",
+            "title": "Repair and raising of existingdamaged RandomRubble Masonry roadside drain cum footpath at Km.324 and Km.325 (at Jakhalabandha Town), providing hardshoulder with ICBP at Km.337, 338 and 339 including wire-rope crash barrier at stretches of Burapahar A",
+            "description": "Repair and raising of existingdamaged RandomRubble Masonry roadside drain cum footpath at Km.324 and Km.325 (at Jakhalabandha Town), providing hardshoulder with ICBP at Km.337, 338 and 339 including wire-rope crash barrier at stretches of Burapahar A",
+            "datePublished": "21-Aug-2023 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "5,09,50,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Sep-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

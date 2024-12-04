@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2020_ASPIR_16050_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2019-2020",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "13-Feb-2020 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2020_ASPIR_16050_1",
+            "title": "Supporting and managing the Lead Externally Aided Project LEAP Cell",
+            "description": "Supporting and managing the Lead Externally Aided Project LEAP Cell",
+            "datePublished": "24-Jan-2020 02:10 PM",
+            "contractType": "EOI",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2020 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

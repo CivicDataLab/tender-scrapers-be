@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PCCF_36139_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Mar-2024 03:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_PCCF_36139_1",
+            "title": "Full chain link fencing with 3 strand barbed wire",
+            "description": "Full chain link fencing with 3 strand barbed wire",
+            "datePublished": "09-Feb-2024 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Mar-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

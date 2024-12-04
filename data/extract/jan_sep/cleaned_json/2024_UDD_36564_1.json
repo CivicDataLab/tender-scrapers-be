@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_UDD_36564_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Mar-2024 01:30 PM",
+    "tenderValueAmount": "27,20,000",
+    "tender": [
+        {
+            "id": "2024_UDD_36564_1",
+            "title": "CONSTRUCTION OF A CLOCK TOWER AT DOOMDOOMA TOWN INCLUDING SUPPLY AND PROCUREMENT FABRICATION TRIAL RUN AND COMMISSIONING COMPLETE ON ENGINEERING PROCUREMENT AND CONSTRUCTION EPC MODE1 BASIS",
+            "description": "CONSTRUCTION OF A CLOCK TOWER AT DOOMDOOMA TOWN INCLUDING SUPPLY AND PROCUREMENT FABRICATION TRIAL RUN AND COMMISSIONING COMPLETE ON ENGINEERING PROCUREMENT AND CONSTRUCTION EPC MODE1 BASIS",
+            "datePublished": "23-Feb-2024 03:00 PM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "27,20,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Mar-2024 01:30 PM"
+                }
+            ]
+        }
+    ]
+}

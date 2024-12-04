@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_33379_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 03:00 PM",
+    "tenderValueAmount": "19,92,22,926",
+    "tender": [
+        {
+            "id": "2023_DoWR_33379_2",
+            "title": "Construction of Marginal embankment along with A.E. measures to protect Dhalpur (Garukhuti) area from the erosion of river Brahmaputra.(Ph-I), RETENDER",
+            "description": "Construction of Marginal embankment along with A.E. measures to protect Dhalpur (Garukhuti) area from the erosion of river Brahmaputra.(Ph-I), RETENDER",
+            "datePublished": "22-Jan-2024 06:55 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "19,92,22,926",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

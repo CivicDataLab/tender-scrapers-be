@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35115_85",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:30 PM",
+    "tenderValueAmount": "3,22,66,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35115_85",
+            "title": "MMPPNA_23_24_92, Construction of Sunaribari Kolakhowa Road ( From Ch. 0.00m to 800.00m), 2.Construction of Guwalgaon to Malapindha Koibarta village Road, 3.Construction of Chitadar village Road under Mukhya Mantrir Pakipath Nirman Achani for the yea",
+            "description": "MMPPNA_23_24_92, Construction of Sunaribari Kolakhowa Road ( From Ch. 0.00m to 800.00m), 2.Construction of Guwalgaon to Malapindha Koibarta village Road, 3.Construction of Chitadar village Road under Mukhya Mantrir Pakipath Nirman Achani for the yea",
+            "datePublished": "03-Jan-2024 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,22,66,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

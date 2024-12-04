@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_AAU_33867_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Nov-2023 04:00 PM",
+    "tenderValueAmount": "2,46,91,380",
+    "tender": [
+        {
+            "id": "2023_AAU_33867_1",
+            "title": "CONSTRUCTION OF G PLUS 2, SIX UNITS STAFF QTR AT SCSCA.BAHALPUR,DHUBRI for Assam Agricultural University at SCSCA,DHUBRI",
+            "description": "CONSTRUCTION OF G PLUS 2, SIX UNITS STAFF QTR AT SCSCA.BAHALPUR,DHUBRI for Assam Agricultural University at SCSCA,DHUBRI",
+            "datePublished": "10-Nov-2023 05:25 PM",
+            "contractType": "Percentage",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,46,91,380",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Nov-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_GMC_32305_26",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Nov-2023 02:00 PM",
+    "tenderValueAmount": "45,00,000",
+    "tender": [
+        {
+            "id": "2023_GMC_32305_26",
+            "title": "Construction of road and drain including railing and guard wall with toilet and bathroom at Surya Nagar, Gate no-1",
+            "description": "Construction of road and drain including railing and guard wall with toilet and bathroom at Surya Nagar, Gate no-1",
+            "datePublished": "09-Nov-2023 02:00 PM",
+            "contractType": "Lump-sum",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "45,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

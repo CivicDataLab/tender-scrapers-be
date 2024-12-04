@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37450_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Apr-2024 02:30 PM",
+    "tenderValueAmount": "2,66,25,100",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37450_1",
+            "title": "Construction of RCC Single Storey New Boys Hostel No.1 at Assam Engineering College,Jalukbari, Guwahati-13 (Provision G Plus 2)under SOPD-ODS during the year 2023-24",
+            "description": "Construction of RCC Single Storey New Boys Hostel No.1 at Assam Engineering College,Jalukbari, Guwahati-13 (Provision G Plus 2)under SOPD-ODS during the year 2023-24",
+            "datePublished": "23-Mar-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,66,25,100",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Apr-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

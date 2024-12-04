@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ID_33103_6",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Nov-2023 03:00 PM",
+    "tenderValueAmount": "1,47,67,289",
+    "tender": [
+        {
+            "id": "2023_ID_33103_6",
+            "title": "Installation of solar powered MDTW I/S in Gohpur LAC (4 Points) under RIDF-XXIX (NABARD) for the year 2023-24. package 6",
+            "description": "Installation of solar powered MDTW I/S in Gohpur LAC (4 Points) under RIDF-XXIX (NABARD) for the year 2023-24. package 6",
+            "datePublished": "17-Oct-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,47,67,289",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

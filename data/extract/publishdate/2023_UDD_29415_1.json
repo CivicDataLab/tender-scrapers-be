@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_UDD_29415_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Mar-2023 01:00 PM",
+    "tenderValueAmount": "1,02,11,241",
+    "tender": [
+        {
+            "id": "2023_UDD_29415_1",
+            "title": "Selection of Concessionaire for Moving Bed Bio Reactor (MBBR) Technology based Project of a 10 KLD FSTP for 3 years office and maintenance in North Guwahati Town",
+            "description": "Selection of Concessionaire for Moving Bed Bio Reactor (MBBR) Technology based Project of a 10 KLD FSTP for 3 years office and maintenance in North Guwahati Town",
+            "datePublished": "20-Feb-2023 01:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,02,11,241",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Mar-2023 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

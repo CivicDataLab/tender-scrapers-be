@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_28681_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2023 02:30 PM",
+    "tenderValueAmount": "1,91,00,000",
+    "tender": [
+        {
+            "id": "2023_PWBNH_28681_1",
+            "title": "Consultancy Services for the Construction of proposed Krishna Kanta Handiqui State Open University (Residential Quarters, Hostels and Guest House) Phase-I at its headquarter at Rani, Patgaon Kamrup, Assam",
+            "description": "Consultancy Services for the Construction of proposed Krishna Kanta Handiqui State Open University (Residential Quarters, Hostels and Guest House) Phase-I at its headquarter at Rani, Patgaon Kamrup, Assam",
+            "datePublished": "06-Jan-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,91,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

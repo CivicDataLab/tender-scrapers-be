@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34793_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "09-Jan-2024 04:00 PM",
+    "tenderValueAmount": "2,89,67,603",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34793_1",
+            "title": "Construction of Hailakandi District Stadium PhI Construction of Multi storied Youth hostel at DSA at Hailakandi",
+            "description": "Construction of Hailakandi District Stadium PhI Construction of Multi storied Youth hostel at DSA at Hailakandi",
+            "datePublished": "19-Dec-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,89,67,603",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Jan-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

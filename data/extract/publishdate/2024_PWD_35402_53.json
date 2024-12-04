@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_53",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "1,65,09,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_53",
+            "title": "MMPPNA_23_24_211 (1)Construction of Road Bhubandar PWD to Janata LP School via Bharpara at Suktala under Bhubandar G.P. (Ch. 0.00m to Ch. 1000.00m), (2)Construction of Road from Ganganagar Pt viii to Krishnapur PWD Road via Nihar Suklabaidya Ganganag",
+            "description": "MMPPNA_23_24_211 (1)Construction of Road Bhubandar PWD to Janata LP School via Bharpara at Suktala under Bhubandar G.P. (Ch. 0.00m to Ch. 1000.00m), (2)Construction of Road from Ganganagar Pt viii to Krishnapur PWD Road via Nihar Suklabaidya Ganganag",
+            "datePublished": "16-Jan-2024 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,65,09,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

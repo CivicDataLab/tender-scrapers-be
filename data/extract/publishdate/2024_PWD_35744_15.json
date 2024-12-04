@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35744_15",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 02:00 PM",
+    "tenderValueAmount": "1,42,00,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35744_15",
+            "title": "SOPD_ODS_23_24_89 Improvement of (i) Orang T.E. Road at 5 No. Line (Part -1 from ch 0.00km to Ch. 0.30km Part 2 from ch. 0.00km to 0.20km) (Total Length 0.50km), (ii) Orang T.E. Road from Rupa Road to Sarothi Tanti House at 14 No. Line",
+            "description": "SOPD_ODS_23_24_89 Improvement of (i) Orang T.E. Road at 5 No. Line (Part -1 from ch 0.00km to Ch. 0.30km Part 2 from ch. 0.00km to 0.20km) (Total Length 0.50km), (ii) Orang T.E. Road from Rupa Road to Sarothi Tanti House at 14 No. Line",
+            "datePublished": "03-Feb-2024 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,42,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

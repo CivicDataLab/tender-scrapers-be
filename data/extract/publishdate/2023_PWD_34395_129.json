@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34395_129",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Dec-2023 02:00 PM",
+    "tenderValueAmount": "3,57,89,000",
+    "tender": [
+        {
+            "id": "2023_PWD_34395_129",
+            "title": "RIDF_XXIX_23_24_115 Construction of road from (i) No. 3 Gangapur village to Santipur village upto Mongal Singh house via Thakuri Bosti (from Ch. 0.00m to Ch. 2100.00m) and (ii) Balikhuti to kokalbhangi via Soroka village (Ch. 0.00 m to 2800.00 m)unde",
+            "description": "RIDF_XXIX_23_24_115 Construction of road from (i) No. 3 Gangapur village to Santipur village upto Mongal Singh house via Thakuri Bosti (from Ch. 0.00m to Ch. 2100.00m) and (ii) Balikhuti to kokalbhangi via Soroka village (Ch. 0.00 m to 2800.00 m)unde",
+            "datePublished": "11-Dec-2023 04:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,57,89,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

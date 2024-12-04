@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34521_4",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Dec-2023 11:00 AM",
+    "tenderValueAmount": "26,16,100",
+    "tender": [
+        {
+            "id": "2023_PWD_34521_4",
+            "title": "Chirang/MMPNA/R_R/01 Repair and Rehabilitation of bridge on 1) Charaikhola Basugaon Kashikotra Road (Basugaon - Kaikotra) at Ch.21.03 km 2) Samthai Bari Hatisar Road (Samthai Bari - Hatisat(Bhutan Gate) at Ch.4.575 km under Mantrir Path Nabikaran",
+            "description": "Chirang/MMPNA/R_R/01 Repair and Rehabilitation of bridge on 1) Charaikhola Basugaon Kashikotra Road (Basugaon - Kaikotra) at Ch.21.03 km 2) Samthai Bari Hatisar Road (Samthai Bari - Hatisat(Bhutan Gate) at Ch.4.575 km under Mantrir Path Nabikaran",
+            "datePublished": "07-Dec-2023 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "26,16,100",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Dec-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DOT_33169_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Nov-2023 01:00 PM",
+    "tenderValueAmount": "1,73,19,310",
+    "tender": [
+        {
+            "id": "2023_DOT_33169_1",
+            "title": "Destination Development and Beautification of Historical Place at Habung (Construction of Internal road linking to the main temple from the project site)",
+            "description": "Destination Development and Beautification of Historical Place at Habung (Construction of Internal road linking to the main temple from the project site)",
+            "datePublished": "19-Oct-2023 01:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,73,19,310",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Nov-2023 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

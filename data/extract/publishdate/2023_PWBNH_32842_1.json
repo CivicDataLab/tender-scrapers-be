@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_32842_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Oct-2023 01:05 PM",
+    "tenderValueAmount": "80,00,000",
+    "tender": [
+        {
+            "id": "2023_PWBNH_32842_1",
+            "title": "Arrang. of Temp. Pandal, Dais, Barricading, Branding, Temp. VVIP and VIP Toilets and Elect. Works etc. under Orunodoi 2.0, Micro finance and Cycle Distri. prog. from 11th Oct, 23 to 18th Oct, 23 at various dist. at Kamalpur, Kamrup Dist.",
+            "description": "Arrang. of Temp. Pandal, Dais, Barricading, Branding, Temp. VVIP and VIP Toilets and Elect. Works etc. under Orunodoi 2.0, Micro finance and Cycle Distri. prog. from 11th Oct, 23 to 18th Oct, 23 at various dist. at Kamalpur, Kamrup Dist.",
+            "datePublished": "07-Oct-2023 01:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "80,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Oct-2023 01:05 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_UDD_34914_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Jan-2024 03:00 PM",
+    "tenderValueAmount": "1,67,24,880",
+    "tender": [
+        {
+            "id": "2023_UDD_34914_1",
+            "title": "Execution, Testing and Commissioning of Makum Water Supply Scheme ,Ph-II",
+            "description": "Execution, Testing and Commissioning of Makum Water Supply Scheme ,Ph-II",
+            "datePublished": "21-Dec-2023 06:55 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,67,24,880",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

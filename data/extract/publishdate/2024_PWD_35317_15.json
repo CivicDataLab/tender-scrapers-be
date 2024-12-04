@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35317_15",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Jan-2024 02:30 PM",
+    "tenderValueAmount": "88,41,54,400",
+    "tender": [
+        {
+            "id": "2024_PWD_35317_15",
+            "title": "AsomMala2.0/ kamrup /03",
+            "description": "AsomMala2.0/ kamrup /03",
+            "datePublished": "09-Jan-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "88,41,54,400",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

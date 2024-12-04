@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_37121_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Apr-2024 02:00 PM",
+    "tenderValueAmount": "2,51,53,470",
+    "tender": [
+        {
+            "id": "2024_BTC_37121_1",
+            "title": "Construction of Elementary School Building at an estimated cost for Rs.25,15,500.00 per school at different places in Baksa District under the Head Grants to BTC for Infrastructure Development Fund for the year 2023-24, Phase-VI A. TN_91_06.",
+            "description": "Construction of Elementary School Building at an estimated cost for Rs.25,15,500.00 per school at different places in Baksa District under the Head Grants to BTC for Infrastructure Development Fund for the year 2023-24, Phase-VI A. TN_91_06.",
+            "datePublished": "12-Mar-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,51,53,470",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Apr-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

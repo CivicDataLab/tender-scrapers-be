@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34980_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Jan-2024 02:30 PM",
+    "tenderValueAmount": "8,19,41,775",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34980_1",
+            "title": "Construction of New Science Block of Haflong Govt. College at Dima Hasao",
+            "description": "Construction of New Science Block of Haflong Govt. College at Dima Hasao",
+            "datePublished": "27-Dec-2023 10:05 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "8,19,41,775",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

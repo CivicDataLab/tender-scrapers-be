@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_33183_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Jan-2024 03:00 PM",
+    "tenderValueAmount": "5,99,97,282",
+    "tender": [
+        {
+            "id": "2023_DoWR_33183_2",
+            "title": "A/E measures to protect Kollongpar and Namgaon area from the erosion of river Kollong, RETENDER",
+            "description": "A/E measures to protect Kollongpar and Namgaon area from the erosion of river Kollong, RETENDER",
+            "datePublished": "26-Dec-2023 06:50 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "5,99,97,282",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

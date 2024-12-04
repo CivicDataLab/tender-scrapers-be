@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_29365_16",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Mar-2023 02:00 PM",
+    "tenderValueAmount": "88,52,575",
+    "tender": [
+        {
+            "id": "2023_BoTC_29365_16",
+            "title": "Suresh bund FIS (Canal System) under PMKSY_HKKP for the year 2021-22",
+            "description": "Suresh bund FIS (Canal System) under PMKSY_HKKP for the year 2021-22",
+            "datePublished": "17-Feb-2023 04:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "88,52,575",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Mar-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36909_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Mar-2024 11:30 AM",
+    "tenderValueAmount": "1,32,07,341",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36909_1",
+            "title": "Construction of Lift Well (6 nos. of passengers at each Block-A, B, C, D and Transit Camp Building at Senior Officers Colony, Khanapara, Guwahati",
+            "description": "Construction of Lift Well (6 nos. of passengers at each Block-A, B, C, D and Transit Camp Building at Senior Officers Colony, Khanapara, Guwahati",
+            "datePublished": "05-Mar-2024 01:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,32,07,341",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Mar-2024 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

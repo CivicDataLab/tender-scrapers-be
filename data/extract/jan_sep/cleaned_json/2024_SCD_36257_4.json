@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_SCD_36257_4",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Mar-2024 12:00 PM",
+    "tenderValueAmount": "59,50,000",
+    "tender": [
+        {
+            "id": "2024_SCD_36257_4",
+            "title": "BENUA DARA WATER HARVESTING CUM WATER DISTRIBUTION PROJECT AT BANDORMATHA GOALPARA under RIDF -XXIX",
+            "description": "BENUA DARA WATER HARVESTING CUM WATER DISTRIBUTION PROJECT AT BANDORMATHA GOALPARA under RIDF -XXIX",
+            "datePublished": "14-Feb-2024 12:40 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "59,50,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Mar-2024 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

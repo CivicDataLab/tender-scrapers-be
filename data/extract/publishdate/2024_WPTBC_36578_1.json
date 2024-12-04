@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_WPTBC_36578_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Mar-2024 04:00 PM",
+    "tenderValueAmount": "1,63,00,000",
+    "tender": [
+        {
+            "id": "2024_WPTBC_36578_1",
+            "title": "Construction of Outdoor Stadium at Burgaon Secondary School Field at Jagirod LAC Dist Morigaon",
+            "description": "Construction of Outdoor Stadium at Burgaon Secondary School Field at Jagirod LAC Dist Morigaon",
+            "datePublished": "23-Feb-2024 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,63,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Mar-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

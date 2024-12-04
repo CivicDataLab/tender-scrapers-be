@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_33254_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Jan-2024 03:00 PM",
+    "tenderValueAmount": "7,89,81,915",
+    "tender": [
+        {
+            "id": "2023_DoWR_33254_2",
+            "title": "Protection of Kokilamari Soniboria Bazar area of B/dyke from Laibeel to Tengapani from the erosion of river Brahmaputra, RETENDER.",
+            "description": "Protection of Kokilamari Soniboria Bazar area of B/dyke from Laibeel to Tengapani from the erosion of river Brahmaputra, RETENDER.",
+            "datePublished": "08-Jan-2024 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "7,89,81,915",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

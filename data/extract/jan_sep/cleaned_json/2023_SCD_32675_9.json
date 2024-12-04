@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_SCD_32675_9",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 11:00 AM",
+    "tenderValueAmount": "89,52,995",
+    "tender": [
+        {
+            "id": "2023_SCD_32675_9",
+            "title": "Sapora Chuburi Water Harvesting cum Land Development Project under RIDF-XXVIII for 2022-23",
+            "description": "Sapora Chuburi Water Harvesting cum Land Development Project under RIDF-XXVIII for 2022-23",
+            "datePublished": "27-Sep-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "89,52,995",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

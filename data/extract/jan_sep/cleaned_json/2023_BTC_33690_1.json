@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33690_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Nov-2023 12:00 PM",
+    "tenderValueAmount": "2,45,87,986",
+    "tender": [
+        {
+            "id": "2023_BTC_33690_1",
+            "title": "Construction of CC block road from Nalapara L.P. School to Rajagarh via Jaruabasti under CMs Goodwill Mission Project for the financial year 2023-24 of District Udalguri (33. Nonwi Serfang) (Non ST). (TN_26_135)",
+            "description": "Construction of CC block road from Nalapara L.P. School to Rajagarh via Jaruabasti under CMs Goodwill Mission Project for the financial year 2023-24 of District Udalguri (33. Nonwi Serfang) (Non ST). (TN_26_135)",
+            "datePublished": "08-Nov-2023 02:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,45,87,986",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

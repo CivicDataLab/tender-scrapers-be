@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34352_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "22-Dec-2023 12:30 PM",
+    "tenderValueAmount": "23,07,678",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34352_1",
+            "title": "Installation of deep tube well at Judicial Officers complex at Chandmari, Guwahati-3 (Providing a deep tube well including pipe line, dismantling and re-construction of boundary wall and providing water filter media resin change)",
+            "description": "Installation of deep tube well at Judicial Officers complex at Chandmari, Guwahati-3 (Providing a deep tube well including pipe line, dismantling and re-construction of boundary wall and providing water filter media resin change)",
+            "datePublished": "02-Dec-2023 09:00 AM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "23,07,678",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "22-Dec-2023 12:30 PM"
+                }
+            ]
+        }
+    ]
+}

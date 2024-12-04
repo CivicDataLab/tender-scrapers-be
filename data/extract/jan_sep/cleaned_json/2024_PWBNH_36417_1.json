@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36417_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Mar-2024 04:00 PM",
+    "tenderValueAmount": "4,85,43,820",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36417_1",
+            "title": "Infrastructure Development of Cachar District Stadium Phase I under Untied Fund 2022 23",
+            "description": "Infrastructure Development of Cachar District Stadium Phase I under Untied Fund 2022 23",
+            "datePublished": "19-Feb-2024 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,85,43,820",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Mar-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

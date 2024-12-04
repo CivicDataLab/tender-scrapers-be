@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PCCF_35499_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Feb-2024 12:00 PM",
+    "tenderValueAmount": "70,92,470",
+    "tender": [
+        {
+            "id": "2024_PCCF_35499_1",
+            "title": "Supply fitting fixing of 103 Hect AR Plantation at Kalakhal full chainlink goat proof fencing to be fitted on precast RCC Pillars",
+            "description": "Supply fitting fixing of 103 Hect AR Plantation at Kalakhal full chainlink goat proof fencing to be fitted on precast RCC Pillars",
+            "datePublished": "16-Jan-2024 05:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "70,92,470",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Feb-2024 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

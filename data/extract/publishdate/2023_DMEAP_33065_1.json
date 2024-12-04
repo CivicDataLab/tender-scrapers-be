@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DMEAP_33065_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "14-Nov-2023 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_DMEAP_33065_1",
+            "title": "Hiring of Fully Furnished Office Space for Assam State Disaster Management Authority",
+            "description": "Hiring of Fully Furnished Office Space for Assam State Disaster Management Authority",
+            "datePublished": "16-Oct-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "14-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

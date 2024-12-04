@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_KAAC_27085_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "14-Oct-2022 02:00 PM",
+    "tenderValueAmount": "17,58,88,600",
+    "tender": [
+        {
+            "id": "2022_KAAC_27085_1",
+            "title": "Construction of RCC Bridge no 3/1 on the Road NH 39 Silonijan state Dispencery to Dhansiri par ghat via Panikabasti iincluding approach) under NESIDS for the year 2021-22",
+            "description": "Construction of RCC Bridge no 3/1 on the Road NH 39 Silonijan state Dispencery to Dhansiri par ghat via Panikabasti iincluding approach) under NESIDS for the year 2021-22",
+            "datePublished": "26-Sep-2022 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "17,58,88,600",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "14-Oct-2022 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

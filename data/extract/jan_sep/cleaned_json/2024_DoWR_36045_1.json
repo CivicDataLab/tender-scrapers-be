@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_36045_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "15-Feb-2024 03:00 PM",
+    "tenderValueAmount": "1,90,16,384",
+    "tender": [
+        {
+            "id": "2024_DoWR_36045_1",
+            "title": "Anti erosion (A/E) measures to protect Nonoi river on its L/B at Namjalah village.",
+            "description": "Anti erosion (A/E) measures to protect Nonoi river on its L/B at Namjalah village.",
+            "datePublished": "08-Feb-2024 09:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,90,16,384",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_38286_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "16-Aug-2024 02:00 PM",
+    "tenderValueAmount": "50,00,000",
+    "tender": [
+        {
+            "id": "2024_BTC_38286_1",
+            "title": "Construction of Sarania Kachari Bhawan at Naokata under Grants to BTC for Infrastructure Dev. Fund for the year 2023-24. (TN_90_30_R2)",
+            "description": "Construction of Sarania Kachari Bhawan at Naokata under Grants to BTC for Infrastructure Dev. Fund for the year 2023-24. (TN_90_30_R2)",
+            "datePublished": "01-Aug-2024 09:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "50,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Aug-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

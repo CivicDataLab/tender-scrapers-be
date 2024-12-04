@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWRDW_32606_4",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "20-Oct-2023 02:35 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_PWRDW_32606_4",
+            "title": "Construction of Bridge in Lakhimpur district i) Br. No. 1/1 on Road from Gorsinga Salmora Bazaar Road to Tatiamora",
+            "description": "Construction of Bridge in Lakhimpur district i) Br. No. 1/1 on Road from Gorsinga Salmora Bazaar Road to Tatiamora",
+            "datePublished": "21-Sep-2023 04:15 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Oct-2023 02:35 PM"
+                }
+            ]
+        }
+    ]
+}

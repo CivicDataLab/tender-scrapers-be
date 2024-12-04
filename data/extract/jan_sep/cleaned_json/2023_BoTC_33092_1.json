@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_33092_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "09-Nov-2023 02:00 PM",
+    "tenderValueAmount": "30,34,72,714",
+    "tender": [
+        {
+            "id": "2023_BoTC_33092_1",
+            "title": "Construction of Damra FIS under PMKSY (HKKP) for the year 2021- 2022",
+            "description": "Construction of Damra FIS under PMKSY (HKKP) for the year 2021- 2022",
+            "datePublished": "16-Oct-2023 03:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "30,34,72,714",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

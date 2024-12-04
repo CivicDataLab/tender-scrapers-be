@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWRDW_32425_4",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Oct-2023 02:30 PM",
+    "tenderValueAmount": "2,93,75,000",
+    "tender": [
+        {
+            "id": "2023_PWRDW_32425_4",
+            "title": "Construction of Bridge in Kamrup district i) Br. No. 1/1 on Bangsor Milanpur Kulhati Road",
+            "description": "Construction of Bridge in Kamrup district i) Br. No. 1/1 on Bangsor Milanpur Kulhati Road",
+            "datePublished": "09-Sep-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,93,75,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Oct-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

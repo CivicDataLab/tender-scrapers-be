@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_60",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "1,54,04,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_60",
+            "title": "MMNPPNA_23_24_48 (i) Construction of road from CH.R.N Road to Goreswar 30 Bedded Hospital via Goreswar College Road (Ch 0.00 M to 500.00 M) at Ward No-3 as Gaurab Path (ii) Construction of RCC Slab Culvert and CC Drain at starting point of Rangia",
+            "description": "MMNPPNA_23_24_48 (i) Construction of road from CH.R.N Road to Goreswar 30 Bedded Hospital via Goreswar College Road (Ch 0.00 M to 500.00 M) at Ward No-3 as Gaurab Path (ii) Construction of RCC Slab Culvert and CC Drain at starting point of Rangia",
+            "datePublished": "02-Oct-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,54,04,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

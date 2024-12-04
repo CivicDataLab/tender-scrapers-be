@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_37803_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jul-2024 02:00 PM",
+    "tenderValueAmount": "26,54,000",
+    "tender": [
+        {
+            "id": "2024_PWD_37803_1",
+            "title": "Provide GSB hard shoulder, painting of guard wall and providing, flexible median marke over guard post at Rangmahal Bund Road at Athgaon Rangmahal under SOPD G for the year 2023 24",
+            "description": "Provide GSB hard shoulder, painting of guard wall and providing, flexible median marke over guard post at Rangmahal Bund Road at Athgaon Rangmahal under SOPD G for the year 2023 24",
+            "datePublished": "29-Jun-2024 04:10 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "26,54,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jul-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

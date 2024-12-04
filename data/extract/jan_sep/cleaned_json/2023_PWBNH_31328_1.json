@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_31328_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Jun-2023 03:00 PM",
+    "tenderValueAmount": "68,91,009",
+    "tender": [
+        {
+            "id": "2023_PWBNH_31328_1",
+            "title": "Installation of Medical Gas Generation Plant at AMCH Dibrugarh",
+            "description": "Installation of Medical Gas Generation Plant at AMCH Dibrugarh",
+            "datePublished": "22-Jun-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "68,91,009",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Jun-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

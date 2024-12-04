@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_WPTBC_35731_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 03:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_WPTBC_35731_1",
+            "title": "Construction of Classroom building at Anirudhadev Bahgora Deuri H.S. School under Bihpuria LAC, Dist- Lakhimpur.",
+            "description": "Construction of Classroom building at Anirudhadev Bahgora Deuri H.S. School under Bihpuria LAC, Dist- Lakhimpur.",
+            "datePublished": "26-Jan-2024 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

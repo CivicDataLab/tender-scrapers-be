@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35115_55",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:30 PM",
+    "tenderValueAmount": "2,15,03,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35115_55",
+            "title": "MMPPNA_23_24_39, Improvement of Bishnu Nagar Drain, Haripada Das Road Naliapool, Nandanpur Road, Chiring Chapori, Nij Mancotta Byelane no 2. Old Peasse Cottage Road, Seujpur Byelaen no-5 and Ushapur Rond, 2.Construction of Amolapatty Eidgah Road",
+            "description": "MMPPNA_23_24_39, Improvement of Bishnu Nagar Drain, Haripada Das Road Naliapool, Nandanpur Road, Chiring Chapori, Nij Mancotta Byelane no 2. Old Peasse Cottage Road, Seujpur Byelaen no-5 and Ushapur Rond, 2.Construction of Amolapatty Eidgah Road",
+            "datePublished": "03-Jan-2024 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,15,03,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

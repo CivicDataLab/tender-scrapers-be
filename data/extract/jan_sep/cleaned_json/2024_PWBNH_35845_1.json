@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35845_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "15-Feb-2024 03:00 PM",
+    "tenderValueAmount": "71,85,658",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35845_1",
+            "title": "Repairing Renovation of Adarsha Vidyalaya Mandia in Barpeta District",
+            "description": "Repairing Renovation of Adarsha Vidyalaya Mandia in Barpeta District",
+            "datePublished": "01-Feb-2024 04:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "71,85,658",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

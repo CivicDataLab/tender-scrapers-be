@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_WPTBC_37168_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "15-Mar-2024 04:00 PM",
+    "tenderValueAmount": "50,00,000",
+    "tender": [
+        {
+            "id": "2024_WPTBC_37168_1",
+            "title": "Construction of Additional Classroom at Uttar Betna High School at Maharipara, 2 No. Rowmari, Rangia LAC, Kamrup District",
+            "description": "Construction of Additional Classroom at Uttar Betna High School at Maharipara, 2 No. Rowmari, Rangia LAC, Kamrup District",
+            "datePublished": "13-Mar-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "50,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Mar-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ID_34113_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "14-Dec-2023 03:00 PM",
+    "tenderValueAmount": "5,88,71,787",
+    "tender": [
+        {
+            "id": "2023_ID_34113_2",
+            "title": "LIS FROM RIVER LONGAI KALACHERRA SHINGLACHERRA AND KAMUMAICHERRA 9 PTS UNDER PMKSY_HKKP-SMI FOR THE YEAR 2022_23 UNDER RATABARI PATHARKANDI DIV I PATHARKANDI PACKAGE NO 2",
+            "description": "LIS FROM RIVER LONGAI KALACHERRA SHINGLACHERRA AND KAMUMAICHERRA 9 PTS UNDER PMKSY_HKKP-SMI FOR THE YEAR 2022_23 UNDER RATABARI PATHARKANDI DIV I PATHARKANDI PACKAGE NO 2",
+            "datePublished": "21-Nov-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "5,88,71,787",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "14-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

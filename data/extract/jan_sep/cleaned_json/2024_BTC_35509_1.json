@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_35509_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Feb-2024 04:00 PM",
+    "tenderValueAmount": "24,99,998",
+    "tender": [
+        {
+            "id": "2024_BTC_35509_1",
+            "title": "Const. of RCC Slab Culvert at Dakhin Kalikhola near Ratan Das house under SOPD (PWD), BTC for the year 2023-24. (TN_61_3)",
+            "description": "Const. of RCC Slab Culvert at Dakhin Kalikhola near Ratan Das house under SOPD (PWD), BTC for the year 2023-24. (TN_61_3)",
+            "datePublished": "17-Jan-2024 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,99,998",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Feb-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

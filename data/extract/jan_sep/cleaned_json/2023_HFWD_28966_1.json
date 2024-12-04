@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_HFWD_28966_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "21-Feb-2023 04:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_HFWD_28966_1",
+            "title": "Supply of Essential Drugs",
+            "description": "Supply of Essential Drugs",
+            "datePublished": "21-Jan-2023 01:00 PM",
+            "contractType": "Fixed-rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Feb-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

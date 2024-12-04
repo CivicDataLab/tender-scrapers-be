@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_NHM_31184_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Jul-2023 03:30 PM",
+    "tenderValueAmount": "50,00,000",
+    "tender": [
+        {
+            "id": "2023_NHM_31184_3",
+            "title": "Construction of 7 nos. of BPHU in various district of Assam under FC-XV for FY 2022-23 Gr-3 at Dharmasala PHC in Dhubri district",
+            "description": "Construction of 7 nos. of BPHU in various district of Assam under FC-XV for FY 2022-23 Gr-3 at Dharmasala PHC in Dhubri district",
+            "datePublished": "14-Jun-2023 09:00 AM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "50,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Jul-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

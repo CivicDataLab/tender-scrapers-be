@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33170_54",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Nov-2023 02:00 PM",
+    "tenderValueAmount": "12,48,53,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33170_54",
+            "title": "MMUPPNA_RIDF_XXIX_23_24_31 Improvement of (1) NH-15 at Sirajuli to Sopai Pathar Road from Ch. 5280m to 16180m (2) Kehrukhunda to Nagapathar Road under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD for the year 2023-24",
+            "description": "MMUPPNA_RIDF_XXIX_23_24_31 Improvement of (1) NH-15 at Sirajuli to Sopai Pathar Road from Ch. 5280m to 16180m (2) Kehrukhunda to Nagapathar Road under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD for the year 2023-24",
+            "datePublished": "25-Oct-2023 12:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "12,48,53,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

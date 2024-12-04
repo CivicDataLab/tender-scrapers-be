@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PCCF_37555_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Jul-2024 04:00 PM",
+    "tenderValueAmount": "24,39,450",
+    "tender": [
+        {
+            "id": "2024_PCCF_37555_2",
+            "title": "Creation and Maintenance of Institutional Single",
+            "description": "Creation and Maintenance of Institutional Single",
+            "datePublished": "11-Jun-2024 04:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,39,450",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Jul-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

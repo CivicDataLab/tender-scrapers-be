@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33081_9",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Nov-2023 02:00 PM",
+    "tenderValueAmount": "2,21,42,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33081_9",
+            "title": "MMNPPNA_23_24_251 (i) Construction of road from Jilikoni Chowk to Eye Hospital, (ii)Construction of road from NH-31 to Jyotish Malakar House, (iii)Construction of road from NH-31 to Sandha Railway Gate via Koirara, (iv)Construction of RCC Covered Dra",
+            "description": "MMNPPNA_23_24_251 (i) Construction of road from Jilikoni Chowk to Eye Hospital, (ii)Construction of road from NH-31 to Jyotish Malakar House, (iii)Construction of road from NH-31 to Sandha Railway Gate via Koirara, (iv)Construction of RCC Covered Dra",
+            "datePublished": "17-Oct-2023 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,21,42,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

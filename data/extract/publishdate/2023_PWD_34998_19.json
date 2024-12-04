@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34998_19",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:00 PM",
+    "tenderValueAmount": "3,84,15,000",
+    "tender": [
+        {
+            "id": "2023_PWD_34998_19",
+            "title": "RIDF_XXIX_23_24_106 Construction of road from PHG Path to Molaikumar Ali via Dayangial Gowalgaon and Kamargaon Bornamghar (Ch. 0.00m to 5130.00m) under RIDF-XXIX of NABARD for the year 2023-24",
+            "description": "RIDF_XXIX_23_24_106 Construction of road from PHG Path to Molaikumar Ali via Dayangial Gowalgaon and Kamargaon Bornamghar (Ch. 0.00m to 5130.00m) under RIDF-XXIX of NABARD for the year 2023-24",
+            "datePublished": "28-Dec-2023 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,84,15,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

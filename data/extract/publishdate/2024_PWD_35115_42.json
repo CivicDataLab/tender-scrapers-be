@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35115_42",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:30 PM",
+    "tenderValueAmount": "2,74,61,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35115_42",
+            "title": "MMPPNA_23_24_36 1. Construction of Jodumoni Path (Ch. 0.00 m to Ch. 410.00m), Bura Buri Than Road (Ch. 0.00 m to Ch. 150.00m), Mufizzudin Ahmead Hazarika Path (Ch. 0.00m to Ch. 101.00m), Sonowal Path (Ch. 0.00 m to Ch. 160.00 m), Gandhii Path (Ch.",
+            "description": "MMPPNA_23_24_36 1. Construction of Jodumoni Path (Ch. 0.00 m to Ch. 410.00m), Bura Buri Than Road (Ch. 0.00 m to Ch. 150.00m), Mufizzudin Ahmead Hazarika Path (Ch. 0.00m to Ch. 101.00m), Sonowal Path (Ch. 0.00 m to Ch. 160.00 m), Gandhii Path (Ch.",
+            "datePublished": "02-Jan-2024 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,74,61,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

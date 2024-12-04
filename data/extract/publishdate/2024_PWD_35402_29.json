@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_29",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "3,89,35,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_29",
+            "title": "MMPPNA_23_24_307 (1)Construction of Road from Kanaibazar Eraligool PWD road to Anipur PWD road via Chararpar, (2)Construction of road from Kayasthagram to South Kanakpur via Dauribari, (3)Construction of road from Nh-8 at baroigram to eraligool PWD",
+            "description": "MMPPNA_23_24_307 (1)Construction of Road from Kanaibazar Eraligool PWD road to Anipur PWD road via Chararpar, (2)Construction of road from Kayasthagram to South Kanakpur via Dauribari, (3)Construction of road from Nh-8 at baroigram to eraligool PWD",
+            "datePublished": "16-Jan-2024 03:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,89,35,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

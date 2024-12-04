@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32241_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "21-Sep-2023 11:00 AM",
+    "tenderValueAmount": "6,11,03,500",
+    "tender": [
+        {
+            "id": "2023_PWD_32241_1",
+            "title": "Construction of RCC Br. No. 5/1 including both side approaches and protection work over River Bhogdoi at Ajaronighat on Pulibor Tiniali to Sarucharai Gharfolia road under Jorhat, Dergaon and Titabor Territorial Road Division in 97 Dergaon LAC for the",
+            "description": "Construction of RCC Br. No. 5/1 including both side approaches and protection work over River Bhogdoi at Ajaronighat on Pulibor Tiniali to Sarucharai Gharfolia road under Jorhat, Dergaon and Titabor Territorial Road Division in 97 Dergaon LAC for the",
+            "datePublished": "26-Aug-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "6,11,03,500",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Sep-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

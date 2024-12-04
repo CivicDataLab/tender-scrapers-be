@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_35004_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "19-Jan-2024 02:00 PM",
+    "tenderValueAmount": "11,22,27,361",
+    "tender": [
+        {
+            "id": "2023_PWBNH_35004_1",
+            "title": "Construction of 400 M Running Track, Indoor Stadium, Pavilion, Gallary and Earth filling of Raising Low site at Sorbhog Stadium under Sorbhog LAC in Barpeta District for the year 2023-24(Phase-I)",
+            "description": "Construction of 400 M Running Track, Indoor Stadium, Pavilion, Gallary and Earth filling of Raising Low site at Sorbhog Stadium under Sorbhog LAC in Barpeta District for the year 2023-24(Phase-I)",
+            "datePublished": "28-Dec-2023 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "11,22,27,361",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "19-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

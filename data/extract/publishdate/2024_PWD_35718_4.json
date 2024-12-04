@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35718_4",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Feb-2024 02:00 PM",
+    "tenderValueAmount": "4,07,25,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35718_4",
+            "title": "MMPPNA_23_24_20 1. Construction of road from NH-15 at Saru Kathoni (Shiv Mandir) to Hawajan Arimora Road Ch. 0.00m to 1450.00m (L 1.45km),2.Construction of Puthimari Bridge to Bothakhana Road Ch. 2000.00m to 3500.00m (L 1.50km), 3.Construction of roa",
+            "description": "MMPPNA_23_24_20 1. Construction of road from NH-15 at Saru Kathoni (Shiv Mandir) to Hawajan Arimora Road Ch. 0.00m to 1450.00m (L 1.45km),2.Construction of Puthimari Bridge to Bothakhana Road Ch. 2000.00m to 3500.00m (L 1.50km), 3.Construction of roa",
+            "datePublished": "25-Jan-2024 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,07,25,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_38014_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Aug-2024 03:00 PM",
+    "tenderValueAmount": "95,23,787",
+    "tender": [
+        {
+            "id": "2024_BTC_38014_1",
+            "title": "Infrastructure Development of Kalaguru Bishnu Rabha Jr. College, Orang in Udalguri District. (TN_03_1)",
+            "description": "Infrastructure Development of Kalaguru Bishnu Rabha Jr. College, Orang in Udalguri District. (TN_03_1)",
+            "datePublished": "15-Jul-2024 02:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "95,23,787",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Aug-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

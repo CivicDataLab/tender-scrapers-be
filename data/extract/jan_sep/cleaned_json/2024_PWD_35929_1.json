@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35929_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Feb-2024 02:30 PM",
+    "tenderValueAmount": "5,66,71,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35929_1",
+            "title": "Reyaz Saloon to Borsola beel-2nd time Re-Bid",
+            "description": "Reyaz Saloon to Borsola beel-2nd time Re-Bid",
+            "datePublished": "05-Feb-2024 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "5,66,71,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Feb-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

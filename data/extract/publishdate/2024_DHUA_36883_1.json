@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DHUA_36883_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Mar-2024 03:00 PM",
+    "tenderValueAmount": "1,74,26,000",
+    "tender": [
+        {
+            "id": "2024_DHUA_36883_1",
+            "title": "Barpathar Park at Barpathar, Dist. Golaghat under UIDF FY 23-24",
+            "description": "Barpathar Park at Barpathar, Dist. Golaghat under UIDF FY 23-24",
+            "datePublished": "04-Mar-2024 02:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,74,26,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

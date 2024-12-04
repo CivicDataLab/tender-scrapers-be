@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,86,72,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_2",
+            "title": "MMNPPNA_23_24_03 (i) Construction of Gokul Pathak approach road to Modhai Ata path at Ward No. 20 (for Pt-1 Ch-0.00 m to Ch-420.00 M For pt-2 ( Ch-0.00 m to Ch-120.00 M)) (ii) Strengthening of Koliram path at Ward No.10( Ch-0.00 m to Ch-.630 M)",
+            "description": "MMNPPNA_23_24_03 (i) Construction of Gokul Pathak approach road to Modhai Ata path at Ward No. 20 (for Pt-1 Ch-0.00 m to Ch-420.00 M For pt-2 ( Ch-0.00 m to Ch-120.00 M)) (ii) Strengthening of Koliram path at Ward No.10( Ch-0.00 m to Ch-.630 M)",
+            "datePublished": "27-Sep-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,86,72,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

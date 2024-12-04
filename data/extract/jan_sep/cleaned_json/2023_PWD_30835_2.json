@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_30835_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-May-2023 11:00 AM",
+    "tenderValueAmount": "2,30,91,000",
+    "tender": [
+        {
+            "id": "2023_PWD_30835_2",
+            "title": "Construction of D.K road to Nabahatia to Belguri via Kuloi Pathar (From Ch. 0.00 m to Ch. 1450.00 m and Ch. 1732.00 m to Ch. 2932.00 m) under SOPD-SCSP for the year 2022-23, Jagiroad LAC",
+            "description": "Construction of D.K road to Nabahatia to Belguri via Kuloi Pathar (From Ch. 0.00 m to Ch. 1450.00 m and Ch. 1732.00 m to Ch. 2932.00 m) under SOPD-SCSP for the year 2022-23, Jagiroad LAC",
+            "datePublished": "16-May-2023 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,30,91,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-May-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

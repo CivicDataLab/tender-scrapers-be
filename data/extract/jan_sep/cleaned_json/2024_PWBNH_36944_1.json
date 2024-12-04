@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36944_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Mar-2024 12:00 PM",
+    "tenderValueAmount": "95,23,823",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36944_1",
+            "title": "Construction of Hostel Building of Uttar Purvanchal Janajati Seva Samity at Gouria Math, Karimganj. Gr.I",
+            "description": "Construction of Hostel Building of Uttar Purvanchal Janajati Seva Samity at Gouria Math, Karimganj. Gr.I",
+            "datePublished": "06-Mar-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "95,23,823",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Mar-2024 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

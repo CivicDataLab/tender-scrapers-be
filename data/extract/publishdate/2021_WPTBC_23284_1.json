@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2021_WPTBC_23284_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2021-2022",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Dec-2021 03:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2021_WPTBC_23284_1",
+            "title": "Construction of Santipur (Murabari) community hall cum Auditorium hall with modern facilities in Kokrajhar District (Part-1) under infrastructure Dev in ITDP and outside ITDP areas during 2020-21",
+            "description": "Construction of Santipur (Murabari) community hall cum Auditorium hall with modern facilities in Kokrajhar District (Part-1) under infrastructure Dev in ITDP and outside ITDP areas during 2020-21",
+            "datePublished": "02-Nov-2021 02:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Dec-2021 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

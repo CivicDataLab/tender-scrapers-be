@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36753_4",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Mar-2024 02:00 PM",
+    "tenderValueAmount": "1,97,11,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36753_4",
+            "title": "MMPPNA_23_24_133 1. Construction of Joloha Harizan Ali from Ch 0.00m to Ch 1750.00m, L1.75 km , 2.Construction of Madhya Chatianaguri Road (From Ch 0.00m to Ch 1170.00m, L 1.17 km) under Mukhya Mantrir Pakipath Nirman Achani for the year 2023-24",
+            "description": "MMPPNA_23_24_133 1. Construction of Joloha Harizan Ali from Ch 0.00m to Ch 1750.00m, L1.75 km , 2.Construction of Madhya Chatianaguri Road (From Ch 0.00m to Ch 1170.00m, L 1.17 km) under Mukhya Mantrir Pakipath Nirman Achani for the year 2023-24",
+            "datePublished": "29-Feb-2024 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,97,11,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

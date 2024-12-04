@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36363_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "20-Mar-2024 02:00 PM",
+    "tenderValueAmount": "63,33,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36363_2",
+            "title": "SOPD_ODS_23_24_138 Improvement of Tea Garden Roads at Deroi T.E. (Diksam Division) (Ch. 0.00m to 1100.00m) under SOPD-ODS (Tea Garden Road) for the year 2023-24.",
+            "description": "SOPD_ODS_23_24_138 Improvement of Tea Garden Roads at Deroi T.E. (Diksam Division) (Ch. 0.00m to 1100.00m) under SOPD-ODS (Tea Garden Road) for the year 2023-24.",
+            "datePublished": "19-Feb-2024 03:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "63,33,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

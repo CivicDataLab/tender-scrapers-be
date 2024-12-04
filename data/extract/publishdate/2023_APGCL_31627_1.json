@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_APGCL_31627_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Aug-2023 03:00 PM",
+    "tenderValueAmount": "21,61,872",
+    "tender": [
+        {
+            "id": "2023_APGCL_31627_1",
+            "title": "LTPSMS building wall",
+            "description": "LTPSMS building wall",
+            "datePublished": "11-Jul-2023 06:00 PM",
+            "contractType": "Tender cum Auction",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "21,61,872",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Aug-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

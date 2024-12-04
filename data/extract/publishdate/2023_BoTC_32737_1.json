@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_32737_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 02:30 PM",
+    "tenderValueAmount": "19,04,754",
+    "tender": [
+        {
+            "id": "2023_BoTC_32737_1",
+            "title": "Const of Boundary wall at Sonai Pastorate Community Hall under 15th FC Fund for the financial year 2022-23.",
+            "description": "Const of Boundary wall at Sonai Pastorate Community Hall under 15th FC Fund for the financial year 2022-23.",
+            "datePublished": "03-Oct-2023 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "19,04,754",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

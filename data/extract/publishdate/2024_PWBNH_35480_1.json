@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_35480_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "20-Jan-2024 10:00 AM",
+    "tenderValueAmount": "1,40,73,000",
+    "tender": [
+        {
+            "id": "2024_PWBNH_35480_1",
+            "title": "Jagannath Community and Skill Centre under Lahowal LAC at Romai T.E., (Sl. No. - 3)",
+            "description": "Jagannath Community and Skill Centre under Lahowal LAC at Romai T.E., (Sl. No. - 3)",
+            "datePublished": "13-Jan-2024 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,40,73,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Jan-2024 10:00 AM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34441_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Dec-2023 11:30 AM",
+    "tenderValueAmount": "24,33,099",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34441_1",
+            "title": "Repairing and renovation works of Bunglow No.7 of Gauhati High Court at Kharguli, Guwahati",
+            "description": "Repairing and renovation works of Bunglow No.7 of Gauhati High Court at Kharguli, Guwahati",
+            "datePublished": "07-Dec-2023 12:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,33,099",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Dec-2023 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

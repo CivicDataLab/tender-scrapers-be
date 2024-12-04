@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_NRC_33499_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "14-Nov-2023 04:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_NRC_33499_1",
+            "title": "OPERATIONS AND MAINTENANCE FOR THE NRC PROJECT, ASSAM",
+            "description": "OPERATIONS AND MAINTENANCE FOR THE NRC PROJECT, ASSAM",
+            "datePublished": "03-Nov-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "14-Nov-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

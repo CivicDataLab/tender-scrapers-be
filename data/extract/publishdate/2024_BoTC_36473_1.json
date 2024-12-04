@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_36473_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Mar-2024 03:30 PM",
+    "tenderValueAmount": "99,92,004",
+    "tender": [
+        {
+            "id": "2024_BoTC_36473_1",
+            "title": "Digital / Smart Class for 8 Nos. Class Room, Auditorium Equipment, Chairs, Accessories and Power Supply System at Khoirabari College",
+            "description": "Digital / Smart Class for 8 Nos. Class Room, Auditorium Equipment, Chairs, Accessories and Power Supply System at Khoirabari College",
+            "datePublished": "21-Feb-2024 03:00 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "99,92,004",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Mar-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

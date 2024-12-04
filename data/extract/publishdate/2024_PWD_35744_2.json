@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35744_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 02:00 PM",
+    "tenderValueAmount": "2,48,75,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35744_2",
+            "title": "SOPD_ODS_23_24_104 Construction of Road starting from 1) Adamtilla PWD Road (Near Adamtilla Football Field) to Sultanitilla 2) Baithakhal Shiv Mandir Tiwpra Punjee Road 3) Bubrighat BADP Road to Durbintilla 4) Chandkhira CMs Package Road to Notuntil",
+            "description": "SOPD_ODS_23_24_104 Construction of Road starting from 1) Adamtilla PWD Road (Near Adamtilla Football Field) to Sultanitilla 2) Baithakhal Shiv Mandir Tiwpra Punjee Road 3) Bubrighat BADP Road to Durbintilla 4) Chandkhira CMs Package Road to Notuntil",
+            "datePublished": "27-Jan-2024 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,48,75,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

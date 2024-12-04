@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35822_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Feb-2024 02:00 PM",
+    "tenderValueAmount": "4,12,67,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35822_3",
+            "title": "SOPD_G_23_24_49 (1)Periodic Renewal to Road from NH-61 to Kopahtoli Missing Gaon connecting road from Ch. 0.00 m to Ch. 2500.00 m (L2.500 km), (2) Construction of Lahdoigarh Road to Mehgarh Road connecting road from Ch. 0.00 m to Ch. 1400.00 m,",
+            "description": "SOPD_G_23_24_49 (1)Periodic Renewal to Road from NH-61 to Kopahtoli Missing Gaon connecting road from Ch. 0.00 m to Ch. 2500.00 m (L2.500 km), (2) Construction of Lahdoigarh Road to Mehgarh Road connecting road from Ch. 0.00 m to Ch. 1400.00 m,",
+            "datePublished": "31-Jan-2024 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,12,67,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

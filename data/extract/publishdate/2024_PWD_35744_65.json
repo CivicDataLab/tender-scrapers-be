@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35744_65",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 02:00 PM",
+    "tenderValueAmount": "2,42,72,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35744_65",
+            "title": "SOPD_ODS_23_24_63 Construction of road in (i) Bokpara Tea Estate (Line no -9), (ii) Greewood Tea Estate (38no line), (iii) Maijan Tea Estate (Naharbari to Guti Line), (iv) Maijan Tea Estate (Rajgarh Borline), (v) Mankotta Tea Estate (Kasabari line)",
+            "description": "SOPD_ODS_23_24_63 Construction of road in (i) Bokpara Tea Estate (Line no -9), (ii) Greewood Tea Estate (38no line), (iii) Maijan Tea Estate (Naharbari to Guti Line), (iv) Maijan Tea Estate (Rajgarh Borline), (v) Mankotta Tea Estate (Kasabari line)",
+            "datePublished": "05-Feb-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,42,72,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_38072_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Aug-2024 12:30 PM",
+    "tenderValueAmount": "35,01,164",
+    "tender": [
+        {
+            "id": "2024_PWBNH_38072_1",
+            "title": "Construction of Boundary wall (Back side and Sandhya Building side at Lalita Building), Chandmari, Guwahati-3 under SOPD-ODS-V-GA for Fy 2023-24",
+            "description": "Construction of Boundary wall (Back side and Sandhya Building side at Lalita Building), Chandmari, Guwahati-3 under SOPD-ODS-V-GA for Fy 2023-24",
+            "datePublished": "18-Jul-2024 12:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "35,01,164",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Aug-2024 12:30 PM"
+                }
+            ]
+        }
+    ]
+}

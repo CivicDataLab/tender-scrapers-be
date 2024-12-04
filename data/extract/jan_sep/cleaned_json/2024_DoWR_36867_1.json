@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_36867_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Mar-2024 03:00 PM",
+    "tenderValueAmount": "1,49,99,906",
+    "tender": [
+        {
+            "id": "2024_DoWR_36867_1",
+            "title": "Protection of Bhotpara stadium on the R/Bank of river Dhirai.",
+            "description": "Protection of Bhotpara stadium on the R/Bank of river Dhirai.",
+            "datePublished": "04-Mar-2024 09:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,49,99,906",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

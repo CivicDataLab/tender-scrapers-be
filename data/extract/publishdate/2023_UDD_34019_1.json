@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_UDD_34019_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Dec-2023 11:30 AM",
+    "tenderValueAmount": "6,00,00,000",
+    "tender": [
+        {
+            "id": "2023_UDD_34019_1",
+            "title": "Establishment, construction, supply procurement, fabrication, erection of machineries, trial run and commissioning of Material Recovery Facility and Waste to Compost plant at North Lakhimpur as per SWM Rules 2016. Under SBM on Engineering, Procurem",
+            "description": "Establishment, construction, supply procurement, fabrication, erection of machineries, trial run and commissioning of Material Recovery Facility and Waste to Compost plant at North Lakhimpur as per SWM Rules 2016. Under SBM on Engineering, Procurem",
+            "datePublished": "17-Nov-2023 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "6,00,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Dec-2023 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

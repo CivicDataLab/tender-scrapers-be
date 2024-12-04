@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_34224_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "20-Dec-2023 02:30 PM",
+    "tenderValueAmount": "23,78,947",
+    "tender": [
+        {
+            "id": "2023_BoTC_34224_1",
+            "title": "Const of road with EF and SG from Duramari to Hekaipara joining road under 15th ASFC for the year 2023-24",
+            "description": "Const of road with EF and SG from Duramari to Hekaipara joining road under 15th ASFC for the year 2023-24",
+            "datePublished": "28-Nov-2023 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "23,78,947",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "20-Dec-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

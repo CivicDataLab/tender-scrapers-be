@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36438_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Mar-2024 02:00 PM",
+    "tenderValueAmount": "3,27,65,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36438_1",
+            "title": "MMPPNA_23_24_106 1.Construction of NH 15 to Aminpara Road from Ch 0.00 m to 1000.00 m, 2.Construction of Road from Rowta Station Road to Bajrajhar Road, 3.Construction of Road from Rowta Model Hospital to Balishia habi from Ch 0.00 m to",
+            "description": "MMPPNA_23_24_106 1.Construction of NH 15 to Aminpara Road from Ch 0.00 m to 1000.00 m, 2.Construction of Road from Rowta Station Road to Bajrajhar Road, 3.Construction of Road from Rowta Model Hospital to Balishia habi from Ch 0.00 m to",
+            "datePublished": "19-Feb-2024 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,27,65,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

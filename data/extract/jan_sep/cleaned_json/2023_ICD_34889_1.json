@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ICD_34889_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "08-Jan-2024 03:00 PM",
+    "tenderValueAmount": "1,14,20,415",
+    "tender": [
+        {
+            "id": "2023_ICD_34889_1",
+            "title": "IT Works of District Data Centres at Tinsukia, Jorhat, Sonitpur, Barpeta and Silchar (Cachar)",
+            "description": "IT Works of District Data Centres at Tinsukia, Jorhat, Sonitpur, Barpeta and Silchar (Cachar)",
+            "datePublished": "21-Dec-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "1,14,20,415",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35816_8",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Feb-2024 02:00 PM",
+    "tenderValueAmount": "63,59,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35816_8",
+            "title": "MMNPPNA_23_24_281 (i Strengthening of Jasodha Hall Road (ii) Construction of Backside Of RD College Road drain (iii) Strengthening of Lachit Nagar Road (iv) Strengthening of RG Main Road under Mukhya Mantrir Nagariya Pakipath Nirman Achani",
+            "description": "MMNPPNA_23_24_281 (i Strengthening of Jasodha Hall Road (ii) Construction of Backside Of RD College Road drain (iii) Strengthening of Lachit Nagar Road (iv) Strengthening of RG Main Road under Mukhya Mantrir Nagariya Pakipath Nirman Achani",
+            "datePublished": "31-Jan-2024 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "63,59,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

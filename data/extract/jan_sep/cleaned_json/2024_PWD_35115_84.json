@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35115_84",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:30 PM",
+    "tenderValueAmount": "4,13,64,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35115_84",
+            "title": "MMPPNA_23_24_91, Construction of Kharjan Nasatra to Bishnupur Road, 2. Construction of 1 No Phuloni gaon to Simoluguri Missing Gaon road, 3.Construction of Totoya Gaon Road, 4.Construction of Sriram Baligaon Tiniali to Teliabari Deori Tiniali via Nab",
+            "description": "MMPPNA_23_24_91, Construction of Kharjan Nasatra to Bishnupur Road, 2. Construction of 1 No Phuloni gaon to Simoluguri Missing Gaon road, 3.Construction of Totoya Gaon Road, 4.Construction of Sriram Baligaon Tiniali to Teliabari Deori Tiniali via Nab",
+            "datePublished": "03-Jan-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,13,64,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_37665_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jul-2024 10:00 AM",
+    "tenderValueAmount": "9,98,995",
+    "tender": [
+        {
+            "id": "2024_PWD_37665_3",
+            "title": "Rd Safety Measures (Cautionary Sign Boards, Road Studs, Road Markings, Speed Humps and Tree Cutting) for 3 Nos. of Roads under Glp West and Dudhnoi TR Division, Lakhipur for the year 2023-24 under Assam Road Safety Fund. Pkg. No. Rd.safety_GSSRC_04",
+            "description": "Rd Safety Measures (Cautionary Sign Boards, Road Studs, Road Markings, Speed Humps and Tree Cutting) for 3 Nos. of Roads under Glp West and Dudhnoi TR Division, Lakhipur for the year 2023-24 under Assam Road Safety Fund. Pkg. No. Rd.safety_GSSRC_04",
+            "datePublished": "20-Jun-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "9,98,995",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jul-2024 10:00 AM"
+                }
+            ]
+        }
+    ]
+}

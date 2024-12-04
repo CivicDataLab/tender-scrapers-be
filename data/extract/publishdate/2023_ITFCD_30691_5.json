@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ITFCD_30691_5",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-May-2023 12:00 PM",
+    "tenderValueAmount": "34,79,500",
+    "tender": [
+        {
+            "id": "2023_ITFCD_30691_5",
+            "title": "Protection, Preservation and Development of Archeological sites and monuments of Assam under SOPD-G for the year 2022-23, Group E",
+            "description": "Protection, Preservation and Development of Archeological sites and monuments of Assam under SOPD-G for the year 2022-23, Group E",
+            "datePublished": "04-May-2023 05:00 PM",
+            "contractType": "Percentage",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "34,79,500",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-May-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34368_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Dec-2023 03:10 PM",
+    "tenderValueAmount": "1,10,95,286",
+    "tender": [
+        {
+            "id": "2023_PWD_34368_1",
+            "title": "Repair and Rehabilitation of bridge located at Lowairpoa Rangamati Kanmun Road(Lowairpoa-Kanmun) at Ch.77.80 Km under Mukhya Mantrir Path Nabikaran Achani (MMPNA) for the year 2023-24",
+            "description": "Repair and Rehabilitation of bridge located at Lowairpoa Rangamati Kanmun Road(Lowairpoa-Kanmun) at Ch.77.80 Km under Mukhya Mantrir Path Nabikaran Achani (MMPNA) for the year 2023-24",
+            "datePublished": "04-Dec-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,10,95,286",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Dec-2023 03:10 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_36444_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Mar-2024 02:00 PM",
+    "tenderValueAmount": "99,99,673",
+    "tender": [
+        {
+            "id": "2024_BTC_36444_1",
+            "title": "Renovation of Gurudev Kalicharan Brahma Sewashram Phase-II at Parbatjhora, Kokrajhar. Const. of Boys and Girls Hostel. TN No.80_02",
+            "description": "Renovation of Gurudev Kalicharan Brahma Sewashram Phase-II at Parbatjhora, Kokrajhar. Const. of Boys and Girls Hostel. TN No.80_02",
+            "datePublished": "20-Feb-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "99,99,673",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

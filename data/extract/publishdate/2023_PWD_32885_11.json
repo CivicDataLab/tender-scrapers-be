@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32885_11",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 02:00 PM",
+    "tenderValueAmount": "1,00,00,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32885_11",
+            "title": "MMNPPNA_23_24_157 Improvement and Widening of Gaurav Path from Biswanath Traffic Police Point to Pavoi Road ( Ch.0.00 km to 0.230 Km) under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA) for the year 2023-24, Biswanath Chariali MB",
+            "description": "MMNPPNA_23_24_157 Improvement and Widening of Gaurav Path from Biswanath Traffic Police Point to Pavoi Road ( Ch.0.00 km to 0.230 Km) under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA) for the year 2023-24, Biswanath Chariali MB",
+            "datePublished": "09-Oct-2023 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,00,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

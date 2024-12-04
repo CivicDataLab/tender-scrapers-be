@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_31690_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Aug-2023 02:00 PM",
+    "tenderValueAmount": "87,55,90,192",
+    "tender": [
+        {
+            "id": "2023_PWBNH_31690_1",
+            "title": "Beautification of Rang-Ghar at Sivasagar, Assam on Engineering, Procurement and Construction (EPC) Mode-1 Basis",
+            "description": "Beautification of Rang-Ghar at Sivasagar, Assam on Engineering, Procurement and Construction (EPC) Mode-1 Basis",
+            "datePublished": "17-Jul-2023 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "87,55,90,192",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Aug-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

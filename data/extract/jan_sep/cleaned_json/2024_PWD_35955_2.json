@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35955_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Mar-2024 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_PWD_35955_2",
+            "title": "Electrical Utility Shifting for the work Improvement and Widening of Lokopriya Gopinath Bordoloi Road, SH-3B from Ch. 0.00 KM to 18.65 KM, Assam under NESIDS for the year 2021-22",
+            "description": "Electrical Utility Shifting for the work Improvement and Widening of Lokopriya Gopinath Bordoloi Road, SH-3B from Ch. 0.00 KM to 18.65 KM, Assam under NESIDS for the year 2021-22",
+            "datePublished": "02-Mar-2024 06:30 PM",
+            "contractType": "Lump-sum",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

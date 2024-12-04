@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_36094_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Mar-2024 02:00 PM",
+    "tenderValueAmount": "3,00,68,474",
+    "tender": [
+        {
+            "id": "2024_BTC_36094_1",
+            "title": "Construction of approach road from Khargaon Flyover Junction up-to the FCI approach road for resumption of construction works of 1500 MT Godown at Kokrajhar. Package No. TN No.72_01",
+            "description": "Construction of approach road from Khargaon Flyover Junction up-to the FCI approach road for resumption of construction works of 1500 MT Godown at Kokrajhar. Package No. TN No.72_01",
+            "datePublished": "09-Feb-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,00,68,474",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ID_32902_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "31-Oct-2023 03:00 PM",
+    "tenderValueAmount": "1,11,50,767",
+    "tender": [
+        {
+            "id": "2023_ID_32902_3",
+            "title": "SOLAR POWERED MDTW SCHEME AT 32_BONGAIGAON LAC _3 POINTS_ UNDER RIDF_XXIX NABARD_ FOR THE YEAR 2023_24 UNDER BONGAIGAON_ABHAYAPURI NORTH DIVISION _I_BONGAIGAON Package No 3",
+            "description": "SOLAR POWERED MDTW SCHEME AT 32_BONGAIGAON LAC _3 POINTS_ UNDER RIDF_XXIX NABARD_ FOR THE YEAR 2023_24 UNDER BONGAIGAON_ABHAYAPURI NORTH DIVISION _I_BONGAIGAON Package No 3",
+            "datePublished": "10-Oct-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,11,50,767",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "31-Oct-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

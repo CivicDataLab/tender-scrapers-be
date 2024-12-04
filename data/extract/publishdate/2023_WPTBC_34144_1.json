@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_WPTBC_34144_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Nov-2023 04:00 PM",
+    "tenderValueAmount": "89,76,000",
+    "tender": [
+        {
+            "id": "2023_WPTBC_34144_1",
+            "title": "CONSTRUCTION OF COMMUNTY HALL WITH PARAPET WALL AND IRON COMPOUND GRILS NWINDOWS AND VENTILATORS GRILS FOR THE WHOLE G2 BUILDING HANDRAILS BW WITH GATE AND SITE DEVELOPMENT IN THE EXISTING COMMUNITY HALL OF GREATER GUWAHATI DIMASA KACHARI",
+            "description": "CONSTRUCTION OF COMMUNTY HALL WITH PARAPET WALL AND IRON COMPOUND GRILS NWINDOWS AND VENTILATORS GRILS FOR THE WHOLE G2 BUILDING HANDRAILS BW WITH GATE AND SITE DEVELOPMENT IN THE EXISTING COMMUNITY HALL OF GREATER GUWAHATI DIMASA KACHARI",
+            "datePublished": "22-Nov-2023 05:15 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "89,76,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Nov-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_UDD_34959_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Jan-2024 03:30 PM",
+    "tenderValueAmount": "6,95,48,000",
+    "tender": [
+        {
+            "id": "2023_UDD_34959_1",
+            "title": "Construction of Proposed Solid Waste Management Plant at Silchar ULB (Re Tender)",
+            "description": "Construction of Proposed Solid Waste Management Plant at Silchar ULB (Re Tender)",
+            "datePublished": "26-Dec-2023 04:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "6,95,48,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Jan-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

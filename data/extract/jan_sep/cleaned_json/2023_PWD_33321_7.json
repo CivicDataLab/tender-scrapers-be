@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33321_7",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Nov-2023 11:00 AM",
+    "tenderValueAmount": "88,62,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33321_7",
+            "title": "Package No.Cachar/MMPNA/BUG/03 Renewal / Renovation of (i) BUG Bridge no 1/1 on Pallarbond Lakhipur Road (ii) BUG Bridge no 2/1 on Pailapool Joypur Harinagar Road (iii) BUG Bridge no.1/1 on LRA Road (iv) BUG Bridge no.1/1 on Jirighat Bahadurpur Road",
+            "description": "Package No.Cachar/MMPNA/BUG/03 Renewal / Renovation of (i) BUG Bridge no 1/1 on Pallarbond Lakhipur Road (ii) BUG Bridge no 2/1 on Pailapool Joypur Harinagar Road (iii) BUG Bridge no.1/1 on LRA Road (iv) BUG Bridge no.1/1 on Jirighat Bahadurpur Road",
+            "datePublished": "28-Oct-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "88,62,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

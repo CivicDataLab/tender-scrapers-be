@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_AEGCL_31694_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "10-Aug-2023 12:00 PM",
+    "tenderValueAmount": "25,41,800",
+    "tender": [
+        {
+            "id": "2023_AEGCL_31694_1",
+            "title": "SUPPLY OF SIGNAL LEVEL METER WITH SIGNAL GENERATOR FOR UA, COMMUNICATION",
+            "description": "SUPPLY OF SIGNAL LEVEL METER WITH SIGNAL GENERATOR FOR UA, COMMUNICATION",
+            "datePublished": "17-Jul-2023 05:15 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "25,41,800",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Aug-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

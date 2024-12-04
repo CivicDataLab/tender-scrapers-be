@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36979_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Mar-2024 04:00 PM",
+    "tenderValueAmount": "72,87,840",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36979_1",
+            "title": "Construction of residential accommodation for 42 displaced families out of 173 houses single unit of houses of Daloo Tea Estate, Cachar14 Nos of Units GroupII",
+            "description": "Construction of residential accommodation for 42 displaced families out of 173 houses single unit of houses of Daloo Tea Estate, Cachar14 Nos of Units GroupII",
+            "datePublished": "07-Mar-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "72,87,840",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Mar-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

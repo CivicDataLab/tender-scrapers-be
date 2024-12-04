@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_36241_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Mar-2024 11:00 AM",
+    "tenderValueAmount": "24,98,643",
+    "tender": [
+        {
+            "id": "2024_BTC_36241_1",
+            "title": "Repairing and Renovation of Inspection Bunglow at PWD Kokrajhar Dist. and Chirang Dist. Territorial Building Division, Kokrajhar. TN No.74_01",
+            "description": "Repairing and Renovation of Inspection Bunglow at PWD Kokrajhar Dist. and Chirang Dist. Territorial Building Division, Kokrajhar. TN No.74_01",
+            "datePublished": "14-Feb-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,98,643",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Mar-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ICD_36757_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Mar-2024 03:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_ICD_36757_1",
+            "title": "IT Works of State Data Centres at Assam Secretariat Dispur",
+            "description": "IT Works of State Data Centres at Assam Secretariat Dispur",
+            "datePublished": "29-Feb-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Mar-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

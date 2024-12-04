@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_134",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "3,17,69,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_134",
+            "title": "MMPPNA_23_24_239, (1)Construction of Road from NH-6 at Garmurah to Jhalnacherra, (2) Construction of Road from Dholaimolai PWD Road to Dholaimolai Pt-V, (3)Construction of Road from Hilal Bazar to Barofuti Shivchar under Mukhya Mantrir Pakipath ....",
+            "description": "MMPPNA_23_24_239, (1)Construction of Road from NH-6 at Garmurah to Jhalnacherra, (2) Construction of Road from Dholaimolai PWD Road to Dholaimolai Pt-V, (3)Construction of Road from Hilal Bazar to Barofuti Shivchar under Mukhya Mantrir Pakipath ....",
+            "datePublished": "19-Jan-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,17,69,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

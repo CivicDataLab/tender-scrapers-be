@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_5",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "3,42,25,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_5",
+            "title": "MMNPPNA_23_24_06 Construction of Simlaguri at NH-31 to Barpeta Road ROB Road as GAURAB PATH ( Ch-0.00 m to Ch-1400.00 m) under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA) for the year 2023-24, Barpeta Road MB",
+            "description": "MMNPPNA_23_24_06 Construction of Simlaguri at NH-31 to Barpeta Road ROB Road as GAURAB PATH ( Ch-0.00 m to Ch-1400.00 m) under Mukhya Mantrir Nagariya Pakipath Nirman Achani (MMNPPNA) for the year 2023-24, Barpeta Road MB",
+            "datePublished": "27-Sep-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,42,25,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

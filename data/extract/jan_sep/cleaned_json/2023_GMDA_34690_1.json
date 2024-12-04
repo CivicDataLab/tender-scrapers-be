@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_GMDA_34690_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Jan-2024 03:00 PM",
+    "tenderValueAmount": "1,98,84,450",
+    "tender": [
+        {
+            "id": "2023_GMDA_34690_1",
+            "title": "Construction of Commercial Complex at the Parking Lot of Adabari Park",
+            "description": "Construction of Commercial Complex at the Parking Lot of Adabari Park",
+            "datePublished": "14-Dec-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,98,84,450",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

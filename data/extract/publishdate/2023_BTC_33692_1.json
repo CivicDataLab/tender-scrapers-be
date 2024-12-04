@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33692_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Nov-2023 12:00 PM",
+    "tenderValueAmount": "2,50,87,918",
+    "tender": [
+        {
+            "id": "2023_BTC_33692_1",
+            "title": "Construction of CC block road from Sekari Bungla Chowk to Amguri Tangla PWD Road via Jutiabasti Village under CMs Goodwill Mission Project for the financial year 2023- 24 of District Udalguri. (32. Bhergaon) (ST). (TN_26_137)",
+            "description": "Construction of CC block road from Sekari Bungla Chowk to Amguri Tangla PWD Road via Jutiabasti Village under CMs Goodwill Mission Project for the financial year 2023- 24 of District Udalguri. (32. Bhergaon) (ST). (TN_26_137)",
+            "datePublished": "08-Nov-2023 02:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,50,87,918",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

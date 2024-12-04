@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36116_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Feb-2024 04:30 PM",
+    "tenderValueAmount": "61,91,184",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36116_1",
+            "title": "Renovation of Roof Grading, water supply pipe line and 160mm dia PVC rain water pipe line at Faculty Building and O.T. Building, GMCH",
+            "description": "Renovation of Roof Grading, water supply pipe line and 160mm dia PVC rain water pipe line at Faculty Building and O.T. Building, GMCH",
+            "datePublished": "09-Feb-2024 06:55 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "61,91,184",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Feb-2024 04:30 PM"
+                }
+            ]
+        }
+    ]
+}

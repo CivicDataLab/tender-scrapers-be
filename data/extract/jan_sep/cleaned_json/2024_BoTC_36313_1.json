@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_36313_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Feb-2024 02:00 PM",
+    "tenderValueAmount": "33,94,235",
+    "tender": [
+        {
+            "id": "2024_BoTC_36313_1",
+            "title": "Bijni Satra under Chirang District under WPT and BC for the year 2023_24.TN_615",
+            "description": "Bijni Satra under Chirang District under WPT and BC for the year 2023_24.TN_615",
+            "datePublished": "16-Feb-2024 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "33,94,235",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33830_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "02-Dec-2023 11:00 AM",
+    "tenderValueAmount": "64,42,244",
+    "tender": [
+        {
+            "id": "2023_PWD_33830_1",
+            "title": "Construction of Boundary Wall in Sub-Jail Haflong",
+            "description": "Construction of Boundary Wall in Sub-Jail Haflong",
+            "datePublished": "10-Nov-2023 01:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "64,42,244",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "02-Dec-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

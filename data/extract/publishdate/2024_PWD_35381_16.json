@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35381_16",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Jan-2024 02:00 PM",
+    "tenderValueAmount": "4,50,75,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35381_16",
+            "title": "SOPD_G_23_24_47 (1) Construction of Dhodar Ali to Borsayak Dibual Gaon connecting Road via Borachuk from Ch. 0.00m to Ch. 750.00 m, (2) Construction of Haluwating Bagan 3 No. Line from Ch. 0.00 m to Ch. 510.00 m, 4 No. Line from Ch. 0.00 m to Ch.",
+            "description": "SOPD_G_23_24_47 (1) Construction of Dhodar Ali to Borsayak Dibual Gaon connecting Road via Borachuk from Ch. 0.00m to Ch. 750.00 m, (2) Construction of Haluwating Bagan 3 No. Line from Ch. 0.00 m to Ch. 510.00 m, 4 No. Line from Ch. 0.00 m to Ch.",
+            "datePublished": "17-Jan-2024 09:55 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,50,75,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

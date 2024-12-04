@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_ITFCD_34655_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "21-Dec-2023 12:00 PM",
+    "tenderValueAmount": "6,50,149",
+    "tender": [
+        {
+            "id": "2023_ITFCD_34655_1",
+            "title": "Kamakhya Temple Archaeological Site (Group-D)",
+            "description": "Kamakhya Temple Archaeological Site (Group-D)",
+            "datePublished": "13-Dec-2023 10:00 AM",
+            "contractType": "Percentage",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "6,50,149",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Dec-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

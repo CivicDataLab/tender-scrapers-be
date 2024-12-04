@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_17",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "4,00,38,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_17",
+            "title": "MMNPPNA_23_24_47 (i) Widening and Strengthening of Shankar Baruah Path from Jagat Goswami Path to Dhodar Ali at Paanch Ali (from Ch.0.00 m to Ch.750.00 m), (L-0.75 Km) (ii) Re-construction of G.D to G.M road from Tennis Club to Thana Chariali",
+            "description": "MMNPPNA_23_24_47 (i) Widening and Strengthening of Shankar Baruah Path from Jagat Goswami Path to Dhodar Ali at Paanch Ali (from Ch.0.00 m to Ch.750.00 m), (L-0.75 Km) (ii) Re-construction of G.D to G.M road from Tennis Club to Thana Chariali",
+            "datePublished": "29-Sep-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,00,38,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

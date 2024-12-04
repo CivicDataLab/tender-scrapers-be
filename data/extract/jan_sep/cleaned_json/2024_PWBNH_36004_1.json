@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36004_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Feb-2024 02:30 PM",
+    "tenderValueAmount": "2,54,73,656",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36004_1",
+            "title": "Construction of Hostel Building R.C.C. (G Plus 1) at Kamrup Polytechnic (Completion of under Construction Hostel Building Balance Work) under SOPD-G during the year 2023-24",
+            "description": "Construction of Hostel Building R.C.C. (G Plus 1) at Kamrup Polytechnic (Completion of under Construction Hostel Building Balance Work) under SOPD-G during the year 2023-24",
+            "datePublished": "12-Feb-2024 11:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,54,73,656",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Feb-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33534_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "21-Nov-2023 11:00 AM",
+    "tenderValueAmount": "5,69,91,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33534_1",
+            "title": "Package No.RIDF-XXIX/Barpeta/01 Improvement of Barpeta Baghbar road (Extension of RCC Br. No. 7/1) under Mukhya Mantrir Unnota Pakipath Nirman Achani for the year 2023-24 (45-Baghbar LAC) in Barpeta District",
+            "description": "Package No.RIDF-XXIX/Barpeta/01 Improvement of Barpeta Baghbar road (Extension of RCC Br. No. 7/1) under Mukhya Mantrir Unnota Pakipath Nirman Achani for the year 2023-24 (45-Baghbar LAC) in Barpeta District",
+            "datePublished": "04-Nov-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "5,69,91,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_31010_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "22-Jun-2023 02:30 PM",
+    "tenderValueAmount": "39,64,911",
+    "tender": [
+        {
+            "id": "2023_BoTC_31010_1",
+            "title": "Construction of Concrete Paver Block from Subhash Boro house to Ananda Bazar link road approx 500 meter under Addl SOPD for the year 2022-23",
+            "description": "Construction of Concrete Paver Block from Subhash Boro house to Ananda Bazar link road approx 500 meter under Addl SOPD for the year 2022-23",
+            "datePublished": "30-May-2023 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "39,64,911",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "22-Jun-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

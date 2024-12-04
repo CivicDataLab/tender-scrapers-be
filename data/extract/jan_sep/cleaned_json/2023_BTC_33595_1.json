@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33595_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Nov-2023 12:00 PM",
+    "tenderValueAmount": "2,33,23,570",
+    "tender": [
+        {
+            "id": "2023_BTC_33595_1",
+            "title": "Construction of Ghughujhora to Palakata Church Road from Ch 0.00Km to Ch 3.00Km Length 3KM under CMs Goodwill Project for the year 2023-24 of District Kokrajhar. TN_26_3.",
+            "description": "Construction of Ghughujhora to Palakata Church Road from Ch 0.00Km to Ch 3.00Km Length 3KM under CMs Goodwill Project for the year 2023-24 of District Kokrajhar. TN_26_3.",
+            "datePublished": "09-Nov-2023 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,33,23,570",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Nov-2023 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

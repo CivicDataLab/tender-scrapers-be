@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33907_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Dec-2023 02:00 PM",
+    "tenderValueAmount": "3,32,99,118",
+    "tender": [
+        {
+            "id": "2023_BTC_33907_1",
+            "title": "Construction of widening and Strengthening of road from Kajalgaon Bengtol PWD road Kaotong Bazar to Chatipur Brahma Mandir and two link road in Silpota village (Length-3.39 Km) in Chirang District, BTC under CMs Goodwill Project in BTC area for the y",
+            "description": "Construction of widening and Strengthening of road from Kajalgaon Bengtol PWD road Kaotong Bazar to Chatipur Brahma Mandir and two link road in Silpota village (Length-3.39 Km) in Chirang District, BTC under CMs Goodwill Project in BTC area for the y",
+            "datePublished": "13-Nov-2023 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,32,99,118",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

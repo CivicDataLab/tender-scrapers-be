@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37611_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Jun-2024 03:00 PM",
+    "tenderValueAmount": "1,47,08,307",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37611_1",
+            "title": "Construction of Teachers Quarter of Model School at Chenga Musalman Gaon under Chenga under Chenga EB Block Barpeta District",
+            "description": "Construction of Teachers Quarter of Model School at Chenga Musalman Gaon under Chenga under Chenga EB Block Barpeta District",
+            "datePublished": "14-Jun-2024 05:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,47,08,307",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Jun-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

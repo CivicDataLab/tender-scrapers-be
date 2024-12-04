@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34550_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Dec-2023 02:00 PM",
+    "tenderValueAmount": "1,40,73,143",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34550_2",
+            "title": "Jagannath Community and Skill Centre at Kolony T.E. under Sootea LAC",
+            "description": "Jagannath Community and Skill Centre at Kolony T.E. under Sootea LAC",
+            "datePublished": "08-Dec-2023 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,40,73,143",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

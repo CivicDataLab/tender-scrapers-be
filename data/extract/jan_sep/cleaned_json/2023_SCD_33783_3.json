@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_SCD_33783_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Nov-2023 11:00 AM",
+    "tenderValueAmount": "99,46,900",
+    "tender": [
+        {
+            "id": "2023_SCD_33783_3",
+            "title": "Construction of Revetment and Boulder Pitching at Pacca Ali Bokajan",
+            "description": "Construction of Revetment and Boulder Pitching at Pacca Ali Bokajan",
+            "datePublished": "09-Nov-2023 01:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "99,46,900",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

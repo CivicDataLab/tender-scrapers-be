@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_30685_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "24-May-2023 03:00 PM",
+    "tenderValueAmount": "1,95,25,817",
+    "tender": [
+        {
+            "id": "2023_DoWR_30685_1",
+            "title": "Construction of Two Shutter Sluice Gate at Jiadhal L/B embankment at 16th Km including A/E measures.",
+            "description": "Construction of Two Shutter Sluice Gate at Jiadhal L/B embankment at 16th Km including A/E measures.",
+            "datePublished": "03-May-2023 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,95,25,817",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "24-May-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

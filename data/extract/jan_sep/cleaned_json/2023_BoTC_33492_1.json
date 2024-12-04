@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_33492_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Nov-2023 02:30 PM",
+    "tenderValueAmount": "23,41,281",
+    "tender": [
+        {
+            "id": "2023_BoTC_33492_1",
+            "title": "Const road with EF and SG from Army Bridge to Pokalagi Bouundary road under 6th ASFC for the year 2023-24.",
+            "description": "Const road with EF and SG from Army Bridge to Pokalagi Bouundary road under 6th ASFC for the year 2023-24.",
+            "datePublished": "03-Nov-2023 10:15 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "23,41,281",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Nov-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

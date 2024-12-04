@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32544_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Sep-2023 02:30 PM",
+    "tenderValueAmount": "4,07,55,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32544_1",
+            "title": "MMPPNA_22_23_37 Construction of road from (i) Behali College to Nokunia via Barbeel TE, (ii) Badeti Rail gate to Bihmari Road including routine maintenance for 4 (four) years under Mukhya Mantrir Paki Path Nirman Achani for the year 2022-23, Behali",
+            "description": "MMPPNA_22_23_37 Construction of road from (i) Behali College to Nokunia via Barbeel TE, (ii) Badeti Rail gate to Bihmari Road including routine maintenance for 4 (four) years under Mukhya Mantrir Paki Path Nirman Achani for the year 2022-23, Behali",
+            "datePublished": "15-Sep-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,07,55,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Sep-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

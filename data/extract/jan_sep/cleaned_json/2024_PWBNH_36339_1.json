@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36339_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Mar-2024 04:30 PM",
+    "tenderValueAmount": "62,99,708",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36339_1",
+            "title": "Renovation Repairing of G.M.C Hostel No.-7 (Girls Hostel) (Major repairing of old toilet blocks) including Electrical works at Bhangagarh, Guwahati-32",
+            "description": "Renovation Repairing of G.M.C Hostel No.-7 (Girls Hostel) (Major repairing of old toilet blocks) including Electrical works at Bhangagarh, Guwahati-32",
+            "datePublished": "17-Feb-2024 12:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "62,99,708",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Mar-2024 04:30 PM"
+                }
+            ]
+        }
+    ]
+}

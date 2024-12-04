@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_34515_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Dec-2023 03:30 PM",
+    "tenderValueAmount": "24,00,000",
+    "tender": [
+        {
+            "id": "2023_BoTC_34515_1",
+            "title": "Construction of Concrete Road at BBCA Compound at Tukrajhar under 15th Finance for the year 2022-23 during 2023-24",
+            "description": "Construction of Concrete Road at BBCA Compound at Tukrajhar under 15th Finance for the year 2022-23 during 2023-24",
+            "datePublished": "07-Dec-2023 09:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "24,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Dec-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

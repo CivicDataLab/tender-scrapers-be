@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DU_31494_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "26-Jul-2023 02:30 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_DU_31494_1",
+            "title": "Development and Implementation of Examination Confidential Work Management System (ECWMS) at Dibrugarh University",
+            "description": "Development and Implementation of Examination Confidential Work Management System (ECWMS) at Dibrugarh University",
+            "datePublished": "04-Jul-2023 03:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Jul-2023 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35381_13",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Jan-2024 02:00 PM",
+    "tenderValueAmount": "3,72,39,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35381_13",
+            "title": "SOPD_G_23_24_45 (i)Construction of Road Kareng to Upor Kareng connecting Road from Ch.0.00 KM to 0.80 KM, (ii) Construction of Bahphola Tractor Path (Lality Khakanguri Road) from Ch.0.00 M to Ch.2700.00 M, (iii) Construction of Nam Deori Majbat Road",
+            "description": "SOPD_G_23_24_45 (i)Construction of Road Kareng to Upor Kareng connecting Road from Ch.0.00 KM to 0.80 KM, (ii) Construction of Bahphola Tractor Path (Lality Khakanguri Road) from Ch.0.00 M to Ch.2700.00 M, (iii) Construction of Nam Deori Majbat Road",
+            "datePublished": "11-Jan-2024 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,72,39,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

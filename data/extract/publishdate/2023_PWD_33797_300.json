@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33797_300",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Dec-2023 03:00 PM",
+    "tenderValueAmount": "90,26,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33797_300",
+            "title": "MMPNA/2023-24/215_Periodic Renewal of R.D Road to Khatobari Anganbadi via Lakhi Mandir, Gurkuchi chowk of Rangia Dhamdhama Road to Gurkuchi L.P School and Bihapara to Barghuli Road under MMPNA for the year 2023-24 Under Rangia LAC",
+            "description": "MMPNA/2023-24/215_Periodic Renewal of R.D Road to Khatobari Anganbadi via Lakhi Mandir, Gurkuchi chowk of Rangia Dhamdhama Road to Gurkuchi L.P School and Bihapara to Barghuli Road under MMPNA for the year 2023-24 Under Rangia LAC",
+            "datePublished": "16-Nov-2023 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "90,26,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

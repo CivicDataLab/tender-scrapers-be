@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,76,42,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_3",
+            "title": "MMNPPNA_23_24_04 (i) Construction of B.T approach road No.2 at ward No.1( Ch-0.00 m to Ch-320.00 M) (ii) Construction of Ram rai Stadium approach road at ward No. 1( Ch-0.00 m to Ch-180.00 M) (iii) Strengthening of L Nobish Approach road ward",
+            "description": "MMNPPNA_23_24_04 (i) Construction of B.T approach road No.2 at ward No.1( Ch-0.00 m to Ch-320.00 M) (ii) Construction of Ram rai Stadium approach road at ward No. 1( Ch-0.00 m to Ch-180.00 M) (iii) Strengthening of L Nobish Approach road ward",
+            "datePublished": "27-Sep-2023 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,76,42,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

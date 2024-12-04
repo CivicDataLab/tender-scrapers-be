@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ED_36737_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "11-Mar-2024 12:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_ED_36737_1",
+            "title": "GRANT OF IMFL OFF LICENSE AT DEMOW WARD NO. 6",
+            "description": "GRANT OF IMFL OFF LICENSE AT DEMOW WARD NO. 6",
+            "datePublished": "28-Feb-2024 06:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Mar-2024 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

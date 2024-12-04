@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_UDD_36342_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Feb-2024 10:30 AM",
+    "tenderValueAmount": "32,77,000",
+    "tender": [
+        {
+            "id": "2024_UDD_36342_1",
+            "title": "Extension of distribution pipe line at Teok Town PWSS, Purani Cheoni, Ward no 09, under Teok Municipal Board, Teok, at Teok, Assam",
+            "description": "Extension of distribution pipe line at Teok Town PWSS, Purani Cheoni, Ward no 09, under Teok Municipal Board, Teok, at Teok, Assam",
+            "datePublished": "17-Feb-2024 10:30 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "32,77,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Feb-2024 10:30 AM"
+                }
+            ]
+        }
+    ]
+}

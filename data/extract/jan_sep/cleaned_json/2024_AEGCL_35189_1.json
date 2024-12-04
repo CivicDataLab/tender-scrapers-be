@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_AEGCL_35189_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 05:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_AEGCL_35189_1",
+            "title": "Supply, installation, configuration and successful implementation of Desktops along with all associated accessories and post installation support for 3 years at Assam Electricity Grid Corporation Limited Offices.",
+            "description": "Supply, installation, configuration and successful implementation of Desktops along with all associated accessories and post installation support for 3 years at Assam Electricity Grid Corporation Limited Offices.",
+            "datePublished": "04-Jan-2024 04:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 05:00 PM"
+                }
+            ]
+        }
+    ]
+}

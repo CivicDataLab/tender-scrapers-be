@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_30655_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "25-May-2023 11:00 AM",
+    "tenderValueAmount": "9,49,18,000",
+    "tender": [
+        {
+            "id": "2023_PWD_30655_1",
+            "title": "Balance Work for construction of Mahmora Ali with RCC Bridge No 9/2 at 9th KM in Charaideo District under RIDF-XXVIII of NABARD for the year 2022-23 in PWRD Charaideo District Territorial Road Division, Sonari under Mahmora LAC",
+            "description": "Balance Work for construction of Mahmora Ali with RCC Bridge No 9/2 at 9th KM in Charaideo District under RIDF-XXVIII of NABARD for the year 2022-23 in PWRD Charaideo District Territorial Road Division, Sonari under Mahmora LAC",
+            "datePublished": "03-May-2023 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "9,49,18,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "25-May-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_36013_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "23-Feb-2024 04:00 PM",
+    "tenderValueAmount": "37,79,000",
+    "tender": [
+        {
+            "id": "2024_PWD_36013_2",
+            "title": "ROB/QC/TIHU/SK-26 Construction of ROB in Replacement of Railway LC Gate No. SK-26 at Rly KM 326/0-1 at Tihu Town in Nalbari District, Assam under Construction of ROBs on 50_50 Cost Sharing Basis",
+            "description": "ROB/QC/TIHU/SK-26 Construction of ROB in Replacement of Railway LC Gate No. SK-26 at Rly KM 326/0-1 at Tihu Town in Nalbari District, Assam under Construction of ROBs on 50_50 Cost Sharing Basis",
+            "datePublished": "07-Feb-2024 01:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "37,79,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "23-Feb-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

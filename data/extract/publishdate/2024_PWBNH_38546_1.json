@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_38546_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Sep-2024 12:00 PM",
+    "tenderValueAmount": "31,15,390",
+    "tender": [
+        {
+            "id": "2024_PWBNH_38546_1",
+            "title": "Construction of new school building for upgradation from secondary to higher secondary school under Samagra Shiksha, Assam at Chataimari High School in Goalpara District- (for FURNITURE work)",
+            "description": "Construction of new school building for upgradation from secondary to higher secondary school under Samagra Shiksha, Assam at Chataimari High School in Goalpara District- (for FURNITURE work)",
+            "datePublished": "19-Aug-2024 05:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "31,15,390",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Sep-2024 12:00 PM"
+                }
+            ]
+        }
+    ]
+}

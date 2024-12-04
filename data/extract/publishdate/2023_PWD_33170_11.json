@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33170_11",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Nov-2023 02:00 PM",
+    "tenderValueAmount": "12,47,88,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33170_11",
+            "title": "MMUPPNA_RIDF_XXIX_23_24_21 Improvement of (i) Dhaligaon to New Bongaigaon Road (1941) continued to Bhakaribhita to HS-2 Road (12389), (ii) Bageswari Temple to NH-31 C under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD for th",
+            "description": "MMUPPNA_RIDF_XXIX_23_24_21 Improvement of (i) Dhaligaon to New Bongaigaon Road (1941) continued to Bhakaribhita to HS-2 Road (12389), (ii) Bageswari Temple to NH-31 C under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NABARD for th",
+            "datePublished": "20-Oct-2023 11:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "12,47,88,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

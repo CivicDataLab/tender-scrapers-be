@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BTC_35584_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 11:00 AM",
+    "tenderValueAmount": "35,20,647",
+    "tender": [
+        {
+            "id": "2024_BTC_35584_1",
+            "title": "Repairing and renovation of Doctors Quarter, Staff Quarter with Water Supply Facilities and New Construction of Car Parking at Angtihara SD in Kokrajhar District. TN No.64_03",
+            "description": "Repairing and renovation of Doctors Quarter, Staff Quarter with Water Supply Facilities and New Construction of Car Parking at Angtihara SD in Kokrajhar District. TN No.64_03",
+            "datePublished": "20-Jan-2024 10:30 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "35,20,647",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34998_17",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:00 PM",
+    "tenderValueAmount": "1,74,57,000",
+    "tender": [
+        {
+            "id": "2023_PWD_34998_17",
+            "title": "RIDF_XXIX_23_24_102 Construction of road from Jaripar Anandapur Alia road to Amit Brahma Basti via Prafullas Basti Barama Dhamdhama Gohain Ali Link road under 62 No. Barama LAC from Ch. 0.00m to Ch. 2100.00m under RIDF-XXIX of NABARD for the year",
+            "description": "RIDF_XXIX_23_24_102 Construction of road from Jaripar Anandapur Alia road to Amit Brahma Basti via Prafullas Basti Barama Dhamdhama Gohain Ali Link road under 62 No. Barama LAC from Ch. 0.00m to Ch. 2100.00m under RIDF-XXIX of NABARD for the year",
+            "datePublished": "28-Dec-2023 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,74,57,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

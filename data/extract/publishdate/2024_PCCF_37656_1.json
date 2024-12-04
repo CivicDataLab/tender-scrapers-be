@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PCCF_37656_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "12-Jul-2024 11:00 AM",
+    "tenderValueAmount": "26,64,750",
+    "tender": [
+        {
+            "id": "2024_PCCF_37656_1",
+            "title": "Supply of 13260 running meter of good quality plastic Mesh Wire Tuflex of 2.40m Circuference and 1.3m ht along NH31 and G.I. Wire 127.5kg",
+            "description": "Supply of 13260 running meter of good quality plastic Mesh Wire Tuflex of 2.40m Circuference and 1.3m ht along NH31 and G.I. Wire 127.5kg",
+            "datePublished": "20-Jun-2024 09:00 AM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "26,64,750",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jul-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

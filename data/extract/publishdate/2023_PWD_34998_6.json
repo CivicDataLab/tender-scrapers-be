@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34998_6",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:00 PM",
+    "tenderValueAmount": "2,73,36,000",
+    "tender": [
+        {
+            "id": "2023_PWD_34998_6",
+            "title": "RIDF_XXIX_23_24_37 Construction of Purani Gaon Road (L 3.450 Km, from Ch 0.00m to Ch 3450.00 m) under RIDF-XXIX of NABARD for the year 2023-24.",
+            "description": "RIDF_XXIX_23_24_37 Construction of Purani Gaon Road (L 3.450 Km, from Ch 0.00m to Ch 3450.00 m) under RIDF-XXIX of NABARD for the year 2023-24.",
+            "datePublished": "28-Dec-2023 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,73,36,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

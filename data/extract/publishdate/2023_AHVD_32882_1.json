@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_AHVD_32882_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "31-Oct-2023 04:00 PM",
+    "tenderValueAmount": "9,99,000",
+    "tender": [
+        {
+            "id": "2023_AHVD_32882_1",
+            "title": "Installation of Sprinkler Irrigation System",
+            "description": "Installation of Sprinkler Irrigation System",
+            "datePublished": "07-Oct-2023 06:55 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "9,99,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "31-Oct-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

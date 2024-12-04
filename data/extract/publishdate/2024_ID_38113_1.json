@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ID_38113_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Aug-2024 02:00 PM",
+    "tenderValueAmount": "46,61,577",
+    "tender": [
+        {
+            "id": "2024_ID_38113_1",
+            "title": "Renovation of Office Building for Moran Tingkhong Division (Irrigation) Moran for the year 2024-25",
+            "description": "Renovation of Office Building for Moran Tingkhong Division (Irrigation) Moran for the year 2024-25",
+            "datePublished": "20-Jul-2024 05:10 PM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "46,61,577",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Aug-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

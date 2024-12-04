@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BTC_33889_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Dec-2023 02:00 PM",
+    "tenderValueAmount": "2,83,53,436",
+    "tender": [
+        {
+            "id": "2023_BTC_33889_1",
+            "title": "Construction of road from Aujhar PWD Road to Jalu Bazar PMGSY road (Length-3.53 Km) in Chirang district, Assam under CMs Goodwill Project in BTC Area for the year 2023-24 TN-26-93",
+            "description": "Construction of road from Aujhar PWD Road to Jalu Bazar PMGSY road (Length-3.53 Km) in Chirang district, Assam under CMs Goodwill Project in BTC Area for the year 2023-24 TN-26-93",
+            "datePublished": "11-Nov-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,83,53,436",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Dec-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_80",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "1,43,96,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_80",
+            "title": "MMPPNA_23_24_205, (1)Construction of approach road to newly created Dhemaji Road Circle office including RCC Culvert, (2)Construction of Rudrasingha Path, (3)Construction of Road from at NH-15 to Dhemaji Municipal Solid Waste Managenent Plant.....",
+            "description": "MMPPNA_23_24_205, (1)Construction of approach road to newly created Dhemaji Road Circle office including RCC Culvert, (2)Construction of Rudrasingha Path, (3)Construction of Road from at NH-15 to Dhemaji Municipal Solid Waste Managenent Plant.....",
+            "datePublished": "17-Jan-2024 06:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,43,96,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

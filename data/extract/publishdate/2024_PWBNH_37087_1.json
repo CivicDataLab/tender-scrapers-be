@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_37087_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Apr-2024 11:00 AM",
+    "tenderValueAmount": "1,40,73,000",
+    "tender": [
+        {
+            "id": "2024_PWBNH_37087_1",
+            "title": "Jagannath Community Hall and Skill Centre at Bokel TE under Lahowal LAC (Sl. No. 1)",
+            "description": "Jagannath Community Hall and Skill Centre at Bokel TE under Lahowal LAC (Sl. No. 1)",
+            "datePublished": "11-Mar-2024 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,40,73,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Apr-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

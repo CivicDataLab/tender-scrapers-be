@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_36171_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "16-Feb-2024 03:00 PM",
+    "tenderValueAmount": "9,68,68,801",
+    "tender": [
+        {
+            "id": "2024_DoWR_36171_1",
+            "title": "Protection of Naharkatia Joypur road from the flooding of river Buridehing near Longjong Gaon.",
+            "description": "Protection of Naharkatia Joypur road from the flooding of river Buridehing near Longjong Gaon.",
+            "datePublished": "10-Feb-2024 06:55 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "9,68,68,801",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

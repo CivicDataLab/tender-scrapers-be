@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_SNT_29383_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "13-Mar-2023 03:00 PM",
+    "tenderValueAmount": "10,30,000",
+    "tender": [
+        {
+            "id": "2023_SNT_29383_1",
+            "title": "Design, Supply, Installation, Testing,Commissioning and 5 years CMC for capacity of 10kWp SPV Power Plant at the Office of the Deputy Commissioner Charaideo, Charaideo district, Assam",
+            "description": "Design, Supply, Installation, Testing,Commissioning and 5 years CMC for capacity of 10kWp SPV Power Plant at the Office of the Deputy Commissioner Charaideo, Charaideo district, Assam",
+            "datePublished": "17-Feb-2023 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "10,30,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Mar-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

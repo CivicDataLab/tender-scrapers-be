@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2022_SYWA_24923_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2021-2022",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "25-Apr-2022 02:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2022_SYWA_24923_1",
+            "title": "PROCUREMENT OF BOXING EQUIPMENT FOR KHELO INDIA STATE CENTRE OF EXCELLENCE (KISCE), ASSAM",
+            "description": "PROCUREMENT OF BOXING EQUIPMENT FOR KHELO INDIA STATE CENTRE OF EXCELLENCE (KISCE), ASSAM",
+            "datePublished": "31-Mar-2022 04:15 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "25-Apr-2022 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

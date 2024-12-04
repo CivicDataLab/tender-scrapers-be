@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32885_71",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Oct-2023 02:00 PM",
+    "tenderValueAmount": "1,47,12,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32885_71",
+            "title": "MMNPPNA_23_24_144 (i)Repairing of SH-2 to Lengtisinga Road (Deohati to Sontoshpur), (ii) Periodic Renewal to Cosmos Club Road (iii) Periodic Renewal to JNM girls high school to Basantipara Road, (iv) Periodic Renewal to Abhayapuri college to",
+            "description": "MMNPPNA_23_24_144 (i)Repairing of SH-2 to Lengtisinga Road (Deohati to Sontoshpur), (ii) Periodic Renewal to Cosmos Club Road (iii) Periodic Renewal to JNM girls high school to Basantipara Road, (iv) Periodic Renewal to Abhayapuri college to",
+            "datePublished": "12-Oct-2023 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,47,12,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33321_16",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Nov-2023 11:00 AM",
+    "tenderValueAmount": "1,27,77,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33321_16",
+            "title": "Package No. Dhubri/MMPNA/BUG/03 Repair / Rehabilitation of BUG/STEEL (1) Br. No. 5/1 on Madakhali to Beguntoli Road (2) Br. No. 1/2 on NH-31 Botertol Road (3) Br. No. 1/1 on NH-31 Targhat to Ashirikandi Road (4) Br. No. 4/1 on Gauripur Bashbari Road",
+            "description": "Package No. Dhubri/MMPNA/BUG/03 Repair / Rehabilitation of BUG/STEEL (1) Br. No. 5/1 on Madakhali to Beguntoli Road (2) Br. No. 1/2 on NH-31 Botertol Road (3) Br. No. 1/1 on NH-31 Targhat to Ashirikandi Road (4) Br. No. 4/1 on Gauripur Bashbari Road",
+            "datePublished": "28-Oct-2023 04:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,27,77,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Nov-2023 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

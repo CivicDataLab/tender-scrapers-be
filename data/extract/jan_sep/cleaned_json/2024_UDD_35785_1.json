@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_UDD_35785_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "14-Feb-2024 01:00 PM",
+    "tenderValueAmount": "21,97,000",
+    "tender": [
+        {
+            "id": "2024_UDD_35785_1",
+            "title": "Construction of Fancy Ali AT Road Mohoram Field in ward no.2 (Phase-I)",
+            "description": "Construction of Fancy Ali AT Road Mohoram Field in ward no.2 (Phase-I)",
+            "datePublished": "30-Jan-2024 10:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "21,97,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "14-Feb-2024 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

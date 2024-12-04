@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ICD_37474_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-May-2024 03:00 PM",
+    "tenderValueAmount": "4,00,30,347",
+    "tender": [
+        {
+            "id": "2024_ICD_37474_1",
+            "title": "COMPOSITE WORKS FOR CONSTRUCTION OF CGS CUM MOTHER STATION AT SONITPUR DISTRICT IN ASSAM",
+            "description": "COMPOSITE WORKS FOR CONSTRUCTION OF CGS CUM MOTHER STATION AT SONITPUR DISTRICT IN ASSAM",
+            "datePublished": "06-Apr-2024 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,00,30,347",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-May-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

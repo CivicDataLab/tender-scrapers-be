@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_32684_117",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "17-Oct-2023 02:00 PM",
+    "tenderValueAmount": "2,26,08,000",
+    "tender": [
+        {
+            "id": "2023_PWD_32684_117",
+            "title": "MMNPPNA_23_24_23 (i) Construction of RCC covered drain at DIBRUGARH UNIVERSITY LINK ROAD (ii) Construction of RCC covered drain at Benudhar Rajkhowa Road (iii) Construction of RCC covered drain at Guardpara Bylane (iv) Construction of RCC covered",
+            "description": "MMNPPNA_23_24_23 (i) Construction of RCC covered drain at DIBRUGARH UNIVERSITY LINK ROAD (ii) Construction of RCC covered drain at Benudhar Rajkhowa Road (iii) Construction of RCC covered drain at Guardpara Bylane (iv) Construction of RCC covered",
+            "datePublished": "06-Oct-2023 05:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,26,08,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "17-Oct-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

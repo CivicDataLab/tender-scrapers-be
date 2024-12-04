@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DoWR_36078_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "15-Feb-2024 03:00 PM",
+    "tenderValueAmount": "11,01,57,330",
+    "tender": [
+        {
+            "id": "2024_DoWR_36078_1",
+            "title": "Anti-Erosion measures to protect Forciati (Kumolia) area on the right bank of river Brahmaputra, PACKAGE 1",
+            "description": "Anti-Erosion measures to protect Forciati (Kumolia) area on the right bank of river Brahmaputra, PACKAGE 1",
+            "datePublished": "08-Feb-2024 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "11,01,57,330",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

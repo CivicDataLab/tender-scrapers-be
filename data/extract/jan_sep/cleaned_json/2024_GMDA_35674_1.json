@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_GMDA_35674_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "08-Feb-2024 03:00 PM",
+    "tenderValueAmount": "40,40,370",
+    "tender": [
+        {
+            "id": "2024_GMDA_35674_1",
+            "title": "De siltation and cleaning of Bondajan Channel from Narengi Railway Station to Bondajan Pump House for the FY 2023 2024",
+            "description": "De siltation and cleaning of Bondajan Channel from Narengi Railway Station to Bondajan Pump House for the FY 2023 2024",
+            "datePublished": "24-Jan-2024 02:15 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "40,40,370",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "08-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

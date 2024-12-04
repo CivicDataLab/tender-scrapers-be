@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_33993_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Dec-2023 03:00 PM",
+    "tenderValueAmount": "6,76,78,663",
+    "tender": [
+        {
+            "id": "2023_DoWR_33993_1",
+            "title": "Construction of embankment on both bank of river Deranala (river Kopili) from Menmeji to Deramukh in West Karbi Anglong District. PACKAGE 2",
+            "description": "Construction of embankment on both bank of river Deranala (river Kopili) from Menmeji to Deramukh in West Karbi Anglong District. PACKAGE 2",
+            "datePublished": "16-Nov-2023 06:30 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "6,76,78,663",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

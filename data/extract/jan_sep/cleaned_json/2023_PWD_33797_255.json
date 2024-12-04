@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33797_255",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Dec-2023 03:00 PM",
+    "tenderValueAmount": "1,73,30,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33797_255",
+            "title": "MMPNA/2023-24/116_Periodic Renewal of Bongaltola to Bhellamari Road (From Bongaltola to Tokradia Bridge), Bamunbari Hirajani Akadi Road, Kulhati Bongsor PWD Road to Ahatguri and Bijulighat to Kothalghopa Road under MMPNA under Hajo Sualkuchi LAC",
+            "description": "MMPNA/2023-24/116_Periodic Renewal of Bongaltola to Bhellamari Road (From Bongaltola to Tokradia Bridge), Bamunbari Hirajani Akadi Road, Kulhati Bongsor PWD Road to Ahatguri and Bijulighat to Kothalghopa Road under MMPNA under Hajo Sualkuchi LAC",
+            "datePublished": "14-Nov-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,73,30,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

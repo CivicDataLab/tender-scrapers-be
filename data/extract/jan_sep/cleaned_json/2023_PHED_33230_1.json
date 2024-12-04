@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PHED_33230_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "18-Nov-2023 03:00 PM",
+    "tenderValueAmount": "0.0",
+    "tender": [
+        {
+            "id": "2023_PHED_33230_1",
+            "title": "Empanelment of Manufacturers of ISI marked PVC-O Pipes under JJM Assam under PHE Department",
+            "description": "Empanelment of Manufacturers of ISI marked PVC-O Pipes under JJM Assam under PHE Department",
+            "datePublished": "21-Oct-2023 10:00 AM",
+            "contractType": "EOI",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "0.0",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "18-Nov-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

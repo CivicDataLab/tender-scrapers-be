@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35744_18",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "13-Feb-2024 02:00 PM",
+    "tenderValueAmount": "1,28,00,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35744_18",
+            "title": "SOPD_ODS_23_24_92 Improvement of (i) Lamabari T.E. Road from OMR Road to No. 22 Line road (from Ch. 0.00km to Ch. 0.52km) (Total Length 0.52km), (ii) Lamabari T.E. Road from Factory to no. 11 Line (from Ch. 0.00km to Ch. 0.35km)",
+            "description": "SOPD_ODS_23_24_92 Improvement of (i) Lamabari T.E. Road from OMR Road to No. 22 Line road (from Ch. 0.00km to Ch. 0.52km) (Total Length 0.52km), (ii) Lamabari T.E. Road from Factory to no. 11 Line (from Ch. 0.00km to Ch. 0.35km)",
+            "datePublished": "03-Feb-2024 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,28,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "13-Feb-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_35003_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "05-Jan-2024 11:00 AM",
+    "tenderValueAmount": "50,79,606",
+    "tender": [
+        {
+            "id": "2023_PWBNH_35003_1",
+            "title": "Establishment of new VRDL Laboratory in the Microbiology Department of Lakhimpur Medical College, North Lakhimpur, Assam. Dist- Lakhimpur, Assam",
+            "description": "Establishment of new VRDL Laboratory in the Microbiology Department of Lakhimpur Medical College, North Lakhimpur, Assam. Dist- Lakhimpur, Assam",
+            "datePublished": "28-Dec-2023 11:40 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "50,79,606",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "05-Jan-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

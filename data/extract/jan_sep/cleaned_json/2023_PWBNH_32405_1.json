@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_32405_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Sep-2023 02:00 PM",
+    "tenderValueAmount": "3,85,03,397",
+    "tender": [
+        {
+            "id": "2023_PWBNH_32405_1",
+            "title": "Land filling for the Project AAHII ( Assam Advanced Healthcare Innovation Institute) implemented by Assam Government-IITG Healthcare Foundation-AGIHF",
+            "description": "Land filling for the Project AAHII ( Assam Advanced Healthcare Innovation Institute) implemented by Assam Government-IITG Healthcare Foundation-AGIHF",
+            "datePublished": "08-Sep-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,85,03,397",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Sep-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

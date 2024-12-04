@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWRDW_35192_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "03-Feb-2024 02:30 PM",
+    "tenderValueAmount": "2,09,31,000",
+    "tender": [
+        {
+            "id": "2024_PWRDW_35192_2",
+            "title": "Construction of Bridge in Biswanath district i. Br. No. 3/1 on Dhuli Bijoypur Diring",
+            "description": "Construction of Bridge in Biswanath district i. Br. No. 3/1 on Dhuli Bijoypur Diring",
+            "datePublished": "04-Jan-2024 06:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,09,31,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "03-Feb-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

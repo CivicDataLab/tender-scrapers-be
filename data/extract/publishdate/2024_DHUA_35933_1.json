@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_DHUA_35933_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "23-Feb-2024 03:00 PM",
+    "tenderValueAmount": "25,19,000",
+    "tender": [
+        {
+            "id": "2024_DHUA_35933_1",
+            "title": "Balance Works for Rebuilding of Golaghat General Public Field under CIDF, Golaghat",
+            "description": "Balance Works for Rebuilding of Golaghat General Public Field under CIDF, Golaghat",
+            "datePublished": "05-Feb-2024 11:45 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "25,19,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "23-Feb-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

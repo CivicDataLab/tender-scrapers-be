@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_BoTC_36459_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "04-Mar-2024 02:00 PM",
+    "tenderValueAmount": "29,51,135",
+    "tender": [
+        {
+            "id": "2024_BoTC_36459_1",
+            "title": "Construction of Approach Road RCC Box Culvert Heavy duty Iron Gate RCC Overhead staging Bike stand and Flag hoisting pedestal at ADIC Office Complex Parbatjhora Kokrajhar",
+            "description": "Construction of Approach Road RCC Box Culvert Heavy duty Iron Gate RCC Overhead staging Bike stand and Flag hoisting pedestal at ADIC Office Complex Parbatjhora Kokrajhar",
+            "datePublished": "21-Feb-2024 10:30 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "29,51,135",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "04-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

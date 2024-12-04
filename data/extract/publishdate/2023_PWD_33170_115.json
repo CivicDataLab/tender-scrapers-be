@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33170_115",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Nov-2023 02:00 PM",
+    "tenderValueAmount": "12,50,00,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33170_115",
+            "title": "MMUPPNA_RIDF_XXIX_23_24_65 Improvement of road from NH-37 (Jakhalabandha) to Hatimura, Keribakori to NKA, NKS Diversion road connecting to NH-37, NKS Silghat road via Teliagaon under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NAB",
+            "description": "MMUPPNA_RIDF_XXIX_23_24_65 Improvement of road from NH-37 (Jakhalabandha) to Hatimura, Keribakori to NKA, NKS Diversion road connecting to NH-37, NKS Silghat road via Teliagaon under Mukhya Mantrir Unnoto Pakipath Nirman Achani under RIDF-XXIX of NAB",
+            "datePublished": "27-Oct-2023 11:55 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "12,50,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Nov-2023 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

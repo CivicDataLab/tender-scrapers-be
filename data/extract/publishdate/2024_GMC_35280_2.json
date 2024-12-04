@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_GMC_35280_2",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "29-Jan-2024 03:00 PM",
+    "tenderValueAmount": "31,09,061",
+    "tender": [
+        {
+            "id": "2024_GMC_35280_2",
+            "title": "Package No. DSLT-02",
+            "description": "Package No. DSLT-02",
+            "datePublished": "06-Jan-2024 05:00 PM",
+            "contractType": "Lump-sum",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "31,09,061",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "29-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

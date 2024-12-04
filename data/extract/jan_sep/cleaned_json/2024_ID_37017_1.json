@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_ID_37017_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Mar-2024 02:00 PM",
+    "tenderValueAmount": "32,31,227",
+    "tender": [
+        {
+            "id": "2024_ID_37017_1",
+            "title": "Installation Of Solar Operated Tube-Well Scheme 4 Points under Duliajan LAC in Dibrugarh District",
+            "description": "Installation Of Solar Operated Tube-Well Scheme 4 Points under Duliajan LAC in Dibrugarh District",
+            "datePublished": "07-Mar-2024 05:00 PM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "32,31,227",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Mar-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

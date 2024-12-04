@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34533_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "14-Dec-2023 11:30 AM",
+    "tenderValueAmount": "4,13,45,908",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34533_1",
+            "title": "Logistic Arrangement etc. for ensuing 8th Assam International Agri-Horticulture Show 2023 to be held on 16th to 18th December, 2023 at College of Veterinary Science Playground, Khanapara, Guwahati-22 (Civil works)",
+            "description": "Logistic Arrangement etc. for ensuing 8th Assam International Agri-Horticulture Show 2023 to be held on 16th to 18th December, 2023 at College of Veterinary Science Playground, Khanapara, Guwahati-22 (Civil works)",
+            "datePublished": "07-Dec-2023 06:35 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,13,45,908",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "14-Dec-2023 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_23",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "3,85,66,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_23",
+            "title": "MMPPNA_23_24_268 Construction of Road starting from 1) 16ft Fatakpur to 16ft Kali Mandir via Jungle tilla 2) Medly Post Office to Medly Shiv Mandir 3) NH-208A near Kukitol GP Office to Chutoputni LP School including CD structures under Mukhya Mantrir",
+            "description": "MMPPNA_23_24_268 Construction of Road starting from 1) 16ft Fatakpur to 16ft Kali Mandir via Jungle tilla 2) Medly Post Office to Medly Shiv Mandir 3) NH-208A near Kukitol GP Office to Chutoputni LP School including CD structures under Mukhya Mantrir",
+            "datePublished": "12-Jan-2024 03:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,85,66,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_33797_266",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Dec-2023 03:00 PM",
+    "tenderValueAmount": "2,48,75,000",
+    "tender": [
+        {
+            "id": "2023_PWD_33797_266",
+            "title": "MMPNA/2023-24/106_Periodic Renewal of Jotte Balijan Road from Ch. 5.00Km. To 6.17 and 9.40km to 13.23 km ( including 4by4m 3 cell box culvert) under MUKHYA MANTRI PATH NABIKARAN AACHANI for the year 2023-24 under Gohpur LAC",
+            "description": "MMPNA/2023-24/106_Periodic Renewal of Jotte Balijan Road from Ch. 5.00Km. To 6.17 and 9.40km to 13.23 km ( including 4by4m 3 cell box culvert) under MUKHYA MANTRI PATH NABIKARAN AACHANI for the year 2023-24 under Gohpur LAC",
+            "datePublished": "14-Nov-2023 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,48,75,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Dec-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

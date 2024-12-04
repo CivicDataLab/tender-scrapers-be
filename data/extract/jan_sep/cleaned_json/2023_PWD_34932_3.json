@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_34932_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 02:00 PM",
+    "tenderValueAmount": "1,59,67,000",
+    "tender": [
+        {
+            "id": "2023_PWD_34932_3",
+            "title": "MMNPPNA_23_24_278 (i) Construcation of drain Road at Sanibari Path (ii) Strengthening of Tarun Nagar Kalibari Road (iii) Strengthening of Jyoti Nagar Road Construction of drain (iv) Construcation of Ram Krishna Sewa Samiti Road (v) Construcati",
+            "description": "MMNPPNA_23_24_278 (i) Construcation of drain Road at Sanibari Path (ii) Strengthening of Tarun Nagar Kalibari Road (iii) Strengthening of Jyoti Nagar Road Construction of drain (iv) Construcation of Ram Krishna Sewa Samiti Road (v) Construcati",
+            "datePublished": "25-Dec-2023 12:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,59,67,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

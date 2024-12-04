@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_UDD_36131_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "01-Mar-2024 11:00 AM",
+    "tenderValueAmount": "35,00,000",
+    "tender": [
+        {
+            "id": "2024_UDD_36131_1",
+            "title": "Construction of Convention Centre (2nd Floor) at Bokakhat Town, Ward No.-4, Dist.-Golaghat ( Assam ) under the interest fund of Bokakhat Municipal Board for the year 2023-24.",
+            "description": "Construction of Convention Centre (2nd Floor) at Bokakhat Town, Ward No.-4, Dist.-Golaghat ( Assam ) under the interest fund of Bokakhat Municipal Board for the year 2023-24.",
+            "datePublished": "09-Feb-2024 04:30 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "35,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "01-Mar-2024 11:00 AM"
+                }
+            ]
+        }
+    ]
+}

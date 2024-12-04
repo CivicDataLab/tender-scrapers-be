@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWBNH_34668_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "06-Jan-2024 11:30 AM",
+    "tenderValueAmount": "1,69,83,417",
+    "tender": [
+        {
+            "id": "2023_PWBNH_34668_1",
+            "title": "Repairing and renovation works of Assembly House, all ALA staff rooms, Assembly Secretariat Building (including providing false ceiling, painting works, pvc paneling, wooden panels etc.) at Assam Legislative Assembly, Dispur, Guwahati-6",
+            "description": "Repairing and renovation works of Assembly House, all ALA staff rooms, Assembly Secretariat Building (including providing false ceiling, painting works, pvc paneling, wooden panels etc.) at Assam Legislative Assembly, Dispur, Guwahati-6",
+            "datePublished": "14-Dec-2023 12:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,69,83,417",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "06-Jan-2024 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

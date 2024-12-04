@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_PWD_35088_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "10-Jan-2024 02:00 PM",
+    "tenderValueAmount": "8,94,57,000",
+    "tender": [
+        {
+            "id": "2023_PWD_35088_3",
+            "title": "RIDF_XXIX_23_24_57 Construction of Road from (1) Rainakuchi L.P. School to Athkuria L.P School (L-2.50 Km) (2) Borigaon Hanumandir to Japmarabari and Kulshigate to Sagunbahi (L-2.50 Km) (3) Mangaldai Patharighat Khoirabari Road to Nagaon Anchalic",
+            "description": "RIDF_XXIX_23_24_57 Construction of Road from (1) Rainakuchi L.P. School to Athkuria L.P School (L-2.50 Km) (2) Borigaon Hanumandir to Japmarabari and Kulshigate to Sagunbahi (L-2.50 Km) (3) Mangaldai Patharighat Khoirabari Road to Nagaon Anchalic",
+            "datePublished": "30-Dec-2023 03:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "8,94,57,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "10-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

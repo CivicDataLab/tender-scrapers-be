@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_APDCL_38084_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "26-Jul-2024 10:00 AM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_APDCL_38084_1",
+            "title": "Construction/Shifting of 11 KV Letekujan Feeder under Golaghat ESD-II",
+            "description": "Construction/Shifting of 11 KV Letekujan Feeder under Golaghat ESD-II",
+            "datePublished": "20-Jul-2024 03:00 PM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "26-Jul-2024 10:00 AM"
+                }
+            ]
+        }
+    ]
+}

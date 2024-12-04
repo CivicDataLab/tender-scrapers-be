@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_WPTBC_36807_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "07-Mar-2024 04:00 PM",
+    "tenderValueAmount": "57,21,000",
+    "tender": [
+        {
+            "id": "2024_WPTBC_36807_1",
+            "title": "Construction of Boundary Wall with Earth Filling and Cycle Stand at Bikali College Dhupdhara Goalpara",
+            "description": "Construction of Boundary Wall with Earth Filling and Cycle Stand at Bikali College Dhupdhara Goalpara",
+            "datePublished": "02-Mar-2024 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Limited",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "57,21,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "07-Mar-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

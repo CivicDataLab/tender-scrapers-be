@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_GMC_34973_3",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "23-Jan-2024 01:00 PM",
+    "tenderValueAmount": "2,58,07,000",
+    "tender": [
+        {
+            "id": "2023_GMC_34973_3",
+            "title": "Cleaning and Desilting of Basistha River from Balaji Mandir to Natun Bazar Bridge Under Division V",
+            "description": "Cleaning and Desilting of Basistha River from Balaji Mandir to Natun Bazar Bridge Under Division V",
+            "datePublished": "27-Dec-2023 02:00 PM",
+            "contractType": "Lump-sum",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "2,58,07,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "23-Jan-2024 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

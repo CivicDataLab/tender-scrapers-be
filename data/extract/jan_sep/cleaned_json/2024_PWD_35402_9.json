@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_9",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "3,21,08,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_9",
+            "title": "MMPPNA_23_24_172 1. Construction of road from Ruhita to Kemeri, 2. Construction of road from Dhanshiri Temera (Dessoi G.P) to Nikori PMGSY Road under Mukhya Mantrir Pakipath Nirman Achani for the year 2023-24",
+            "description": "MMPPNA_23_24_172 1. Construction of road from Ruhita to Kemeri, 2. Construction of road from Dhanshiri Temera (Dessoi G.P) to Nikori PMGSY Road under Mukhya Mantrir Pakipath Nirman Achani for the year 2023-24",
+            "datePublished": "11-Jan-2024 04:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "3,21,08,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

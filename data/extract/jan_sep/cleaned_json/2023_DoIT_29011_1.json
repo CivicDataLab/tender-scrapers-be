@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoIT_29011_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Feb-2023 11:30 AM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2023_DoIT_29011_1",
+            "title": "Supply Installation and Maintenance of Compute Solution at State Data Center",
+            "description": "Supply Installation and Maintenance of Compute Solution at State Data Center",
+            "datePublished": "25-Jan-2023 05:00 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Feb-2023 11:30 AM"
+                }
+            ]
+        }
+    ]
+}

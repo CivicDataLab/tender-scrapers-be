@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_29628_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2022-2023",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "28-Mar-2023 01:00 PM",
+    "tenderValueAmount": "95,35,962",
+    "tender": [
+        {
+            "id": "2023_BoTC_29628_1",
+            "title": "Construction of Fakiragram ( Jogdoi) Electric Lift Irrigation Scheme under SOPD ( G ) for the year 2022-23",
+            "description": "Construction of Fakiragram ( Jogdoi) Electric Lift Irrigation Scheme under SOPD ( G ) for the year 2022-23",
+            "datePublished": "01-Mar-2023 05:20 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "95,35,962",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "28-Mar-2023 01:00 PM"
+                }
+            ]
+        }
+    ]
+}

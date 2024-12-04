@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_NHM_31823_22",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "22-Aug-2023 03:30 PM",
+    "tenderValueAmount": "52,03,000",
+    "tender": [
+        {
+            "id": "2023_NHM_31823_22",
+            "title": "Construction of Buildingless Sub-Health Centres at various places of Assam under PM-ABHIM for FY 2022-23 48 nos.of Buildingless Sub-health Centres under NHM on Turnkey Basis. At BHATIRKUPA SC in Hailakandi District",
+            "description": "Construction of Buildingless Sub-Health Centres at various places of Assam under PM-ABHIM for FY 2022-23 48 nos.of Buildingless Sub-health Centres under NHM on Turnkey Basis. At BHATIRKUPA SC in Hailakandi District",
+            "datePublished": "31-Jul-2023 12:00 PM",
+            "contractType": "Turn-key",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "52,03,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "22-Aug-2023 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

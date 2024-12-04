@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_34957_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "16-Jan-2024 02:30 PM",
+    "tenderValueAmount": "23,71,520",
+    "tender": [
+        {
+            "id": "2023_BoTC_34957_1",
+            "title": "Const. of culvert at Baoti village near main Road",
+            "description": "Const. of culvert at Baoti village near main Road",
+            "datePublished": "25-Dec-2023 10:00 AM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "23,71,520",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "16-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

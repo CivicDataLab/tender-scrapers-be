@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_NHM_32372_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "11-Sep-2023 03:00 PM",
+    "tenderValueAmount": "33,32,408",
+    "tender": [
+        {
+            "id": "2023_NHM_32372_1",
+            "title": "Repairing Renovation of Laluk Model Hospital to be functionalized as FRU in Lakhimpur district",
+            "description": "Repairing Renovation of Laluk Model Hospital to be functionalized as FRU in Lakhimpur district",
+            "datePublished": "04-Sep-2023 09:00 AM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "33,32,408",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "11-Sep-2023 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

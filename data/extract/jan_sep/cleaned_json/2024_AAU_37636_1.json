@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_AAU_37636_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "09-Jul-2024 03:00 PM",
+    "tenderValueAmount": "37,65,906",
+    "tender": [
+        {
+            "id": "2024_AAU_37636_1",
+            "title": "Repairing and renovation of existing internal roads with Interlocking Concrete Block Pavement (ICBP) pathway at ICR farm at AAU, Jorhat",
+            "description": "Repairing and renovation of existing internal roads with Interlocking Concrete Block Pavement (ICBP) pathway at ICR farm at AAU, Jorhat",
+            "datePublished": "17-Jun-2024 09:00 AM",
+            "contractType": "Percentage",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "37,65,906",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Jul-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

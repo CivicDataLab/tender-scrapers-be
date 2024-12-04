@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_BoTC_35089_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "15-Jan-2024 03:30 PM",
+    "tenderValueAmount": "21,98,902",
+    "tender": [
+        {
+            "id": "2023_BoTC_35089_1",
+            "title": "Printing of 200 (two hundred) leaves General Diary, 2024",
+            "description": "Printing of 200 (two hundred) leaves General Diary, 2024",
+            "datePublished": "30-Dec-2023 03:00 PM",
+            "contractType": "Supply",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": "21,98,902",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "15-Jan-2024 03:30 PM"
+                }
+            ]
+        }
+    ]
+}

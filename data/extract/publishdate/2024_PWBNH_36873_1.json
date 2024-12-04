@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWBNH_36873_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "25-Mar-2024 04:00 PM",
+    "tenderValueAmount": "1,40,73,143",
+    "tender": [
+        {
+            "id": "2024_PWBNH_36873_1",
+            "title": "Jagannath Community and Skill Centre at Bhubandhar T.E. in Dholai LAC of Cachar District. Gr.VI",
+            "description": "Jagannath Community and Skill Centre at Bhubandhar T.E. in Dholai LAC of Cachar District. Gr.VI",
+            "datePublished": "04-Mar-2024 02:00 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,40,73,143",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "25-Mar-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

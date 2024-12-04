@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PWD_35402_61",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "30-Jan-2024 02:30 PM",
+    "tenderValueAmount": "1,20,00,000",
+    "tender": [
+        {
+            "id": "2024_PWD_35402_61",
+            "title": "MMPPNA_23_24_237 Construction of Road from Haritikar to Salimabad from Ch. 4400.00 m to 4780.00 m, Ch.6350.00 m to 6490.00 m, Ch. 6550.00 m to 6955.00 m and 7170.00 m to 7745.00 m under Mukhya Mantrir Pakipath Nirman Achani for the year 2023-24",
+            "description": "MMPPNA_23_24_237 Construction of Road from Haritikar to Salimabad from Ch. 4400.00 m to 4780.00 m, Ch.6350.00 m to 6490.00 m, Ch. 6550.00 m to 6955.00 m and 7170.00 m to 7745.00 m under Mukhya Mantrir Pakipath Nirman Achani for the year 2023-24",
+            "datePublished": "17-Jan-2024 12:55 PM",
+            "contractType": "Item Rate",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "1,20,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "30-Jan-2024 02:30 PM"
+                }
+            ]
+        }
+    ]
+}

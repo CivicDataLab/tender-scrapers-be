@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_HFWD_37536_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2024-2025",
+    "mainProcurementCategory": "Goods",
+    "bidOpeningDate": "21-Jun-2024 04:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_HFWD_37536_1",
+            "title": "Supply of Surgical Items under Paediatric Surgery Department of GMCH, Guwahati",
+            "description": "Supply of Surgical Items under Paediatric Surgery Department of GMCH, Guwahati",
+            "datePublished": "07-Jun-2024 02:00 PM",
+            "contractType": "Item Wise",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Goods",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "21-Jun-2024 04:00 PM"
+                }
+            ]
+        }
+    ]
+}

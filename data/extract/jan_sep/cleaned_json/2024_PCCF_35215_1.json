@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2024_PCCF_35215_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "27-Jan-2024 02:00 PM",
+    "tenderValueAmount": NaN,
+    "tender": [
+        {
+            "id": "2024_PCCF_35215_1",
+            "title": "Creation of 10 Ha Nursery under SOPD-SFG",
+            "description": "Creation of 10 Ha Nursery under SOPD-SFG",
+            "datePublished": "06-Jan-2024 05:20 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": NaN,
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "27-Jan-2024 02:00 PM"
+                }
+            ]
+        }
+    ]
+}

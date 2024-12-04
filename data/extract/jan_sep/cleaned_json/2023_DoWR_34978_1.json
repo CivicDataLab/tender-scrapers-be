@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_DoWR_34978_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Works",
+    "bidOpeningDate": "12-Jan-2024 03:00 PM",
+    "tenderValueAmount": "4,94,20,956",
+    "tender": [
+        {
+            "id": "2023_DoWR_34978_1",
+            "title": "Construction of T/Dyke on left bank of river Kollong from Dighaliati to Telahi including construction of sluice gates, PACKAGE 2",
+            "description": "Construction of T/Dyke on left bank of river Kollong from Dighaliati to Telahi including construction of sluice gates, PACKAGE 2",
+            "datePublished": "26-Dec-2023 06:35 PM",
+            "contractType": "Works",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Works",
+            "value": [
+                {
+                    "amount": "4,94,20,956",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "12-Jan-2024 03:00 PM"
+                }
+            ]
+        }
+    ]
+}

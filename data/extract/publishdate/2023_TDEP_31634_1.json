@@ -1,0 +1,31 @@
+{
+    "ocid": "ocds-f5kvwu-2023_TDEP_31634_1",
+    "id": 1,
+    "date": "2024-11-28",
+    "fiscalYear": "2023-2024",
+    "mainProcurementCategory": "Services",
+    "bidOpeningDate": "09-Aug-2023 04:00 PM",
+    "tenderValueAmount": "40,00,000",
+    "tender": [
+        {
+            "id": "2023_TDEP_31634_1",
+            "title": "Appointment of consultant for Design, Development, Implementation, Training, Maintenance and Support of Real Time Social Safeguard Monitoring and Evaluation System cum Land Acquisition, Rehabilitation and Resettlement Compliance Portal cum Labour Law",
+            "description": "Appointment of consultant for Design, Development, Implementation, Training, Maintenance and Support of Real Time Social Safeguard Monitoring and Evaluation System cum Land Acquisition, Rehabilitation and Resettlement Compliance Portal cum Labour Law",
+            "datePublished": "12-Jul-2023 02:00 PM",
+            "contractType": "Lump-sum",
+            "procurementMethod": "Open Tender",
+            "mainProcuremenCategory": "Services",
+            "value": [
+                {
+                    "amount": "40,00,000",
+                    "currency": "INR"
+                }
+            ],
+            "bidOpeing": [
+                {
+                    "date": "09-Aug-2023 04:00 PM"
+                }
+            ]
+        }
+    ]
+}
