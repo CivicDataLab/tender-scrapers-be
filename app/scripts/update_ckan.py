@@ -16,6 +16,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+
 # Constants
 APIKEY = "2ef8ee32-6bed-4246-aaef-d4e22cce9cce"
 CKAN_URL = 'http://15.207.1.169/'
@@ -95,8 +96,8 @@ class DatasetUpdater:
                 'tender_bid_opening_date': str(self.convert_date(pkg_dict['bidOpeningDate'])),
                 'tender_mainprocurementcategory': pkg_dict['mainProcurementCategory'],
                 'tender_value_amount': tender_value,
-                # 'fiscal_year': str(pkg_dict['fiscalYear']),
-                'fiscal_year': "2023-2024",
+                'fiscal_year': str(pkg_dict['fiscalYear']),
+                # 'fiscal_year': "2023-2024",
                 # Additional tender details
                 'tender_title': tender_details.get('title', ''),
                 'tender_description': tender_details.get('description', ''),
@@ -152,7 +153,7 @@ def main():
         json_directory = r"/home/prajna/civicdatalab/ocds-ckan/data/test"
 
         # Optional: If you need to unzip first
-        # zip_path = r"/home/prajna/civicdatalab/ocds-ckan/data/json_data/cleaned_json_jan-sep2024.zip"
+        # zip_path = r"/home/prajna/civicdatalab/ocds-ckan/data/json_data/Raw_json.zip"
         # updater.unzip_file(zip_path, json_directory)
 
         # Process all JSON files

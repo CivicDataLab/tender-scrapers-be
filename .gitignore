@@ -2,3 +2,5 @@ ocds-ckan/*
 env/
 venv/
 .env
+
+data/

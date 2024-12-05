@@ -23,23 +23,50 @@ A FastAPI application that provides a REST API interface for CKAN dataset manage
 git@github.com:Prajna1999/ocds-ckan.git
 cd ocds-ckan
 ```
+2. To update the any field from the JSON file into CKAN. Change below code
 
-2. Create and activate a virtual environment:
+```bash
+
+def main():
+    try:
+        ckan_client = CKANClient()
+        # update the json direcctory path name that contains OCDS formatted tenders
+        json_directory = r"/home/prajna/civicdatalab/ocds-ckan/data/test"
+
+        ckan_client.process_directory(json_directory)
+
+    except Exception as e:
+        logger.error(f"Main process error: {str(e)}")
+        sys.exit(1)
+
+
+```
+  
+ 3. Run in the terminal
+ ```bash
+
+    python3 run_ckan.py
+
+  ```
+
+4. Create and activate a virtual environment:
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: .\venv\Scripts\activate
 ```
 
-3. Install dependencies:
+5. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Create a `.env` file in the project root:
+6. Create a `.env` file in the project root:
 ```env
 CKAN_URL=http://your-ckan-instance/
 CKAN_API_KEY=your-api-key
 ```
+
+# Ignore below lines for now
 
 ## Running the Application
 
