@@ -76,23 +76,24 @@ class CKANClient:
         try:
 
          # Create package update data
+
             package_data = {
                 'id': str(self.sanitize_package_name(pkg_dict['ocid'])),
                 'ocid': pkg_dict['ocid'],
                 'data_id_': pkg_dict['id'],
                 'date': str(pkg_dict['date']),
                 'initiation_type': 'tender',
-                'tender_bid_opening_date': str(self.convert_date(pkg_dict['bidOpeningDate'])),
-                'tender_mainprocurementcategory': pkg_dict['mainProcurementCategory'],
-                'tender_value_amount': tender_value,
-                'fiscal_year': str(pkg_dict['fiscalYear']),
-                # 'fiscal_year': "2023-2024",
+                'bidOpeningDate': str(self.convert_date(pkg_dict['bidOpeningDate'])),
+                'mainProcurementCategory': pkg_dict['mainProcurementCategory'],
+                'tenderValueAmount': tender_value,
+                'fiscalYear': str(pkg_dict['fiscalYear']),
+                # 'fiscal_year': "2022-2024",
                 # Additional tender details
-                'tender_title': tender_details.get('title', ''),
-                'tender_description': tender_details.get('description', ''),
-                'tender_procurement_method': tender_details.get('procurementMethod', ''),
-                'tender_contract_type': tender_details.get('contractType', ''),
-                'tender_date_published': str(self.convert_date(tender_details.get('datePublished', ''))) if tender_details.get('datePublished') else ''
+                'title': tender_details.get('title', ''),
+                'description': tender_details.get('description', ''),
+                'procurementMethod': tender_details.get('procurementMethod', ''),
+                'contractType': tender_details.get('contractType', ''),
+                'datePublished': str(self.convert_date(tender_details.get('datePublished', ''))) if tender_details.get('datePublished') else ''
             }
             self.client.action.package_update(**package_data)
             logger.info(f"Successfully updated package: {pkg_dict}")
@@ -140,7 +141,7 @@ class CKANClient:
 def main():
     try:
         ckan_client = CKANClient()
-        json_directory = r"/home/prajna/civicdatalab/ocds-ckan/data/test"
+        json_directory = r"/home/prajna/civicdatalab/ocds-ckan/data/extract/publishdate"
         ckan_client.process_directory(json_directory)
 
     except Exception as e:
