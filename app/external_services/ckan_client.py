@@ -141,7 +141,6 @@ def main():
     try:
         ckan_client = CKANClient()
         json_directory = r"/home/prajna/civicdatalab/ocds-ckan/data/test"
-
         ckan_client.process_directory(json_directory)
 
     except Exception as e:
