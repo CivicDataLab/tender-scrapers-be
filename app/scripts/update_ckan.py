@@ -94,9 +94,9 @@ class DatasetUpdater:
                 'date': str(pkg_dict['date']),
                 'initiation_type': 'tender',
                 'bidOpeningDate': str(self.convert_date(pkg_dict['bidOpeningDate'])),
-                'mainProcurementCategory': pkg_dict['mainProcurementCategory'],
+                'mainProcurementCategory': tender_details['mainProcurementCategory'],
                 'tenderValueAmount': tender_value,
-                'fiscalYear': str(pkg_dict['fiscalYear']),
+                'fiscalYear': str(tender_details['fiscalYear']),
                 # 'fiscal_year': "2022-2024",
                 # Additional tender details
                 'title': tender_details.get('title', ''),
