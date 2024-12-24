@@ -1,6 +1,6 @@
 ocds-ckan/*
 env/
-venv/
+venv/*
 .env
 
 data/
