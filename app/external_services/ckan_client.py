@@ -4,7 +4,7 @@ import sys
 import os
 import json
 from datetime import datetime
-from app.config import settings
+import app.config
 
 # Configure logging
 logging.basicConfig(
@@ -17,7 +17,7 @@ logger = logging.getLogger(__name__)
 class CKANClient:
     def __init__(self) -> None:
         self.client = ckanapi.RemoteCKAN(
-            settings.CKAN_URL, apikey=settings.CKAN_API_KEY)
+            app.config.settings.CKAN_URL, apikey=app.config.settings.CKAN_API_KEY)
 
     @staticmethod
     def sanitize_package_name(name: str) -> str:
@@ -149,7 +149,7 @@ class CKANClient:
 def main():
     try:
         ckan_client = CKANClient()
-        json_directory = r"/home/prajna/civicdatalab/ocds-ckan/data/extract/New folder"
+        json_directory = r""
         ckan_client.process_directory(json_directory)
 
     except Exception as e:
