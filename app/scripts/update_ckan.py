@@ -18,7 +18,15 @@ logger = logging.getLogger(__name__)
 
 
 # Constants
-APIKEY = "2ef8ee32-6bed-4246-aaef-d4e22cce9cce"
+from dotenv import load_dotenv
+
+load_dotenv()
+
+
+APIKEY = os.getenv("APIKEY")
+if not APIKEY:
+    raise ValueError("APIKEY not found in environment variables")
+
 CKAN_URL = 'http://15.207.1.169/'
 MAX_PACKAGE_NAME_LENGTH = 100
 
@@ -43,7 +51,7 @@ class DatasetUpdater:
         """Convert date string to required format."""
         try:
             date_obj = datetime.strptime(date_str, "%d-%b-%Y %I:%M %p")
-            return date_obj.strftime("%Y-%d-%m %H:%M")
+            return date_obj.strftime("%Y-%m-%d %H:%M")
         except ValueError as e:
             logger.warning(f"Could not parse date {date_str}: {str(e)}")
             return date_str
@@ -150,7 +158,7 @@ def main():
         updater = DatasetUpdater()
 
         # Define paths
-        json_directory = r"/home/prajna/civicdatalab/ocds-ckan/data/test"
+        json_directory = r"\home\aakash\cdl\oci\tender-scrapers-be\data\extract\assam_tenders_2024_010"
 
         # Optional: If you need to unzip first
         # zip_path = r"/home/prajna/civicdatalab/ocds-ckan/data/json_data/Raw_json.zip"
@@ -166,3 +174,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+

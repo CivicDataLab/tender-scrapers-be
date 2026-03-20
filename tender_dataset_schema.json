@@ -1,0 +1,636 @@
+{
+    "scheming_version": 2,
+    "dataset_type": "tender_dataset",
+    "about": "A reimplementation of the default CKAN dataset schema",
+    "about_url": "http://github.com/ckan/ckanext-scheming",
+    "dataset_fields": [
+        {
+            "field_name": "ocid",
+            "label": "ocid"
+        },
+        {
+            "field_name": "id_",
+            "label": "id_"
+        },
+        {
+            "field_name": "date",
+            "label": "date"
+        },
+        {
+            "field_name": "tenderStatus",
+            "label": "tenderStatus"
+        },
+        {
+            "field_name": "tag",
+            "label": "tag"
+        },
+        {
+            "field_name": "initiationType",
+            "label": "initiationType"
+        },
+        {
+            "field_name": "fiscalYear",
+            "label": "fiscalYear"
+        },
+        {
+            "field_name": "mainProcurementCategory",
+            "label": "mainProcurementCategory"
+        },
+        {
+            "field_name": "bidOpeningDate",
+            "label": "bidOpeningDate"
+        },
+        {
+            "field_name": "tenderValueAmount",
+            "label": "tenderValueAmount"
+        },
+        {
+            "field_name": "parties",
+            "label": "parties",
+            "repeating_label": "parties",
+            "repeating_subfields": [
+                {
+                    "field_name": "id",
+                    "label": "id"
+                },
+                {
+                    "field_name": "name",
+                    "label": "name"
+                },
+                {
+                    "field_name": "address",
+                    "label": "address",
+                    "repeating_label": "address",
+                    "repeating_subfields": [
+                        {
+                            "field_name": "streetAddress",
+                            "label": "streetAddress"
+                        }
+                    ]
+                },
+                {
+                    "field_name": "roles",
+                    "label": "roles"
+                }
+            ]
+        },
+        {
+            "field_name": "buyer",
+            "label": "buyer",
+            "repeating_label": "buyer",
+            "repeating_subfields": [
+                {
+                    "field_name": "id",
+                    "label": "id"
+                },
+                {
+                    "field_name": "name",
+                    "label": "name"
+                }
+            ]
+        },
+        {
+            "field_name": "tender",
+            "label": "tender",
+            "repeating_label": "tender",
+            "repeating_subfields": [
+                {
+                    "field_name": "id",
+                    "label": "id"
+                },
+                {
+                    "field_name": "identifiers",
+                    "label": "identifiers",
+                    "repeating_label": "identifiers",
+                    "repeating_subfields": [
+                        {
+                            "field_name": "id",
+                            "lable": "id"
+                        },
+                        {
+                            "field_name": "schema",
+                            "label": "schema"
+                        }
+                    ]
+                },
+                {
+                    "field_name": "fiscalYear",
+                    "label": "fiscalYear"
+                },
+                {
+                    "field_name": "title",
+                    "label": "title"
+                },
+                {
+                    "field_name": "description",
+                    "label": "description"
+                },
+                {
+                    "field_name": "datePublished",
+                    "label": "datePublished"
+                },
+                {
+                    "field_name": "contractType",
+                    "label": "contractType"
+                },
+                {
+                    "field_name": "submissionTerms",
+                    "label": "submissionTerms",
+                    "repeating_label": "submissionTerms",
+                    "repeating_subfields": [
+                        {
+                            "field_name": "allowPreferentialBidder",
+                            "label": "allowPreferentialBidder"
+                        },
+                        {
+                            "field_name": "allowMultiCurrencyFee",
+                            "label": "allowMultiCurrencyFee"
+                        },
+                        {
+                            "field_name": "allowMultiCurrencyBQQ",
+                            "label": "allowMultiCurrencyBQQ"
+                        },
+                        {
+                            "field_name": "bidValidityPeriod",
+                            "label": "bidValidityPeriod",
+                            "repeating_label": "bidValidityPeriod",
+                            "repeating_subfields": [
+                                {
+                                    "field_name": "durationInDays",
+                                    "label": "durationInDays"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "field_name": "procuringEntity",
+                    "label": "procuringEntity",
+                    "repeating_label": "procuringEntity",
+                    "repeating_subfields": [
+                        {
+                            "field_name": "id",
+                            "label": "id"
+                        },
+                        {
+                            "field_name": "name",
+                            "label": "name"
+                        }
+                    ]
+                },
+                {
+                    "field_name": "items",
+                    "label": "items",
+                    "repeating_label": "items",
+                    "repeating_subfields": [
+                        {
+                            "field_name": "id",
+                            "label": "id"
+                        },
+                        {
+                            "field_name": "classification",
+                            "label": "classification",
+                            "repeating_label": "classification",
+                            "repeating_subfields": [
+                                {
+                                    "field_name": "description",
+                                    "label": "description"
+                                }
+                            ]
+                        },
+                        {
+                            "field_name": "additionalClassifications",
+                            "label": "additionalClassifications",
+                            "repeating_label": "additionalClassifications",
+                            "repeating_subfields": [
+                                {
+                                    "field_name": "description",
+                                    "label": "description"
+                                }
+                            ]
+                        },
+                        {
+                            "field_name": "deliveryAddresses",
+                            "label": "deliveryAddresses",
+                            "repeating_label": "deliveryAddresses",
+                            "repeating_subfields": [
+                                {
+                                    "field_name": "postalCode",
+                                    "label": "postalCode"
+                                },
+                                {
+                                    "field_name": "streetAddress",
+                                    "label": "streetAddress"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "field_name": "value",
+                    "label": "value",
+                    "repeating_label": "value",
+                    "repeating_subfields": [
+                        {
+                            "field_name": "amount",
+                            "label": "amount"
+                        },
+                        {
+                            "field_name": "currency",
+                            "label": "currency"
+                        }
+                    ]
+                },
+                {
+                    "field_name": "procurementMethod",
+                    "label": "procurementMethod"
+                },
+                {
+                    "field_name": "mainProcurementCategory",
+                    "label": "mainProcurementCategory"
+                },
+                {
+                    "field_name": "tenderPeriod",
+                    "label": "tenderPeriod",
+                    "repeating_label": "tenderPeriod",
+                    "repeating_subfields": [
+                        {
+                            "field_name": "startDate",
+                            "label": "startDate"
+                        },
+                        {
+                            "field_name": "endDate",
+                            "label": "endDate"
+                        },
+                        {
+                            "field_name": "durationInDays",
+                            "label": "durationInDays"
+                        }
+                    ]
+                },
+                {
+                    "field_name": "enquiryPeriod",
+                    "label": "enquiryPeriod",
+                    "repeating_label": "enquiryPeriod",
+                    "repeating_subfields": [
+                        {
+                            "field_name": "startDate",
+                            "label": "startDate"
+                        },
+                        {
+                            "field_name": "endDate",
+                            "label": "endDate"
+                        },
+                        {
+                            "field_name": "durationInDays",
+                            "label": "durationInDays"
+                        }
+                    ]
+                },
+                {
+                    "field_name": "contractPeriod",
+                    "label": "contractPeriod",
+                    "repeating_label": "contractPeriod",
+                    "repeating_subfields": [
+                        {
+                            "field_name": "durationInDays",
+                            "label": "durationInDays"
+                        }
+                    ]
+                },
+                {
+                    "field_name": "communication",
+                    "label": "communication",
+                    "repeating_label": "communication",
+                    "repeating_subfields": [
+                        {
+                            "field_name": "id",
+                            "label": "id"
+                        },
+                        {
+                            "field_name": "documentAvailabilityPeriod",
+                            "label": "documentAvailabilityPeriod",
+                            "repeating_label": "documentAvailabilityPeriod",
+                            "repeating_subfields": [
+                                {
+                                    "field_name": "startDate",
+                                    "label": "startDate"
+                                },
+                                {
+                                    "field_name": "endDate",
+                                    "label": "endDate"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "field_name": "bidOpening",
+                    "label": "bidOpening",
+                    "repeating_label": "bidOpening",
+                    "repeating_subfields": [
+                        {
+                            "field_name": "date",
+                            "label": "date"
+                        },
+                        {
+                            "field_name": "address",
+                            "label": "address",
+                            "repeating_label": "address",
+                            "repeating_subfields": [
+                                {
+                                    "field_name": "streetAddress",
+                                    "label": "streetAddress"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "field_name": "participationFees",
+                    "label": "participationFees",
+                    "repeating_label": "participationFees",
+                    "repeating_subfields": [
+                        {
+                            "field_name": "id",
+                            "label": "id"
+                        },
+                        {
+                            "field_name": "value",
+                            "label": "value",
+                            "repeating_label": "value",
+                            "repeating_subfields": [
+                                {
+                                    "field_name": "amount",
+                                    "label": "amount"
+                                },
+                                {
+                                    "field_name": "currency",
+                                    "label": "currency"
+                                }
+                            ]
+                        },
+                        {
+                            "field_name": "description",
+                            "label": "description"
+                        }
+                    ]
+                },
+                {
+                    "field_name": "numberOfTenderers",
+                    "label": "numberOfTenderers"
+                },
+                {
+                    "field_name": "milestones",
+                    "label": "milestones",
+                    "repeating_label": "milestones",
+                    "repeating_subfields": [
+                        {
+                            "field_name": "id",
+                            "label": "id"
+                        },
+                        {
+                            "field_name": "title",
+                            "label": "title"
+                        },
+                        {
+                            "field_name": "type",
+                            "label": "type"
+                        },
+                        {
+                            "field_name": "dueDate",
+                            "label": "dueDate"
+                        }
+                    ]
+                },
+                {
+                    "field_name": "amendments",
+                    "label": "amendments",
+                    "repeating_label": "amendments",
+                    "repeating_subfields": [
+                        {
+                            "field_name": "date",
+                            "label": "date"
+                        },
+                        {
+                            "field_name": "rationale",
+                            "label": "rationale"
+                        },
+                        {
+                            "field_name": "description",
+                            "label": "description"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "field_name": "bids",
+            "label": "bids",
+            "repeating_label": "bids",
+            "repeating_subfields": [
+                {
+                    "field_name": "id",
+                    "label": "id"
+                },
+                {
+                    "field_name": "details",
+                    "label": "details",
+                    "repeating_label": "details",
+                    "repeating_subfields": [
+                        {
+                            "field_name": "id",
+                            "label": "id"
+                        },
+                        {
+                            "field_name": "date",
+                            "label": "date"
+                        },
+                        {
+                            "field_name": "status",
+                            "label": "status"
+                        },
+                        {
+                            "field_name": "value",
+                            "label": "value",
+                            "repeating_label": "value",
+                            "repeating_subfields": [
+                                {
+                                    "field_name": "amount",
+                                    "label": "amount"
+                                }
+                            ]
+                        },
+                        {
+                            "field_name": "tenderers",
+                            "label": "tenderers",
+                            "repeating_label": "tenderers",
+                            "repeating_subfields": [
+                                {
+                                    "field_name": "id",
+                                    "label": "id"
+                                },
+                                {
+                                    "field_name": "name",
+                                    "label": "name"
+                                }
+                            ]
+                        },
+                        {
+                            "field_name": "rank",
+                            "label": "rank"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "field_name": "awards",
+            "label": "awards",
+            "repeating_label": "awards",
+            "repeating_subfields": [
+                {
+                    "field_name": "id",
+                    "label": "id"
+                },
+                {
+                    "field_name": "description",
+                    "label": "description"
+                },
+                {
+                    "field_name": "value",
+                    "label": "value",
+                    "repeating_label": "value",
+                    "repeating_subfields": [
+                        {
+                            "field_name": "amount",
+                            "label": "amount"
+                        },
+                        {
+                            "field_name": "currency",
+                            "label": "currency"
+                        }
+                    ]
+                },
+                {
+                    "field_name": "suppliers",
+                    "label": "suppliers",
+                    "repeating_label": "suppliers",
+                    "repeating_subfields": [
+                        {
+                            "field_name": "id",
+                            "label": "id"
+                        },
+                        {
+                            "field_name": "name",
+                            "label": "name"
+                        }
+                    ]
+                },
+                {
+                    "field_name": "contractPeriod",
+                    "label": "contractPeriod",
+                    "repeating_label": "contractPeriod",
+                    "repeating_subfields": [
+                        {
+                            "field_name": "startDate",
+                            "label": "startDate"
+                        },
+                        {
+                            "field_name": "durationInDays",
+                            "label": "durationInDays"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "field_name": "statistics",
+            "label": "statistics",
+            "repeating_label": "statistics",
+            "repeating_subfields": [
+                {
+                    "field_name": "id",
+                    "label": "id"
+                },
+                {
+                    "field_name": "value",
+                    "label": "value"
+                },
+                {
+                    "field_name": "currency",
+                    "label": "currency"
+                },
+                {
+                    "field_name": "measure",
+                    "label": "measure"
+                }
+            ]
+        }
+    ],
+    "resource_fields": [
+        {
+            "validators": "ignore_missing unicode remove_whitespace",
+            "form_snippet": "upload.html",
+            "form_placeholder": "http://example.com/my-data.csv",
+            "upload_field": "upload",
+            "upload_clear": "clear_upload",
+            "upload_label": "File",
+            "field_name": "url",
+            "label": "URL",
+            "preset": "resource_url_upload"
+        },
+        {
+            "field_name": "name",
+            "label": "Name",
+            "form_placeholder": "eg. January 2011 Gold Prices"
+        },
+        {
+            "field_name": "description",
+            "label": "Description",
+            "form_snippet": "markdown.html",
+            "form_placeholder": "Some useful notes about the data"
+        },
+        {
+            "validators": "if_empty_guess_format ignore_missing clean_format unicode",
+            "form_placeholder": "eg. CSV, XML or JSON",
+            "form_attrs": {
+                "data-module": "autocomplete",
+                "data-module-source": "/api/2/util/resource/format_autocomplete?incomplete=?"
+            },
+            "field_name": "format",
+            "label": "Format",
+            "preset": "resource_format_autocomplete"
+        },
+        {
+            "form_snippet": "select.html",
+            "display_snippet": "select.html",
+            "validators": "scheming_required scheming_choices",
+            "field_name": "res_type",
+            "label": "Resource Type",
+            "preset": "select",
+            "choices": [
+                {
+                    "value": "tender",
+                    "label": "Tender"
+                },
+                {
+                    "value": "analytics",
+                    "label": "Analytics"
+                },
+                {
+                    "value": "award",
+                    "label": "Award"
+                },
+                {
+                    "value": "docs",
+                    "label": "Docs"
+                },
+                {
+                    "value": "info",
+                    "label": "Info"
+                }
+            ]
+        }
+    ]
+}

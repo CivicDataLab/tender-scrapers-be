@@ -1,0 +1,348 @@
+{
+  "author": null,
+  "author_email": null,
+  "bidOpeningDate": "2024-01-03 13:30",
+  "creator_user_id": "1bb81fb9-6ad5-43f9-958b-3af62ed34a6f",
+  "date": "2024-11-27",
+  "fiscalYear": "2023-2024",
+  "id": "4f949709-6e1c-41af-91ac-a2e1220c6eb1",
+  "initiationType": "tender",
+  "isopen": false,
+  "license_id": null,
+  "license_title": null,
+  "mainProcurementCategory": "Item Rate",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2024-11-28T13:15:16.038596",
+  "metadata_modified": "2024-12-08T06:08:22.658932",
+  "name": "ocds-f5kvwu-2024_botc_36678_1",
+  "notes": null,
+  "num_resources": 0,
+  "num_tags": 0,
+  "ocid": "ocds-f5kvwu-2024_BoTC_36678_1",
+  "organization": {
+    "id": "b18f65c7-5245-4062-92bc-20c7ddb0c651",
+    "name": "bodoland_territorial_council",
+    "title": "Bodoland Territorial Council",
+    "type": "organization",
+    "description": "",
+    "image_url": "2022-01-10-113231.560568Bodoland-Territorial-Council-300x295.jpg",
+    "created": "2021-12-14T04:30:23.738917",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "b18f65c7-5245-4062-92bc-20c7ddb0c651",
+  "private": false,
+  "state": "active",
+  "title": "Set up of Wind Mill 1 (one) No. in the Tourism Spots under BTR area under SOPD for the year 2023-24.",
+  "type": "tender_dataset",
+  "url": null,
+  "version": null,
+  "awards": [
+    {
+      "description": "Set up of Wind Mill 1 (one) No. in the Tourism Spots under BTR area under SOPD for the year 2023-24",
+      "id": 1,
+      "contractPeriod": [
+        {
+          "durationInDays": 90,
+          "startDate": "2024-13-03"
+        }
+      ],
+      "suppliers": [
+        {
+          "id": "brindabandaimary",
+          "name": "BRINDABAN DAIMARY"
+        }
+      ],
+      "value": [
+        {
+          "amount": 2300000.0,
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "value": [
+        {
+          "amount": "2300000",
+          "currency": "INR"
+        }
+      ]
+    }
+  ],
+  "bids": [
+    {
+      "id": 1,
+      "details": [
+        {
+          "date": "2024-01-03 01:52",
+          "id": "228163.0",
+          "status": "Rejected-AOC",
+          "tenderers": [
+            {
+              "id": "gautambrahma",
+              "name": "Gautam Brahma"
+            }
+          ]
+        },
+        {
+          "date": "2024-01-03 02:20",
+          "id": "228260.0",
+          "status": "Not Admitted-Fee/PreQual/Technical",
+          "tenderers": [
+            {
+              "id": "msskenterprise",
+              "name": "M/S S.K ENTERPRISE"
+            }
+          ]
+        },
+        {
+          "date": "2024-01-03 02:30",
+          "id": "228159.0",
+          "status": "Accepted-AOC",
+          "tenderers": [
+            {
+              "id": "brindabandaimary",
+              "name": "BRINDABAN DAIMARY"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "buyer": [
+    {
+      "id": "bodolandterritorialcouncil",
+      "name": "Bodoland Territorial Council"
+    }
+  ],
+  "parties": [
+    {
+      "id": "bodolandterritorialcouncil",
+      "name": "Bodoland Territorial Council",
+      "roles": [
+        "buyer"
+      ]
+    },
+    {
+      "id": "brindabandaimary",
+      "name": "BRINDABAN DAIMARY",
+      "roles": [
+        "tenderer",
+        "supplier"
+      ]
+    },
+    {
+      "id": "gautambrahma",
+      "name": "Gautam Brahma",
+      "roles": [
+        "tenderer"
+      ]
+    },
+    {
+      "id": "msskenterprise",
+      "name": "M/S S.K ENTERPRISE",
+      "roles": [
+        "tenderer"
+      ]
+    },
+    {
+      "id": "directorpnrdbtckokrajhar",
+      "name": "Director PNRD BTC Kokrajhar",
+      "roles": [
+        "procuringEntity"
+      ],
+      "address": [
+        {
+          "streetAddress": "Director PNRD BTC Kokrajhar"
+        }
+      ]
+    }
+  ],
+  "statistics": [
+    {
+      "currency": "INR",
+      "id": "1",
+      "measure": "contractValue",
+      "value": 2300000.0
+    }
+  ],
+  "tender": [
+    {
+      "contractType": "Tender",
+      "datePublished": "2024-27-02 10:00",
+      "description": "DPRD/BTC/e-Tender/Bak-2023-24/2/24",
+      "fiscalYear": "2023-2024",
+      "id": "2024_BoTC_36678_1",
+      "mainProcurementCategory": "Item Rate",
+      "numberOfTenderers": 5,
+      "procurementMethod": "Open Tender",
+      "title": "Set up of Wind Mill 1 (one) No. in the Tourism Spots under BTR area under SOPD for the year 2023-24.",
+      "bidOpening": [
+        {
+          "date": "2024-01-03 13:30",
+          "address": [
+            {
+              "streetAddress": "Director PNRD BTC Kokrajhar"
+            }
+          ]
+        }
+      ],
+      "communication": [
+        {
+          "id": 1,
+          "documentAvailabilityPeriod": [
+            {
+              "endDate": "2024-01-03 13:00",
+              "startDate": "2024-27-02 10:00"
+            }
+          ]
+        }
+      ],
+      "contractPeriod": [
+        {
+          "durationInDays": 90
+        }
+      ],
+      "enquiryPeriod": [
+        {
+          "durationInDays": 3,
+          "endDate": "2024-01-03 12:00",
+          "startDate": "2024-27-02 10:00"
+        }
+      ],
+      "identifiers": [
+        {
+          "id": "DPRD/BTC/e-Tndr/Bak-23-24/2/24"
+        }
+      ],
+      "items": [
+        {
+          "id": "01",
+          "additionalClassifications": [
+            {
+              "description": "Work Item Details > Subcategory"
+            }
+          ],
+          "classification": [
+            {
+              "description": "Miscellaneous Goods"
+            }
+          ],
+          "deliveryAddresses": [
+            {
+              "postalCode": "783370.0",
+              "streetAddress": "BTR Area"
+            }
+          ]
+        }
+      ],
+      "milestones": [
+        {
+          "dueDate": "2024-27-02 10:00",
+          "id": "1",
+          "title": "Published Date",
+          "type": "Pre-procurement milestones"
+        },
+        {
+          "dueDate": "2024-27-02 10:00",
+          "id": "2",
+          "title": "Document Download / Sale Start Date",
+          "type": "Pre-procurement milestones"
+        },
+        {
+          "dueDate": "2024-27-02 10:00",
+          "id": "3",
+          "title": "Clarification Start Date",
+          "type": "Pre-procurement milestones"
+        },
+        {
+          "dueDate": "2024-27-02 10:00",
+          "id": "4",
+          "title": "Bid Submission Start Date",
+          "type": "Pre-procurement milestones"
+        },
+        {
+          "dueDate": "2024-01-03 13:30",
+          "id": "5",
+          "title": "Bid Opening Date",
+          "type": "Pre-procurement milestones"
+        },
+        {
+          "dueDate": "2024-01-03 13:00",
+          "id": "6",
+          "title": "Document Download / Sale End Date",
+          "type": "Pre-procurement milestones"
+        },
+        {
+          "dueDate": "2024-01-03 12:00",
+          "id": "7",
+          "title": "Clarification End Date",
+          "type": "Pre-procurement milestones"
+        },
+        {
+          "dueDate": "2024-01-03 13:00",
+          "id": "8",
+          "title": "Bid Submission End Date",
+          "type": "Pre-procurement milestones"
+        },
+        {
+          "dueDate": "2024-05-03 11:00",
+          "id": "9",
+          "title": "Financial Bid Opening Date",
+          "type": "Pre-procurement milestones"
+        }
+      ],
+      "participationFees": [
+        {
+          "description": "Nil",
+          "id": "01",
+          "value": [
+            {
+              "amount": 460.0,
+              "currency": "INR"
+            }
+          ]
+        }
+      ],
+      "procuringEntity": [
+        {
+          "id": "directorpnrdbtckokrajhar",
+          "name": "Director PNRD BTC Kokrajhar"
+        }
+      ],
+      "submissionTerms": [
+        {
+          "allowMultiCurrencyBQQ": "No",
+          "allowMultiCurrencyFee": "No",
+          "allowPreferentialBidder": "No",
+          "bidValidityPeriod": [
+            {
+              "durationInDays": 180
+            }
+          ]
+        }
+      ],
+      "tenderPeriod": [
+        {
+          "durationInDays": 3,
+          "endDate": "2024-01-03 13:00",
+          "startDate": "2024-27-02 10:00"
+        }
+      ],
+      "value": [
+        {
+          "amount": 2300000.0,
+          "currency": "INR"
+        }
+      ]
+    }
+  ],
+  "resources": [],
+  "tags": [],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}
